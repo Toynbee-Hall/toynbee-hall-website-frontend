@@ -1,0 +1,21 @@
+{
+  "slug": "senior-management-team",
+  "title": "Senior Management Team",
+  "intro": "The Senior Management Team leads Toynbee Hall’s work across the organisation.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Leadership",
+      "paragraphs": [
+        "Matt Dronfield, Interim Chief Executive; Elizabeth Stevenson, Head of Fundraising and Communications; David French, Director of Finance & Operations; Stephanie Ebohon, Head of People & Culture; and Katie Taylor, Director of Policy, Research and Communities."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Our people",
+      "paragraphs": [
+        "Our People Report 2026 shares diversity information and our EDI strategy."
+      ]
+    }
+  ]
+}

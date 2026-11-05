@@ -1,0 +1,28 @@
+{
+  "slug": "our-impact",
+  "title": "Our impact",
+  "intro": "Our 2024–25 impact report shares how Toynbee Hall works with people across East London and beyond to build a fairer future.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Advice",
+      "paragraphs": [
+        "Our advice services support people with debt and money worries, welfare benefits, legal issues and financial challenges connected to cancer. The report includes client experiences and service outcomes."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Community",
+      "paragraphs": [
+        "Our community programmes bring children, young people and older residents together through activities, outreach and community-led cultural events."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Read the report",
+      "paragraphs": [
+        "Explore the 2024–25 Impact Report and previous reports to learn more about our work and its impact."
+      ]
+    }
+  ]
+}

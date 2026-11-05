@@ -1,0 +1,28 @@
+{
+  "slug": "news-and-blogs",
+  "title": "News and blogs",
+  "intro": "Read the latest news, views and stories from Toynbee Hall and the communities we work alongside.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "What this Budget must deliver for a stronger social safety net",
+      "paragraphs": [
+        "Katie Taylor, Director of Policy, Research & Communities, considers how the Budget can strengthen the social safety net. Published 27 October 2026."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Toynbee Hall shortlisted for national technology award",
+      "paragraphs": [
+        "The nomination for Best Use of Technology at the UKCCF Awards 2026 recognises the development and deployment of Video Advice Kiosks."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Learning across borders on debt advice",
+      "paragraphs": [
+        "A recent visit to London explored what the UK and South Korea can learn from each other about supporting people in debt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "the-ashbee-hall",
+  "title": "The Ashbee Hall",
+  "intro": "A bright, versatile event space at Toynbee Hall for workshops, receptions, private dinners and community events.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "A flexible historic venue",
+      "paragraphs": [
+        "Ashbee Hall combines the character of Toynbee Hall’s Victorian building with contemporary facilities. Layouts and event support can be tailored to suit your plans."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Plan your event",
+      "paragraphs": [
+        "Catering and event production can be arranged. Call 020 7392 2920 or email events@toynbeehall.org.uk to discuss your requirements."
+      ]
+    }
+  ]
+}

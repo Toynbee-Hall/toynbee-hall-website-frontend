@@ -1,0 +1,21 @@
+{
+  "slug": "join-our-team",
+  "title": "Join our team",
+  "intro": "Work with Toynbee Hall to support people facing poverty and injustice and help build a fairer East London.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Work with purpose",
+      "paragraphs": [
+        "Our teams provide practical advice, run community programmes, carry out participatory research and work with partners to influence change."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Current opportunities",
+      "paragraphs": [
+        "See Toynbee Hall’s current vacancies and application details on the organisation’s recruitment pages. Recruitment opportunities change over time."
+      ]
+    }
+  ]
+}

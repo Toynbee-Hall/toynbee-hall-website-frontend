@@ -1,0 +1,21 @@
+{
+  "slug": "fundraise-for-us",
+  "title": "Fundraise for Toynbee Hall",
+  "intro": "Bring people together and raise funds to support Toynbee Hall’s work with East London communities.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Make it your own",
+      "paragraphs": [
+        "From personal challenges to workplace and community events, fundraising is a practical way to help sustain local advice and community programmes."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Get support",
+      "paragraphs": [
+        "Contact the fundraising team to discuss your idea and how to get started."
+      ]
+    }
+  ]
+}

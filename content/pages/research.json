@@ -1,0 +1,28 @@
+{
+  "slug": "research",
+  "title": "Research and policy",
+  "intro": "We work with people and communities to produce evidence, influence policy and campaign for a fairer society.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Our approach",
+      "paragraphs": [
+        "Our research is community-led and rooted in lived experience. We collaborate with people affected by the issues to shape questions, findings and action."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Current research",
+      "paragraphs": [
+        "Explore our work on Universal Credit and disability benefits, temporary accommodation, and emotional support for young people."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Take part",
+      "paragraphs": [
+        "We welcome people with lived experience, researchers and partners to help shape research that can lead to change."
+      ]
+    }
+  ]
+}

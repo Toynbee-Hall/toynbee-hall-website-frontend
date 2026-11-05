@@ -1,0 +1,28 @@
+{
+  "slug": "free-advice",
+  "title": "Help and Advice",
+  "intro": "Free, expert and confidential advice for people facing money worries, benefit issues, housing problems and employment concerns.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Debt and money",
+      "paragraphs": [
+        "Debt Free Advice is here to help with any money worries. Call 0800 808 5701, Monday to Friday, 10am–4pm, or request a callback."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Benefits",
+      "paragraphs": [
+        "We can help with benefit applications and help you maximise your income."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Housing and employment",
+      "paragraphs": [
+        "Our Free Legal Advice Centre may be able to help with housing issues and employment rights. Email advice@toynbeehall.org.uk with your name, address and a summary of your issue."
+      ]
+    }
+  ]
+}

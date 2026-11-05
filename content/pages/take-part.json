@@ -1,0 +1,21 @@
+{
+  "slug": "take-part",
+  "title": "Take part in our research",
+  "intro": "People with lived experience help shape Toynbee Hall’s research, from deciding what questions to ask through to sharing findings and recommendations.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Research shaped with communities",
+      "paragraphs": [
+        "Our participatory action research approach values community knowledge and supports peer researchers to lead research that can influence services and policy."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Get in touch",
+      "paragraphs": [
+        "Email research@toynbeehall.org.uk to ask about current opportunities to take part."
+      ]
+    }
+  ]
+}

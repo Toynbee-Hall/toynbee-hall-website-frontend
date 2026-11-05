@@ -1,0 +1,28 @@
+{
+  "slug": "about-us",
+  "title": "About us",
+  "intro": "Based in the East End of London since 1884, Toynbee Hall is a charity working alongside people facing poverty, injustice and inequality to build a fairer East London.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Our vision",
+      "paragraphs": [
+        "A fairer future with an end to poverty, injustice and inequality."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Our mission",
+      "paragraphs": [
+        "We address poverty and injustice through advice and support, influence systemic change, shift power to people and communities, and collaborate to build fairer systems."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Our values",
+      "paragraphs": [
+        "Inclusive, courageous and empowering. We are open-minded, act with integrity, share knowledge and enable people to take action for themselves."
+      ]
+    }
+  ]
+}

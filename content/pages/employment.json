@@ -1,0 +1,28 @@
+{
+  "slug": "employment",
+  "title": "Employment advice",
+  "intro": "Our Free Legal Advice Centre offers one-off advice on non-urgent employment matters through volunteer trainee solicitors supervised by Toynbee Hall staff and partner City law firms.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Issues we may be able to advise on",
+      "paragraphs": [
+        "Unfair dismissal, redundancy pay, workplace procedures, discrimination at work, trade union rights and whistleblowing. We cannot advise employers or Toynbee Hall employees, and cannot provide advocacy or representation."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Important time limits",
+      "paragraphs": [
+        "Employment Tribunal deadlines are often three months from the issue or the end of employment. Include key dates when you contact us. We cannot assist with urgent matters."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How to get help",
+      "paragraphs": [
+        "Email flac@toynbeehall.org.uk or call 0800 808 5701 (8am–8pm, seven days a week). The Customer Care Team will direct you to the Free Legal Advice Clinic. Appointments may be in person, online or by phone."
+      ]
+    }
+  ]
+}

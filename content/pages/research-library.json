@@ -1,0 +1,21 @@
+{
+  "slug": "research-library",
+  "title": "Research library",
+  "intro": "Explore Toynbee Hall’s community-led research, reports and learning on poverty, inequality and access to support.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Research shaped by lived experience",
+      "paragraphs": [
+        "Our participatory action research works with people directly affected by policy and services to identify issues, gather evidence and develop recommendations."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Browse and collaborate",
+      "paragraphs": [
+        "Our work spans income and employment, social and financial inclusion, housing and the environment, health, social care and community. Email research@toynbeehall.org.uk for research enquiries or collaboration."
+      ]
+    }
+  ]
+}

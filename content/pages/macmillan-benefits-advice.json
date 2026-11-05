@@ -1,0 +1,28 @@
+{
+  "slug": "macmillan-benefits-advice",
+  "title": "Macmillan Benefits Advice",
+  "intro": "Free, clear welfare benefits guidance for people diagnosed with cancer, helping you understand available support so you can focus on your recovery and wellbeing.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "What we can advise on",
+      "paragraphs": [
+        "Benefits and tax credits, charitable grants, healthcare and travel expenses, household budgeting, fuel costs and transport concessions. We may also help with debt, employment or housing questions, or refer you to specialist advisers."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Who can use the service",
+      "paragraphs": [
+        "We support residents of Tower Hamlets, Newham, Hackney and the City of London, as well as inpatients and outpatients at St Bartholomew’s, The Royal London, Homerton, Newham and Whipps Cross hospitals."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Contact the team",
+      "paragraphs": [
+        "Call 020 7392 2958 Monday to Thursday, 12:30pm–3:30pm, or email macmillan.advice@toynbeehall.org.uk. If you are receiving care at a partner hospital, ask a nurse or doctor for the Macmillan benefits team."
+      ]
+    }
+  ]
+}

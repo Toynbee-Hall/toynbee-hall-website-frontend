@@ -1,0 +1,151 @@
+{
+  "name": "Toynbee Hall",
+  "logoLines": [
+    "TOYNBEE",
+    "HALL"
+  ],
+  "strapline": "Working with communities in the East End since 1884",
+  "donateLabel": "Donate",
+  "footer": {
+    "summary": "Working with communities in the East End since 1884.",
+    "address": [
+      "28 Commercial Street",
+      "London, E1 6LS"
+    ],
+    "helpHeading": "How can we help you?",
+    "helpLinks": [
+      {
+        "label": "Advice",
+        "href": "/free-advice/"
+      },
+      {
+        "label": "Community Centre",
+        "href": "/community-centre/"
+      },
+      {
+        "label": "What’s on",
+        "href": "/whats-on/"
+      },
+      {
+        "label": "Research",
+        "href": "/research/"
+      },
+      {
+        "label": "Hall / Venue Hire",
+        "href": "/events/"
+      }
+    ],
+    "connectHeading": "Connect with us",
+    "connectLinks": [
+      {
+        "label": "Contact us",
+        "href": "/contact-us/"
+      },
+      {
+        "label": "Donate to us",
+        "href": "/donate/"
+      },
+      {
+        "label": "Fundraise for us",
+        "href": "/fundraise-for-us/"
+      },
+      {
+        "label": "News",
+        "href": "/news/"
+      },
+      {
+        "label": "Blogs",
+        "href": "/blogs/"
+      },
+      {
+        "label": "Join our team",
+        "href": "/join-our-team/"
+      }
+    ],
+    "calloutHeading": "Let’s make change happen.",
+    "calloutBody": "With your support, we can build a fairer future for everyone.",
+    "calloutLink": {
+      "label": "Support our work",
+      "href": "/donate/"
+    },
+    "charityNumber": "Registered charity number 211850",
+    "legalLinks": [
+      {
+        "label": "Privacy",
+        "href": "/privacy/"
+      },
+      {
+        "label": "Accessibility",
+        "href": "/accessibility/"
+      },
+      {
+        "label": "Cookies",
+        "href": "/cookies/"
+      },
+      {
+        "label": "Sitemap",
+        "href": "/sitemap/"
+      }
+    ],
+    "copyright": "© Toynbee Hall 2026"
+  },
+  "language": "en",
+  "metadata": {
+    "title": "Toynbee Hall | Working with communities in the East End since 1884",
+    "description": "Toynbee Hall works alongside people facing poverty and injustice to build a fairer and happier East London."
+  },
+  "shared": {
+    "skipLink": "Skip to content",
+    "searchLabel": "Search",
+    "menuLabel": "Open navigation",
+    "pageEyebrow": "Toynbee Hall · East London",
+    "exploreHeading": "Explore",
+    "exploreLinks": [
+      {
+        "label": "About us",
+        "href": "/about-us/"
+      },
+      {
+        "label": "Advice and support",
+        "href": "/free-advice/"
+      },
+      {
+        "label": "Community activities",
+        "href": "/whats-on/"
+      },
+      {
+        "label": "Research and policy",
+        "href": "/research/"
+      },
+      {
+        "label": "Venue hire",
+        "href": "/events/"
+      },
+      {
+        "label": "Support our work",
+        "href": "/support-us/"
+      }
+    ],
+    "pageCta": {
+      "label": "Get in touch",
+      "href": "/contact-us/"
+    },
+    "genericPageIntro": "Toynbee Hall works with local people and partners across East London to tackle poverty, injustice and inequality.",
+    "genericPageBlocks": [
+      {
+        "type": "richText",
+        "heading": "Our work",
+        "paragraphs": [
+          "We work alongside people and communities, combining practical support with action to build a fairer future."
+        ]
+      },
+      {
+        "type": "richText",
+        "heading": "Find out more",
+        "paragraphs": [
+          "Explore our work, get involved or contact the Toynbee Hall team to find out how we can help."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "our-history",
+  "title": "Our history",
+  "intro": "Toynbee Hall was founded in 1884 by Samuel and Henrietta Barnett to bring people together to understand poverty and develop practical responses to social injustice.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "A place for social reform",
+      "paragraphs": [
+        "The Barnetts created a place where volunteers could live and work in the East End, learning directly about poverty and carrying practical ideas into public life. Former residents included Clement Attlee and William Beveridge."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Continuing the work",
+      "paragraphs": [
+        "For more than 140 years, Toynbee Hall has helped shape social reform. Today we continue to identify emerging needs, develop responses and work with leaders and communities to make change."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Visit our heritage exhibition",
+      "paragraphs": [
+        "Toynbee Hall: A Powerhouse for Social Change is a free exhibition in our renovated building, open Monday to Friday, 11am–3pm. Groups of five or more should email events@toynbeehall.org.uk at least three working days ahead."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "event-catering",
+  "title": "Event catering",
+  "intro": "Catering options are available for meetings, conferences and celebrations at Toynbee Hall.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Food and refreshments",
+      "paragraphs": [
+        "The venue team can discuss tea and coffee, snacks, lunches, dinners and beverages to suit the style and schedule of your event."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Add catering to your booking",
+      "paragraphs": [
+        "Contact events@toynbeehall.org.uk or call 020 7392 2920 to discuss menus and requirements."
+      ]
+    }
+  ]
+}

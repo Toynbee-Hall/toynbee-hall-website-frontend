@@ -1,0 +1,174 @@
+[
+  {
+    "title": "About us",
+    "href": "/about-us/",
+    "links": [
+      {
+        "label": "Our strategy",
+        "href": "/our-strategy/"
+      },
+      {
+        "label": "How we work with local people",
+        "href": "/how-we-work-with-local-people/"
+      },
+      {
+        "label": "Our Community Centre",
+        "href": "/community-centre/"
+      },
+      {
+        "label": "News and Blogs",
+        "href": "/news-and-blogs/"
+      },
+      {
+        "label": "Our history",
+        "href": "/our-history/"
+      },
+      {
+        "label": "Our impact",
+        "href": "/our-impact/"
+      },
+      {
+        "label": "Our team",
+        "href": "/our-team/"
+      },
+      {
+        "label": "Join our team",
+        "href": "/join-our-team/"
+      },
+      {
+        "label": "Contact us",
+        "href": "/contact-us/"
+      }
+    ]
+  },
+  {
+    "title": "Advice Hub",
+    "href": "/free-advice/",
+    "links": [
+      {
+        "label": "Benefits",
+        "href": "/benefits/"
+      },
+      {
+        "label": "Debt and Money",
+        "href": "/debt-and-money/"
+      },
+      {
+        "label": "Housing",
+        "href": "/housing/"
+      },
+      {
+        "label": "Employment",
+        "href": "/employment/"
+      },
+      {
+        "label": "Macmillan Benefits Advice",
+        "href": "/macmillan-benefits-advice/"
+      },
+      {
+        "label": "City Advice",
+        "href": "/city-advice/"
+      }
+    ]
+  },
+  {
+    "title": "What’s on",
+    "href": "/whats-on/",
+    "links": [
+      {
+        "label": "Over 50s activities",
+        "href": "/over-50s-activities/"
+      },
+      {
+        "label": "Children’s activities",
+        "href": "/childrens-activities/"
+      },
+      {
+        "label": "Young people activities",
+        "href": "/young-people-activities/"
+      },
+      {
+        "label": "Public Art Projections",
+        "href": "/public-art-projections/"
+      }
+    ]
+  },
+  {
+    "title": "Research",
+    "href": "/research/",
+    "links": [
+      {
+        "label": "Our Approach",
+        "href": "/our-approach/"
+      },
+      {
+        "label": "Universal Credit disability benefits",
+        "href": "/coproducing-universal-credit-disability-benefits/"
+      },
+      {
+        "label": "Temporary accommodation",
+        "href": "/reshaping-temporary-accommodation/"
+      },
+      {
+        "label": "Emotional Support for Young People",
+        "href": "/emotional-support-for-young-people/"
+      },
+      {
+        "label": "Take Part",
+        "href": "/take-part/"
+      },
+      {
+        "label": "Research Library",
+        "href": "/research-library/"
+      }
+    ]
+  },
+  {
+    "title": "Support us",
+    "href": "/support-us/",
+    "links": [
+      {
+        "label": "Donate",
+        "href": "/donate/"
+      },
+      {
+        "label": "Corporate partnerships",
+        "href": "/corporate-partnerships/"
+      },
+      {
+        "label": "Fundraise for us",
+        "href": "/fundraise-for-us/"
+      },
+      {
+        "label": "Volunteer",
+        "href": "/volunteer/"
+      }
+    ]
+  },
+  {
+    "title": "Venue Hire",
+    "href": "/events/",
+    "links": [
+      {
+        "label": "The Lecture Hall",
+        "href": "/the-lecture-hall/"
+      },
+      {
+        "label": "The Ashbee Hall",
+        "href": "/the-ashbee-hall/"
+      },
+      {
+        "label": "The Meeting Rooms",
+        "href": "/the-meeting-rooms/"
+      },
+      {
+        "label": "Event Catering",
+        "href": "/event-catering/"
+      },
+      {
+        "label": "Events Blogs",
+        "href": "/events-blogs/"
+      }
+    ]
+  }
+]

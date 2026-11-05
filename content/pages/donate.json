@@ -1,0 +1,21 @@
+{
+  "slug": "donate",
+  "title": "Donate to Toynbee Hall",
+  "intro": "Your donation helps people access advice, support and community activities, and contributes to a fairer future for East London.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Your support matters",
+      "paragraphs": [
+        "Donations help Toynbee Hall work alongside people facing poverty and injustice. Choose a donation option through the charity’s secure giving service."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Other ways to help",
+      "paragraphs": [
+        "You can also fundraise, volunteer or explore a corporate partnership."
+      ]
+    }
+  ]
+}

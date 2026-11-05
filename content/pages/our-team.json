@@ -1,0 +1,21 @@
+{
+  "slug": "our-team",
+  "title": "Our team",
+  "intro": "Meet the people leading Toynbee Hall’s work across advice, research, fundraising and community programmes.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Senior Management Team",
+      "paragraphs": [
+        "Matt Dronfield, Interim Chief Executive; Elizabeth Stevenson, Head of Fundraising and Communications; David French, Director of Finance & Operations; Stephanie Ebohon, Head of People & Culture; and Katie Taylor, Director of Policy, Research and Communities."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "People and inclusion",
+      "paragraphs": [
+        "Our People Report 2026 shares our current diversity information and our EDI strategy, including where we want to make further progress."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "housing",
+  "title": "Housing advice",
+  "intro": "Toynbee Hall’s Free Legal Advice Centre provides one-off advice on non-urgent housing matters, delivered by volunteer trainee solicitors supervised by specialist staff.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Issues we may be able to advise on",
+      "paragraphs": [
+        "Social housing entitlements, private sector tenancy matters, service charges, non-urgent eviction queries, housing conditions and tenancy deposits. We do not advise homeowners or landlords."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "What to expect",
+      "paragraphs": [
+        "Appointments are for one-off advice. We cannot provide ongoing support, urgent responses, advocacy or representation. If your case is outside our expertise, we can point you to organisations that may be able to help."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "How to get help",
+      "paragraphs": [
+        "Email flac@toynbeehall.org.uk or call 0800 808 5701. The Customer Care Team is available 8am–8pm, seven days a week, and can direct you to the Free Legal Advice Clinic. Appointments may be in person, online or by phone."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Urgent housing problems",
+      "paragraphs": [
+        "We cannot assist with imminent homelessness, imminent eviction or a scheduled possession hearing. Please seek urgent specialist help for these situations."
+      ]
+    }
+  ]
+}

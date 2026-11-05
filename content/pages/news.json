@@ -1,0 +1,21 @@
+{
+  "slug": "news",
+  "title": "Latest news",
+  "intro": "Updates from Toynbee Hall, our advice services, research and community work.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Technology award shortlist",
+      "paragraphs": [
+        "Toynbee Hall has been shortlisted for Best Use of Technology at the UKCCF Awards 2026, recognising our Video Advice Kiosks."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Our latest updates",
+      "paragraphs": [
+        "Read about our work with local people, partners and communities across East London."
+      ]
+    }
+  ]
+}

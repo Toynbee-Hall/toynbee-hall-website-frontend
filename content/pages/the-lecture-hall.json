@@ -1,0 +1,28 @@
+{
+  "slug": "the-lecture-hall",
+  "title": "The Lecture Hall",
+  "intro": "A flexible, historic event space in Toynbee Hall’s Grade II listed building, suited to conferences, lectures and corporate events.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "The space",
+      "paragraphs": [
+        "The ground-floor hall is 111 square metres and accommodates approximately 40–100 people. It combines Victorian character, natural light and contemporary AV facilities."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Facilities",
+      "paragraphs": [
+        "Step-free access, reliable Wi-Fi, flexible seating layouts, tables and chairs are available. Catering, microphones, lecterns, screens, projectors and event production can be arranged."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Enquire",
+      "paragraphs": [
+        "Call 020 7392 2920 or email events@toynbeehall.org.uk to check availability and request a quote."
+      ]
+    }
+  ]
+}

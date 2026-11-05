@@ -1,0 +1,21 @@
+{
+  "slug": "our-strategy",
+  "title": "Our strategy",
+  "intro": "We work towards a fairer future with an end to poverty, injustice and inequality.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Our mission",
+      "paragraphs": [
+        "We address poverty and injustice through advice and support, influence systemic change, shift power to people and communities affected by injustice, and collaborate to build fairer systems."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Change starts close to home",
+      "paragraphs": [
+        "We want a thriving local community where people have the resources they need, their voices are heard and they can feel optimistic about the future. We also aim to be a fair, empowering employer and an effective partner."
+      ]
+    }
+  ]
+}

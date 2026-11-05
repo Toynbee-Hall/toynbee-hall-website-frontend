@@ -1,0 +1,28 @@
+{
+  "slug": "how-we-work-with-local-people",
+  "title": "How we work with local people",
+  "intro": "Local people are partners in shaping our work, sharing their expertise and helping create change.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Work together",
+      "paragraphs": [
+        "We listen to people affected by poverty and injustice and work alongside them to understand priorities and improve services."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Share power and influence",
+      "paragraphs": [
+        "We support people to build skills, take action and make their voices heard in decisions that affect their lives."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Build partnerships",
+      "paragraphs": [
+        "We collaborate with community organisations, public services, researchers and others to make lasting change."
+      ]
+    }
+  ]
+}

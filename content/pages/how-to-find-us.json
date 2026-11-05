@@ -1,0 +1,21 @@
+{
+  "slug": "how-to-find-us",
+  "title": "How to find us",
+  "intro": "Toynbee Hall is located in Spitalfields, East London, close to Aldgate East and Liverpool Street.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Address",
+      "paragraphs": [
+        "28 Commercial Street, London, E1 6LS."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Before your visit",
+      "paragraphs": [
+        "Opening times vary by service and activity. Please check the details of the service or event you are visiting before travelling. For venue hire enquiries, email events@toynbeehall.org.uk."
+      ]
+    }
+  ]
+}

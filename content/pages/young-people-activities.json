@@ -1,0 +1,21 @@
+{
+  "slug": "young-people-activities",
+  "title": "Activities for young people",
+  "intro": "Toynbee Hall works with young people and families in Tower Hamlets through community activities, wellbeing workshops and youth-led research.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Thriving Together",
+      "paragraphs": [
+        "This co-designed programme for young people aged 14–22 and their families builds community connections, provides practical mental health and financial wellbeing support, and creates safe spaces for communication and peer learning."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Get involved",
+      "paragraphs": [
+        "To find out about current activities or opportunities to take part, email research@toynbeehall.org.uk."
+      ]
+    }
+  ]
+}

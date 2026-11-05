@@ -1,0 +1,35 @@
+{
+  "slug": "public-art-projections",
+  "title": "Community-led public art projections",
+  "intro": "Mallon Gardens hosts a community art projection programme, sharing creative work selected or created by local people on a building opposite Toynbee Hall.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "An open call for local creatives",
+      "paragraphs": [
+        "Artists and local residents can submit or nominate visual art, photography, animation, GIFs and short films. Submissions must be without sound. There is no fee to exhibit, and the programme currently cannot pay or commission artists."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Who can take part",
+      "paragraphs": [
+        "You must live, work, study or have a community connection to Tower Hamlets. Priority is given to people based in Spitalfields, Banglatown and Whitechapel (E1)."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Technical details",
+      "paragraphs": [
+        "Images should be PNG at 1920 × 1080. Video should be H.264 or H.265, 2–5 minutes long, and may be looped for up to 15 minutes."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Submission guidelines",
+      "paragraphs": [
+        "Work must be suitable for a public audience and respect third-party copyright. The project does not accept offensive, discriminatory, violent, party-political or promotional material. Contact communications@toynbeehall.org.uk for help preparing a submission."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "childrens-activities",
+  "title": "Let us Play",
+  "intro": "A free outdoor play session for children and their families. Sessions take place outdoors in all weathers and everyone is welcome.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Why play matters",
+      "paragraphs": [
+        "Many local families live in flats with limited access to safe outdoor space. Our play programme gives children opportunities to play indoors and outdoors, connect with nature and support their development, while giving parents space to connect and learn about play."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Find out more",
+      "paragraphs": [
+        "For information about Play at Toynbee Hall, email rachel.davies@toynbeehall.org.uk. Check with the team for current session details."
+      ]
+    }
+  ]
+}

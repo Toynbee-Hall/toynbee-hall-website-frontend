@@ -1,0 +1,21 @@
+{
+  "slug": "reshaping-temporary-accommodation",
+  "title": "Reshaping temporary accommodation",
+  "intro": "Young disabled people in North-East London are leading research to improve temporary accommodation.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Building knowledge and solutions",
+      "paragraphs": [
+        "In partnership with Disability Rights UK and funded by Trust for London, the project works with young disabled people to build knowledge and power, and challenge an unjust housing system."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Get in touch",
+      "paragraphs": [
+        "For information about the research or working with Toynbee Hall, email research@toynbeehall.org.uk."
+      ]
+    }
+  ]
+}

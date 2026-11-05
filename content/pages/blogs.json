@@ -1,0 +1,21 @@
+{
+  "slug": "blogs",
+  "title": "Blogs and insight",
+  "intro": "Ideas and perspectives from Toynbee Hall’s teams, researchers and community partners.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "A stronger social safety net",
+      "paragraphs": [
+        "Katie Taylor, Director of Policy, Research & Communities, sets out what the Budget must deliver to support people and communities."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Debt advice in an international context",
+      "paragraphs": [
+        "What can the UK and South Korea learn from each other about helping people in debt? Read reflections from a recent exchange."
+      ]
+    }
+  ]
+}

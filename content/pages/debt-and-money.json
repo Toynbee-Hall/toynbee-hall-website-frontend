@@ -1,0 +1,28 @@
+{
+  "slug": "debt-and-money",
+  "title": "Debt Advice",
+  "intro": "Free, confidential debt and money advice you can trust. Our advisors are available in person or by phone, WhatsApp and video chat.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "We can help with",
+      "paragraphs": [
+        "Rent arrears, council tax, utility bills, credit cards and loans."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Choose how to talk",
+      "paragraphs": [
+        "Call the freephone helpline on 0800 808 5700, visit a Debt Free Advice hub, request a callback, use video advice or message us on WhatsApp."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Free and confidential",
+      "paragraphs": [
+        "Our advice is always free and confidential. Visit debtfreeadvice.com to find a local centre and further support."
+      ]
+    }
+  ]
+}

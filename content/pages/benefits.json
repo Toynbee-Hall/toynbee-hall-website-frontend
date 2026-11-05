@@ -1,0 +1,28 @@
+{
+  "slug": "benefits",
+  "title": "Help with benefit applications",
+  "intro": "We help Tower Hamlets residents navigate the benefits system and apply for support so they can maximise their income and receive their full entitlement.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Benefits we can help with",
+      "paragraphs": [
+        "Personal Independence Payment (PIP), Attendance Allowance, Disability Living Allowance for disabled children, Pension Credit, Council Tax Reduction, Carer’s Allowance and Universal Credit."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Who can use this service",
+      "paragraphs": [
+        "This service is for Tower Hamlets residents only."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Contact the advice team",
+      "paragraphs": [
+        "Call 0800 808 5701 or email advice@toynbeehall.org.uk. If you need help with something else, contact us and we will point you in the right direction."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "trustees",
+  "title": "Trustees",
+  "intro": "Toynbee Hall is governed by a Board of Trustees who provide oversight and help ensure the charity fulfils its purpose.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Governance",
+      "paragraphs": [
+        "Trustees bring experience and expertise to support Toynbee Hall’s mission, strategy and accountability. See the organisation’s current governance information for the latest trustee details."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Get in touch",
+      "paragraphs": [
+        "For governance enquiries, contact Toynbee Hall through the main contact page."
+      ]
+    }
+  ]
+}

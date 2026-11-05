@@ -1,0 +1,21 @@
+{
+  "slug": "our-commitment-to-our-supporters",
+  "title": "Our commitment to our supporters",
+  "intro": "We value the trust and generosity of everyone who supports Toynbee Hall.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "How we work with supporters",
+      "paragraphs": [
+        "We aim to communicate clearly, handle personal information responsibly and use support to advance our charitable work with people and communities."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Questions or feedback",
+      "paragraphs": [
+        "Contact Toynbee Hall if you have a question about supporting us or wish to share feedback."
+      ]
+    }
+  ]
+}

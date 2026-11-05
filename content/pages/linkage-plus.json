@@ -1,0 +1,28 @@
+{
+  "slug": "linkage-plus",
+  "title": "LinkAge Plus",
+  "intro": "A programme of classes, activities and workshops for people aged 50 and over who live in Tower Hamlets.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Activities and support",
+      "paragraphs": [
+        "Join gentle exercise, yoga, line dancing, tai chi, social activities, singing, arts and crafts, healthy living workshops, digital support and community celebrations. Most sessions are free or low-cost."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Five community hubs",
+      "paragraphs": [
+        "Activities are hosted at Toynbee Hall Community Centre, Sundial Centre, Age UK East London, Sonali Gardens and Neighbours in Poplar. Check the current timetable before visiting."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Toynbee Hall Community Centre",
+      "paragraphs": [
+        "28 Commercial Street, London E1 6LS. Call 0203 856 9721 or email linkageplus@toynbeehall.org.uk. Many activities are drop-in. Professionals can contact the team about referring someone."
+      ]
+    }
+  ]
+}

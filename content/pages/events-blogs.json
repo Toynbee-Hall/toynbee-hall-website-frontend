@@ -1,0 +1,21 @@
+{
+  "slug": "events-blogs",
+  "title": "Venue hire stories and ideas",
+  "intro": "Ideas, updates and stories from events at Toynbee Hall and our historic East London venue.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "A venue with purpose",
+      "paragraphs": [
+        "Every venue booking helps support Toynbee Hall’s charitable work, including free advice, youth programmes and community projects."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Plan an event",
+      "paragraphs": [
+        "Explore the Lecture Hall, Ashbee Hall and meeting rooms, or contact events@toynbeehall.org.uk to discuss your plans."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "the-meeting-rooms",
+  "title": "Meeting rooms",
+  "intro": "Light-filled meeting rooms at Toynbee Hall for training, interviews, board meetings and small group sessions.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Flexible spaces",
+      "paragraphs": [
+        "Choose from a range of room sizes and layouts for team meetings, workshops and away days. Rooms are available seven days a week."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Enquire",
+      "paragraphs": [
+        "Call 020 7392 2920 or email events@toynbeehall.org.uk to check availability and ask about facilities."
+      ]
+    }
+  ]
+}

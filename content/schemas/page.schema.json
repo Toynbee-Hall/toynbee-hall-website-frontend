@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://toynbeehall.org.uk/schemas/page.schema.json",
+  "title": "Toynbee Hall page content",
+  "type": "object",
+  "required": ["slug", "title", "intro", "blocks"],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "title": { "type": "string", "minLength": 1 },
+    "intro": { "type": "string" },
+    "blocks": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "required": ["type", "paragraphs"],
+            "properties": { "type": { "const": "richText" }, "heading": { "type": "string" }, "paragraphs": { "type": "array", "items": { "type": "string" }, "minItems": 1 } },
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "required": ["type", "items"],
+            "properties": { "type": { "const": "linkList" }, "heading": { "type": "string" }, "items": { "type": "array", "items": { "type": "object", "required": ["label", "href"], "properties": { "label": { "type": "string" }, "href": { "type": "string" }, "description": { "type": "string" } }, "additionalProperties": false } } },
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "required": ["type", "quote"],
+            "properties": { "type": { "const": "quote" }, "quote": { "type": "string" }, "attribution": { "type": "string" } },
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "required": ["type", "heading", "body"],
+            "properties": { "type": { "const": "callout" }, "heading": { "type": "string" }, "body": { "type": "string" }, "link": { "type": "object", "required": ["label", "href"], "properties": { "label": { "type": "string" }, "href": { "type": "string" } }, "additionalProperties": false } },
+            "additionalProperties": false
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "eyebrow": "East London · Since 1884",
+    "title": [
+      "Welcome to",
+      "Toynbee Hall"
+    ],
+    "body": "Working alongside people facing poverty and injustice to build a fairer and happier East London.",
+    "cta": {
+      "label": "I am looking for…",
+      "href": "#help"
+    },
+    "note": "A place for everyone to thrive.",
+    "image": "https://images.unsplash.com/photo-1518005020951-ecc8e9b2a6a2?auto=format&fit=crop&w=2000&q=85"
+  },
+  "servicesHeading": {
+    "eyebrow": "Here for our community",
+    "title": "Welcome to Toynbee Hall"
+  },
+  "services": [
+    {
+      "title": "Advice",
+      "copy": "Free, expert debt and legal advice and help with benefit applications",
+      "link": "Get help with advice",
+      "href": "/free-advice/",
+      "color": "#f4eadb"
+    },
+    {
+      "title": "Community activities",
+      "copy": "Free, inclusive community activities and events",
+      "link": "Explore what’s on",
+      "href": "/whats-on/",
+      "color": "#d5e9e3"
+    },
+    {
+      "title": "Research and policy",
+      "copy": "Community-led research and campaigns for change",
+      "link": "Discover our research",
+      "href": "/research/",
+      "color": "#f6d1b2"
+    },
+    {
+      "title": "Venue hire and office space",
+      "copy": "Use our historic buildings for your events",
+      "link": "Explore venue hire",
+      "href": "/events/",
+      "color": "#e4e1ee"
+    }
+  ],
+  "mission": {
+    "eyebrow": "Who we are",
+    "title": "Toynbee Hall works alongside people facing poverty and injustice to build a fairer and happier East London.",
+    "body": "Based in the East End of London since 1884, we are a charity that provides vital support and works in partnership with local communities to tackle unfairness and ensure everyone has an equal chance to thrive.",
+    "cta": {
+      "label": "More about us",
+      "href": "/about-us/"
+    }
+  },
+  "news": {
+    "eyebrow": "Ideas, action, impact",
+    "title": "Latest news and blogs",
+    "allLink": {
+      "label": "All news and blogs",
+      "href": "/news-and-blogs/"
+    },
+    "items": [
+      {
+        "category": "Policy · 27 October 2026",
+        "title": "What this Budget must deliver for a stronger social safety net",
+        "summary": "As the Chancellor prepares to deliver the Budget, this is an opportunity to set out what it must deliver for people and communities.",
+        "href": "/blogs/",
+        "image": "https://images.unsplash.com/photo-1529101091764-c3526faf38fe?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "category": "News",
+        "title": "Toynbee Hall shortlisted for national technology award for Video Advice Kiosks",
+        "summary": "The nomination recognises the development and deployment of our Video Advice Kiosks.",
+        "href": "/news/",
+        "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "category": "Stories",
+        "title": "What can the UK and South Korea learn from each other about helping people in debt?",
+        "summary": "A recent visit to London explored what the UK and South Korea can learn about supporting people in debt.",
+        "href": "/blogs/",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "readLabel": "Read more"
+  },
+  "venue": {
+    "eyebrow": "A historic East London setting",
+    "title": "Make your next event matter.",
+    "body": "Our Grade II listed building is available to hire for conferences, meetings, community events and celebrations. Event production and catering can help make your event memorable, and every booking supports Toynbee Hall’s charitable work.",
+    "cta": {
+      "label": "Discover our venue",
+      "href": "/events/"
+    },
+    "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=85"
+  },
+  "newsletter": {
+    "eyebrow": "Stay connected",
+    "title": [
+      "Good things happen",
+      "when we work together."
+    ],
+    "body": "Subscribe to our quarterly e-newsletter to stay up to date with our work.",
+    "emailLabel": "Your email address",
+    "placeholder": "you@example.com",
+    "button": "Subscribe",
+    "finePrint": "By subscribing you agree to receive our latest news, events and updates. You can unsubscribe at any time."
+  }
+}

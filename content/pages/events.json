@@ -1,0 +1,28 @@
+{
+  "slug": "events",
+  "title": "Venue Hire in the Heart of London",
+  "intro": "Host your event at Toynbee Hall, a historic and affordable East London venue minutes from Aldgate East and Liverpool Street.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "A distinctive setting",
+      "paragraphs": [
+        "Our restored Grade II listed halls and meeting rooms combine historic character with modern facilities, accessibility and catering options. Spaces suit conferences, business meetings, community events, training, celebrations, performances and weddings. Every booking supports Toynbee Hall’s charitable work."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Explore our spaces",
+      "paragraphs": [
+        "The Lecture Hall is suited to conferences, talks and corporate events, with AV and step-free access. Ashbee Hall works for workshops, receptions and dinners. Meeting rooms suit training, interviews and board meetings. The venue also offers smaller spaces including the Atrium."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Plan your event",
+      "paragraphs": [
+        "Contact the events team for availability and a quote: call 020 7392 2920 or email events@toynbeehall.org.uk. Toynbee Hall, 28 Commercial Street, London E1 6LS."
+      ]
+    }
+  ]
+}

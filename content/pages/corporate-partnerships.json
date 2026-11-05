@@ -1,0 +1,21 @@
+{
+  "slug": "corporate-partnerships",
+  "title": "Corporate partnerships",
+  "intro": "Partner with Toynbee Hall to support local communities and help tackle poverty, injustice and inequality.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Work together",
+      "paragraphs": [
+        "Partnerships can support advice services, community activities, research and opportunities for employees to contribute their skills."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Start a conversation",
+      "paragraphs": [
+        "Contact Toynbee Hall to discuss shared goals and a partnership that fits your organisation."
+      ]
+    }
+  ]
+}

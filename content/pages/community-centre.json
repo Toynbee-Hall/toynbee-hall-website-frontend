@@ -1,0 +1,21 @@
+{
+  "slug": "community-centre",
+  "title": "Our Community Centre",
+  "intro": "Toynbee Hall’s Community Centre is a welcoming place in the heart of East London, bringing local people together for support, activities and connection.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "A space for the community",
+      "paragraphs": [
+        "The centre hosts advice services, LinkAge Plus activities, workshops, community events and opportunities to meet and learn."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Find us",
+      "paragraphs": [
+        "28 Commercial Street, London, E1 6LS. Check the details of a particular service or activity before visiting."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "our-approach",
+  "title": "Our research approach",
+  "intro": "Toynbee Hall has worked since 1884 from the belief that policy should be shaped by understanding people’s lived experience of poverty.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Participatory action research",
+      "paragraphs": [
+        "Since 2017, we have developed a participatory action research approach. People are peer researchers and leaders of the work, shaping questions, gathering evidence and developing solutions. Our work is supported by around 90 trained peer researchers and more than 200 experts by experience."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Research that leads to action",
+      "paragraphs": [
+        "We work with communities to produce high-quality evidence and meaningful change, sharing lived experience with local and national decision-makers."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Our research areas",
+      "paragraphs": [
+        "Income and employment; social and financial inclusion; housing and the environment; health, social care and community."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Current projects",
+      "paragraphs": [
+        "Our 2026 projects include research on Universal Credit disability benefits, temporary accommodation for young disabled people, and emotional wellbeing activities for young people and families. Contact research@toynbeehall.org.uk to find out more."
+      ]
+    }
+  ]
+}

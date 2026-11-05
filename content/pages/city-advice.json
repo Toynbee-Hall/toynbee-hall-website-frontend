@@ -1,0 +1,28 @@
+{
+  "slug": "city-advice",
+  "title": "City Advice",
+  "intro": "Free advice for people who live in the City of London Square Mile or on a City of London Corporation estate.",
+  "blocks": [
+    {
+      "type": "richText",
+      "heading": "Check that you are eligible",
+      "paragraphs": [
+        "The service is for residents of the Square Mile or a City of London estate. Check the City of London Corporation’s estate list and the service map if you are unsure."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "What we can help with",
+      "paragraphs": [
+        "Benefits, housing, consumer rights, debt, employment rights and family issues."
+      ]
+    },
+    {
+      "type": "richText",
+      "heading": "Get advice",
+      "paragraphs": [
+        "Call 0800 808 5853 (8am–8pm, seven days a week), email city.advice@toynbeehall.org.uk or arrange a face-to-face appointment. Weekly drop-ins are held at Toynbee Hall on Thursdays, 10am–12pm, at 28 Commercial Street, London E1 6LS."
+      ]
+    }
+  ]
+}
