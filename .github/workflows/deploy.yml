@@ -20,7 +20,7 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}
           command_timeout: 15m
           script: |
-            cd /var/www/toynbee/toynbee-hall-next
+            cd /var/www/toynbee/toynbee-hall-website-frontend
             git fetch origin main
             git reset --hard origin/main
             docker compose build nextjs --no-cache
