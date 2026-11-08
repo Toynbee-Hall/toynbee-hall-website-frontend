@@ -190,7 +190,23 @@ Where relevant, blocks should use structured fields rather than custom markup:
 3. **Publishing and impact:** story/news cards, listing, statistics, download list, related content.
 4. **Conversion:** venue space/gallery, donation appeal, newsletter and enquiry forms.
 
-Existing `richText`, `linkList`, `quote` and `callout` blocks can remain as the initial foundation. The current component renderer and page schema should be extended incrementally as each pattern is implemented.
+### Implemented block types
+
+| Block `type` | Inventory pattern | Notes |
+|---|---|---|
+| `hero` | 1. Hero / page introduction | Image-led hero; the last heading line is highlighted in orange. |
+| `cardGrid` | 2. Audience pathway / service card grid | Optional `id` for in-page links, numbering and approved tint `theme` per card. |
+| `imageText` | 3. Image-and-text feature | One or two images, image left or right. |
+| `statement` | Information feature (navy) | Mission or key statement with optional action. |
+| `newsList` | 6/8. Story feature and news listing | First item is featured; `"theme": "orange"` gives the editorial story card. |
+| `quote` | 9. Quote / testimonial | |
+| `richText` | 10. Rich text | |
+| `callout` | 13. Callout / action panel | |
+| `linkList` | 7/21. Related links | |
+| `newsletterSignup` | 20. Newsletter signup | Labelled fields and privacy notice. Without an `action` the form does not submit, so it is not production-ready yet. |
+| `logoGrid` | Funder and partner logos | `label` names the section when there is no visible heading. |
+
+The homepage (`content/homepage.json`) and standard pages (`content/pages/*.json`) share these blocks. Extend `content/types.ts`, `content/schemas/page.schema.json` and `components/ContentBlockRenderer.tsx` together as each further pattern is implemented.
 
 ## Inspiration notes
 

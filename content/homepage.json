@@ -1,117 +1,166 @@
 {
-  "hero": {
-    "eyebrow": "East London · Since 1884",
-    "title": [
-      "Welcome to",
-      "Toynbee Hall"
-    ],
-    "body": "Working alongside people facing poverty and injustice to build a fairer and happier East London.",
-    "cta": {
-      "label": "I am looking for…",
-      "href": "#help"
-    },
-    "note": "A place for everyone to thrive.",
-    "image": "https://images.unsplash.com/photo-1518005020951-ecc8e9b2a6a2?auto=format&fit=crop&w=2000&q=85"
-  },
-  "servicesHeading": {
-    "eyebrow": "Here for our community",
-    "title": "Welcome to Toynbee Hall"
-  },
-  "services": [
+  "blocks": [
     {
-      "title": "Advice",
-      "copy": "Free, expert debt and legal advice and help with benefit applications",
-      "link": "Get help with advice",
-      "href": "/free-advice/",
-      "color": "#fff0e3"
-    },
-    {
-      "title": "Community activities",
-      "copy": "Free, inclusive community activities and events",
-      "link": "Explore what’s on",
-      "href": "/whats-on/",
-      "color": "#e4f6f2"
-    },
-    {
-      "title": "Research and policy",
-      "copy": "Community-led research and campaigns for change",
-      "link": "Discover our research",
-      "href": "/research/",
-      "color": "#edf3fb"
-    },
-    {
-      "title": "Venue hire and office space",
-      "copy": "Use our historic buildings for your events",
-      "link": "Explore venue hire",
-      "href": "/events/",
-      "color": "#fff6df"
-    }
-  ],
-  "mission": {
-    "eyebrow": "Who we are",
-    "title": "Toynbee Hall works alongside people facing poverty and injustice to build a fairer and happier East London.",
-    "body": "Based in the East End of London since 1884, we are a charity that provides vital support and works in partnership with local communities to tackle unfairness and ensure everyone has an equal chance to thrive.",
-    "cta": {
-      "label": "More about us",
-      "href": "/about-us/"
-    }
-  },
-  "news": {
-    "eyebrow": "Ideas, action, impact",
-    "title": "Latest news and blogs",
-    "allLink": {
-      "label": "All news and blogs",
-      "href": "/news-and-blogs/"
-    },
-    "items": [
-      {
-        "category": "Policy · 27 October 2026",
-        "title": "What this Budget must deliver for a stronger social safety net",
-        "summary": "As the Chancellor prepares to deliver the Budget, this is an opportunity to set out what it must deliver for people and communities.",
-        "href": "/blogs/",
-        "image": "https://images.unsplash.com/photo-1529101091764-c3526faf38fe?auto=format&fit=crop&w=900&q=80",
-        "alt": "People working together at Toynbee Hall."
+      "type": "hero",
+      "headingLines": ["Welcome to", "Toynbee Hall"],
+      "image": {
+        "src": "/images/home/toynbee-hall-courtyard.jpg",
+        "alt": "Toynbee Hall’s Victorian red-brick building and courtyard garden in East London."
       },
-      {
-        "category": "News",
-        "title": "Toynbee Hall shortlisted for national technology award for Video Advice Kiosks",
-        "summary": "The nomination recognises the development and deployment of our Video Advice Kiosks.",
-        "href": "/news/",
-        "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80",
-        "alt": "People working together at Toynbee Hall."
-      },
-      {
-        "category": "Community · October 2026",
-        "title": "Welcoming Rushanara Ali MP to Toynbee Hall",
-        "summary": "We welcomed Rushanara Ali MP to showcase our work, including the Adviser Academy, and discuss our research with Disability Rights UK.",
-        "href": "/news/",
-        "image": "/images/rushanara-ali-visit.webp",
-        "alt": "Toynbee Hall staff welcome Rushanara Ali MP outside the historic building.",
-        "theme": "orange"
-      }
-    ],
-    "readLabel": "Read more"
-  },
-  "venue": {
-    "eyebrow": "A historic East London setting",
-    "title": "Make your next event matter.",
-    "body": "Our Grade II listed building is available to hire for conferences, meetings, community events and celebrations. Event production and catering can help make your event memorable, and every booking supports Toynbee Hall’s charitable work.",
-    "cta": {
-      "label": "Discover our venue",
-      "href": "/events/"
+      "link": { "label": "I am looking for…", "href": "#looking-for" }
     },
-    "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=85"
-  },
-  "newsletter": {
-    "eyebrow": "Stay connected",
-    "title": [
-      "Good things happen",
-      "when we work together."
-    ],
-    "body": "Subscribe to our quarterly e-newsletter to stay up to date with our work.",
-    "emailLabel": "Your email address",
-    "placeholder": "you@example.com",
-    "button": "Subscribe",
-    "finePrint": "By subscribing you agree to receive our latest news, events and updates. You can unsubscribe at any time."
-  }
+    {
+      "type": "cardGrid",
+      "id": "looking-for",
+      "heading": "I am looking for…",
+      "numbered": true,
+      "items": [
+        {
+          "title": "Advice",
+          "description": "Free, expert debt and legal advice and help with benefit applications",
+          "href": "/free-advice/",
+          "theme": "orange"
+        },
+        {
+          "title": "Community activities",
+          "description": "Free, inclusive community activities and events",
+          "href": "/whats-on/",
+          "theme": "jade"
+        },
+        {
+          "title": "Research and policy",
+          "description": "Community-led research and campaigns for change",
+          "href": "/research/",
+          "theme": "blue"
+        },
+        {
+          "title": "Venue hire and office space",
+          "description": "Use our historic buildings for your events",
+          "href": "/events/",
+          "theme": "yellow"
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "eyebrow": "Looking for something else?",
+      "heading": "Toynbee Hall works alongside people facing poverty and injustice to build a fairer and happier East London.",
+      "paragraphs": [
+        "Based in the East End of London since 1884, we are a charity that provides vital support and works in partnership with local communities to tackle unfairness and ensure everyone has an equal chance to thrive.",
+        "Find out more about our work and what we do."
+      ],
+      "link": { "label": "About us", "href": "/about-us/" }
+    },
+    {
+      "type": "newsList",
+      "heading": "Latest news and blogs",
+      "allLink": { "label": "All news and blogs", "href": "/news-and-blogs/" },
+      "readLabel": "Read more",
+      "items": [
+        {
+          "date": "27 October 2026",
+          "title": "What this Budget must deliver for a stronger social safety net",
+          "byline": "By Katie Taylor, Director of Policy, Research & Communities",
+          "summary": "As the Chancellor prepares to deliver the Budget, this is an opportunity to set out what it must deliver to build a fairer and more effective social safety net, drawing on the experiences and expertise of the people we work alongside at Toynbee Hall.",
+          "href": "https://www.toynbeehall.org.uk/27/10/2026/what-this-budget-must-deliver-for-a-stronger-social-safety-net/",
+          "image": {
+            "src": "/images/home/news-budget-social-safety-net.jpg",
+            "alt": "Council housing blocks contrasted with modern high-rise flats in the background in East London"
+          }
+        },
+        {
+          "date": "5 August 2026",
+          "title": "Toynbee Hall shortlisted for national technology award for Video Advice Kiosks",
+          "summary": "Toynbee Hall has been shortlisted for Best Use of Technology at the UKCCF Awards 2026. The nomination recognises the development and deployment of our Video Advice Kiosks, which connect people directly with qualified advisers in locations where conventional advice can be difficult to access.",
+          "href": "https://www.toynbeehall.org.uk/05/08/2026/toynbee-hall-shortlisted-for-national-technology-award-for-video-advice-kiosks/",
+          "image": {
+            "src": "/images/home/news-ukccf-awards-shortlist.png",
+            "alt": "UKCCF Awards 2026 ‘Shortlisted’ graphic with a glass award trophy."
+          }
+        },
+        {
+          "date": "27 July 2026",
+          "title": "What can the UK and South Korea learn from each other about helping people in debt?",
+          "summary": "What can the UK and South Korea learn from each other about supporting people in debt? That was the question at the heart of a recent visit to London and Manchester by Dr Eun-Kyung Kim, the newly appointed Chair of South Korea’s Credit Counseling & Recovery Service (CCRS), and colleagues from across the organisation.",
+          "href": "https://www.toynbeehall.org.uk/27/07/2026/what-can-the-uk-and-south-korea-learn-from-each-other-about-helping-people-in-debt/",
+          "image": {
+            "src": "/images/home/news-south-korea-ccrs-visit.jpg",
+            "alt": "Four visitors from South Korea’s Credit Counseling & Recovery Service stand together in the Toynbee Hall courtyard."
+          }
+        }
+      ]
+    },
+    {
+      "type": "imageText",
+      "eyebrow": "Venue Hire London",
+      "heading": "Hire our venue",
+      "paragraphs": [
+        "Our Grade II listed building in East London is now available to hire for a range of private and corporate events including conferences, seminars, receptions or training sessions, weddings and celebrations. Our historic building has been a hub for social action since 1884 and could be the perfect venue for your event.",
+        "Depending on the size and scope of your event, we offer five halls for hire. We can also provide additional services such as event production and catering, so you can rest assured we’ll take care of everything. Book our halls for your next event."
+      ],
+      "images": [
+        {
+          "src": "/images/home/venue-ashbee-hall.jpg",
+          "alt": "Ashbee Hall, with a long wooden table on a parquet floor beneath tall leaded windows."
+        },
+        {
+          "src": "/images/home/venue-lecture-hall.jpg",
+          "alt": "The wood-panelled Lecture Hall, with leaded windows either side of a fireplace."
+        }
+      ],
+      "link": { "label": "More about our venue", "href": "/events/" }
+    },
+    {
+      "type": "newsletterSignup",
+      "heading": "Join us!",
+      "paragraphs": [
+        "Subscribe to our quarterly e-newsletter to stay up to date with our work."
+      ],
+      "privacy": {
+        "text": "Toynbee Hall needs the contact information you provide to contact you with the latest news, events and updates. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, you can read our",
+        "link": {
+          "label": "data protection policy here.",
+          "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/Data-Protection-Policy-v3.0.pdf"
+        }
+      },
+      "instructions": "Please complete the fields below:",
+      "fields": [
+        { "name": "email", "label": "Your email address", "type": "email", "required": true, "autoComplete": "email" },
+        { "name": "firstName", "label": "First name", "type": "text", "required": true, "autoComplete": "given-name" },
+        { "name": "lastName", "label": "Last name", "type": "text", "required": true, "autoComplete": "family-name" }
+      ],
+      "submitLabel": "Subscribe"
+    },
+    {
+      "type": "logoGrid",
+      "label": "Our funders and partners",
+      "logos": [
+        { "src": "/images/partners/london-marathon-charitable-trust.png", "alt": "London Marathon Charitable Trust" },
+        { "src": "/images/partners/heritage-lottery-fund.png", "alt": "Heritage Lottery Fund – Lottery funded" },
+        { "src": "/images/partners/proms-at-st-judes.png", "alt": "Proms at St Jude’s" },
+        { "src": "/images/partners/money-and-pensions-service.jpg", "alt": "Money and Pensions Service" },
+        { "src": "/images/partners/tower-hamlets.png", "alt": "London Borough of Tower Hamlets" },
+        { "src": "/images/partners/nesta.png", "alt": "Nesta" },
+        { "src": "/images/partners/garfield-weston-foundation.png", "alt": "Garfield Weston Foundation" },
+        { "src": "/images/partners/coutts-foundation.png", "alt": "The Coutts Foundation" },
+        { "src": "/images/partners/macmillan-cancer-support.png", "alt": "Macmillan Cancer Support" },
+        { "src": "/images/partners/city-of-london.png", "alt": "Funded by City of London" },
+        { "src": "/images/partners/david-hills-trust.png", "alt": "The David Hills Trust" },
+        { "src": "/images/partners/national-lottery-community-fund.png", "alt": "National Lottery Community Fund" },
+        { "src": "/images/partners/power-to-change.png", "alt": "Power to Change" },
+        { "src": "/images/partners/health-foundation.png", "alt": "The Health Foundation" },
+        { "src": "/images/partners/monday-charitable-trust.png", "alt": "Monday Charitable Trust" },
+        { "src": "/images/partners/cleary-gottlieb.png", "alt": "Cleary Gottlieb" },
+        { "src": "/images/partners/herbert-smith-freehills.jpg", "alt": "Herbert Smith Freehills" },
+        { "src": "/images/partners/ao-shearman.png", "alt": "A&O Shearman" },
+        { "src": "/images/partners/ashurst.png", "alt": "Ashurst" },
+        { "src": "/images/partners/aldgate-connect.png", "alt": "Aldgate Connect" },
+        { "src": "/images/partners/compass-wellbeing.png", "alt": "Compass Wellbeing" },
+        { "src": "/images/partners/city-bridge-foundation.png", "alt": "City Bridge Foundation" },
+        { "src": "/images/partners/financial-conduct-authority.png", "alt": "Financial Conduct Authority" },
+        { "src": "/images/partners/london-legal-support-trust.png", "alt": "London Legal Support Trust" },
+        { "src": "/images/partners/greater-london-authority.png", "alt": "Greater London Authority" }
+      ]
+    }
+  ]
 }

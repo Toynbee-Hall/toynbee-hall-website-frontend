@@ -3,42 +3,525 @@
   "$id": "https://toynbeehall.org.uk/schemas/page.schema.json",
   "title": "Toynbee Hall page content",
   "type": "object",
-  "required": ["slug", "title", "intro", "blocks"],
+  "required": [
+    "slug",
+    "title",
+    "intro",
+    "blocks"
+  ],
   "properties": {
-    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
-    "title": { "type": "string", "minLength": 1 },
-    "intro": { "type": "string" },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "intro": {
+      "type": "string"
+    },
     "blocks": {
       "type": "array",
       "items": {
-        "oneOf": [
-          {
-            "type": "object",
-            "required": ["type", "paragraphs"],
-            "properties": { "type": { "const": "richText" }, "heading": { "type": "string" }, "paragraphs": { "type": "array", "items": { "type": "string" }, "minItems": 1 } },
-            "additionalProperties": false
-          },
-          {
-            "type": "object",
-            "required": ["type", "items"],
-            "properties": { "type": { "const": "linkList" }, "heading": { "type": "string" }, "items": { "type": "array", "items": { "type": "object", "required": ["label", "href"], "properties": { "label": { "type": "string" }, "href": { "type": "string" }, "description": { "type": "string" } }, "additionalProperties": false } } },
-            "additionalProperties": false
-          },
-          {
-            "type": "object",
-            "required": ["type", "quote"],
-            "properties": { "type": { "const": "quote" }, "quote": { "type": "string" }, "attribution": { "type": "string" } },
-            "additionalProperties": false
-          },
-          {
-            "type": "object",
-            "required": ["type", "heading", "body"],
-            "properties": { "type": { "const": "callout" }, "heading": { "type": "string" }, "body": { "type": "string" }, "link": { "type": "object", "required": ["label", "href"], "properties": { "label": { "type": "string" }, "href": { "type": "string" } }, "additionalProperties": false } },
-            "additionalProperties": false
-          }
-        ]
+        "$ref": "#/$defs/contentBlock"
       }
     }
   },
-  "additionalProperties": false
+  "additionalProperties": false,
+  "$defs": {
+    "link": {
+      "type": "object",
+      "required": [
+        "label",
+        "href"
+      ],
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "href": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "media": {
+      "type": "object",
+      "required": [
+        "src",
+        "alt"
+      ],
+      "properties": {
+        "src": {
+          "type": "string"
+        },
+        "alt": {
+          "type": "string",
+          "description": "Meaningful alt text; empty only for decorative images."
+        },
+        "caption": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "tint": {
+      "enum": [
+        "orange",
+        "jade",
+        "blue",
+        "yellow"
+      ]
+    },
+    "contentBlock": {
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "paragraphs"
+          ],
+          "properties": {
+            "type": {
+              "const": "richText"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "paragraphs": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "minItems": 1
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "items"
+          ],
+          "properties": {
+            "type": {
+              "const": "linkList"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "items": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": [
+                  "label",
+                  "href"
+                ],
+                "properties": {
+                  "label": {
+                    "type": "string"
+                  },
+                  "href": {
+                    "type": "string"
+                  },
+                  "description": {
+                    "type": "string"
+                  }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "quote"
+          ],
+          "properties": {
+            "type": {
+              "const": "quote"
+            },
+            "quote": {
+              "type": "string"
+            },
+            "attribution": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "heading",
+            "body"
+          ],
+          "properties": {
+            "type": {
+              "const": "callout"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "body": {
+              "type": "string"
+            },
+            "link": {
+              "$ref": "#/$defs/link"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "headingLines",
+            "image"
+          ],
+          "properties": {
+            "type": {
+              "const": "hero"
+            },
+            "eyebrow": {
+              "type": "string"
+            },
+            "headingLines": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "minItems": 1
+            },
+            "body": {
+              "type": "string"
+            },
+            "image": {
+              "$ref": "#/$defs/media"
+            },
+            "link": {
+              "$ref": "#/$defs/link"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "items"
+          ],
+          "properties": {
+            "type": {
+              "const": "cardGrid"
+            },
+            "id": {
+              "type": "string"
+            },
+            "eyebrow": {
+              "type": "string"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "numbered": {
+              "type": "boolean"
+            },
+            "items": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "required": [
+                  "title",
+                  "description",
+                  "href"
+                ],
+                "properties": {
+                  "title": {
+                    "type": "string"
+                  },
+                  "description": {
+                    "type": "string"
+                  },
+                  "href": {
+                    "type": "string"
+                  },
+                  "linkLabel": {
+                    "type": "string"
+                  },
+                  "theme": {
+                    "$ref": "#/$defs/tint"
+                  }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "heading"
+          ],
+          "properties": {
+            "type": {
+              "const": "statement"
+            },
+            "eyebrow": {
+              "type": "string"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "paragraphs": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "link": {
+              "$ref": "#/$defs/link"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "heading",
+            "readLabel",
+            "items"
+          ],
+          "properties": {
+            "type": {
+              "const": "newsList"
+            },
+            "eyebrow": {
+              "type": "string"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "allLink": {
+              "$ref": "#/$defs/link"
+            },
+            "readLabel": {
+              "type": "string"
+            },
+            "items": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "required": [
+                  "title",
+                  "href",
+                  "summary",
+                  "image"
+                ],
+                "properties": {
+                  "title": {
+                    "type": "string"
+                  },
+                  "href": {
+                    "type": "string"
+                  },
+                  "summary": {
+                    "type": "string"
+                  },
+                  "image": {
+                    "$ref": "#/$defs/media"
+                  },
+                  "category": {
+                    "type": "string"
+                  },
+                  "date": {
+                    "type": "string"
+                  },
+                  "byline": {
+                    "type": "string"
+                  },
+                  "theme": {
+                    "const": "orange"
+                  }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "heading",
+            "paragraphs",
+            "images"
+          ],
+          "properties": {
+            "type": {
+              "const": "imageText"
+            },
+            "eyebrow": {
+              "type": "string"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "paragraphs": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "images": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/media"
+              },
+              "minItems": 1,
+              "maxItems": 2
+            },
+            "imagePosition": {
+              "enum": [
+                "left",
+                "right"
+              ]
+            },
+            "link": {
+              "$ref": "#/$defs/link"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "heading",
+            "paragraphs",
+            "fields",
+            "submitLabel"
+          ],
+          "properties": {
+            "type": {
+              "const": "newsletterSignup"
+            },
+            "eyebrow": {
+              "type": "string"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "paragraphs": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "privacy": {
+              "type": "object",
+              "required": [
+                "text",
+                "link"
+              ],
+              "properties": {
+                "text": {
+                  "type": "string"
+                },
+                "link": {
+                  "$ref": "#/$defs/link"
+                }
+              },
+              "additionalProperties": false
+            },
+            "instructions": {
+              "type": "string"
+            },
+            "fields": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "required": [
+                  "name",
+                  "label",
+                  "type"
+                ],
+                "properties": {
+                  "name": {
+                    "type": "string"
+                  },
+                  "label": {
+                    "type": "string"
+                  },
+                  "type": {
+                    "enum": [
+                      "email",
+                      "text"
+                    ]
+                  },
+                  "required": {
+                    "type": "boolean"
+                  },
+                  "autoComplete": {
+                    "type": "string"
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "submitLabel": {
+              "type": "string"
+            },
+            "action": {
+              "type": "string",
+              "description": "Submission endpoint. Without it the form renders but does not submit."
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "label",
+            "logos"
+          ],
+          "properties": {
+            "type": {
+              "const": "logoGrid"
+            },
+            "label": {
+              "type": "string"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "logos": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/media"
+              },
+              "minItems": 1
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    }
+  },
+  "$comment": "content/homepage.json uses the same block array: { \"blocks\": [ContentBlock] }. Validate items against #/$defs/contentBlock."
 }

@@ -70,7 +70,7 @@ Use a content width up to 1240px, 32px desktop and 20px mobile gutters, 88px des
 
 Choose real people in real situations, with natural light and a warm, hopeful, respectful tone. Keep people prominent and include Toynbee Hall or local context where possible. Write meaningful alt text that describes the informative image; use empty alt text for purely decorative images. Use approved illustration assets only. The October image’s organic leaf motifs may guide placement and mood, but should not be redrawn as unofficial brand artwork.
 
-The supplied Rushanara Ali visit photograph is used as a story image in the homepage news component. The flat poster itself should not be used as a page image because its text would not be selectable or accessible.
+The supplied Rushanara Ali visit photograph is used as the orange editorial story example in the style guide, and can be used in a `newsList` item with `"theme": "orange"`. The flat poster itself should not be used as a page image because its text would not be selectable or accessible.
 
 ## Accessibility and interaction
 
@@ -83,7 +83,7 @@ The supplied Rushanara Ali visit photograph is used as a story image in the home
 
 ## CMS-ready content model
 
-Treat each page as an ordered collection of typed content sections. Reusable patterns should have structured fields rather than page-specific markup. The existing project starts this separation in `content/homepage.json`, `content/site.json`, and `content/design-tokens.json`, with rendering in reusable components such as `HomeSections.tsx`, `SiteHeader.tsx`, and `SiteFooter.tsx`.
+Treat each page as an ordered collection of typed content sections. Reusable patterns should have structured fields rather than page-specific markup. The existing project starts this separation in `content/homepage.json`, `content/site.json`, and `content/design-tokens.json`, with rendering in reusable components such as `ContentBlockRenderer.tsx`, `SiteHeader.tsx`, and `SiteFooter.tsx`. The homepage is an ordered list of content blocks in `content/homepage.json`.
 
 Suggested CMS block types: hero, rich text, service-card grid, story feature, news list, statistics, quote, callout, image with caption, and venue feature. Each block should define its text, links, media, alt text, optional theme token and display order.
 
