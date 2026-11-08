@@ -1,0 +1,63 @@
+{
+  "colors": {
+    "orange": "#F16E00",
+    "deepSlate": "#1F2933",
+    "grey": "#636466",
+    "navy": "#175984",
+    "jade": "#20A790",
+    "lightBlue": "#96B4DE",
+    "yellow": "#EEB736",
+    "black": "#000000",
+    "white": "#FFFFFF",
+    "orangeTint": "#FFF0E3",
+    "jadeTint": "#E4F6F2",
+    "lightBlueTint": "#EDF3FB",
+    "yellowTint": "#FFF6DF"
+  },
+  "type": {
+    "family": "Outfit",
+    "weights": [300, 400, 500],
+    "webScale": {
+      "desktopH1": "64px / 1.06",
+      "mobileH1": "46px / 1.06",
+      "h2": "44px / 1.12",
+      "h3": "24px / 1.2",
+      "body": "16px / 1.5",
+      "small": "14px / 1.5"
+    },
+    "bodyMinimum": "16px"
+  },
+  "accessibility": {
+    "bodyOnWhite": "#636466 or #1F2933",
+    "textOnNavy": "#FFFFFF",
+    "textOnOrange": "#1F2933 for body; #FFFFFF only for large headlines",
+    "textOnLightBlue": "#1F2933",
+    "textOnJade": "#1F2933 for body; #FFFFFF only for large headlines",
+    "maximumInterfaceWeight": 500,
+    "focusOutline": "3px solid #175984",
+    "minimumTouchTarget": "44px"
+  },
+  "layout": {
+    "contentMaxWidth": "1240px",
+    "pageGutterDesktop": "32px",
+    "pageGutterMobile": "20px",
+    "sectionSpacingDesktop": "88px",
+    "sectionSpacingMobile": "64px",
+    "cardGap": "14px"
+  },
+  "imagery": {
+    "direction": [
+      "Real people in real situations",
+      "Natural light",
+      "Hopeful, warm and respectful",
+      "Contextualise with Toynbee Hall or the local area"
+    ],
+    "altTextRequired": true
+  },
+  "logo": {
+    "approvedAsset": "/brand/toynbee-hall-core-logo.png",
+    "background": "White only",
+    "preserveLockup": true,
+    "minimumClearSpace": "Height of the T in TOYNBEE"
+  }
+}

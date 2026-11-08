@@ -23,28 +23,28 @@
       "copy": "Free, expert debt and legal advice and help with benefit applications",
       "link": "Get help with advice",
       "href": "/free-advice/",
-      "color": "#f4eadb"
+      "color": "#fff0e3"
     },
     {
       "title": "Community activities",
       "copy": "Free, inclusive community activities and events",
       "link": "Explore what’s on",
       "href": "/whats-on/",
-      "color": "#d5e9e3"
+      "color": "#e4f6f2"
     },
     {
       "title": "Research and policy",
       "copy": "Community-led research and campaigns for change",
       "link": "Discover our research",
       "href": "/research/",
-      "color": "#f6d1b2"
+      "color": "#edf3fb"
     },
     {
       "title": "Venue hire and office space",
       "copy": "Use our historic buildings for your events",
       "link": "Explore venue hire",
       "href": "/events/",
-      "color": "#e4e1ee"
+      "color": "#fff6df"
     }
   ],
   "mission": {
@@ -69,21 +69,25 @@
         "title": "What this Budget must deliver for a stronger social safety net",
         "summary": "As the Chancellor prepares to deliver the Budget, this is an opportunity to set out what it must deliver for people and communities.",
         "href": "/blogs/",
-        "image": "https://images.unsplash.com/photo-1529101091764-c3526faf38fe?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1529101091764-c3526faf38fe?auto=format&fit=crop&w=900&q=80",
+        "alt": "People working together at Toynbee Hall."
       },
       {
         "category": "News",
         "title": "Toynbee Hall shortlisted for national technology award for Video Advice Kiosks",
         "summary": "The nomination recognises the development and deployment of our Video Advice Kiosks.",
         "href": "/news/",
-        "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80"
+        "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80",
+        "alt": "People working together at Toynbee Hall."
       },
       {
-        "category": "Stories",
-        "title": "What can the UK and South Korea learn from each other about helping people in debt?",
-        "summary": "A recent visit to London explored what the UK and South Korea can learn about supporting people in debt.",
-        "href": "/blogs/",
-        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=800&q=80"
+        "category": "Community · October 2026",
+        "title": "Welcoming Rushanara Ali MP to Toynbee Hall",
+        "summary": "We welcomed Rushanara Ali MP to showcase our work, including the Adviser Academy, and discuss our research with Disability Rights UK.",
+        "href": "/news/",
+        "image": "/images/rushanara-ali-visit.webp",
+        "alt": "Toynbee Hall staff welcome Rushanara Ali MP outside the historic building.",
+        "theme": "orange"
       }
     ],
     "readLabel": "Read more"

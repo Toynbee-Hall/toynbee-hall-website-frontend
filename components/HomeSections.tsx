@@ -64,12 +64,12 @@ export function NewsSection() {
       </div>
       <div className="news-grid">
         {data.items.map((item, index) => (
-          <article className={index === 0 ? 'news-feature' : 'news-small'} key={item.title}>
-            <div className="news-photo" style={{ backgroundImage: `url(${item.image})` }} />
+          <article className={index === 0 ? 'news-feature' : item.theme === 'orange' ? 'news-small news-card-orange' : 'news-small'} key={item.title}>
+            <img className="news-photo" src={item.image} alt={item.alt}/>
             <div className={index === 0 ? '' : 'news-copy'}>
               <p className="eyebrow">{item.category}</p>
               <h3>{item.title}</h3>
-              {index === 0 && <p>{item.summary}</p>}
+              {(index === 0 || item.theme === 'orange') && <p>{item.summary}</p>}
               <a className="text-link" href={item.href}>{data.readLabel} <b>↗</b></a>
             </div>
           </article>
