@@ -204,9 +204,25 @@ Where relevant, blocks should use structured fields rather than custom markup:
 | `callout` | 13. Callout / action panel | |
 | `linkList` | 7/21. Related links | |
 | `newsletterSignup` | 20. Newsletter signup | Labelled fields and privacy notice. Without an `action` the form does not submit, so it is not production-ready yet. |
+| `enquiryForm` | 20. Newsletter signup / enquiry form | Labelled text, email, phone, select, checkbox and textarea fields; connect an approved action before launch. |
 | `logoGrid` | Funder and partner logos | `label` names the section when there is no visible heading. |
+| `longForm` | 10. Rich text / long-form article | Ordered headings, paragraphs with inline links, lists, images and pull quotes. |
+| `imageGallery` | 4/16. Image with caption / venue gallery | Responsive image grid; every image includes alt text, optional caption and credit. |
+| `impactStats` | 5. Impact statistics | Values include a label and optional context/source link. |
+| `steps` | 11. Numbered process | Ordered steps with optional time expectation and action. |
+| `infoPanel` | 12. Eligibility and important information | Blue, orange or jade tint; text remains explicit and understandable without color. |
+| `contactRoutes` | 14. Contact details / contact routes | Clickable email and phone routes, address and opening hours. |
+| `schedule` | 15. Schedule / timetable | Semantic table that scrolls horizontally on small screens. |
+| `resourceList` | 17. Download / report / resource list | File format, size and publication date are optional structured metadata. |
+| `accordion` | 18. Accordion / expandable detail | Native `<details>` and `<summary>` disclosure controls. |
+| `donationAppeal` | 19. Donation or fundraising appeal | Impact copy and primary/secondary links; payment remains with the donation provider. |
+| `relatedContent` | 21. Related content / next steps | Curated related links with optional image and summary. |
 
-The homepage (`content/homepage.json`) and standard pages (`content/pages/*.json`) share these blocks. Extend `content/types.ts`, `content/schemas/page.schema.json` and `components/ContentBlockRenderer.tsx` together as each further pattern is implemented.
+### Reusable page templates
+
+The project provides standard pages with default/full-width layout options, article pages, event pages, resource pages, and listing pages with news, blog, event, resource or category variants. The root homepage keeps its dedicated composition. Template records and blocks are defined in `content/types.ts`, validated by `content/schemas/page.schema.json`, rendered through `components/ContentPageTemplate.tsx` and the focused template components, and styled in `app/styles.css`.
+
+The homepage (`content/homepage.json`) and standard pages (`content/pages/*.json`) share reusable blocks. Extend the content types, JSON schema and renderer together whenever a new block pattern is introduced.
 
 ## Inspiration notes
 

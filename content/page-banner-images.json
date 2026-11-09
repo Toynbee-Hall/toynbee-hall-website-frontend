@@ -1,0 +1,195 @@
+{
+  "default": {
+    "src": "/images/home/toynbee-hall-courtyard.jpg",
+    "alt": "Toynbee Hall’s brick buildings around the courtyard"
+  },
+  "sections": [
+    {
+      "paths": [
+        "/the-lecture-hall",
+        "/events/the-lecture-hall"
+      ],
+      "image": {
+        "src": "/images/home/venue-lecture-hall.jpg",
+        "alt": "The wood-panelled Lecture Hall, with leaded windows either side of a fireplace"
+      }
+    },
+    {
+      "paths": [
+        "/events",
+        "/the-ashbee-hall",
+        "/the-meeting-rooms",
+        "/event-catering",
+        "/events-blogs"
+      ],
+      "image": {
+        "src": "/images/home/venue-ashbee-hall.jpg",
+        "alt": "A long wooden table beneath tall leaded windows in Ashbee Hall"
+      }
+    },
+    {
+      "paths": [
+        "/our-people",
+        "/research-library",
+        "/coproducing-universal-credit-disability-benefits",
+        "/reshaping-temporary-accommodation"
+      ],
+      "image": {
+        "src": "/images/rushanara-ali-visit.webp",
+        "alt": "The Toynbee Hall team welcoming Rushanara Ali MP outside the Hall"
+      }
+    },
+    {
+      "paths": [
+        "/free-advice",
+        "/macmillan-benefits-advice",
+        "/city-advice",
+        "/cityadvice"
+      ],
+      "image": {
+        "src": "/images/staff/cityhall-community-conversation.jpg",
+        "alt": "Two attendees talking at the Debt Free Advice impact report event"
+      }
+    },
+    {
+      "paths": [
+        "/childrens-activities",
+        "/young-people-activities",
+        "/public-art-projections"
+      ],
+      "image": {
+        "src": "/images/staff/dfa-awards-community-dinner.jpg",
+        "alt": "Guests talking around a table at the Debt Free Advice awards"
+      }
+    },
+    {
+      "paths": [
+        "/get-involved",
+        "/donate",
+        "/donate-paypal",
+        "/corporate-partnerships"
+      ],
+      "image": {
+        "src": "/images/staff/dfa-awards-recognition.jpg",
+        "alt": "Two attendees at the Debt Free Advice awards"
+      }
+    },
+    {
+      "paths": [
+        "/advice-hub",
+        "/benefits",
+        "/free-advice/benefits",
+        "/free-advice/employment",
+        "/employment"
+      ],
+      "image": {
+        "src": "/images/live-site/advice.jpg",
+        "alt": "Private advice booths at the Toynbee Hall Advice Centre"
+      }
+    },
+    {
+      "paths": [
+        "/debt-advice",
+        "/debt-and-money",
+        "/how-our-debt-advice-works"
+      ],
+      "image": {
+        "src": "/images/live-site/debt.jpg",
+        "alt": "A telephone beside a sign reading “Free Advice”"
+      }
+    },
+    {
+      "paths": [
+        "/housing",
+        "/free-advice/housing"
+      ],
+      "image": {
+        "src": "/images/live-site/housing.jpg",
+        "alt": "A London block of flats with lit windows at dusk"
+      }
+    },
+    {
+      "paths": [
+        "/community-centre"
+      ],
+      "image": {
+        "src": "/images/live-site/community.jpg",
+        "alt": "Community Centre participants holding up colourful artwork"
+      }
+    },
+    {
+      "paths": [
+        "/how-we-work-with-local-people"
+      ],
+      "image": {
+        "src": "/images/live-site/community-group.jpg",
+        "alt": "People making artwork together around a table"
+      }
+    },
+    {
+      "paths": [
+        "/whats-on",
+        "/over-50s-activities",
+        "/linkage-plus"
+      ],
+      "image": {
+        "src": "/images/live-site/yoga.jpg",
+        "alt": "A group taking part in seated exercise at the Community Centre"
+      }
+    },
+    {
+      "paths": [
+        "/support-us",
+        "/volunteer",
+        "/fundraise-for-us"
+      ],
+      "image": {
+        "src": "/images/live-site/support.jpg",
+        "alt": "Supporters in orange shirts gathered on the steps outside a stone building"
+      }
+    },
+    {
+      "paths": [
+        "/our-history",
+        "/about-us/our-history"
+      ],
+      "image": {
+        "src": "/images/live-site/history.jpg",
+        "alt": "Archival photograph of Bangladeshi community leaders meeting around a table"
+      }
+    },
+    {
+      "paths": [
+        "/research",
+        "/our-approach",
+        "/take-part"
+      ],
+      "image": {
+        "src": "/images/live-site/research.jpg",
+        "alt": "Attendees listening to a speaker at a Toynbee Hall research event"
+      }
+    },
+    {
+      "paths": [
+        "/emotional-support-for-young-people",
+        "/research/emotional-support-for-young-people"
+      ],
+      "image": {
+        "src": "/images/live-site/youth.jpg",
+        "alt": "Two young people talking across a table"
+      }
+    },
+    {
+      "paths": [
+        "/our-team",
+        "/about-us/our-people",
+        "/senior-management-team",
+        "/trustees"
+      ],
+      "image": {
+        "src": "/images/live-site/team.jpg",
+        "alt": "A group standing outside Toynbee Hall for a team photograph"
+      }
+    }
+  ]
+}

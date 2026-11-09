@@ -7,7 +7,9 @@
 - Reuse the shared header, footer, content templates, and section components.
 
 ## Building and copying pages
+- For the site replication phase, reproduce successful source URLs using the source template labels and reusable local templates. Treat audit recommendations such as keep, rewrite, merge, and remove as a later review phase; they do not gate the initial replication.
 - Keep page content in the JSON files under `content/` wherever practical. Use `content/pages/<slug>.json` for standard pages and `content/homepage.json` for the homepage; follow the existing data structure.
+- Add each page as a JSON file under `content/pages/`; the content index generator registers it during `dev`, `build`, and `start`. Give every record a unique `slug`, set `route` to the canonical source URL, and use `aliases` for retained alternate local paths.
 - Build each page as an ordered composition of reusable content blocks from `docs/content-block-inventory.md`. Use the inventory to choose patterns that match the source content and page purpose.
 - When asked to copy or recreate a page from the live Toynbee Hall website, preserve its meaningful wording, hierarchy, links, calls to action, image choices, captions, credits, and accessibility text. Put the page content in the appropriate JSON data file and render it through the shared page template and content block renderer.
 - Do not add one-off page markup or invent JSON fields that the renderer does not support. The inventory is the design catalogue; the implemented block types in `content/types.ts`, `content/schemas/page.schema.json`, and `components/ContentBlockRenderer.tsx` define what page JSON can currently render.
@@ -23,6 +25,7 @@
 ## When adding a component
 - First check whether an existing component can support the pattern.
 - Make reusable patterns configurable with props or structured content data.
+- When adding a page template, update the page type union, JSON schema, `components/ContentPageTemplate.tsx` dispatcher, route generation, and the focused template component together.
 - Add component styles to `app/styles.css` and use the existing design tokens.
 - Keep layouts responsive and keyboard accessible.
 

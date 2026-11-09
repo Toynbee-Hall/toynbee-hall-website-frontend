@@ -2,6 +2,7 @@
   "blocks": [
     {
       "type": "hero",
+      "variant": "full-bleed",
       "headingLines": ["Welcome to", "Toynbee Hall"],
       "image": {
         "src": "/images/home/toynbee-hall-courtyard.jpg",
