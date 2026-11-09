@@ -1,0 +1,77 @@
+{
+  "slug": "audit-122-run-the-virtual-london-marathon-2021-for-team-toynbee-hall",
+  "route": "/12/02/2021/run-the-virtual-london-marathon-2021-for-team-toynbee-hall/",
+  "title": "Run the Virtual London Marathon 2021 for Team Toynbee Hall",
+  "intro": "On Sunday 3rd October 100,000 people will be taking part in the biggest marathon ever staged. 50,000 will be running the famous route of the London Marathon from Blackheath to the Mall and 50,000 will be doing it from where ever there are in the world, completing their own marathon route over 24 hours. Will… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/LM2021-2.png",
+    "alt": "Run the Virtual London Marathon 2021 for Team Toynbee Hall — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2021-02-12",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Will you be part of this world record marathon event?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Team Toynbee Hall have guaranteed places for virtual London Marathon and we’d love to invite you to run for us as part of a movement for a fairer, happier London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enter now!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Contact fundraising@toynbeehall.org.uk and secure your place today! We’re asking runners to commit to raising £150 (excluding gift aid) through sponsorship.",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "By joining our team, as well as helping to create a fairer, happier London, you’ll also benefit from:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "a Toynbee Hall technical running T-shirt or vest",
+            "a fundraising pack to help take your challenge to the finish line",
+            "fun tools and tips to help you with your fundraising, including regular emails to keep you motivated and an assigned Toynbee Hall fundraiser for personal support",
+            "a friendly team here to support you every step of the way and cheer you on Race Day"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Email our friendly team to secure your place today and we’ll share details about the race, offer support with fundraising ideas, and help with practicalities such as setting up your own dedicated Just Giving page to share your progress with your supporters."
+        },
+        {
+          "type": "paragraph",
+          "text": "Already have your place in the ballot and want to support Toynbee Hall? Simply let us know by e-mailing fundraising@toynbeehall.org.uk, we’d love to have you join the team!",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/LM-1.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "audit-318-when-we-speak-activating-the-next-generation-of-activists-part-2",
+  "route": "/26/06/2020/when-we-speak-activating-the-next-generation-of-activists-part-2/",
+  "title": "When We Speak – Activating the next generation of activists Part 2: Zareen",
+  "intro": "Young people describe their experiences of being part of the first cohort of our new youth activism project, When We Speak. The project aims to inspire and enable young people in East London to bring change. As part of this project Toynbee Hall will be directly supporting young people between the ages 15 to 25… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/06/Zareen-1.jpeg",
+    "alt": "Young people participating in When We Speak"
+  },
+  "template": "article",
+  "publishedAt": "2020-06-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Young people describe their experiences of being part of the first cohort of our new youth activism project, When We Speak."
+        },
+        {
+          "type": "paragraph",
+          "text": "The project aims to inspire and enable young people in East London to bring change. As part of this project Toynbee Hall will be directly supporting young people between the ages 15 to 25 to run their own local project by providing grant money, training & coaching. Since October 2019 we have been helping 6 social impact projects grow in a number of ways; forming stronger networks, workshop training and providing microgrants to test their incredible activism. In this blog series we hear from some of the participants about their experience on the project so far and what they have gained from it so far."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Zareen"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/06/WhatsApp-Image-2020-03-05-at-17.25.33-1-1024x1024.jpeg",
+            "alt": "Zareen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Ultimately the When We Speak project aims to provide a multitude of support to local start-ups: like charities such as The Hajra Foundation."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the past 6 months we have been working closely to not only benefit our own personal projects, but also expand on many life skills."
+        },
+        {
+          "type": "paragraph",
+          "text": "The most memorable session was led by a guest speaker who studies at a university in London. This speaker spoke about personal experiences of institutionalised racism and what the students are doing to defy a system which constantly teaches and reminds pupils of their lack of power in society."
+        },
+        {
+          "type": "paragraph",
+          "text": "Another important session was also led by a guest speaker who was able to depict the importance of storytelling, while illustrating the significance of resonating with the audience in order to be memorable and create change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Along with the support provided by Emma and Keir we are also very grateful for our mentor Minda. We could not have asked for a better mentor, who was quickly able to warm up, talk about personal experiences and give some of the most important advice we have received to date."
+        },
+        {
+          "type": "paragraph",
+          "text": "I am very thankful to the When We Speak project for allowing local young people to not only think about changes but also create change without overpowering our voices."
+        },
+        {
+          "type": "paragraph",
+          "text": "In case you missed it, read Part 1 of this blog series and you can hear from more of the participants in part 3 coming soon.",
+          "links": [
+            {
+              "text": "read Part 1",
+              "href": "/24/06/2020/when-we-speak-activating-the-next-generation-of-activists-part-1/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Meet more of the When We Speak 2019/20 cohort."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

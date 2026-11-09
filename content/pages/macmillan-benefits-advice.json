@@ -1,27 +1,194 @@
 {
-  "slug": "macmillan-benefits-advice",
+  "slug": "audit-473-macmillan-benefits-advice",
+  "route": "/macmillan-benefits-advice/",
   "title": "Macmillan Benefits Advice",
-  "intro": "Free, clear welfare benefits guidance for people diagnosed with cancer, helping you understand available support so you can focus on your recovery and wellbeing.",
+  "intro": "Together through it all In the midst of life’s challenges, especially when confronted with a cancer diagnosis, understanding and accessing your welfare benefits should be the least of your worries.We provide free, clear, and comprehensive welfare benefits advice specifically for those who have been diagnosed with cancer. Our expertise ensures that during these trying times,… Read more",
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "What we can advise on",
-      "paragraphs": [
-        "Benefits and tax credits, charitable grants, healthcare and travel expenses, household budgeting, fuel costs and transport concessions. We may also help with debt, employment or housing questions, or refer you to specialist advisers."
-      ]
-    },
-    {
-      "type": "richText",
-      "heading": "Who can use the service",
-      "paragraphs": [
-        "We support residents of Tower Hamlets, Newham, Hackney and the City of London, as well as inpatients and outpatients at St Bartholomew’s, The Royal London, Homerton, Newham and Whipps Cross hospitals."
-      ]
-    },
-    {
-      "type": "richText",
-      "heading": "Contact the team",
-      "paragraphs": [
-        "Call 020 7392 2958 Monday to Thursday, 12:30pm–3:30pm, or email macmillan.advice@toynbeehall.org.uk. If you are receiving care at a partner hospital, ask a nurse or doctor for the Macmillan benefits team."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Together through it all"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the midst of life’s challenges, especially when confronted with a cancer diagnosis, understanding and accessing your welfare benefits should be the least of your worries."
+        },
+        {
+          "type": "paragraph",
+          "text": "We provide free, clear, and comprehensive welfare benefits advice specifically for those who have been diagnosed with cancer. Our expertise ensures that during these trying times, you’re equipped with the information and support needed to navigate financial welfare, allowing you to focus on recovery and wellbeing."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "We can advise on:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/DebtMoney-135-x-135.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "DebtMoney 135 x 135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Discover which benefits and tax credits you’re entitled to, and get expert guidance on the application process."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/charitable-grants-135-x-135.png",
+            "alt": "hand and a heart icon on orange circle",
+            "caption": "charitable grants 135 x 135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Access crucial funding support from charities to ease the financial burden during your health journey."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Healthcare-travel-expenses-135-x-135.png",
+            "alt": "a plus sign on orange circle",
+            "caption": "Healthcare travel expenses 135 x 135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Cover unforeseen health-related costs, especially those associated with hospital visits and treatments."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Household-budgeting-135-x-135.png",
+            "alt": "coins and a piece of paper on orange circle",
+            "caption": "Household budgeting 135 x 135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Navigate and manage household and fuel expenses effectively, ensuring you’re making the most of available resources."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Transport-privileges-135-x-135.png",
+            "alt": "bus and car icons on orange circle",
+            "caption": "Transport privileges 135 x 135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Understand and apply for transportation concessions, including acquiring a disabled parking badge for ease of mobility."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Benefits-135x135-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Benefits 135x135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "We can help with debt, eomployment or housing issues that or signpost you to specialist advisors if required."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Who we can help"
+        },
+        {
+          "type": "paragraph",
+          "text": "We offer financial guidance to specific boroughs and hospitals. We’re here to help those in our focus areas manage the financial challenges of cancer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Residents of Key Boroughs"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’re located in Tower Hamlets, Newham, Hackney, or the City of London, our services are tailored just for you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Patients at Major Hospitals"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’re receiving treatment as an inpatient or outpatient at St Bartholomew’s Hospital, The Royal London Hospital, Homerton University Hospital, Newham University Hospital, or Whipps Cross University Hospital, we’re poised to assist. If you require support but do not fit this criteria, please visit the Macmillan Cancer Support site for additional resources and assistance."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Macmillan-Map.png",
+            "alt": "Map of London with Tower Hamlets, Hackney, Newham and City of London highlighted in orange",
+            "caption": "Macmillan Map"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to access our advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Get advice that fits around you. We can help…"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Hospital-135-x-135.png",
+            "alt": "Hospital icon on blue circle",
+            "caption": "Hospital 135 x 135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "While receiving care in our partner hospitals, just speak to a nurse or doctor and ask for the Macmillan benefits team. We’re here to assist you during your hospital stay.",
+          "links": [
+            {
+              "text": "partner hospitals",
+              "href": "/#who-we-can-help"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/by-phone-135-x-135.png",
+            "alt": "mobile phone icon on blue circle",
+            "caption": "by phone 135 x 135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Give us a call on freephone 020 7392 2958, or use our form to request a callback. Our lines are open Monday to Thursday, 12:30pm – 3:30pm."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Video-and-webchat-135-x-135.png",
+            "alt": "web chat icon on blue circle",
+            "caption": "Video and webchat 135 x 135"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "If you wish to contact us by email, please email macmillan.advice@toynbeehall.org.uk.",
+          "links": [
+            {
+              "text": "macmillan.advice@toynbeehall.org.uk.",
+              "href": "mailto:macmillan.advice@toynbeehall.org.uk."
+            }
+          ]
+        }
       ]
     }
   ]

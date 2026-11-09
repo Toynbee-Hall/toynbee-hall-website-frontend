@@ -1,0 +1,50 @@
+{
+  "slug": "audit-550-thank-you-2",
+  "route": "/thank-you-2/",
+  "title": "Thank you",
+  "intro": "Your donation today will change lives. With a growing need for our services and support your gift today will open the door of opportunity and knowledge to some of the most vulnerable in our community. Thank you. Tell your friends Why not share your donation with your friends and tell them all… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Your donation today will change lives."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "With a growing need for our services and support your gift today will open the door of opportunity and knowledge to some of the most vulnerable in our community. Thank you."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Tell your friends"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Why not share your donation with your friends and tell them all about Toynbee Hall’s work?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can use the sample tweets below or make it more personal – whatever you like!"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“I just donated to @ToynbeeHall to help build a future without poverty.”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“I just donated to @ToynbeeHall because [insert reason here]”"
+        }
+      ]
+    }
+  ]
+}

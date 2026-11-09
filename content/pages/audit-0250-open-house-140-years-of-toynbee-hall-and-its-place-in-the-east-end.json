@@ -1,0 +1,117 @@
+{
+  "slug": "audit-250-open-house-140-years-of-toynbee-hall-and-its-place-in-the-east-end",
+  "route": "/21/08/2024/open-house-140-years-of-toynbee-hall-and-its-place-in-the-east-end/",
+  "title": "Open House – 140 years of Toynbee Hall and its place in the East End",
+  "intro": "On Saturday 14th September join us for a curated set of activities as part of the Open House Festival, celebrating the history of Toynbee Hall and its place in the local area.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/08/140-Years-and-beyond-Open-House-1200-x-628-px.png",
+    "alt": "Open House – 140 years of Toynbee Hall and its place in the East End — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2024-08-21",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "On Saturday 14th September join us for a curated set of activities coinciding with Open House Festival, celebrating the history of Toynbee Hall and its place in the local area."
+        },
+        {
+          "type": "paragraph",
+          "text": "This year marks 140 years since Toynbee Hall first opened it’s doors. We’re commemorating this milestone with a series of events celebrating the past, present and future of Toynbee Hall and its place in the East End and London."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Saturday 14th September 2024, we’re excited to be taking part in the Open House Festival as we celebrate our past. We’ll be opening the doors to our historic halls and hosting a range of historic tours and talks from historians Lucinda Matthews-Jones, Chris Denchfield and local author Suresh Singh, AKA ‘the Cockney Sikh’."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Tours"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "10am – 11am: A Walking tour of Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Walking tour of Toynbee Hall, following in the footsteps of Victorian and Edwardian residents, with Dr Lucinda Matthews Jones."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/08/Toynbee-Hall-1-1024x667.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "11am – 11:30am: Tour of our historic halls and renovated buildings with Ben Campion"
+        },
+        {
+          "type": "paragraph",
+          "text": "An opportunity to see inside Toynbee Hall with a tour of our Grade II listed Victorian halls and all the other rooms and spaces that were renovated in 2019, including our exhibition; Toynbee Hall: A Powerhouse of Social Change."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Talks"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "12pm – 1pm: Chris Denchfield – Amelia Earhart: 20 Minutes and 40 Miles"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amelia Earhart was a global legend in the 1920s and 1930s. She died in mysterious circumstances flying over the Pacific, and at least 4 groups of people are still looking for her."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this talk Chris will give some context to her life outside of flying and her connections with the UK, as well as being a style icon and women’s emancipation and humanitarian champion."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1pm – 2pm: Dr Lucinda Matthews-Jones – Housekeepers, housemaids and scullery maids: A hidden Victorian and Edwardian resident in Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lucinda Matthews-Jones is a historian and a reader in Victorian History at Liverpool John Moores University. Her research explores the role of home, gender and class in the British university and social settlement movement and has written extensively on Toynbee Hall. In this talk, Dr Lucinda will examine the role Housekeepers, housemaids and scullery maids at Toynbee Hall."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/08/Toynbee-Hall-DS.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2:15pm – 3pm: Suresh Singh, AKA ‘the Cockney Sikh’"
+        },
+        {
+          "type": "paragraph",
+          "text": "@thecockneysikh Suresh Singh, AKA ‘the Cockney Sikh’, is an architect, author, educator and musician. Born in 1962 in Spitalfields, he embraced Punk in the 1970s, when the National Front was active. Suresh’s book; ‘A Modest living: Memoirs of a Cockney Sikh.’ Published by Spitalfields Life, tells the story of his father Joginder Singh who came to Spitalfields in 1949. Joginder sacrificed a life in the Punjab to work in Britain, yet he found himself in his element living among the mishmash of people.",
+          "links": [
+            {
+              "text": "@thecockneysikh",
+              "href": "https://www.instagram.com/thecockneysikh"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Spaces are limited so please register to avoid disappointment."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

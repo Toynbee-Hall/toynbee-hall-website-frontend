@@ -1,0 +1,70 @@
+{
+  "slug": "audit-345-more-than-just-education",
+  "route": "/28/02/2022/more-than-just-education/",
+  "title": "New blog: More than just education",
+  "intro": "In this blog, peer researchers reflect on on their participatory action research project on adult education in London.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/More-than-just-education-feature-image.png",
+    "alt": "More than just education"
+  },
+  "template": "article",
+  "publishedAt": "2022-02-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "In this blog, peer researchers reflect on on their participatory action research project on adult education in London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has been working with a group of peer researchers from some of the more marginalised backgrounds for a piece of research commissioned by the Greater London Authority (GLA) to feed into the Skills Framework for Londoners. The project explored how adult education in the capital can be made more accessible and empowering. To mark the launch of our final report “More than just education” five of our peer researchers held a conversation about the value of the project and their experiences with it and created this short blog:"
+        },
+        {
+          "type": "paragraph",
+          "text": "As peer researchers we joined this research for a variety of reasons. Some of us joined because we wanted to promote adult education and hear the opinions of people who’ve attended adult education courses. We wanted to look into funding cuts to adult education and the impact these were having on people."
+        },
+        {
+          "type": "paragraph",
+          "text": "For others, our interest was to help seniors and other people be included in the concept of adult education. People always think that education is for the young, but seniors need to keep up with technology and not get left behind. We enjoyed seeing how we can make education more accessible for adults and helpful in terms of developing professional skills. Conducting interviews as part of this research has helped with our confidence in speaking to others, and we’ve also been able to help people take that first step into accessing adult education. We were often talking to people who want to do things but don’t know how to go about it, and sometimes people just need that small bit of encouragement or information."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you were to take away one thing from this research, it would be that we feel that education is the backbone of a community and a country. We need to really look at how we’re going to influence the people who are in a powerful position to make changes and get them to say what they’re going to do and then hold them to their promises."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adult education needs a comeback. We need local authorities and the GLA to work with the community to get to the people who are most marginalised. There are people who want to learn and focus on self-development for a better life, and they need a voice at a community level. We need grassroots level engagement – being a part of this project was very important for the people from our communities and as peer researchers we also really valued learning about everyone’s experiences which were often so different from our own."
+        },
+        {
+          "type": "paragraph",
+          "text": "It’s so much bigger than just the classroom, and it’s really important how you tell people about it. Making more use of the institutions that communities rely on, whether that’s mosques or other community hubs is important. We need to ask “who are the influential people who can help promote adult education? Who are the pillars of those communities?” And then there are also the discussions we had about the actual space of learning, really focussing on what that learning space looks like and asking how it is helping or hindering people to do that."
+        },
+        {
+          "type": "paragraph",
+          "text": "The people involved in the marketing and promotions need to reflect the people that you want to reach. This can be either the people handing out leaflets or reaching out to the community, or the people whose stories and voices are represented in promotions. Education is lifelong learning – we learn every day, and you should never stop yourself and others from being able to take up the opportunity to learn."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/TH-GLA-Adult-Education-Report-Feb22-cover-image-e1646049438959.png",
+            "alt": "More than just education report"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read the More than just education report here",
+          "links": [
+            {
+              "text": "You can read the More than just education report here",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/TH-GLA-Adult-Education-Report-Feb22-Digital.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "audit-202-my-experience-as-a-free-legal-advice-centre-volunteer",
+  "route": "/18/05/2018/my-experience-as-a-free-legal-advice-centre-volunteer/",
+  "title": "My experience as a Free Legal Advice Centre Volunteer",
+  "intro": "By Katelyn Adler. Ahead of the 2018 London Legal Walk, we talk to one of Toynbee Hall’s brilliant volunteers, Katelyn Adler, about the work she does to support our Free Legal Advice Centre Tell us a bit about yourself and what you do at Toynbee Hall. I’ve been volunteering at Toynbee Hall for two years… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/Blog-gallery-1.jpg",
+    "alt": "My experience as a Free Legal Advice Centre Volunteer — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-05-18",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Ahead of the 2018 London Legal Walk, we talk to one of Toynbee Hall’s brilliant volunteers, Katelyn Adler, about the work she does to support our Free Legal Advice Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "I’ve been volunteering at Toynbee Hall for two years now, three mornings every week, working in the Initial Assessment (IA) team for the Free Legal Advice Centre (FLAC). Essentially, I support the triaging process for FLAC – I talk to those coming in for initial appointments, work out what kind of legal support they might need, and set up their next appointments with a legal adviser. I’ve also run some training sessions for new Initial Assessment legal volunteers"
+        },
+        {
+          "type": "paragraph",
+          "text": "I hadn’t heard of Toynbee Hall before I started working here, but a friend who is a lawyer and a lecturer in Law recommended it as a good place to look for volunteering opportunities. I had been doing some other volunteer work offering reading support in a local school, and was looking for something a bit different – I was particularly interested in the idea of supporting legal advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "In my first two months of volunteering I felt totally out of my comfort zone, but as things became more familiar I suddenly found that not only did I know what I was doing – I was good at it as well."
+        },
+        {
+          "type": "paragraph",
+          "text": "I love the atmosphere at Toynbee Hall – it’s exciting, it’s busy, and it always feels as if people are very committed to what they are doing. I also like that anyone at all can just drop in, see an initial adviser and get support with their next steps."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since volunteering with IA for the Free Legal Advice centre, I’ve developed a passion for the Law – I’d love to study it, and have looked into doing a Masters degree. One of the admissions administrators I spoke to at Birkbeck University was very interested to hear that I was volunteering at Toynbee Hall –it’s definitely a name that carries weight in the legal sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "My volunteering at Toynbee Hall allows me to use my brain in a completely different way, which I love. Often when I’m taking notes from a client ahead of their appointment with a legal adviser, I try and see if I can work out what the adviser will deduce about their situation, and what advice they’ll suggest. I always go back and follow up cases after the appointment to see if my guesses were right."
+        },
+        {
+          "type": "paragraph",
+          "text": "I wanted to take part in the Legal Walk because I liked the idea of doing something sociable, something enjoyable, for and with Toynbee Hall."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’d love you to join our team on the London Legal Walk and help us in raising funds for FLAC! Please contact Phoebe Walker: phoebe.walker@toynbeehall.org.uk; 0207 392 2970 if you’d be interested in walking with us on Monday 21st May. Friends, family, children and pets are all welcome! Alternatively, if you can’t join us on the day but would like to make a donation, you can do so on our sponsorship page.",
+          "links": [
+            {
+              "text": "London Legal Walk",
+              "href": "/events/120/the-2018-london-legal-walk"
+            },
+            {
+              "text": "phoebe.walker@toynbeehall.org.uk",
+              "href": "mailto:phoebe.walker@toynbeehall.org.uk"
+            },
+            {
+              "text": "sponsorship page",
+              "href": "https://uk.virginmoneygiving.com/ToynbeeHalllegalwalk18"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "What to get more involved? See what volunteering opportunities we have available.",
+          "links": [
+            {
+              "text": "What to get more involved? See what volunteering opportunities we have available",
+              "href": "/opportunities"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

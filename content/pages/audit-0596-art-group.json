@@ -1,0 +1,43 @@
+{
+  "slug": "audit-596-art-group",
+  "route": "/whats-on/art-group/",
+  "title": "Community Art Group",
+  "intro": "Join our welcoming art group, where people work together or independently to practise and develop their skills, socialise and help one another. All ages and skill levels welcome (children must be supervised).",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/toynebee-203.jpg",
+    "alt": "Community Art Group"
+  },
+  "template": "event",
+  "dateLabel": "Thursdays (weekly)",
+  "timeLabel": "11:30am – 2pm",
+  "venue": "Community Centre",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Thursdays (weekly) 11:30am – 2pm Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 0203 856 9721 or 07943 277512"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

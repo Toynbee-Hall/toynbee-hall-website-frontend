@@ -1,0 +1,73 @@
+{
+  "slug": "audit-120-celebrating-5-years-of-using-participatory-action-research-as-a-tool-for-social-change",
+  "route": "/12/01/2023/celebrating-5-years-of-using-participatory-action-research-as-a-tool-for-social-change/",
+  "title": "Celebrating five years of using Participatory Action Research as a tool for social change",
+  "intro": "On Wednesday 11th January, we started the new year by celebrating five years of using Participatory Action Research (PAR) as a tool for achieving positive social change at a event at Toynbee Hall. In 2017, we began a new collaborative approach to research where people with lived experience worked in partnership with decision makers to… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/01/20230111_095654-scaled.jpg",
+    "alt": "Attendees in Lecture Hall as we present 5 years of PAR"
+  },
+  "template": "article",
+  "publishedAt": "2023-01-12",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "In 2017, we began a new collaborative approach to research where people with lived experience worked in partnership with decision makers to investigate key problems and co-produce solutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "To celebrate 5 years of using this approach, we invited policy developers and innovators to share our learning, explore how PAR approaches could benefit their work and;"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "learn more about PAR approaches and how they work in practice",
+            "hear from regulators, local authorities, the GLA and housing providers about how they have been influenced by PAR projects",
+            "ask questions about how to overcome institutional challenges to adopting PAR in your work.",
+            "understand where you could begin to adopt participatory approaches in decision-making"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The event was also an opportunity for Peer Researchers who have participated in PAR projects share their experiences of PAR and reveal findings from recent projects including"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Net Zero Transition for Low-income Consumers in partnership with Ofgem",
+            "More than Just Education in partnership with the GLA",
+            "Safer Homes and Neighbourhoods in partnership with Tower Hamlets Homes and other community safety stakeholders."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "During the event we were also fortunate to be joined for a panel discussion on the role of PAR in social change by Peer Researchers Mikey and Paulette, Hina Bokhari (Member, London Assembly), Mallika Bhaskar (Behavioural Scientist, Ofgem), Lise Hansen (Programme Lead, ThriveLDN) and Dr Xia Lin (Head of Research at Toynbee Hall)."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the panel, Paulette, Peer Reseacher say on the importance of PAR:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“It gets to the grassroots of the community. We’re giving you our questions, our answers, our worries and our fears. With PAR research it includes everybody. It’s the most realistic data set you’re ever going to get.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "To understand more about Participatory Action Research and our approach, you can watch this animated video:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more about our Policy and Research."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

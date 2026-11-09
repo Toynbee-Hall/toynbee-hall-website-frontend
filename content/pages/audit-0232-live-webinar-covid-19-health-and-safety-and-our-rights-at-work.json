@@ -1,0 +1,61 @@
+{
+  "slug": "audit-232-live-webinar-covid-19-health-and-safety-and-our-rights-at-work",
+  "route": "/20/05/2020/live-webinar-covid-19-health-and-safety-and-our-rights-at-work/",
+  "title": "Live Webinar: COVID-19, health and safety and our rights at work",
+  "intro": "Join us online for a free live webinar at 4pm, Thursday 21st May. This Thursday, Dave Busfield-Birch, Free Legal Advice Centre Supervisor at Toynbee Hall, will provide an overview of employment rights in relation to health and safety in the workplace, in light of COVID. The topics covered will include section 44 (detriment for health… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/05/Services-Update-19th-March-2020.png",
+    "alt": "Live Webinar: COVID-19, Health and safety and our rights at work"
+  },
+  "template": "article",
+  "publishedAt": "2020-05-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us online for a free live webinar at 4pm, Thursday 21st May."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Thursday, Dave Busfield-Birch, Free Legal Advice Centre Supervisor at Toynbee Hall, will provide an overview of employment rights in relation to health and safety in the workplace, in light of COVID."
+        },
+        {
+          "type": "paragraph",
+          "text": "The topics covered will include section 44 (detriment for health and safety complaints), section 100(1) (dismissal for health and safety reasons) and interim relief in the event of dismissal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dave Busfield-Birch has supervised the employment law sessions at the Free Legal Advice Centre since October 2016. Prior to this, he was a volunteer employment law adviser at FLAC for seven years, during which time he also had volunteer spells at the Free Representation Unit, Public Law Project, the Constitution Unit at UCL, and as an Appropriate Adult, assisting children and vulnerable adults in police stations. In 2012, he was commissioned by Unlock to write a practical guide to employment law for people with convictions. He has also written for Xpert HR (on employment law) and Public Law (on freedom of information)."
+        },
+        {
+          "type": "paragraph",
+          "text": "It will take place on Thursday at 4pm and last for a maximum of 90mins. There will be approximately 45 mins for the presentation an opportunity for Q&A afterwards."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any questions about the webinar, please contact Free Legal Advice Centre Manager, Jasmine Tagoe.",
+          "links": [
+            {
+              "text": "Jasmine Tagoe",
+              "href": "mailto:Jasmine.Ashley-Tagoe@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sign up for a reminder here on our Eventbrite page."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The webinar will take place in Microsoft Teams, please join us at 4pm on Thursday using this link."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "audit-158-challenge-london-poverty-week-tower-hamlets-poverty-review",
+  "route": "/15/10/2021/challenge-london-poverty-week-tower-hamlets-poverty-review/",
+  "title": "London Challenge Poverty Week: Tower Hamlets Poverty Review",
+  "intro": "In May 2021 Toynbee Hall collaborated with low income residents of Tower Hamlets to identify the drivers of poverty and solutions for tackling them",
+  "template": "article",
+  "publishedAt": "2021-10-15",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read the findings from the latest poverty review by Toynbee Hall and Tower Hamlets residents"
+        },
+        {
+          "type": "paragraph",
+          "text": "This week (11th – 17th October) marks London Challenge Poverty Week, a programme of events and activities that aims to bring Londoners together to show what is being done to tackle poverty and call for the changes we need to end it. To end the week, we are launching the Tower Hamlets Poverty Review.",
+          "links": [
+            {
+              "text": "London Challenge Poverty Week",
+              "href": "https://londonchallengepovertyweek.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In May 2021 Toynbee Hall collaborated with low income residents of Tower Hamlets to identify the drivers of poverty and solutions for tackling them in Tower Hamlets and inform the wider Tower Hamlets Borough Council poverty review. Eleven peer researchers, with ages spanning 19 to 70, conducted Participatory Action Research with a focus on creating recommendations for practical changes which the council could implement to make a difference to the lives of residents living on low incomes. You can read the council’s Poverty Review here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "https://www.towerhamlets.gov.uk/News_events/2021/September-2021/Tower-Hamlets-Council-aims-to-create-a-fairer-stronger-borough-after-publishing-its-Poverty-Review.aspx"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The research identified that more than any financial intervention, low-income residents prioritised strengthening the community and community building, believing that stronger links between residents, facilitated by community spaces and activities, was key to tackling poverty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are some of the key findings from the review:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Community building was the most important thing for low income residents",
+            "Across all workshops participants remarked that they wanted more such workshops – run by those with lived experience – to take place in the future",
+            "Removal of certain services has had a negative knock-on effect on young people",
+            "The lack of youth services and opportunities in the borough contributes to a negative perception of young people",
+            "The Council should be the first advocate for wealth to be kept within Tower Hamlets",
+            "Access to spaces and affordable physical activities need to be available to residents",
+            "Complex application processes are a significant barrier to people getting help",
+            "Overcrowded and unaffordable housing is a huge detriment to residents’ quality of life with strong knock-on effects",
+            "Stigma and lack of confidence are also barriers"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“The one thing I would change about the local area is … if there’s a way of bringing everyone together so that we can all work together.”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read the Tower Hamlets Poverty Review here"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/10/Tower-Hamlets-Poverty-Review-front-cover.png",
+            "alt": "Toynbee Hall Tower Hamlets Poverty Review Oct 21"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "See our other research reports"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "audit-114-ordinary-people-extraordinary-stories-young-peoples-creative-showcase",
+  "route": "/11/04/2019/ordinary-people-extraordinary-stories-young-peoples-creative-showcase/",
+  "title": "Ordinary People, Extraordinary Stories; Young People’s Creative Showcase",
+  "intro": "Join us on us Saturday 18th May, 1:30pm – 3:00pm, for a Young People’s Creative Showcase. Recently a group of Newham Sixth Form College first year A level students took part in a two day workshop hosted by Toynbee Hall & The London Metropolitan Archives (LMA). The workshop was part of a creative writing project… Read more",
+  "template": "article",
+  "publishedAt": "2019-04-11",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us on us Saturday 18th May, 1:30pm – 3:00pm, for a Young People’s Creative Showcase."
+        },
+        {
+          "type": "paragraph",
+          "text": "Recently a group of Newham Sixth Form College first year A level students took part in a two day workshop hosted by Toynbee Hall & The London Metropolitan Archives (LMA)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The workshop was part of a creative writing project titled ‘Ordinary People Extraordinary Stories’ which will culminate in students presenting their personal responses at a Showcase event at Toynbee Hall on the afternoon of Saturday 18th May 2019. This showcase will form part of the annual Word On The Street Festival. The theme of this year’s festival is Ordinary People, so our sharing is called, Ordinary People, Extraordinary Stories."
+        },
+        {
+          "type": "paragraph",
+          "text": "The students who took part viewed and handled historical documents and artefacts from the Toynbee Hall collection which is housed at LMA. Their task now is preparing creative responses to the lives of the individuals associated with the history and development of Toynbee Hall. The students who took part found the workshops opened their eyes to the idea of history being around you and that the lives of people can be the starting point for the discovery and deeper understanding of the past."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please book your free-of-charge tickets for Saturday 18th May 1.30-3pm at Toynbee Hall, 28 Commercial Street London E1 6LS here: https://tinyurl.com/y5x4xxow",
+          "links": [
+            {
+              "text": "https://tinyurl.com/y5x4xxow",
+              "href": "https://tinyurl.com/y5x4xxow"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

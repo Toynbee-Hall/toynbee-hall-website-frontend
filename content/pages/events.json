@@ -1,27 +1,412 @@
 {
-  "slug": "events",
-  "title": "Venue Hire in the Heart of London",
-  "intro": "Host your event at Toynbee Hall, a historic and affordable East London venue minutes from Aldgate East and Liverpool Street.",
+  "slug": "audit-433-events",
+  "route": "/events/",
+  "title": "Venue hire",
+  "intro": "Hire a historic hall or a meeting room at Toynbee Hall in East London. Your booking supports our charitable work.",
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "A distinctive setting",
-      "paragraphs": [
-        "Our restored Grade II listed halls and meeting rooms combine historic character with modern facilities, accessibility and catering options. Spaces suit conferences, business meetings, community events, training, celebrations, performances and weddings. Every booking supports Toynbee Hall’s charitable work."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Host your event at an iconic venue in east London"
+        },
+        {
+          "type": "paragraph",
+          "text": "Welcome to Toynbee Hall – one of the most historic and affordable halls for hire in London. Located in the heart of East London, just minutes from Aldgate East Underground Station and Liverpool Street, we offer flexible, accessible and character-filled spaces for every kind of event."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Explore our event spaces"
+        },
+        {
+          "type": "paragraph",
+          "text": "Explore our flexible event spaces in East London – from grand halls to intimate meeting rooms. Each space combines historic character with modern facilities for an unforgettable event."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/images/home/venue-lecture-hall.jpg",
+            "alt": "The wood-panelled Lecture Hall at Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/images/home/venue-ashbee-hall.jpg",
+            "alt": "The Ashbee Hall at Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/ToynbeeC2-77-scaled-e1760359616687-300x199.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/P1043656-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/05/Bee-presenting-at-Community-Research-findings-launch-300x200.jpg",
+            "alt": "Bee presenting at Community Research findings launch"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/DFAJuly24-10-300x200.jpg",
+            "alt": "Attendees enjoy refreshments during an event in the Ashbee Hall."
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/THPanel58of89-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/THPanel88of89-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/P1043727-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/06/2019-PAR-Launch-Ashbee.jpg",
+            "alt": "Ashbee Hall room set up"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/THPanel50of89-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Take a 3D virtual tour of our venue"
+        },
+        {
+          "type": "paragraph",
+          "text": "Step inside Toynbee Hall, a Grade II listed building in the heart of East London. Since 1884, Toynbee Hall has been a hub for social innovation. Our venue combines heritage architecture with contemporary facilities, offering an inspiring environment for meetings, conferences, workshops, and private events. With easy access from Aldgate East station, our venue blends accessibility with history to create a truly unique London event experience."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Versatile venue hire for all types of events"
+        },
+        {
+          "type": "paragraph",
+          "text": "We offer flexible event spaces and halls for hire in London with capacities ranging from small private meeting rooms to large lecture halls, making us one of the most versatile venues in London. No matter what your event – our event spaces can cater to your needs."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/1-1-e1758120286897.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CONFERENCES"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seminars, lectures, training days and more"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/3-e1758120364479.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MEETINGS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Board meetings, away days and more"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/5-1-e1758120411515.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CORPORATE EVENTS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cocktail receptions, dinners and more"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/7-1-e1758120458565.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WEDDINGS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Civil ceremonies, private celebrations and more"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/9-1-e1758120553335.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PERFORMANCES"
+        },
+        {
+          "type": "paragraph",
+          "text": "Talks, book signings, film productions and more"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Trusted by organisations in every sector"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trusted by leading organisations, charities and creative brands, Toynbee Hall has hosted events for a wide range of partners including local authorities, universities, creative agencies and global firms."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/Core-Local-Trust-trusting-local-people-transparent-green-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Core Local Trust trusting local people (transparent, green) (1)"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/CBD-RGB-Primary-Green.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "CBD RGB Primary Green"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/caf-master-logo_orange.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "caf-master-logo_orange"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/QM_logo_Blue_RGB.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "QM_logo_Blue_RGB"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/YIF_Logo_Light_RGB_1200px.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "YIF_Logo_Light_RGB_1200px"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/Koreo-Logo@2x-2.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Koreo Logo@2x (2)"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "My experience at Toynbee Hall was brilliant!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We used the Lecture Hall and it was perfect for our event. We were also equipped with AV systems which were at a high spec and exactly what we needed. Ben & Whitney are a fantastic team and they were so supportive on the day of our events, nothing was too much to ask! I will be using Toynbee Hall for future events for sure as it has suitable spaces for all sorts of events such as workshops, conferences & training days."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "An event venue that gives back"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every booking at Toynbee Hall helps fund our work fighting poverty and injustice across East London. Our venue hire revenue gets reinvested into our charitable activities, and directly supports free advice services, youth programmes and community projects – making your booking part of your organisation’s social impact goals and corporate social footprint. By hiring our event spaces, you’re helping to create a fairer future for the people of east London."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Take a closer look at each space"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have 6 spaces available to hire, including two large halls and four meeting rooms."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/images/home/venue-lecture-hall.jpg",
+            "alt": "The wood-panelled Lecture Hall at Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Lecture Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "A stunning historic event space in East London, ideal for conferences, talks and corporate events with full AV and step-free access. Explore the Lecture Hall",
+          "links": [
+            {
+              "text": "Explore the Lecture Hall",
+              "href": "/the-lecture-hall/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/images/home/venue-ashbee-hall.jpg",
+            "alt": "The Ashbee Hall at Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Ashbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "A bright, versatile hall for workshops, receptions and private dinners – perfect for modern, flexible venue hire in Central London. Explore the Ashbee Hall",
+          "links": [
+            {
+              "text": "Explore the Ashbee Hall",
+              "href": "/the-ashbee-hall/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-cropped-Meeting-Room-1-Ground-Floor-1-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Meeting Rooms"
+        },
+        {
+          "type": "paragraph",
+          "text": "Modern, light-filled meeting rooms for training, interviews and board meetings, ideal for small teams in the heart of East London. Available 7 days a week. Explore the meeting rooms",
+          "links": [
+            {
+              "text": "Explore the meeting rooms",
+              "href": "/the-meeting-rooms/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/IMG_7263-Edited-scaled.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Atrium"
+        },
+        {
+          "type": "paragraph",
+          "text": "An affordable, fully equipped board room and meeting space for hire in London, ideal for workshops, interviews and small group discussions."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Get a quote for venue hire at Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our historic halls, meeting rooms and events spaces are available for hire. Please contact us to get a quote and check availability. We’ll get back to you as soon as we can."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Contact us"
+        },
+        {
+          "type": "paragraph",
+          "text": "28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "020 7392 2920",
+          "links": [
+            {
+              "text": "020 7392 2920",
+              "href": "tel:02073922920"
+            }
+          ]
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Explore our spaces",
-      "paragraphs": [
-        "The Lecture Hall is suited to conferences, talks and corporate events, with AV and step-free access. Ashbee Hall works for workshops, receptions and dinners. Meeting rooms suit training, interviews and board meetings. The venue also offers smaller spaces including the Atrium."
-      ]
-    },
-    {
-      "type": "richText",
-      "heading": "Plan your event",
-      "paragraphs": [
-        "Contact the events team for availability and a quote: call 020 7392 2920 or email events@toynbeehall.org.uk. Toynbee Hall, 28 Commercial Street, London E1 6LS."
+      "type": "contactRoutes",
+      "heading": "Venue enquiries",
+      "contacts": [
+        {
+          "name": "Venue hire team",
+          "email": "events@toynbeehall.org.uk",
+          "phone": "020 7392 2920"
+        }
       ]
     }
   ]

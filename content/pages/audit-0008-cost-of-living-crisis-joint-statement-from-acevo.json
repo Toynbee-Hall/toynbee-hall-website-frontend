@@ -1,0 +1,69 @@
+{
+  "slug": "audit-8-cost-of-living-crisis-joint-statement-from-acevo",
+  "route": "/01/09/2022/cost-of-living-crisis-joint-statement-from-acevo/",
+  "title": "Cost of living crisis: Joint statement from ACEVO",
+  "intro": "We add our voice to the many desperately alarmed charities and voluntary organisations and call on the government to urgently deliver meaningful financial support to those in greatest need.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/09/Electricity-meter-crop.jpg",
+    "alt": "An outdoor electricity metre"
+  },
+  "template": "article",
+  "publishedAt": "2022-09-01",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We add our voice to the many charities and voluntary organisations who are desperately alarmed about the cost of living crisis and call on the government to urgently deliver meaningful financial support to those in greatest need."
+        },
+        {
+          "type": "paragraph",
+          "text": "We echo ACEVO’s cost of living joint statement alongside thousands of other charities, voluntary and community organisations across the country to call for an urgent response to the cost of living crisis. Here is ACEVO’s statement:"
+        },
+        {
+          "type": "paragraph",
+          "text": "People in this country are facing an economic crisis of a magnitude not experienced for decades. Many who have until now been able to make ends meet will be pushed into poverty, and those who are already struggling will be pushed into desperation. Just as in the pandemic, this crisis will affect all of us to some degree but it will hit hardest those who are already most disadvantaged."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finding the solutions to the root causes of the crisis will take time, political will and energy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Meanwhile there is an urgent and growing need for immediate financial support to be channelled to those who need it most. We are calling on government to urgently deliver meaningful financial support to those in greatest need, directly to households and through the benefits systems that already exist to provide that support."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are also calling on government to provide targeted financial support for those charities and voluntary organisations that are on the frontline of supporting people through this crisis, and to ensure that charities, voluntary and community organisations are included in any plans to provide support to businesses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Between us, our organisations support tens of thousands of charities and voluntary organisations across the UK. Across the board charity and voluntary sector leaders are deeply worried about the level of need they are seeing in communities and their ability to keep providing essential support to respond to this crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Food banks are working flat out and community centres are planning how to provide warm hubs through the winter. Mental health charities are forecasting increases in mental health crises and suicide rates, family support services are predicting increased numbers of children being taken into care. Animal shelters are already struggling to care for increasing numbers of abandoned animals, and some disability charities are handing out cash grants to the people they support because those people cannot wait any longer for help. When people cannot afford to pay their bills the consequences go far beyond whether they can keep their lights on at night, and charities and voluntary organisations of all shapes and sizes play an essential role in keeping people afloat in such challenging times."
+        },
+        {
+          "type": "paragraph",
+          "text": "But charities and voluntary organisations are facing the same increases in fuel, energy and salary costs as any business, while their income drops as donors have to cancel direct debits and reduce their offers of goods. Many organisations are selling essential community facilities because they cannot afford to keep buildings open, or are expecting to close badly-needed services altogether."
+        },
+        {
+          "type": "paragraph",
+          "text": "They are seeing ever greater demands made of them to fill the gap as public services, the NHS and local authorities especially, struggle to deliver adequate services to communities. All the while the real value of their income drops against the inflationary pressures of running their organisations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stepping up in a crisis to support communities is what charities and voluntary organisations do best – we saw this during the pandemic. Yet charities have already drawn on their reserves, they have already become as lean and agile as they can possibly be, and they have not had the chance to recover. Many charities and voluntary organisations have little or nothing left to see them through this second tsunami of need."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is going to be a tough winter for everyone, but for those in greatest need it will be catastrophic. It is essential that urgent action is taken to support those individuals, and to ensure that they are able to access the help that they will need to get them through."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

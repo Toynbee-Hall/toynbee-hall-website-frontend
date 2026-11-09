@@ -1,0 +1,103 @@
+{
+  "slug": "audit-443-advice-faqs",
+  "route": "/free-advice/advice-faqs/",
+  "title": "Advice FAQs",
+  "intro": "FAQs Here are some answers to some of the more common questions we get about our advice services. If you’re still unsure about how we can help, you can send us a message in the form at the bottom of this page. Q. What does Toynbee Hall do? Toynbee Hall is a charity based in… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "FAQs"
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are some answers to some of the more common questions we get about our advice services. If you’re still unsure about how we can help, you can send us a message in the form at the bottom of this page."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Q. What does Toynbee Hall do?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall is a charity based in the East End of London that was created in 1884. We provide advice, wellbeing and learning services to people across London and advocate to challenge the systems and policies that cause inequality and financial hardship. We’ve been providing free, trustworthy advice to local people for over a century. In fact, our Free Legal Advice Centre is the world’s longest running free legal advice service."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Q. How can you help me?"
+        },
+        {
+          "type": "paragraph",
+          "text": "We can help people with a really wide range of issues. Whether you want to take control of a longstanding problem or urgently need help, our free and expert advice service is here for you. We offer debt and money advice that takes a personal approach to each individual case. We offer free legal advice with trained lawyers, barristers and trainee solicitors to give you high quality legal advice to help you know and understand your rights. Working with Macmillan we also provide free welfare benefits advice to people affected by cancer."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Q. How do I book an appointment?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Before we arrange an appointment for you, we need to complete an initial assessment. This is so we fully understand your circumstances and can refer you to the most appropriate adviser. To do this, drop in to our Advice Centre, Monday to Friday between 10am and 4pm (closed between 1pm and 2pm for lunch) or call 020 7392 2953. You can also email an enquiry to advice@toynbeehall.org.uk."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Q. Am I eligible for advice?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of services have geographic restrictions, such as our City Advice service (which is only available to people who live, work or study in the City of London or are a tenant of a City of London Corporation Estate) and the Macmillan Welfare Rights Service (which is available to people with a cancer diagnosis who live in the London Boroughs of Tower Hamlets, Newham, Hackney, The City of London or are patients of St Bartholomew’s, Newham University, Whipps Cross, Royal London or Homerton Hospitals.) Our debt advice and legal advice services however, are availble to anyone across London, providing you are able to travel to us for your appointment. If not, we can refer you to a nearer service. We lead a London wide partnership of debt advice providers so we can help you find your nearest advice centre. There no other requirements for any of our advice services."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Q. What do I need to bring with me?"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is often a good idea to ring our advice line prior to dropping in. This way we can advise you on what to bring to a session. However this is not essential and if you wish to just come along for an initial assessment or your appointment try to bring all relevant paperwork with you, it is better to have too much than too little and more information will help our advisor to get to the heart of the issue sooner."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Q. What will happen after you have seen or spoken to me?"
+        },
+        {
+          "type": "paragraph",
+          "text": "This very much depends on your circumstances, but we will keep you up to date with our progress and in return we ask that you keep us informed of changes and progress on your case. We need you to be as open and accurate with us as possible as this is the only way we can ensure that the correct advice is given and appropriate action is taken. If you haven’t heard anything and you want to chase something up, give us a call on 020 7392 2953 or email advice@toynbeehall.org.uk."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Contact us"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’re still not sure what you’re looking for, drop us a message and we’ll point you in the right direction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Name (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Email (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Message"
+        }
+      ]
+    }
+  ]
+}

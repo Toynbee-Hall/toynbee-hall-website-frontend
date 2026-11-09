@@ -1,0 +1,83 @@
+{
+  "slug": "audit-74-new-partnership-to-support-domestic-abuse-survivors-with-their-debts",
+  "route": "/08/03/2021/new-partnership-to-support-domestic-abuse-survivors-with-their-debts/",
+  "title": "New partnership to support domestic abuse survivors with their debts",
+  "intro": "Debt Free London partners with Engie through the Employers Against Domestic Abuse Covenant (EDAC) supporting female survivors’ to deal with debt as a result of domestic abuse.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/03/ENGIE-EDAC-Partnership.jpg",
+    "alt": "Woman accesses the new designation wepage on Debt Free London dealing with debt as a result of domestic abuse"
+  },
+  "template": "article",
+  "publishedAt": "2021-03-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Debt Free London partners with Engie through the Employers Against Domestic Abuse Covenant (EDAC) supporting female survivors’ to deal with debt as a result of domestic abuse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free London (DFL) is delighted to now be strengthening support for the Employers Against Domestic Abuse Covenant (EDAC) by launching a new partnership with ENGIE on International Women’s Day to support female survivors’ financial independence and resilience. Debt Free London now offers a new dedicated freephone service for victims/survivors to access confidential, free and impartial debt advice.",
+          "links": [
+            {
+              "text": "Debt Free London",
+              "href": "http://www.debtfree.london"
+            },
+            {
+              "text": "EDAC",
+              "href": "https://edacuk.org/"
+            },
+            {
+              "text": "ENGIE",
+              "href": "https://www.engie.com/en"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "When EDAC was launched on Human Right’s Day in December 2020, ENGIE was proud to become a signatory partner, developing and delivering a bespoke, holistic programme to support female survivors of domestic abuse into employment as part of our social value mission.",
+          "links": [
+            {
+              "text": "ENGIE",
+              "href": "https://www.engie.com/en"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "All too often, the coercive control that survivors of domestic abuse have experienced includes financial and economic abuse, limiting access to independent income and having a significant impact on women’s financial security, confidence, and their ability to rebuild their lives after leaving."
+        },
+        {
+          "type": "paragraph",
+          "text": "DFL provide free, confidential one-to-one advice and practical support to help people living in London with all types of money worries. We’re already collaborating to provide information for students at our Kingston University site and for residents in Lewisham through our contracts with Lewisham Homes."
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re excited to now be bringing these organisations together in a new initiative designed to specifically support survivors of domestic abuse. The tailored service which will be live 24/7 from March helps with everything from understanding financial options and prioritising bills, through to dealing with debt as a result of domestic abuse and is provided by a diverse team of accredited advisors. Support is also available in other languages where English is not a first language."
+        },
+        {
+          "type": "paragraph",
+          "text": "The initiative is being launched on International Women’s Day on 8th March through a designated landing page, with support accessible via phone, videocall, WhatsApp and webchat.",
+          "links": [
+            {
+              "text": "designated landing page",
+              "href": "https://debtfree.london/edac"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of our contracts with Hyde Housing, ENGIE is also marking International Women’s Day with a workshop for EDAC clients. To support access to future employment opportunities, the event will explore the five principles of self-care, to enable greater emotional wellbeing and provide coping strategies, alongside information on understanding what employers want."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield, Head of Debt Free London"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

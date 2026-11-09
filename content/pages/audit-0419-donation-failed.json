@@ -1,0 +1,9 @@
+{
+  "slug": "audit-419-donation-failed",
+  "route": "/donation-failed/",
+  "title": "Donation Failed",
+  "intro": "We're sorry, your donation failed to process. Please try again or contact site support.",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

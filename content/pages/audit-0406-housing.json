@@ -1,0 +1,174 @@
+{
+  "slug": "audit-406-housing",
+  "route": "/cityadvice/housing/",
+  "title": "Housing",
+  "intro": "adviceCity Advice provides free impartial advice to people who live, work or study in the City of London on housing. We can help people with renting problems such as deposits, repairs, landlord disputes and evictions, and we can help with housing related benefits, energy, homelessness and more. Help with cost of livingYou may be… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "City Advice provides free impartial advice to people who live, work or study in the City of London on housing. We can help people with renting problems such as deposits, repairs, landlord disputes and evictions, and we can help with housing related benefits, energy, homelessness and more.",
+          "links": [
+            {
+              "text": "City of London",
+              "href": "https://www.google.co.uk/maps/place/City+of+London,+London/@51.5150435,-0.0932851,15z/data=!3m1!4b1!4m5!3m4!1s0x487603554edf855f:0xa1185c8d19184c0!8m2!3d51.5123443!4d-0.0909852"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Help with cost of living"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You may be eligible for…"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• Cold weather payments – £25 extra a week if you’re getting certain benefits is available during the winter when the temperature is zero or below for more than seven days."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• Warm Home discount of approx. £150 – new scheme details not yet announced"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• Winter fuel payment- In the winter months pensioners can get between £100 and £300 to help pay heating bills."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• £150 energy rebate for those in council tax bands A-D"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• £326 ‘Cost of Living Payment’ for people on certain benefits"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• £324 promise of a second cost of living payment for people on certain benefits"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• £150 for people in receipt of certain disability benefits"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• £300 extra for those eligible for winter fuel payments- paid on top of the usual amount From 1 October 2022 a typical household won’t pay more than £2500 a year for gas and electricity – for 2 years. If you use more you will pay more."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For more information or to see what support you might be entitled to, call 0207 392 2919 or email city.advice@toynbeehall.org.uk."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Or you can complete the online form below and someone will get back to you."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/cropped-cropped-City-Advice-online-logo-15.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-cropped-City-Advice-online-logo-15.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice is a free advice service exclusively for people who live work or study in the City of London* or live in a City of London Estate and can help with a range of issues."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/toynebee-6-scaled.jpg",
+            "alt": "A City Advice session taking place with advisor and client say by a desk",
+            "caption": "toynebee-6"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Complete the online form"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Fill out this form and one of our advisors will get back to you"
+        },
+        {
+          "type": "paragraph",
+          "text": "Name (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phone Number (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This service is only available to people who live, work or study in the City of London Square Mile* or are tenants of the Corporation of London. Please tick the boxes that apply: (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "I live in the City of LondonI work in the City of LondonI study in the City of LondonI am a tenant of the Corporation of London"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is your home postcode?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If working, what is the postcode of your workplace?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If studying, what is the postcode of your college/university?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Summary of query/concern"
+        },
+        {
+          "type": "paragraph",
+          "text": "*The City of London Square Mile refers to the small specific area traditionally known as the ‘Square Mile’ or ‘The City’. See the map below to see if you live, work or study in the City of London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check this map to see if you’re eligible for this service.",
+          "links": [
+            {
+              "text": "Check this map to see if you’re eligible for this service.",
+              "href": "https://www.google.co.uk/maps/place/City+of+London,+London/@51.5150422,-0.1107947,14z/data=!3m1!4b1!4m5!3m4!1s0x487603554edf855f:0xa1185c8d19184c0!8m2!3d51.5123443!4d-0.0909852"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall will hold your details in accordance with the Data Protection Act. From time to time we may contact you with news about Toynbee Hall. If you would prefer not to be contacted in this way, please tick this box."
+        }
+      ]
+    }
+  ]
+}

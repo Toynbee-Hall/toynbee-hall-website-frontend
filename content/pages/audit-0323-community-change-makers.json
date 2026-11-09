@@ -1,0 +1,72 @@
+{
+  "slug": "audit-323-community-change-makers",
+  "route": "/26/11/2019/community-change-makers/",
+  "title": "Community Change Makers",
+  "intro": "On Friday 22nd November, we were joined by Year 10 and 11 students from Oaklands School who shared their ideas for change as part of the Community Change Makers project.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/11/Website-news-story-e1760360912246.jpg",
+    "alt": "Community Change Makers"
+  },
+  "template": "article",
+  "publishedAt": "2019-11-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "At Toynbee Hall, our youth work is geared to support young people in East London to make a difference in their community and tackle the issues they care about most. On Friday 22nd November, we were joined by Year 10 and 11 students from Oaklands School who shared their ideas for change as part of the Community Change Makers project."
+        },
+        {
+          "type": "paragraph",
+          "text": "Community Change Makers is a social action programme which aims to empower local young people to push for and bring out change in their local and global communities through a series of practical Toynbee Hall-led workshops, culminating in the production of a zine charting the students’ ideas."
+        },
+        {
+          "type": "paragraph",
+          "text": "The students visited Toynbee Hall to perform creative pieces and present their zine, which will be deposited in Youth Club Archive which is to become the Museum of Youth Culture. The publication was created entirely by the students with graphic novel input from our Resident Storyteller, Kashif Vaughan and will be distributed across Oaklands School and the local community."
+        },
+        {
+          "type": "paragraph",
+          "text": "Through this leadership programme, the students have learnt how to win an argument, compel others to listen to them, and to work effectively in teams to represent issues that are important to them. The workshops culminated in a performance in our historic Ashbee Hall, where the students shared their bold, powerful ideas and challenges around equality, opportunities, support for mental health and rethinking education during a series of impassioned performances."
+        },
+        {
+          "type": "paragraph",
+          "text": "We hope that they now feel well equipped to turn their ideas into campaigns for positive social change that will have a long lasting impact, and that they share their skills and passion with other young people and help to mentor them."
+        },
+        {
+          "type": "paragraph",
+          "text": "We support young people between the ages of 15 and 25 to do this through our new youth project, ‘When We Speak’, that will directly support young people to run their own local project by providing grant money, training & coaching."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more about ‘When We Speak’."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Donate to the Big Give between 3rd Dec and 10th Dec and see your donation doubled!"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/11/TBG-Logo-Horisonal-Black-Details@2x-1024x272.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "You can help us to support young people to run their own social action projects and create lasting social change in East London By donating during the Big Give Christmas Challenge, the UK’s largest online match-funding campaign. By donating to us during the Big Give, you will see your donation doubled at no extra cost to you. Every penny donated will go towards our youth work. Find out more and donate here.",
+          "links": [
+            {
+              "text": "Find out more and donate here",
+              "href": "https://donate.thebiggive.org.uk/campaign/a051r00001NosRTAAZ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

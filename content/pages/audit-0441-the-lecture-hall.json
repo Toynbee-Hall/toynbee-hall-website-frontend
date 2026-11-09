@@ -1,0 +1,430 @@
+{
+  "slug": "audit-441-the-lecture-hall",
+  "route": "/events/the-lecture-hall/",
+  "title": "Lecture Hall NEW 2025",
+  "intro": "The Lecture Hall – Venue Hire in Central London﻿ Historic event space for conferences and corporate events in London Located in Toynbee Hall’s Grade II listed building, The Lecture Hall combines Victorian character with modern AV facilities – perfect for corporate events, conferences, lectures, receptions and private venue hire in East London. Blending heritage architecture with… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Lecture Hall – Venue Hire in Central London﻿"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Historic event space for conferences and corporate events in London"
+        },
+        {
+          "type": "paragraph",
+          "text": "Located in Toynbee Hall’s Grade II listed building, The Lecture Hall combines Victorian character with modern AV facilities – perfect for corporate events, conferences, lectures, receptions and private venue hire in East London. Blending heritage architecture with modern AV facilities, it’s ideal for organisations looking for a memorable and flexible space in the heart of London’s East End."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Explore the Lecture Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Lecture Hall provides a bright, flexible layout with period character and excellent natural light. Ideal for conferences, away days, training sessions, presentations, networking events, or community gatherings."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-ToynbeeHall-LectureHall2-300x199.jpeg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/Lecture-Hall-Ground-Floor-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/IMG_4784-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/IMG_2029-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/P1043727-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/P1043656-300x200.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/06/cropped-Lecture-Speaker-Lecturen-Reverse-Landscape-Windows-Theatre-e1759851600810-300x205.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/06/ToynbeeC2-84.jpg",
+            "alt": "catering"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Take a 3D virtual tour of our venue"
+        },
+        {
+          "type": "paragraph",
+          "text": "Discover one of London’s most inspiring historic venues, restored with contemporary technology for a seamless event experience. The Lecture Hall forms part of Toynbee Hall’s beautifully restored Victorian estate – where heritage design meets 21st-century functionality. Discover elegant wood panelling, high ceilings and adaptable staging options that give every event a professional finish."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Key Features"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every Lecture Hall hire includes key features to ensure a smooth and seamless event experience at Toynbee Hall"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/3-1-e1758716453602.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "3"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CAPACITY: 40-100"
+        },
+        {
+          "type": "paragraph",
+          "text": "This room hosts 40–100 people, suitable for conferences, receptions or away days."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/6-1-e1758716497795.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "6"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "111 SQM"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our largest hall for hire. Over 100 square metres of bright open space."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/9-2-e1758716532582.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "9"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "RELIABLE WIFI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reliable Wi-Fi enabling connectivity for hybrid meetings and livestreams"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/12-e1758716542274.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "12"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TABLES & CHAIRS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cabaret, theatre, classroom, banquet, or flexible seating layouts available"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/15-e1758716554622.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "15"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "STEP FREE ACCESS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fully accessible space, located on the ground floor with step-free access"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Add-on’s"
+        },
+        {
+          "type": "paragraph",
+          "text": "With years of hands-on event experience in hospitality, our dedicated team offers a wide range of event support add-ons to help make your event planning experience as smooth as possible."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-Event-catering-2.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Event-catering-2"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CATERING OPTIONS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tea and coffee, lunches, dinners, beverages, snacks, and more"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-P1043698-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "P1043698"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AV & TECH"
+        },
+        {
+          "type": "paragraph",
+          "text": "Microphones, lecterns, projectors, LCD screens, and more"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-SCP00024-Edit-1-1-1-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "SCP00024-Edit-1-1"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EXCLUSIVE USE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hire our entire venue for private functions, or multi-room hire available"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-IMG_4792-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "IMG_4792"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EVENT PRODUCTION"
+        },
+        {
+          "type": "paragraph",
+          "text": "Event coordination services from our specalist in-house event team"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "My experience at Toynbee Hall was brilliant!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We used the Lecture Hall and it was perfect for our event. We were also equipped with AV systems which were at a high spec and exactly what we needed. Ben & Whitney are a fantastic team and they were so supportive on the day of our events, nothing was too much to ask! I will be using Toynbee Hall for future events for sure as it has suitable spaces for all sorts of events such as workshops, conferences & training days."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Join hundreds that have hosted their event with us"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trusted by businesses, corporations, universities, non-profit organisations and charities seeking professional event venue hire in London."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/Core-Local-Trust-trusting-local-people-transparent-green-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Core Local Trust trusting local people (transparent, green) (1)"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/CBD-RGB-Primary-Green.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "CBD RGB Primary Green"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/YIF_Logo_Light_RGB_1200px.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "YIF_Logo_Light_RGB_1200px"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/QM_logo_Blue_RGB.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "QM_logo_Blue_RGB"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/Koreo-Logo@2x-2.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Koreo Logo@2x (2)"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/caf-master-logo_orange.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "caf-master-logo_orange"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Get a quote for venue hire at Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our historic halls and fantastic meeting and events spaces are available for hire. Complete the enquiry form to check availability and recieve a tailored quote. We’ll get back to you as soon as we can."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Call 020 7392 2920"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Contact Us"
+        },
+        {
+          "type": "paragraph",
+          "text": "28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "020 7392 2920",
+          "links": [
+            {
+              "text": "020 7392 2920",
+              "href": "tel:02073922920"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Take a closer look at each space"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have 6 spaces available to hire, including two large halls and four meeting rooms of varying sizes."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-ToynbeeHall-LectureHall2-1.jpeg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Lecture Hall"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/Toynbee-Hall-Marek-Sikora-Photography-Large-3-scaled.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Ashbee Hall"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-Meeting-Room-1-Ground-Floor-1-scaled-2.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Meeting Rooms"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/IMG_7263-Edited-scaled.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Atrium"
+        }
+      ]
+    }
+  ]
+}

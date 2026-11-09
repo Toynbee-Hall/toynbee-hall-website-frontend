@@ -1,0 +1,65 @@
+{
+  "slug": "audit-211-an-update-on-our-services",
+  "route": "/19/03/2020/an-update-on-our-services/",
+  "title": "An update on our services",
+  "intro": "Due to the current situation, we’re very sorry to have had to stop all face-to-face advice and Community Centre activities for the moment. We know that now more than ever people may need a listening ear or some help and advice, so we will be trying to keep contact with our local friends and neighbours… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/03/Services-Update-19th-March-2020.png",
+    "alt": "Services Update 19th March 2020"
+  },
+  "template": "article",
+  "publishedAt": "2020-03-19",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Due to the current situation, we’re very sorry to have had to stop all face-to-face advice and Community Centre activities for the moment."
+        },
+        {
+          "type": "paragraph",
+          "text": "We know that now more than ever people may need a listening ear or some help and advice, so we will be trying to keep contact with our local friends and neighbours and give as much support as we can."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are running a limited advice service restricted to phone and email, and while we can’t at the moment offer legal advice appointments, we will do our very best to help you if you need advice or information about your situation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our debt advisers, City Advice and Macmillan Cancer Welfare Benefits teams are all working and if you need to speak to one of our team, call us and we will arrange a phone appointment at a convenient time. For our Community Money Mentors courses and When We Speak youth programme, we are severely limited in what we can do at the moment but get in touch if you have urgent questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you want to talk to one of our team or need any help or advice please do get in touch and we’ll do our best to help. We’d love to hear from you."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Call: 020 7392 2953"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Email: advice@toynbeehall.org.uk"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Or complete our online form"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Please consider donating to us at this time"
+        },
+        {
+          "type": "paragraph",
+          "text": "For all our friends and supporters who don’t need our services themselves, please do consider donating to us at this time. We are absolutely committed to still being here for the community around us, and any help you can give us to ensure that is possible would be so valuable. Thank you."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

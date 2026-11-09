@@ -1,0 +1,71 @@
+{
+  "slug": "audit-416-donate-paypal",
+  "route": "/donate-paypal/",
+  "title": "Donate – Paypal",
+  "intro": "A donation to Toynbee Hall can make a world of difference to the individuals, families and communities that we work with. Help us to create a fairer future with an end to poverty, injustice and inequality. Families and older people on low incomes are among the hardest hit by huge increases to the cost of… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/cropped-toynebee-6-web-1.jpg",
+    "alt": "two women helping each other in a Linkage Plus sewing class"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A donation to Toynbee Hall can make a world of difference to the individuals, families and communities that we work with."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Help us to create a fairer future with an end to poverty, injustice and inequality."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/03/cropped-toynebee-50.jpg",
+            "alt": "Local residents taking part in an seated exercise session in the Toynbee Hall Community Centre",
+            "caption": "cropped-toynebee-50.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/cropped-toynebee-6-web-1.jpg",
+            "alt": "two women helping each other in a Linkage Plus sewing class",
+            "caption": "cropped-toynebee-6-web-1.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/07/cropped-cropped-homepage-slider-i-am-looking-for.jpg",
+            "alt": "Yesmin speaks during panel discussion at Financial health exchange event",
+            "caption": "cropped-cropped-homepage-slider-i-am-looking-for.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Families and older people on low incomes are among the hardest hit by huge increases to the cost of living. Where we work in Tower Hamlets, East London, half of all children and elderly people live in poverty; this means the cost-of-living crisis is putting further pressure onto families and households who already struggle to make ends meet."
+        },
+        {
+          "type": "paragraph",
+          "text": "With your support we can help people on low incomes save money, claim benefits, access a range of advice services while supporting people to improve their skills, wellbeing and make social connections in the local area."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Make a donation via PayPal"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can understand more about how we use personal data by visiting our Data Protection, Privacy and GDPR Page."
+        }
+      ]
+    }
+  ]
+}

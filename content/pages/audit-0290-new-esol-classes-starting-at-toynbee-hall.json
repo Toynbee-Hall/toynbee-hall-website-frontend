@@ -1,0 +1,113 @@
+{
+  "slug": "audit-290-new-esol-classes-starting-at-toynbee-hall",
+  "route": "/24/07/2019/new-esol-classes-starting-at-toynbee-hall/",
+  "title": "New ESOL Classes starting at Toynbee Hall",
+  "intro": "Come along for a chat and an assessment on Wednesday 28th August 2019, 9.30am Do you want to improve your English skills, become more confident and meet some new people? Our English for speakers of other langauges (ESOL) course is starting this September. If you want to get better at speaking, listening, reading and writing… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/07/IMG_3560.jpg",
+    "alt": "New ESOL classes starting at Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2019-07-24",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Come along for a chat and an assessment on Wednesday 28th August 2019, 9.30am"
+        },
+        {
+          "type": "paragraph",
+          "text": "Do you want to improve your English skills, become more confident and meet some new people? Our English for speakers of other langauges (ESOL) course is starting this September."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you want to get better at speaking, listening, reading and writing in English, come along for a chat to see if this is the right course for you."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What will you learn?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Speaking, Listening, Reading and Writing in English",
+            "Improve communication skills & confidence building",
+            "A chance to meet new people & discover more about Toynbee Hall",
+            "Share stories",
+            "Get a New City College & Toynbee Hall New Readers & Writers",
+            "Certificate"
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/07/IMG_3588-1024x683.jpg",
+            "alt": "Our last ESOL group at their graduation ceremony"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Where is the class?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Toynbee Hall, 28 Commercial Street, London E1 6LS How to find us"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Will I do an exam?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "No"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "When do the classes start?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "September"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What do you need to do?"
+        },
+        {
+          "type": "paragraph",
+          "text": "visit https://www.tower.ac.uk/sign-up-or-login or come along for an assessment at the following time:",
+          "links": [
+            {
+              "text": "https://www.tower.ac.uk/sign-up-or-login",
+              "href": "https://www.tower.ac.uk/sign-up-or-login"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For more information please email lisa.wilkinson@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

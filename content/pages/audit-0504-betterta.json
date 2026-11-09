@@ -1,0 +1,101 @@
+{
+  "slug": "audit-504-betterta",
+  "route": "/research/betterta/",
+  "title": "Reshaping Temporary Accommodation with Young Disabled Londoners",
+  "intro": "Reshaping Temporary Accommodation for Young Disabled People Peer-led research for housing justice in East and North-East London Too often young disabled people in London are placed in poor quality, unsafe temporary accommodation (TA) with no say, no stability, and no accountability from the system. We’re working to change that. We’re partnering with Disability Rights UK… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/cropped-pexels-shtefutsa-17938493-scaled-1.jpg",
+    "alt": "Reshaping Temporary Accommodation with Young Disabled Londoners — Toynbee Hall"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Reshaping Temporary Accommodation for Young Disabled People"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Peer-led research for housing justice in East and North-East London"
+        },
+        {
+          "type": "paragraph",
+          "text": "Too often young disabled people in London are placed in poor quality, unsafe temporary accommodation (TA) with no say, no stability, and no accountability from the system. We’re working to change that."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/cropped-pexels-shtefutsa-17938493-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "pexels-shtefutsa-17938493"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What’s different about this research?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Peer researchers will from the very start help set the agenda, design the research, analyse the findings, and lead our campaigning efforts, speaking directly to councils, MPs, media and the wider public."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Led by Lived Experience"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re working with paid peer researchers, young disabled people with direct experience of temporary accommodation, as equal partners throughout the project."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Rooted in Community"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our work focuses on the eight East London boroughs (Barking & Dagenham, City of London, Hackney, Havering, Newham, Redbridge, Tower Hamlets, and Waltham Forest) where the need is urgent and the potential for change is high."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Action-Oriented"
+        },
+        {
+          "type": "paragraph",
+          "text": "This research will lead to campaigning, advocacy, and policy engagement at local, regional, and national levels."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

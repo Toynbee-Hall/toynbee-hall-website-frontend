@@ -1,0 +1,157 @@
+{
+  "slug": "audit-401-april2024",
+  "route": "/cityadvice/april2024/",
+  "title": "City Advice: April 2024 Pay and Benefit Changes",
+  "intro": "April 2024Changes to pay, benefits and employment laws are coming into effect this April. National Minimum Wage/National Living WageThe National Living Wage (NLW) for adults aged 21 and over will increase to 11.44. This also means that the NLW now applies to all over 21, not just over-23s. The revised hourly National Minimum Wage rates… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/cropped-Benefit-form-1.png",
+    "alt": "Filling in benefit form"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Changes to pay, benefits and employment laws are coming into effect this April."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "National Minimum Wage/National Living Wage"
+        },
+        {
+          "type": "paragraph",
+          "text": "The National Living Wage (NLW) for adults aged 21 and over will increase to 11.44. This also means that the NLW now applies to all over 21, not just over-23s. The revised hourly National Minimum Wage rates that also take effect on 1 April 2024 are: • Workers aged 18-20: 8.60 • Workers aged 16-17: 6.40 • Apprentices: 6.40"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Increased benefit rates for 2024-25"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 6 April 2024, Statutory Sick Pay will increase from 109.40 to 116.75 per week. From 7 April 2024, SMP, SAP, SPP, SPBP and SSPP (Maternity, paternity, etc) will increase from 172.48 to 184.03 per week."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Tribunal compensation limits"
+        },
+        {
+          "type": "paragraph",
+          "text": "New limits on certain Employment Tribunal awards will come into force on 6 April. The two key changes are: • The limit on the compensatory award for “ordinary” unfair dismissal will increase from 105,707 to 115,115 • The maximum amount of a week’s pay for calculating statutory redundancy payments and the unfair dismissal basic award increases from 643 to 700 These new limits will apply to dismissals that take effect on or after 6 April."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Flexible working"
+        },
+        {
+          "type": "paragraph",
+          "text": "Changes to the flexible working regime come into force. Key changes include making the right to request flexible working a “day one” right (meaning no length of service is required) and allowing employees to make two formal requests in any 12-month period, not just one."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Greater protection from redundancy for pregnant women and parents"
+        },
+        {
+          "type": "paragraph",
+          "text": "The current redundancy protection period for women on maternity leave is being extended to include pregnancy and for 18 months after childbirth. Similar enhanced protection will apply for those returning from adoption leave and shared parental leave."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Carer’s leave"
+        },
+        {
+          "type": "paragraph",
+          "text": "A new statutory right to take one week’s unpaid carer’s leave per year for the purpose of caring for a dependant with a long-term care need."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you live, work or study in the City of London Square Mile and have any concerns or need advice on any of these changes, please contact City Advice free expert advice."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Call 020 7392 2919 or go to www.toynbeehall.org.uk/cityadvice."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "If you live, work or study in the City of London Square Mile*, contact City Advice and we can provide free, expert advice on a range of issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "* What is the City of London Square Mile? Check this map to see if you’re eligible for this service.",
+          "links": [
+            {
+              "text": "Check this map",
+              "href": "https://www.google.co.uk/maps/place/City+of+London,+London/@51.5150422,-0.1107947,14z/data=!3m1!4b1!4m5!3m4!1s0x487603554edf855f:0xa1185c8d19184c0!8m2!3d51.5123443!4d-0.0909852"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Name (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phone Number (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This service is only available to people who live, work or study in the City of London Square Mile* or are tenants of the Corporation of London. Please tick the boxes that apply: (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "I live in the City of LondonI work in the City of LondonI study in the City of LondonI am a tenant of the Corporation of London"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is your home postcode?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If working, what is the postcode of your workplace?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If studying, what is the postcode of your college/university?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Summary of query/concern"
+        },
+        {
+          "type": "paragraph",
+          "text": "*The City of London Square Mile refers to the small specific area traditionally known as the ‘Square Mile’ or ‘The City’. See the map below to see if you live, work or study in the City of London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check this map to see if you’re eligible for this service.",
+          "links": [
+            {
+              "text": "Check this map to see if you’re eligible for this service.",
+              "href": "https://www.google.co.uk/maps/place/City+of+London,+London/@51.5150422,-0.1107947,14z/data=!3m1!4b1!4m5!3m4!1s0x487603554edf855f:0xa1185c8d19184c0!8m2!3d51.5123443!4d-0.0909852"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall will hold your details in accordance with the Data Protection Act. From time to time we may contact you with news about Toynbee Hall. If you would prefer not to be contacted in this way, please tick this box."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "audit-296-walk-in-their-shoes-become-a-volunteer-tour-guide",
+  "route": "/25/03/2019/walk-in-their-shoes-become-a-volunteer-tour-guide/",
+  "title": "Walk in their shoes – Become a Volunteer Tour Guide",
+  "intro": "We are looking for volunteers who would like to become a Toynbee Hall Volunteer Tour Guide, and join our unique Walk In Their Shoes free-of-charge training programme. Toynbee Hall is based in an area of the East End that is rich in fascinating stories from the past. It’s a haven for tour guides and attracts… Read more",
+  "template": "article",
+  "publishedAt": "2019-03-25",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are looking for volunteers who would like to become a Toynbee Hall Volunteer Tour Guide, and join our unique Walk In Their Shoes free-of-charge training programme."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall is based in an area of the East End that is rich in fascinating stories from the past. It’s a haven for tour guides and attracts visitors from all over the world curious about the area’s history. Therefore we want to tell local people’s stories of social change from the past 135 years. We need you to bring it to life."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The aim of the project is to research and write a compelling 1 hour guided social history walk around the local area. This will be led by volunteer tour guides. The walk will offer an empowering insight into the rich cultural legacy and living history and builds on local knowledge of the area and stories of local people. The tour will reflect the history of Toynbee Hall and the diversity of and immigration to the Spitalfields/Whitechapel area."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For an informal conversation about becoming a Tour Guide please email Theresa.Davies@toynbeehall.org.uk our P/T Heritage Volunteer Coordinator with your details or phone 0207 3922986 or visit www.toynbeehall.org.uk for further details about Toynbee Hall."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/03/Walk-in-their-shoes-poster-718x1024.jpg",
+            "alt": "Interested in becoming a volunteer tour guide?"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

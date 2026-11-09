@@ -1,0 +1,101 @@
+{
+  "slug": "audit-161-pivotal-moment-as-banks-consumer-groups-post-office-and-link-join-forces-to-help-protect-cash-services",
+  "route": "/15/12/2021/pivotal-moment-as-banks-consumer-groups-post-office-and-link-join-forces-to-help-protect-cash-services/",
+  "title": "Pivotal moment as banks, consumer groups, Post Office and LINK join forces to help protect cash services",
+  "intro": "A landmark agreement has been reached between the major retail banks to share services, ensuring long-term cash availability across the UK",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/10/iStock_000087314921_Full.jpg",
+    "alt": "London Challenge Poverty Week - Income blog"
+  },
+  "template": "article",
+  "publishedAt": "2021-12-15",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A landmark agreement has been reached between the major retail banks to share services, ensuring long-term cash availability across the UK"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "UK banks agree to share services to ensure communities have fair access to cash",
+            "Communities cash needs to be independently assessed by LINK (which already fulfils this role for ATMs), with the power to commission services to meet community cash needs",
+            "Shared banking hubs to be rolled out alongside free ATMs, enhanced Post Office services, and cashback without purchase"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The collaboration, achieved through the Access to Cash Action Group (CAG) (all major retail banks, Age UK, Toynbee Hall and the Federation of Small Businesses (FSB)), marks the beginning of a long-term commitment to ensuring widespread cash and banking access for communities where services are limited.",
+          "links": [
+            {
+              "text": "Access to Cash Action Group (CAG)",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/CACP_Report_FINAL-for-sharing.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Cash use has been in decline in recent years – a trend accelerated and exacerbated by the pandemic – with current use 35% below pre-Covid levels. However, millions of people across the UK still use cash daily. Banks and consumer groups alike recognise the need to ensure that consumers and small businesses who need cash can continue to withdraw and deposit it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under the new model, any community that faces the closure of a core cash service, such as a bank branch or ATM, will have its needs independently assessed by LINK. LINK will then determine whether a new solution should be provided to meet that community’s cash needs. LINK, which already provides ATMs where communities need them, will commission services to meet the cash needs of the community as a whole – not just the customers or members of one bank or building society. Communities will also be able to request a review of their community’s needs from the summer of 2022. LINK has already assessed most communities where closures have taken place over the past year. As a result, we can announce now that the following new services will be provided in 2022, with announcements of further services to come in early 2022:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "11 free-to-use ATMs free-to-use ATMs in Betchworth (Surrey), Bo’ness (West Lothian), Brentwood (Essex), Hugh Town (Isles of Scilly), Low Fell (Tyne and Wear), Merthyr Vale (Mid Glamorgan), Mosborough (South Yorkshire), Norwich (Norfolk), Putney (London), Woolhampton (Berkshire), and Woodbury (Devon).",
+            "Post Office is ready to deliver new and improved, dedicated cash services in up to 30 branches",
+            "Shared banking hubs in Acton (West London), Brixham (Devon), Carnoustie (Angus), Knaresborough (North Yorks) and Syston (Leicestershire) – building on the experience of the existing hubs piloted in Rochford, Essex and Cambuslang, South Lanarkshire"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These new shared services will complement other industry initiatives to support cash and banking, such as ‘cashback without purchase’ – being rolled out to 2,000 retailers by the end of 2021, mobile branches and pop-up services, as well as services for people who need to make payments in their own homes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The decision to create shared banking services follows regional pilots across eight UK communities. As part of this, shared banking hubs were piloted in Rochford, Essex and Cambuslang, South Lanarkshire. The full report of the pilots is also published today.",
+          "links": [
+            {
+              "text": "full report",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/CACP_Report_FINAL-for-sharing.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This work, of the Cash Action Group (CAG), was convened earlier this year by UK Finance and chair Natalie Ceeney CBE, author of the Access to Cash Review, and made up of senior representatives from across the financial services industry, leading consumer groups, FSB, LINK and the Post Office."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sian Williams, Toynbee Hall’s Director of Policy and Innovation, has led our financial inclusion programmes since 2009, and sits on the Cash Action Group to help ensure that the solutions are truly effective in meeting people’s needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Natalie Ceeney CBE, Chair of CAG and the Community Access to Cash Pilots:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read Community Access to Cash Pilots Report here",
+          "links": [
+            {
+              "text": "Read Community Access to Cash Pilots Report her",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/CACP_Report_FINAL-for-sharing.pdf"
+            },
+            {
+              "text": "e",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/CACP_Report_FINAL-for-sharing.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

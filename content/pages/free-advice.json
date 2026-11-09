@@ -1,28 +1,190 @@
 {
-  "slug": "free-advice",
+  "slug": "audit-442-free-advice",
+  "route": "/free-advice/",
   "title": "Help and Advice",
-  "intro": "Free, expert and confidential advice for people facing money worries, benefit issues, housing problems and employment concerns.",
+  "intro": "Free advice and support with debt, benefits, housing, employment, and consumer issues.",
+  "image": {
+    "src": "/images/live-site/advice.jpg",
+    "alt": "Private advice booths at the Toynbee Hall Advice Centre"
+  },
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "Debt and money",
-      "paragraphs": [
-        "Debt Free Advice is here to help with any money worries. Call 0800 808 5701, Monday to Friday, 10am–4pm, or request a callback."
+      "type": "cardGrid",
+      "heading": "I’m looking for help with…",
+      "items": [
+        {
+          "title": "Debt and Money",
+          "description": "Free, expert debt advice you can trust. Debt Free Advice is here to help with any money worries.",
+          "href": "/debt-advice/",
+          "linkLabel": "More info",
+          "theme": "blue",
+          "image": {
+            "src": "/images/advice-icons/debt.svg",
+            "alt": ""
+          }
+        },
+        {
+          "title": "Benefits",
+          "description": "We can help you with applications for a range of benefits and help you maximise your income.",
+          "href": "/free-advice/benefits/",
+          "linkLabel": "More info",
+          "theme": "blue",
+          "image": {
+            "src": "/images/advice-icons/benefits.svg",
+            "alt": ""
+          }
+        },
+        {
+          "title": "Housing",
+          "description": "If you have a housing issue, our Free Legal Advice Centre may be able to help.",
+          "href": "/free-advice/housing/",
+          "linkLabel": "More info",
+          "theme": "blue",
+          "image": {
+            "src": "/images/advice-icons/housing.svg",
+            "alt": ""
+          }
+        },
+        {
+          "title": "Employment",
+          "description": "We can help you understand and exercise your employment rights.",
+          "href": "/free-advice/employment/",
+          "linkLabel": "More info",
+          "theme": "blue",
+          "image": {
+            "src": "/images/advice-icons/employment.svg",
+            "alt": ""
+          }
+        },
+        {
+          "title": "Consumer advice",
+          "description": "We can offer consumer advice on goods and services where things have gone wrong.",
+          "href": "/cityadvice/consumer-rights/",
+          "linkLabel": "More info",
+          "theme": "blue",
+          "image": {
+            "src": "/images/advice-icons/consumer.svg",
+            "alt": ""
+          }
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Benefits",
+      "type": "infoPanel",
+      "theme": "orange",
+      "heading": "Are you a City of London resident?",
       "paragraphs": [
-        "We can help with benefit applications and help you maximise your income."
+        "We have a dedicated City Advice service for residents or tenants of the City of London."
+      ],
+      "link": {
+        "label": "Explore City Advice",
+        "href": "/cityadvice/"
+      }
+    },
+    {
+      "type": "cardGrid",
+      "heading": "How to get advice",
+      "items": [
+        {
+          "title": "Send us an email",
+          "description": "Email advice@toynbeehall.org.uk with your name, address, and a summary of the issue. A team member will get back to you.",
+          "href": "mailto:advice@toynbeehall.org.uk",
+          "linkLabel": "Email us",
+          "theme": "blue",
+          "image": {
+            "src": "/images/advice-icons/email.svg",
+            "alt": ""
+          }
+        },
+        {
+          "title": "Give us a call",
+          "description": "Call 0800 808 5701, Monday to Friday, 10am–4pm.",
+          "href": "tel:08008085701",
+          "linkLabel": "Call 0800 808 5701",
+          "theme": "blue",
+          "image": {
+            "src": "/images/advice-icons/phone.svg",
+            "alt": ""
+          }
+        },
+        {
+          "title": "Complete the online form",
+          "description": "Send us a message and a member of our team will get back to you.",
+          "href": "https://www.toynbeehall.org.uk/free-advice/",
+          "linkLabel": "Open the advice form",
+          "theme": "blue",
+          "image": {
+            "src": "/images/advice-icons/online-form.svg",
+            "alt": ""
+          }
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Housing and employment",
-      "paragraphs": [
-        "Our Free Legal Advice Centre may be able to help with housing issues and employment rights. Email advice@toynbeehall.org.uk with your name, address and a summary of your issue."
+      "type": "linkList",
+      "heading": "More ways to get help",
+      "items": [
+        {
+          "label": "Request a debt advice callback",
+          "href": "https://debtfreeadvice.com/getadvice"
+        },
+        {
+          "label": "Housing advice",
+          "href": "/free-advice/housing/"
+        },
+        {
+          "label": "Employment advice",
+          "href": "/free-advice/employment/"
+        },
+        {
+          "label": "Advice FAQs",
+          "href": "/free-advice/advice-faqs/"
+        },
+        {
+          "label": "Macmillan Benefits Advice",
+          "href": "/macmillan-benefits-advice/"
+        }
       ]
+    },
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our advice is always free and confidential"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Here’s what some of our clients say:"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "When I received a letter from the County Court about my utility debt, I was really stressed. Debt Free Advice helped to reduce the charge from £2,000 to £800. We also came to an arrangement to pay back the rest of the debt in an affordable monthly chunk. This gave me a massive relief. I want people to know that there’s help out there, however hard you think it is.”"
+    },
+    {
+      "type": "quote",
+      "quote": "We can’t thank City Advice enough for what they’ve done for me and my husband. Their help with our Personal Independence Payment claims was a lifeline for us. Because of this, our total household’s income has gone up by £12,646.40 per year. We’re forever grateful to them, it has made such a difference to our life”."
+    },
+    {
+      "type": "quote",
+      "quote": "I can’t thank you enough for your kindness and assistance. I have so much going on in my head at the moment, as well as managing my loved ones fears, that all this paperwork and wondering how I will manage financially is somewhat scary. I wonder if you know how valued you are to all you help?”"
+    },
+    {
+      "type": "infoPanel",
+      "heading": "Contact the advice team",
+      "paragraphs": [
+        "If you’re unsure where to start, use the advice form and the team can point you in the right direction."
+      ],
+      "link": {
+        "label": "Open the advice form",
+        "href": "https://www.toynbeehall.org.uk/free-advice/"
+      }
     }
   ]
 }

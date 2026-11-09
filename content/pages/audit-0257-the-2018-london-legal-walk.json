@@ -1,0 +1,88 @@
+{
+  "slug": "audit-257-the-2018-london-legal-walk",
+  "route": "/22/05/2018/the-2018-london-legal-walk/",
+  "title": "The 2018 London Legal Walk",
+  "intro": "On a beautiful Monday evening in Central London, walkers from Toynbee Hall took part in the London Legal Support Trust’s annual 10km legal walk to raise funds for free legal advice centres across London and the South East. We walked in support of our Free Legal Advice Centre (FLAC) which celebrates its 120th anniversary this… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/News-Story-Pic-1-e1538669937153.jpg",
+    "alt": "The 2018 London Legal Walk — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-05-22",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "We walked in support of our Free Legal Advice Centre (FLAC) which celebrates its 120th anniversary this year, making it world’s longest continually running free legal advice service."
+        },
+        {
+          "type": "paragraph",
+          "text": "FLAC advised over 1,500 people last year on a range of issues with housing and employment proving to be the most common. With the forecast growth in the number of people relying on the private rented sector, and an increasing number of people in low waged and insecure jobs, the demand for advice continues to grow. All the funds from events like the Legal Walk go a long way to help ease some of the increasing pressure on services such as FLAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "We were joined by on the walk by staff (and Squeak the dog), volunteers, trustees and FLAC Ambassador Sir Nicolas Bratza, the former President of the European Court of Human Rights and a committed advocate for FLAC and free legal advice services. We were also delighted to be joined by teams from long term FLAC supporters Clearly Gottlieb, who are kindly donating 50% of their total raised to us, Allen and Overy and HFW who are also making contributions."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "http://212.48.91.208/toynbeehall.org.uk/wp-content/uploads/2018/06/News-Story-Pic-2.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "In total, 750 teams made up of 13,000 walkers took part in the walk in support of access to justice and altogether, the walk is estimated to raise up to £750,000."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you to everyone who took part in the walk, donated to us or shared on social media. This all contributed to fantastic team effort which has seen us raise almost £2,000 so far and counting."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you couldn’t come along and would like to help support our Free Legal Advice Centre, it’s not too late to make a donation on our giving page.",
+          "links": [
+            {
+              "text": "our giving page",
+              "href": "https://uk.virginmoneygiving.com/fundraiser-display/showROFundraiserPage?userUrl=ToynbeeHalllegalwalk18&pageUrl=4"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can see photos from the walk in our photo gallery.",
+          "links": [
+            {
+              "text": "You can see photos from the walk in our photo gallery.",
+              "href": "http://212.48.91.208/toynbeehall.org.uk/20/05/2018/2018-london-legal-walk-photo-gallery/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "#WhyWeWalk"
+        },
+        {
+          "type": "paragraph",
+          "text": "During we walk, we asked some of the team, why they were walking today and why services like FLAC are so important. Here’s what they had to say:"
+        },
+        {
+          "type": "quote",
+          "quote": "I’m walking because legal representation is a right of every citizen in the UK and that’s why I wanted to join my employer Toynbee Hall in the London Legal Walk today.” Carl Packman, Research and Good Practice Manager"
+        },
+        {
+          "type": "quote",
+          "quote": "I’m walking because today is a really important day for the Free Legal Advice Centre at Toynbee Hall. I want to show my support for a service that has 120 years of experience which is a fantastic achievement. I want raise more support for them so we can continue to do it for another 120 years.” Wais Ali, Volunteer Coordinator"
+        },
+        {
+          "type": "quote",
+          "quote": "I’m walking today because I think the London Legal Walk is a really good opportunity every year to raise money for legal aid especially since it’s faced so many cuts in recent years.” Sahwi Mohammed-Xubse, Law Student and Citizens Advice Volunteer"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

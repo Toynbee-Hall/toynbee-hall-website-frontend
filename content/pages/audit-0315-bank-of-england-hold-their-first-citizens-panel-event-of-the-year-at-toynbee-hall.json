@@ -1,0 +1,57 @@
+{
+  "slug": "audit-315-bank-of-england-hold-their-first-citizens-panel-event-of-the-year-at-toynbee-hall",
+  "route": "/26/04/2019/bank-of-england-hold-their-first-citizens-panel-event-of-the-year-at-toynbee-hall/",
+  "title": "Bank of England hold their first Citizens Panel event of the year at Toynbee Hall",
+  "intro": "People in London were given the chance to question some of the Bank of England’s most senior policy makers on issues including jobs, housing and pay at the Bank of England Citizens Panel Event at Toynbee Hall last night. The Citizens’ Panels is an initiative set up by the Bank of England where their regional… Read more",
+  "template": "article",
+  "publishedAt": "2019-04-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "People in London were given the chance to question some of the Bank of England’s most senior policy makers on issues including jobs, housing and pay at the Bank of England Citizens Panel Event at Toynbee Hall last night."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Citizens’ Panels is an initiative set up by the Bank of England where their regional agencies across the UK will hold events to listen directly to citizens about economic issues that matter to them. The Panels were inspired by the RSA’s report on creating a Citizens Economic Council, which Sian Willams, Toynbee Hall’s Director of Policy, contributed to, based on our long experience of working with people who face financial exclusion and poverty.",
+          "links": [
+            {
+              "text": "RSA’s",
+              "href": "https://www.thersa.org/action-and-research/rsa-projects/economy-enterprise-manufacturing-folder/citizens-economic-council"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The first London Citizens Panel event was held here at Toynbee Hall on Thursday, 25th April 2019. This follows a visit to Toynbee Hall in February by Mark Carney, Governor of the Bank of England, who met a group of Community Money Mentors to learn about their experiences and discussed issues around money, banking and savings.",
+          "links": [
+            {
+              "text": "a visit to Toynbee Hall in February by Mark Carney",
+              "href": "/28/02/2019/mark-carney-discusses-challenges-around-money-with-community-money-mentors/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "24 applicants from a range of backgrounds were selected to take part in the Citizens Panel, chaired by Jim Minton, Toynbee Hall’s Chief Executive. Sarah Breeden, Executive Director of The Bank of England, explained to participants the Bank’s responsibilities for keeping people’s money safe and secure, “We print money, move it, and keep its value safe & sound.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The first round of discussions revealed participants’ key concerns; not enough people are benefiting from economic growth, financial products don’t give users clear information and control over their money, Brexit will hurt younger people disproportionately for a long time, and local communities are experiencing increasingly high rents and living costs and low wages. Almost all aspects of the economy were discussed, including the housing market, climate change, the role of financial literacy, and the decline of cash in favour of cashless payments. Investment to ensure equal access to public goods like quality education was a priority for those students present, which prompted discussion about the role for different economic models and the relationship between elected politicians who make policy and unelected policy implementers, like the Bank. It was a wide-ranging and thought-provoking evening of discussion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jim Minton, Chief Executive, Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "There will be further Citizens Panels as the Bank seeks to continue to better understand the impact of economic policy on communities across London and throughout the country."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

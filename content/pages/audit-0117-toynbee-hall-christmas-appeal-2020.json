@@ -1,0 +1,61 @@
+{
+  "slug": "audit-117-toynbee-hall-christmas-appeal-2020",
+  "route": "/11/12/2020/toynbee-hall-christmas-appeal-2020/",
+  "title": "We’re here to ensure that no one feels like they’re on their own this winter – Toynbee Hall Christmas Appeal 2020",
+  "intro": "For all of us, this Christmas will be like no other. But for many in our local community, the pandemic and changing restrictions is meaning many new and additional challenges, from increased isolation and loneliness, rising winter costs on reduced incomes, to the difficult choices that result from needing to protect livelihoods and the health… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/12/Toynbee-Hall_Tw.png",
+    "alt": "The Toynbee Hall Christmas Appeal"
+  },
+  "template": "article",
+  "publishedAt": "2020-12-11",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "For all of us, this Christmas will be like no other. But for many in our local community, the pandemic and changing restrictions is meaning many new and additional challenges, from increased isolation and loneliness, rising winter costs on reduced incomes, to the difficult choices that result from needing to protect livelihoods and the health of loved ones. As we continue to work together to tackle the impact of Covid-19 there are still many people needing extra support this time of year."
+        },
+        {
+          "type": "paragraph",
+          "text": "That’s why this winter and into the spring, we’re focussed on making sure that people needing extra help can get the support they need; doing even more to reach those who are disconnected, and ensuring that no one has to face these challenges without support. Over the festive period, we’re making sure families facing crises like homelessness or unpayable debt can get advice, that older people aren’t lonely if they’re isolating or live alone, and that young people can get theopportunities and encouragement they need to progress and thrive in 2021."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over this festive period, all donations we receive will go to ensuring that people can get the help they need this winter. This has been such a difficult year for everyone but if you have the means your support would make all the difference in helping us reach those who are at risk, and having to face the challenges of this time of year alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Throughout this year thanks to the generosity of our friends and supporters we’ve been there for a community among the worst hit by the pandemic – with emergency food for those without income, with protection for families facing eviction and respite for those in debt, and door step and phone support for older people who are isolated and lonely."
+        },
+        {
+          "type": "paragraph",
+          "text": "With your support, this winter we can be there again for people like Mrs. P. Living alone with Parkinson’s disease, she felt isolated and lonely, especially when it became more difficult to go outside. After speaking to our team we were able to pair her with a friendly volunteer befriender who has been speaking to her regularly and also helping her get online and connect with friends and family over WhatsApp. Together with ensuring that we can help her if she becomes unwell, the support we’ve provided has helped her feel more connected and included in the community. When our team spoke to her again recently, she told us:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“I don’t feel alone anymore, and I have made a friend for life”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Give a Christmas Gift today to support people fighting the impacts of poverty, inequality and social isolation in our community.",
+          "links": [
+            {
+              "text": "Give a Christmas Gift today",
+              "href": "/donate/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/Halls-at-night-Credit-Kristjan-Byfield-1024x768.jpg",
+            "alt": "Image of Toynbee Hall at dusk"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

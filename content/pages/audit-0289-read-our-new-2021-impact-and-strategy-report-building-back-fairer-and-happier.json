@@ -1,0 +1,45 @@
+{
+  "slug": "audit-289-read-our-new-2021-impact-and-strategy-report-building-back-fairer-and-happier",
+  "route": "/24/06/2021/read-our-new-2021-impact-and-strategy-report-building-back-fairer-and-happier/",
+  "title": "Read our new 2021 Impact and strategy report: Building back fairer and happier",
+  "intro": "We’re pleased to share with you our new Impact and Strategy Report which is available to read now",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Impact-report-launch-homepage-slider-image-Tablet-700-x-400-px2.png",
+    "alt": "Impact Report news feature image"
+  },
+  "template": "article",
+  "publishedAt": "2021-06-24",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We’re pleased to share with you our new Impact and Strategy Report which is available to read now."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the past 18 months, we have all faced many challenges and none more so than the communities around us. We begin looking at the impact of the pandemic on the community and our response before setting out our strategic ambition to build a fairer and happier future in our 2021 Impact and strategy report, Building back fairer and happier."
+        },
+        {
+          "type": "paragraph",
+          "text": "This report reflects on what we’ve learned about the needs of the community and the breadth of our response to the last year. We look back at how we have adapted and adjusted, to offer access to vital advice, justice, and support to thousands of Londoners and set out our strategy to work together with the community to create a fairer and happier future."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read our 2021 Impact and Strategy Report:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Front-cover-thumbnail-image.png",
+            "alt": "2021 Impact and Strategy Report - Building back fairer and happier"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

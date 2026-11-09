@@ -1,0 +1,68 @@
+{
+  "slug": "audit-206-celebrating-20-years-of-linkage-plus",
+  "route": "/18/06/2026/celebrating-20-years-of-linkage-plus/",
+  "title": "Celebrating 20 years of LinkAge Plus",
+  "intro": "Toynbee Hall is marking 20 years of our LinkAge Plus programme, celebrating two decades of supporting older people across Tower Hamlets to stay connected, active and part of their communities. Our LinkAge Plus programme offers a wide range of activities designed to build connection – including yoga, walking groups and exercise classes, as well as… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/LinkAge-Plus-actitivity-session-at-Toynbee-Hall-Community-Centre-scaled-e1744019097251.jpg",
+    "alt": "Two older women stretching and dancing in a hall with one man playing the drums."
+  },
+  "template": "article",
+  "publishedAt": "2026-06-18",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Our LinkAge Plus programme offers a wide range of activities designed to build connection – including yoga, walking groups and exercise classes, as well as arts sessions, coffee mornings and digital skills workshops."
+        },
+        {
+          "type": "paragraph",
+          "text": "Demand for the sessions has grown significantly over the last year, with attendance in physical activities increasing by 57%, social activities by 44%, and the number of events delivered by the programme has risen by 24%."
+        },
+        {
+          "type": "paragraph",
+          "text": "“We’re seeing more people than ever looking for connection,” said Emily Bird, LinkAge Plus Lead at Toynbee Hall. “The growth in social activities shows just how important these spaces are – people want to meet others, build friendships and feel part of something.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every day, older people walk through our doors and form friendships, rebuild confidence and become part of communities that offer lasting support. For many, this is life-changing, as one regular LinkAge Plus attendee said: “I enjoy the hubs and wouldn’t be without them. Since losing my partner the hubs have helped me so much. I’ve met lots of new friends. It gets me out of the home and helps me to stay active.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alongside social activities, there is also practical support sessions to help people access essential services like advice, IT, housing and care – reflecting a key insight from 20 years of delivery. “Supporting people in a more holistic way helps their ability to reconnect with others and rebuild confidence” said Emily Bird."
+        },
+        {
+          "type": "paragraph",
+          "text": "As we mark this milestone, LinkAge Plus is looking ahead to continuing its work across Tower Hamlets – helping more older people find connection, community and a sense of belonging."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our 20 Years of LinkAge Plus report brings together two decades of impact, highlighting how the programme has helped older people across Tower Hamlets stay connected, active and part of their communities. It reflects on the growth of the service, the role of trusted local hubs, and the real difference made through both social activities and practical support. Read the report here.",
+          "links": [
+            {
+              "text": "Read the report here.",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/06/20YearsOfLinkagePlusFinal.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "LinkAge Plus is available to residents aged 50 and over in Tower Hamlets, with activities running at the Community Centre at Toynbee Hall and four other community centres across the borough. These sessions offer a welcoming space for older people to take part in activities and connect with others."
+        },
+        {
+          "type": "paragraph",
+          "text": "To find out more or join activities, visit our webpage.",
+          "links": [
+            {
+              "text": "visit our webpage.",
+              "href": "/linkage-plus/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

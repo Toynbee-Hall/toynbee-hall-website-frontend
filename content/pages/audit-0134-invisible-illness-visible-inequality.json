@@ -1,0 +1,36 @@
+{
+  "slug": "audit-134-invisible-illness-visible-inequality",
+  "route": "/13/05/2026/invisible-illness-visible-inequality/",
+  "title": "Invisible Illness, Visible Inequality",
+  "intro": "“ME Awareness Week provides an important opportunity to raise public awareness of the realities of living with ME/CFS, challenge the misconceptions and stigma that still surround the condition, and recognise the urgent need for continued research, improved healthcare provision, and fairer welfare and social security support for those affected. ME/CFS is a complex, life-changing multisystem… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/05/Parliament-image.png",
+    "alt": "Invisible Illness, Visible Inequality — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2026-05-13",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "ME/CFS is a complex, life-changing multisystem condition that can severely affect every aspect of a person’s physical and cognitive functioning. Symptoms can include debilitating fatigue, chronic pain, post-exertional malaise, sleep disturbance, and significant difficulties with memory and concentration. ME/CFS can have a devastating impact not only on health, but also on education, employment, income, relationships, and financial security. Many people with ME/CFS become unable to work or study, while some are housebound or bedbound for long periods."
+        },
+        {
+          "type": "paragraph",
+          "text": "Despite affecting an estimated 400,000 people across the UK, ME/CFS remains widely misunderstood and under-recognised. Patients frequently experience long delays in diagnosis, limited access to specialist healthcare, and inadequate ongoing support. In addition, many people living with ME/CFS face significant barriers when accessing welfare benefits and other social security support. The fluctuating and non-visible nature of this condition can make it difficult for claimants to demonstrate the extent of their disability during assessments for benefits such as Personal Independence Payment (PIP) and Universal Credit (UC), leading to distressing assessment experiences, repeated reassessments, financial insecurity, and appeals."
+        },
+        {
+          "type": "paragraph",
+          "text": "People living with ME/CFS often struggle to navigate the social security system, and continue to report feeling disbelieved or misunderstood, despite the serious and disabling nature of the condition. Here at Toynbee Hall, we believe there remains an urgent need for greater awareness and understanding of ME/CFS across the Department for Work and Pensions (DWP), healthcare services, and wider society to ensure people affected receive fair and appropriate support.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "-Paul Jones, Toynbee Hall Peer Researcher"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

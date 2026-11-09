@@ -1,0 +1,9 @@
+{
+  "slug": "audit-390-account",
+  "route": "/account/",
+  "title": "Account",
+  "intro": "[ultimatemember_account]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

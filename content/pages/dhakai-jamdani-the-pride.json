@@ -1,0 +1,33 @@
+{
+  "slug": "audit-448-dhakai-jamdani-the-pride",
+  "route": "/fundraising-events/dhakai-jamdani-the-pride/",
+  "title": "‘Dhakai Jamdani the Pride’",
+  "intro": "Learn the process of naturally dyed yarms and weaving the simplest of Jamdani motifs. Come and create memories with a member of the your family through a series of workshops at House of Annetta as part of the High Streets Heritage Action Zone Cultural Programme.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/iStock-872166732.jpg",
+    "alt": "Jamdani"
+  },
+  "template": "event",
+  "dateLabel": "19 and 20 August",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Appreciate and understand the UNESCO Intangible Cultural Heritage of Dhakai Jamdani."
+        },
+        {
+          "type": "paragraph",
+          "text": "19th & 20th August: Weaving workshops (varying time slots)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The works created will be part of the final exhibition."
+        }
+      ]
+    }
+  ],
+  "timeLabel": "Various times"
+}

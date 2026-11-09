@@ -1,0 +1,532 @@
+{
+  "slug": "audit-518-research-library-2",
+  "route": "/research/research-library-2/",
+  "title": "Research Library",
+  "intro": "Featured project Co-producing Universal Credit Disability Benefits Ongoing Project A PAR project with Disabled people across England and Wales to explore changes to Universal Credit’s health element. Disabled peer researchers have been co-designing the study, gathering insights, and developing practical recommendations to influence policy and protect living standards. Learn more Our PAR Projects… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/09/IMG_1938.jpg",
+    "alt": "Display of research findings on table"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Featured project"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Co-producing Universal Credit Disability Benefits"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Ongoing Project"
+        },
+        {
+          "type": "paragraph",
+          "text": "A PAR project with Disabled people across England and Wales to explore changes to Universal Credit’s health element. Disabled peer researchers have been co-designing the study, gathering insights, and developing practical recommendations to influence policy and protect living standards."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-Par-Research-Image-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "FBD Inclusive Design in action cover"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our PAR Projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "Since 2017 Toynbee Hall has been pioneering participatory action research (PAR) approaches to social research."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/10/cropped-Untitled-design.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "﻿MP Briefings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our library of MP briefings that shares concise, evidence-based findings of our work designed to help Members of Parliament understand key issues of the day and hear directly from people with lived experience."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ongoing"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/10/cropped-Better-TA-Project-Logo.jpeg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Reshaping Temporary Accommodation with Young Disabled Londoners"
+        },
+        {
+          "type": "paragraph",
+          "text": "Young disabled people in North-East London leading research to transform temporary accommodation. In partnership with Disability Rights UK and funded by Trust for London, we’re building knowledge, power and solutions to challenge an unjust housing system."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ongoing Project"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/10/cropped-Untitled-design-1.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Co-Designed PIP Survey Findings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Findings from a co-designed PIP survey of over 2000 Disabled people, which was circulated by MPs to their constituents. This project was a collaboration between Toynbee Hall, Disability Rights UK, and the Commission on Social Security."
+        },
+        {
+          "type": "paragraph",
+          "text": "September 2026"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/cropped-cropped-Website-thumbnail-scaled-e1755181761492-1.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Co-producing Universal Credit Disability Benefits"
+        },
+        {
+          "type": "paragraph",
+          "text": "A PAR project with Disabled people across England and Wales to explore changes to Universal Credit’s health element. Peer researchers will co-design the study, gather insights, and develop practical recommendations to influence policy and protect living standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ongoing Project"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/09/cropped-Beyond-Age-and-Income-thumbnail.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Freedom: Access to Cash in the UK"
+        },
+        {
+          "type": "paragraph",
+          "text": "Starting in January 2022, Toynbee Hall’s research and policy team has been collaborating with individuals across the UK who rely on cash to gain insight into their lived experiences using a participatory action research approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Report due 2026"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-cropped-cropped-Parents-emotional-support-wall-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Co-designing Emotional Wellbeing Activities"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drawing from the findings of our Emotional Support for Young People PAR project, we have been trialling a new co-designed approach to building emotional relations between young people and their families."
+        },
+        {
+          "type": "paragraph",
+          "text": "April 2026"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-190701_EBE_162202.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Reshape Release: Prison Recall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Supporting Switchback’s Experts by Experience to use PAR methodology to investigate the impact that recall (and the threat of recall) has within the probation system.",
+          "links": [
+            {
+              "text": "Switchback’s",
+              "href": "https://switchback.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "June 2025"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-cropped-One-young-person-talks-to-another-in-white-room-2-scaled-2.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Emotional Support for Young People"
+        },
+        {
+          "type": "paragraph",
+          "text": "A PAR project in collaboration with Thrive LDN and funded by the Health Foundation looking at the impact of the cost of living crisis on young people’s ability to access emotional support from their families."
+        },
+        {
+          "type": "paragraph",
+          "text": "February 2025"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-WhatsApp-Image-2025-02-24-at-21.26.35.jpeg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Reshape Release: Mental Health and Prison Release"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Switchback project supported by Toynbee Hall to help their Experts by Experience board apply PAR methodology to look at young prison-leavers experience of mental health post-release, and co-design solutions.",
+          "links": [
+            {
+              "text": "Switchback",
+              "href": "https://switchback.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "March 2024"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-Knowledge-Exchange-Circle-1.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Knowledge Exchange Circle"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Knowledge Exchange Circle (KEC) is a forum developed by Toynbee Hall as regular co-designed gatherings that enable people impacted by an issue, policymakers, and stakeholders to connect, share knowledge, and build relationships on equal terms to inspire action."
+        },
+        {
+          "type": "paragraph",
+          "text": "October 2023"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-toolkit-for-age-inclusive-hospitality-venues-1-images-0-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Hospitality Connect"
+        },
+        {
+          "type": "paragraph",
+          "text": "In collaboration with the University of Surrey, Toynbee Hall supported a group of peer researchers aged 60+ to conduct PAR to explore how cafes and pubs can play an influential role as third spaces in supporting social connections for older people within communities.",
+          "links": [
+            {
+              "text": "University of Surrey",
+              "href": "https://www.surrey.ac.uk/research-projects/hospitality-connect-role-local-hospitality-businesses-connecting-lives-and-building-communities"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "August 2023"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-FBD-Inclusive-Design-in-action-cover-e1705419539602.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Inclusive Design in Action"
+        },
+        {
+          "type": "paragraph",
+          "text": "A case study demonstrating the importance of using inclusive design to shape policy, drawing from our PAR project that explored what a fair transition to net zero for low income consumers could look like."
+        },
+        {
+          "type": "paragraph",
+          "text": "May 2023"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/01/cropped-ToynbeeHall-PAR-Guidance-Report.Digital.RGB_Page_01.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Building Marginalised Residents’ Power in Local Change-Making"
+        },
+        {
+          "type": "paragraph",
+          "text": "Guidance aimed at local authorities, Community Safety Partnerships, housing associations and community organisations on practical approaches to improve the participation of marginalised residents in local change-making."
+        },
+        {
+          "type": "paragraph",
+          "text": "January 2023"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/09/cropped-Net-zero-cover-2.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Net Zero Transition for Low-Income Consumers"
+        },
+        {
+          "type": "paragraph",
+          "text": "In partnership with peer researchers impacted by fuel poverty, Fair by Design, and Ofgem, Toynbee Hall conducted PAR into the barriers to low-income consumers in transitioning to net zero and co-designed recommendations to make the transition fairer.",
+          "links": [
+            {
+              "text": "Fair by Design",
+              "href": "https://fairbydesign.com"
+            },
+            {
+              "text": "Ofgem",
+              "href": "https://www.ofgem.gov.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "September 2022"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/01/cropped-cropped-WhatsApp-Image-2022-05-19-at-1.00.02-PM-3-1.jpeg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Safer Homes and Neighbourhoods"
+        },
+        {
+          "type": "paragraph",
+          "text": "Across 2 years, Toynbee Hall’s peer researchers explored residents’ concerns about community safety and connection in Tower Hamlets, and developed pilot programmes to improve community cohesion."
+        },
+        {
+          "type": "paragraph",
+          "text": "July 2022"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/04/cropped-cropped-1-1.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A Tower Hamlets Residents Manifesto"
+        },
+        {
+          "type": "paragraph",
+          "text": "Co-designed by the community in advance of the 2022 local elections, 10 ideas for the next Mayor of Tower Hamlets, to create a brighter, poverty-free future that we shape together."
+        },
+        {
+          "type": "paragraph",
+          "text": "May 2022"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/cropped-cropped-More-than-just-education-feature-image.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "More than just education"
+        },
+        {
+          "type": "paragraph",
+          "text": "A PAR project commissioned by the Greater London Authority to inform development of the Skills Roadmap for London and approaches to improving access to adult education for Londoners."
+        },
+        {
+          "type": "paragraph",
+          "text": "February 2022"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/11/cropped-cropped-IMG_4983-e1693405579771.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Rent-Move-Repeat"
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the course of two years, Toynbee Hall worked with 23 peer researchers to carry out PAR to explore the risks young people face when private renting in East London. Peer researchers were also supported to join the London Housing Panel and Renters Reform Coalition."
+        },
+        {
+          "type": "paragraph",
+          "text": "November 2021"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/11/cropped-Were-not-on-a-conveyor-belt.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We’re not on a conveyor belt"
+        },
+        {
+          "type": "paragraph",
+          "text": "Problem debt is a significant issue in London, with around one in twenty families in arrears on at least one of their household bills. In this PAR project peer researchers with experience of problem debt worked to co-design accessible and empowering advice services"
+        },
+        {
+          "type": "paragraph",
+          "text": "October 2021"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/10/cropped-cropped-Tower-Hamlets-Poverty-Review-front-cover.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Tower Hamlets Poverty Review"
+        },
+        {
+          "type": "paragraph",
+          "text": "A PAR project commissioned by the London Borough of Tower Hamlets as part of their wider poverty review, to identify the drivers of poverty and solutions for tackling them in Tower Hamlets in collaboration with low-income residents."
+        },
+        {
+          "type": "paragraph",
+          "text": "October 2021"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/cropped-cropped-Pandemic-Stories-cover-image.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Pandemic Stories"
+        },
+        {
+          "type": "paragraph",
+          "text": "Exploring the experiences of Londoners who were disproportionately affected by the COVID-19 pandemic and subsequent lockdowns, this PAR project looks at their experiences and their policy recommendations for a fairer future."
+        },
+        {
+          "type": "paragraph",
+          "text": "August 2021"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/cropped-IMG_0850.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“You don’t really know people till you talk to them”"
+        },
+        {
+          "type": "paragraph",
+          "text": "A PAR project looking at the needs of older residents in Tower Hamlets, and co-designing ideas for how services for older"
+        },
+        {
+          "type": "paragraph",
+          "text": "September 2018"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Historical Archive"
+        },
+        {
+          "type": "paragraph",
+          "text": "Throughout Toynbee Hall’s history we have had a long tradition of research stretching back to our founding in 1884. Currently we are working on a searchable historical archive. In the meantime if there is a historic report you would like to have access to please email research@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ]
+}

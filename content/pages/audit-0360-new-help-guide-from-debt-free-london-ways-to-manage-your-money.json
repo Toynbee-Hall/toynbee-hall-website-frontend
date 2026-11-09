@@ -1,0 +1,52 @@
+{
+  "slug": "audit-360-new-help-guide-from-debt-free-london-ways-to-manage-your-money",
+  "route": "/29/07/2020/new-help-guide-from-debt-free-london-ways-to-manage-your-money/",
+  "title": "New help guide from Debt Free London – Practical tips to maximise your money",
+  "intro": "A help guide with ways to increase income and reduce expenditure to stop your debts increasing by Necla Bakirci, Quality Assurance Manager at Debt Free London Debt Free London is a partnership of 21 charities across London, led by Toynbee Hall that has provided free,independent advice – since 2006 we’ve helped over 250,000 ordinary Londoners… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/07/DFL-ways-to-manage-your-money.png",
+    "alt": "Debt Free London - Ways to Manage your Money"
+  },
+  "template": "article",
+  "publishedAt": "2020-07-29",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A help guide with ways to increase income and reduce expenditure to stop your debts increasing by Necla Bakirci, Quality Assurance Manager at Debt Free London"
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free London is a partnership of 21 charities across London, led by Toynbee Hall that has provided free,independent advice – since 2006 we’ve helped over 250,000 ordinary Londoners with their money worries. Our team of professionally qualified advisors can with a wide range of financial issues such as rent arrears, council tax, utility bills, benefit overpayments, credit and store cards and a loss of income due to Coronavirus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the past few months COVID-19 has impacted thousands of people’s financial situation – if your finances have been affected or you’re worried about a personal debt, there are all sorts of ways to increase income and reduce expenditure to stop your debts increasing. Here is our guide by Quality Assurance Manager for Debt Free London, Necla Bakirci, on ways manage your money."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read this guide from Debt Free London here."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/04/Debt-free-London-logo-grey-text-300x50.png",
+            "alt": "Debt Free London"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/07/Money-and-Pensions-Service-1024x432.jpg",
+            "alt": "Money and Pensions Service"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

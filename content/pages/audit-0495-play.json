@@ -1,0 +1,86 @@
+{
+  "slug": "audit-495-play",
+  "route": "/play/",
+  "title": "Play",
+  "intro": "Let us PlayLet us Play is a free outdoor play session for all children and their families, outside in all weathers and everyone is welcome! The power of play Near to Toynbee Hall, many people live in flats with limited access to safe, outdoor space. Our ongoing consultation with local families revealed that because of… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Let us Play is a free outdoor play session for all children and their families, outside in all weathers and everyone is welcome!"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/cropped-cropped-WhatsApp-Image-2023-11-27-at-10.53.57-10.jpeg",
+            "alt": "A child and caregiver gardening",
+            "caption": "cropped-cropped-WhatsApp-Image-2023-11-27-at-10.53.57-10.jpeg"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/cropped-IMG-20231127-WA0046-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-IMG-20231127-WA0046-1.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/cropped-cropped-IMG-20231127-WA0040-e1719500382763.jpg",
+            "alt": "Child drawing on the courtyard floor",
+            "caption": "cropped-IMG-20231127-WA0040.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The power of play"
+        },
+        {
+          "type": "paragraph",
+          "text": "Near to Toynbee Hall, many people live in flats with limited access to safe, outdoor space."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our ongoing consultation with local families revealed that because of this, there is a lack of play opportunities and little support for young parents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our play programme provides opportunities for children to play outdoors and indoors, whilst also supporting their parents. We make connections to nature for children living in a highly urban environment, supporting their development. Our programme also helps parents to learn about play."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/WhatsApp-Image-2023-11-27-at-10.49.26-6.jpeg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "WhatsApp Image 2023-11-27 at 10.49.26 (6)"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Play at Toynbee Hall"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Get in touch to find out more about Play at Toynbee Hall"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Join us! Subscribe to our quarterly e-newsletter to stay up to date with our work"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

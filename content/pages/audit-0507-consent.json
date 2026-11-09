@@ -1,0 +1,43 @@
+{
+  "slug": "audit-507-consent",
+  "route": "/research/consent/",
+  "title": "Consent Forms",
+  "intro": "Thank you for taking part in one of our projects. You can complete our consent form below. Find out more about our other research projects If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.ukOur Research Library Subscribe to our monthly e-newsletter and keep up… Read more",
+  "image": {
+    "src": "/images/live-site/research.jpg",
+    "alt": "Attendees listening to a speaker at a Toynbee Hall research event"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

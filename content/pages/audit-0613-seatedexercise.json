@@ -1,0 +1,43 @@
+{
+  "slug": "audit-613-seatedexercise",
+  "route": "/whats-on/seatedexercise/",
+  "title": "Seated Exercise (Over 50s)",
+  "intro": "This is a LinkAge Plus activity for people aged 50+.",
+  "template": "event",
+  "dateLabel": "Mondays",
+  "timeLabel": "2pm to 2:50pm",
+  "venue": "Community Centre",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "A lively seated exercise group with Gaby for all abilities. Come and keep fit with a welcoming and diverse group. Guaranteed to put a spring in your step and wake your body up for the day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Weekly (Mondays – from 14 April 2025) 2 – 2.50pm Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information or to book:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 07943 277512 or 0203 856 9721"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

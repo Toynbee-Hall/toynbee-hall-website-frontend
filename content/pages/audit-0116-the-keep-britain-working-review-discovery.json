@@ -1,0 +1,54 @@
+{
+  "slug": "audit-116-the-keep-britain-working-review-discovery",
+  "route": "/11/11/2025/the-keep-britain-working-review-discovery/",
+  "title": "The Keep Britain Working Review: Discovery",
+  "intro": "An independent review into the role of employers and government in tackling health-related economic inactivity and creating and maintaining healthy and inclusive workplaces, led by Sir Charlie Mayfield, acknowledges that ill-health and barriers to work contribute to economic inactivity. However, it engages only minimally with the social model of disability. The Review frames economic inactivity… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Disability-Working-Review-LinkedIn.jpg",
+    "alt": "The Keep Britain Working Review: Discovery — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2025-11-11",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "An independent review into the role of employers and government in tackling health-related economic inactivity and creating and maintaining healthy and inclusive workplaces, led by Sir Charlie Mayfield, acknowledges that ill-health and barriers to work contribute to economic inactivity. However, it engages only minimally with the social model of disability. The Review frames economic inactivity largely as a matter of health rather than inequality, giving limited attention to how social, economic and structural barriers, rather than individual impairments that continue to exclude Disabled people from work."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Review overlooks the reality of the current job market and how few roles are genuinely accessible to Disabled people. It treats accessibility as a matter of individual adjustment rather than recognising the wider structural issues and the types of jobs that exist, the conditions under which they are offered, and the limited flexibility and progression routes many Disabled people face. Toynbee Hall’s research on adult education has shown that Disabled people experience significant barriers to accessing further education and training, which directly affects the kinds of work available to them. These inequalities are particularly acute for young people and those experiencing mental health challenges."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are concerned about how this Review aligns with the government’s proposed cuts to welfare benefits for Disabled people. Welfare reform is referenced throughout the report but left largely unexamined. From April 2026, the health element of Universal Credit will substantially reduce support for many new claimants. The Review makes clear that improving workplace inclusion and addressing ill-health will require widespread, long-term changes, yet the government is pressing ahead with welfare cuts before those reforms are even in place. It is, in effect, putting the cart before the horse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consultation with Disabled people is treated as an afterthought. Co-production, involving Disabled people directly in designing, implementing, and evaluating policy and service, is essential if any meaningful progress is to be made. The proposed Workplace Health Intelligence Unit could be an important opportunity to better understand what works, but there is a real risk that its outcomes will be predetermined by decisions already made on welfare reform."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Review sets out a three- to seven-year timeframe for implementing its recommendations, meaning that the Universal Credit changes will take effect long before the new systems and supports are even close to completion. Without proper alignment between welfare, workplace reform, education policy and without Disabled people at the centre of shaping them, these reforms risk deepening, rather than addressing inequality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Photo by Mica Mota on Unsplash",
+          "links": [
+            {
+              "text": "Mica Mota",
+              "href": "https://unsplash.com/@micamota?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+            },
+            {
+              "text": "Unsplash",
+              "href": "https://unsplash.com/photos/person-in-black-jacket-holding-on-white-metal-bar-93h3fZMCa7A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

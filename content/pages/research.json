@@ -1,27 +1,116 @@
 {
-  "slug": "research",
-  "title": "Research and policy",
-  "intro": "We work with people and communities to produce evidence, influence policy and campaign for a fairer society.",
+  "slug": "audit-501-research",
+  "route": "/research/",
+  "title": "Research",
+  "intro": "We work with local people to research issues that affect their lives and bring their experiences into decisions about policy and services.",
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "Our approach",
-      "paragraphs": [
-        "Our research is community-led and rooted in lived experience. We collaborate with people affected by the issues to shape questions, findings and action."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall was established in 1884 with a vision to bring future leaders face to face with poverty in London’s East End. The idea was that policies and solutions should be informed by lived experience. Today we continue that journey. We co-produce research alongside local people on a range of issues affecting the community. Our research and policy work provides a platform for local voices to influence thinking and policy-making both locally and nationally based on lived experiences, to create long-term solutions to the systemic challenges people face."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our Approach"
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall we conduct participatory action research (PAR) – a type of peer research. We believe that the best research comes from working hand-in-hand from the very start with people affected by the issue. Since 2017 we have been using the PAR approach to explore topics such as the transition to net zero, access to cash in the UK, and the impact of the cost-of-living crisis on family emotional support available for young people from low-income households."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Who we’ve worked with"
+        },
+        {
+          "type": "paragraph",
+          "text": "We partner with universities and other organisations on various research and evaluation projects. We also provide consultancy and training for participatory methods. Some of the organisations we’ve worked with include:"
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Current research",
-      "paragraphs": [
-        "Explore our work on Universal Credit and disability benefits, temporary accommodation, and emotional support for young people."
+      "type": "logoGrid",
+      "label": "Research partners",
+      "logos": [
+        {
+          "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-thrive.png",
+          "alt": "Thrive LDN"
+        },
+        {
+          "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/download.png",
+          "alt": "Research partner logo"
+        },
+        {
+          "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-GLA.png",
+          "alt": "Greater London Authority"
+        },
+        {
+          "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/RRC-Logo_0.png",
+          "alt": "Research partner logo"
+        },
+        {
+          "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/Surrey-Uni.png",
+          "alt": "University of Surrey"
+        },
+        {
+          "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-London-Housing-Panel.jpg",
+          "alt": "London Housing Panel"
+        },
+        {
+          "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/Switchback.png",
+          "alt": "Switchback"
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Take part",
-      "paragraphs": [
-        "We welcome people with lived experience, researchers and partners to help shape research that can lead to change."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Take a look through our library to browse our research archive"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Interested in participatory action research and partnering with us?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Get in touch!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your name"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your email"
+        },
+        {
+          "type": "paragraph",
+          "text": "Organisation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your message (optional)"
+        }
       ]
     }
   ]

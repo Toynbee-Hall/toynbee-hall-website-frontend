@@ -1,0 +1,89 @@
+{
+  "slug": "audit-452-corporate-partnerships",
+  "route": "/get-involved/corporate-partnerships/",
+  "title": "Corporate partnerships",
+  "intro": "Corporate partnerships will benefit your company, your employees, and people living in poverty in East London. Our unique position bordering the City and the East End presents us with multiple views of London: we see positive change and we see inequality. We want everyone to have the support they need to play an… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Corporate Partnerships"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Corporate partnerships will benefit your company, your employees, and people living in poverty in East London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our unique position bordering the City and the East End presents us with multiple views of London: we see positive change and we see inequality. We want everyone to have the support they need to play an active role in our community. You can help us do this."
+        },
+        {
+          "type": "paragraph",
+          "text": "To find our more or discuss opportunities to work together please contact the Fundraising team by email: fundraising@toynbeehall.org.uk or call 020 7392 2949"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How can your company get involved?"
+        },
+        {
+          "type": "paragraph",
+          "text": "From strategic partnerships across our flagship services to volunteering in our Community Centre, working with us promises to be a fulfilling and engaging experience that also meets your CSR objectives."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Pro Bono"
+        },
+        {
+          "type": "paragraph",
+          "text": "Match your expertise with our needs. Pro bono support is a fantastic way to use your employees’ skills and experience whilst supporting Toynbee Hall to provide better services for people in need – for example, by supporting our Free Legal Advice Centre﻿",
+          "links": [
+            {
+              "text": "Free Legal Advice Centre﻿",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/03/Toynbee-Hall-Free-Legal-Advice-Centre-Prospectus-spring-2025.pdf"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Employee fundraising"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bring your team together and showcase their hidden talents. We are here to support you with plenty of ideas to get your employees engaged and keep you updated about the difference your support makes."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Volunteering"
+        },
+        {
+          "type": "paragraph",
+          "text": "The skills and expertise of the organisations we work with have made a real difference to the lives of the people in our community. We have a wide range of ways for corporate volunteers to get involved."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Strategic partnerships"
+        },
+        {
+          "type": "paragraph",
+          "text": "We will work with you to build a successful and sustainable partnership that meets your corporate responsibility aims, whilst harnessing the skills and goodwill of employee engagement to support disadvantaged people."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Contact us to find out more"
+        }
+      ]
+    }
+  ]
+}

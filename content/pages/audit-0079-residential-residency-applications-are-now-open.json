@@ -1,0 +1,76 @@
+{
+  "slug": "audit-79-residential-residency-applications-are-now-open",
+  "route": "/08/04/2019/residential-residency-applications-are-now-open/",
+  "title": "Residential volunteer applications are now open",
+  "intro": "We’re recruiting for a second round of residential volunteers to live onsite in our historic halls in the heart of East London. We want you to engage with the local community, using their experiences to develop ways to tackle inequality, bridge the gap between people of all social and financial backgrounds, and build on the… Read more",
+  "template": "article",
+  "publishedAt": "2019-04-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We’re recruiting for a second round of residential volunteers to live onsite in our historic halls in the heart of East London. We want you to engage with the local community, using their experiences to develop ways to tackle inequality, bridge the gap between people of all social and financial backgrounds, and build on the amazing contribution our current cohort have made through storytelling, art, social innovation and research."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are inviting residency applications and offering a 6-month residency to three heritage creatives: artists, storytellers/writers of different genres, and heritage activist programmers who wish to develop their practice in new ways."
+        },
+        {
+          "type": "paragraph",
+          "text": "Volunteers have been at the heart of our work since our founding in 1884 and for most of our history we have hosted residential volunteers living on site and working alongside the local community. We are offering a programme that will enable creative practitioners to develop projects, create new work and engage with the public celebrating our rich history of social reform and social action."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Meet our current Residential Voluntary Workers and find out more about they work they’ve been doing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The application window is now open for the residential volunteer programme. This is a real opportunity for early career artists, storytellers, writers and activists."
+        },
+        {
+          "type": "paragraph",
+          "text": "The residential volunteers are expected to work for a minimum of 15 hours a week for nine months whilst living rent free (£100 contribution charge per month) in our Grade II listed building between July 2019 to January 2020."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our current residential volunteer opportunities are:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Heritage Activist",
+            "Storyteller/Writer",
+            "Artist",
+            "Open Call (3 x Heritage Creative Residential Voluntary Worker)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Application deadline is Monday 15th April – Find out more about these roles and apply here"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kate’s experience"
+        },
+        {
+          "type": "paragraph",
+          "text": "Former residential volunteer Kate Swade, now Trustee of Toynbee Hall and Director for Shared Assets, tells us how her experience living and volunteering here set her on her career path.",
+          "links": [
+            {
+              "text": "Shared Assets",
+              "href": "http://www.sharedassets.org.uk/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

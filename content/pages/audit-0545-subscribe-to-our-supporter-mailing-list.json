@@ -1,0 +1,36 @@
+{
+  "slug": "audit-545-subscribe-to-our-supporter-mailing-list",
+  "route": "/subscribe-to-our-supporter-mailing-list/",
+  "title": "Subscribe to our supporter mailing list",
+  "intro": "s We’ll send you updates on our latest fundraising campaigns and news, as well as other opportunities for supporitng our work and lessons and stories from our frontline work tackling poverty in the East End.",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our supporter mailing lists"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’ll send you updates on our latest fundraising campaigns and news, as well as other opportunities for supporitng our work and lessons and stories from our frontline work tackling poverty in the East End."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your name (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your email (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Which aspects of our work you're interested in supporting"
+        }
+      ]
+    }
+  ]
+}

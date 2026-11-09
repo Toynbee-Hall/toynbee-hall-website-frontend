@@ -1,0 +1,86 @@
+{
+  "slug": "audit-58-keepsake-of-a-killer-bringing-our-history-to-life-through-theatre",
+  "route": "/06/11/2025/keepsake-of-a-killer-bringing-our-history-to-life-through-theatre/",
+  "title": "Keepsake of a Killer: Bringing Our History to Life Through Theatre",
+  "intro": "This November, Toynbee Hall are proud to host the murder mystery, ‘Keepsake of a Killer’ an immersive theatrical experience that brings our rich history and ongoing social mission to life. Set within our historic Lecture Hall, the production explores themes of social reform, inequality, and justice through a gripping combination of drama and interactive storytelling.… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Sergeant-Tom-and-Lantern-9-scaled.jpg",
+    "alt": "Keepsake of a Killer: Bringing Our History to Life Through Theatre — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2025-11-06",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "For over 140 years, Toynbee Hall has been at the heart of London’s East End, serving as a hub for education, community, and social action. Staging Keepsake of a Killer within our own building allows audiences to experience the story in the very space where reformers, students, and community members once gathered to debate poverty and social change. This unique setting brings the history of Toynbee Hall vividly to life, offering an experience that is both historically resonant and theatrically engaging."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/The-Constable-Gives-His-Statement-1024x576.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "“We are delighted that Toynbee Hall have welcomed us to stage this exciting production in the actual Lecture Hall, where students would have gathered to learn about poverty and discuss the social issues of the day,” says the Director, Ben Woodthorpe. “Our audience will study the physical evidence of the victim, explore the virtual reality crime scene and analyse clues and police reports with the help of their smartphone, dubbed their ‘facsimograph reader’.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Henrietta Barnett, Toynbee Hall’s co-founder and a pioneering voice for social reform, is a central presence throughout the play. Her dedication to education, equality, and community is woven into the story, connecting the social questions of Victorian London with the challenges that persist today."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Henrietta-and-Lantern-768x1024.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "“Having been captivated by Toynbee’s 140-year-old service to the East End, I wanted to create a play that presented its rich history to a modern audience,” Ben explains. “Despite the huge impact the Barnetts made on improving the conditions of the Victorian poor, it struck me that so few people outside of the Tower Hamlets community today had even heard of them. Through ‘Keepsake of a Killer’ I hope to illuminate the Barnetts’ legacy, by providing our audience with a clear sense of their philanthropy in Victorian London, and how Toynbee continues to improve the lives of Londoners today.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The play places social reform at its heart, reflecting our own mission. While it unfolds as a compelling whodunit, it also engages with issues of poverty, inequality, and prejudice – challenges that remain relevant in modern London."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/The-Victims-Father-Awaits-Her-8-796x1024.jpeg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "“As the gulf between the UK’s social classes broadens and the number of its people who have fallen beneath its poverty line continues to swell, ‘Keepsake of a Killer’ seems highly relevant,” Ben explains. “Beyond economic hardship, the play shines a light in the face of the prejudice and inequality experienced by people in the East End, all of which are experienced across modern London and the wider UK. It is my deepest wish that enthusiasm for a ‘whodunit with a difference’ draws our audience in November, but that, having enjoyed our play, its drama sends them away, much like Henrietta’s students, not only recognising the need for change, but realising their capacity to bring it about.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "By combining Toynbee Hall’s historic setting with an immersive, contemporary performance, Keepsake of a Killer offers audiences a unique opportunity to explore the legacy of Toynbee Hall, and to reflect on the social issues that continue to shape our communities today."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keepsake of a Killer runs throughout November at Toynbee Hall. For more information and tickets, click here.",
+          "links": [
+            {
+              "text": "click here.",
+              "href": "https://torchlightmysteries.com/escape-rooms/bursledon-brickworks/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Beulah-Ring-and-Lantern-768x1024.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "audit-148-free-storytelling-workshops-and-evening",
+  "route": "/14/11/2018/free-storytelling-workshops-and-evening/",
+  "title": "An Evening of Storytelling – Friday 30th November",
+  "intro": "On Friday 30th November, we’re hosting an evening of spoken word, storytelling and tales from the East End from a mix of London’s spoken word artists, storytellers and locals. Storytelling Night – Friday 30th November Then on Friday 30th November, we’re hosting an evening of Spoken Word, Storytelling and Tales from the East End from… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/11/20180923_114029.jpg",
+    "alt": "Storytelling with Sinead"
+  },
+  "template": "article",
+  "publishedAt": "2018-11-14",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "On Friday 30th November, we’re hosting an evening of spoken word, storytelling and tales from the East End from a mix of London’s spoken word artists, storytellers and locals."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Storytelling Night – Friday 30th November"
+        },
+        {
+          "type": "paragraph",
+          "text": "Then on Friday 30th November, we’re hosting an evening of Spoken Word, Storytelling and Tales from the East End from a mix of London’s Spoken Word Artists, Storytellers and Locals."
+        },
+        {
+          "type": "paragraph",
+          "text": "Family Friendly 6.30-7.30pm Post Watershed 8-9pm"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is sure to be a fun evening of tales from and about the East End, family friendly until 7.30pm, wilder tales/ more mature content from 8pm onwards! There is a open mike section if you’re feeling brave to share the stage and your stories of the East End."
+        },
+        {
+          "type": "paragraph",
+          "text": "This evening is part of Toynbee Hall’s Resident Storyteller’s projects. It’s a chance for the community and local artists to come together and share their stories and the heritage of Tower Hamlets together."
+        },
+        {
+          "type": "paragraph",
+          "text": "All of these events are free of charge and light refreshments will be provided."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sign up to these events here"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall aims to bring people together, offer new opportunities and create a greater sense of community. We work with people young and old to help them find their voice and deliver their own projects."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "audit-367-the-big-give-christmas-challenge-is-live-double-your-donation-at-no-extra-cost",
+  "route": "/29/11/2022/the-big-give-christmas-challenge-is-live-double-your-donation-at-no-extra-cost/",
+  "title": "The Big Give Christmas Challenge is live! Double your donation at no extra cost",
+  "intro": "Today we launch our Big Give Christmas Challenge. Donations received between 29 Nov – 6 Dec will automatically be doubled.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/BG-Blog-featured-image.jpg",
+    "alt": "Blue bubble on a yellow background which reads Double Your donation"
+  },
+  "template": "article",
+  "publishedAt": "2022-11-29",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Support passionate young change-makers with a donation to the Big Give. All this week, gifts will be DOUBLED thanks to match-funding – that’s twice the impact helping young people in East London thrive!"
+        },
+        {
+          "type": "paragraph",
+          "text": "This week, we launch The Big Give Christmas Challenge, where we are aiming to raise £25,000 from kind and generous donors who are committed to helping young people and families tackle the challenges they face, and build the futures they want."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over half of young people grow up in poverty in our borough. It impacts the opportunities they can access and the security of their families. A donation to our campaign will help drive real change locally."
+        },
+        {
+          "type": "paragraph",
+          "text": "With your help we can provide play sessions where parents can also access money support to tackle the cost-of-living crisis, and youth-led community education that supports young people to imagine and build the futures they want."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please donate to our Big Give Appeal 2022 to help build brave, exciting spaces where people can come together and work towards a fairer, happier future."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are able to donate between 29 Nov – 6 Dec 2022 your donation will be doubled thanks to match funding pledges from the Childhood Trust and Proms at St Jude’s."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Yes, I want to double my donation today"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/BG-Quote-graphic-1024x512.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Abundance Blooms in East London"
+        },
+        {
+          "type": "paragraph",
+          "text": "We run joyful, inclusive and welcoming activities that bring people together: weekly play in our outside spaces for families; parent and baby sessions; practical advice and support on cost of living challenges; support, conversation and an extra pair of arms from fellow community members; alongside our youth led education programme where older teenagers come together to explore their experiences and collectively imagine and create brighter futures."
+        },
+        {
+          "type": "paragraph",
+          "text": "This winter please help East London’s children and young people grow their confidence, wellbeing and joy. In our play and youth work we build brave, exciting spaces together with people who live locally; playing, making positive opportunities; dreaming and planning for a fairer future for us all. Find out more about our work with young people.",
+          "links": [
+            {
+              "text": "Find out more about our work with young people",
+              "href": "/when-we-speak/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more about our work with local young change makers and have your donation match funded."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

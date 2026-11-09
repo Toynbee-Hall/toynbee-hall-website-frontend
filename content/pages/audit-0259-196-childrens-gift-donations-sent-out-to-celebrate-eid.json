@@ -1,0 +1,87 @@
+{
+  "slug": "audit-259-196-childrens-gift-donations-sent-out-to-celebrate-eid",
+  "route": "/22/05/2020/196-childrens-gift-donations-sent-out-to-celebrate-eid/",
+  "title": "196 children’s gift donations sent out to celebrate Eid",
+  "intro": "The gifts will be included in food packages sent out to households without recourse to public funds To mark the Eid celebrations on 22nd and 23rd May, the biggest celebration day in the Muslim calendar, we asked our team of staff and volunteers to be part of making it special for the children in those… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-19-at-17.06.47-news-image.jpg",
+    "alt": "Eid gift donations"
+  },
+  "template": "article",
+  "publishedAt": "2020-05-22",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The gifts will be included in food packages sent out to households without recourse to public funds"
+        },
+        {
+          "type": "paragraph",
+          "text": "To mark the Eid celebrations on 22nd and 23rd May, the biggest celebration day in the Muslim calendar, we asked our team of staff and volunteers to be part of making it special for the children in those households that have been hardest hit by the lockdown, by donating a gift to be included with their food parcel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Throughout the lockdown, the Solidarity Britannia Food Bank have been using Toynbee Hall’s Community Centre as a base from which to send food packages to 300 households without recourse to public funds a week."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our aim was to ensure every child in the households that are currently receiving food parcels and will be celebrating, gets to open a present this Eid. We were overwhelmed by the response and have sent 196 children’s gifts."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-19-at-17.06.43-1024x768.jpeg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Many of these households are families who are struggling with the impact of Covid 19 on their finances, living in small and overcrowded accommodation without access to cooking facilities. With their income affected by the lockdown and no option of claiming any benefits, it’s a hugely difficult and challenging time."
+        },
+        {
+          "type": "paragraph",
+          "text": "To help in a small way, we’ve lent our space to the Solidarity Britannia Foodbank and worked with partners to ensure that throughout Ramadan 50 households every day will get a delivery of a hot meal."
+        },
+        {
+          "type": "paragraph",
+          "text": "We would like to wish a happy and blessed Eid to everyone who is celebrating and thank everyone who has donated a gift."
+        },
+        {
+          "type": "paragraph",
+          "text": "This coincided with Mental Health Awareness Week, an annual campaign to raise awareness of issues around mental health. This year the theme for the campaign is kindness. Small acts of kindness such as donating a gift, can make a big difference to mental wellbeing especially in difficult times."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Emergency Community Response"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/05/Copy-of-Emergency-Appeal-Banner-2.png",
+            "alt": "Emergency appeal Support our respsonse"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would like to help people in our community who are slipping through the net – because they are severely isolated, digitally excluded, or unable to claim government support, you can support our Emergency Appeal. Help deliver support where it is needed most in our community. Together we can ensure no one is left behind. Find out more and donate here.",
+          "links": [
+            {
+              "text": "Find out more and donate here.",
+              "href": "https://www.justgiving.com/campaign/toynbeehallcovid19"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you or anyone you know is struggling with any aspect of Covid 19 and lockdown, we’re here to help. Please get in touch. Call 020 7392 2953 or email advice@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

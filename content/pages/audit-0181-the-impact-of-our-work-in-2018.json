@@ -1,0 +1,62 @@
+{
+  "slug": "audit-181-the-impact-of-our-work-in-2018",
+  "route": "/17/01/2019/the-impact-of-our-work-in-2018/",
+  "title": "The Impact of our work in 2018",
+  "intro": "Read our latest Impact Review to see the extent of our work in 2017/18 Each year, we review the impact of our work to measure the numbers of people we’ve helped and see the difference this has made to the lives of individuals, our local community and beyond. In 2017/18, our advice services continued to… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/P4-WBC-crafts.jpg",
+    "alt": "The Impact of our work in 2018 — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2019-01-17",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read our latest Impact Review to see the extent of our work in 2017/18"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each year, we review the impact of our work to measure the numbers of people we’ve helped and see the difference this has made to the lives of individuals, our local community and beyond."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2017/18, our advice services continued to provide a source of support in times of crisis, tackling emerging new issues such as Universal Credit. We also extended our offer to older people by hosting more activities in our Wellbeing Centre, which were recommended to us and led by the people who use them, and the young people we worked with left their own legacy in Tower Hamlets after telling us what they want to see in their community. This was also a momentous year for us as we opened the doors to our historic halls after three years of renovation. This historic setting is now a community asset and contains a new permanent exhibition on the history social change in the East End to inspire the next generation of social reformers. We’ve learned a great deal from our service users this year and their insight, expertise and experiences will shape our work in 2019."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are some of the key stats from last year:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "23,626 people across London with debt and money problems were helped by the Capitalise Debt Advice Partnership",
+            "£2,927,785 worth of benefits were obtained by for 839 clients with a diagnosis of cancer through our Macmillan Welfare Rights Service",
+            "786 free activities for older people were held in our Wellbeing Centre",
+            "280 people from across London became accredited Money Mentors",
+            "20,000th person received support from a trained Money Mentor since the programme began in 2012",
+            "360 Year 6 pupils attended our youth activity project, Make Moves led by Year 8 students participating in our mentoring project Make it! to help ease their transition into secondary school",
+            "£1,000,000 worth of professional training and support for credit unions throughout the UK was provided by the Credit Union Programme ran in partnership with Barclays"
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/Front-cover-image.png",
+            "alt": "2018 Impact Review"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Read our 2018 Impact Review"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

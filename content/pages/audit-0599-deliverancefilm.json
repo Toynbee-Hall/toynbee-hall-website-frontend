@@ -1,0 +1,61 @@
+{
+  "slug": "audit-599-deliverancefilm",
+  "route": "/whats-on/deliverancefilm/",
+  "title": "Deliverance - Film Screening & Panel Talk - Toynbee Hall",
+  "intro": "A film by grassroots filmmaker Maria Andrews, Deliverance explores our local fast food delivery system and digital platform economy. Deliverance records local voices of riders and restaurants. It centres on several characters : Adam, ex rider and fair work campaigner, Jabed, one of the first employees of Deliveroo, who, disillusioned by their exploitation, became an activist… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/Deliverance-Film-Screening-thumbnail-image.jpg",
+    "alt": "Deliverance - Film Screening & Panel Talk - Toynbee Hall — Toynbee Hall"
+  },
+  "template": "event",
+  "dateLabel": "",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Deliverance – Film Screening & Panel Talk"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/Deliverance-Film-Screening-thumbnail-image.jpg",
+            "alt": "Group of Uber workers protesting with signs and banners"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A film by grassroots filmmaker Maria Andrews, Deliverance explores our local fast food delivery system and digital platform economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deliverance records local voices of riders and restaurants. It centres on several characters : Adam, ex rider and fair work campaigner, Jabed, one of the first employees of Deliveroo, who, disillusioned by their exploitation, became an activist and rider organiser, Mathias, an ex rider and volunteer for the IWGB (the Independent Workers of Great Britain) and Maria the filmmaker, who was a rider for Take Eat Easy, a Belgian based company, and then later, when they went bust, moved on to ride for Uber."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2018 riders went on strike and this film covers that story. It hinges between the conditions then and now and talks to riders today about the issues they face. What, if anything, can be seen as a legacy of strike gains today?"
+        },
+        {
+          "type": "paragraph",
+          "text": "F﻿ilm Running Time: Approx. 65 minutes"
+        },
+        {
+          "type": "paragraph",
+          "text": "T﻿he film will start at 6.45pm and finish around 8pm, it will be followed by a short panel talk with the event finishing at 8.30pm."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Wednesday 19th July 6:30pm – 8:30pm Streets of Growth 6 Middlesex Street London E1 7EX"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is part of a programme of family friendly events taking place over the summer to celebrate the history of Petticoat Lane."
+        }
+      ]
+    }
+  ]
+}

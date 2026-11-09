@@ -1,0 +1,13 @@
+{
+  "slug": "audit-560-breaking-point",
+  "route": "/training-resources/breaking-point/",
+  "title": "Breaking Point",
+  "intro": "The latest impact report from Debt Free Advice, where we have focused on real-world stories and experiences from our frontline team and customer feedback to paint a vivid picture of day-to-day impact our free advice service makes.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Breaking-point-report-cover-image-e1706613370456.png",
+    "alt": "Breaking Point"
+  },
+  "template": "resource",
+  "downloads": [],
+  "blocks": []
+}

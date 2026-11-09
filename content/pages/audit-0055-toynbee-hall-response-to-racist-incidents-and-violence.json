@@ -1,0 +1,32 @@
+{
+  "slug": "audit-55-toynbee-hall-response-to-racist-incidents-and-violence",
+  "route": "/06/08/2024/toynbee-hall-response-to-racist-incidents-and-violence/",
+  "title": "Toynbee Hall: Response to racist incidents and violence.",
+  "intro": "At Toynbee Hall our thoughts are with Muslim, refugee and ethnic minority communities across the country in the face of racist and Islamophobic unrest and violence. We are proud of our diverse, ethnically rich team and the vibrant community we serve. We are saddened and angered by the fact that our staff, their families, the… Read more",
+  "image": {
+    "src": "/images/live-site/about.jpg",
+    "alt": "Toynbee Hall’s historic brick building viewed from the courtyard"
+  },
+  "template": "article",
+  "publishedAt": "2024-08-06",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "We are proud of our diverse, ethnically rich team and the vibrant community we serve. We are saddened and angered by the fact that our staff, their families, the people who use our services and the wider community will be experiencing fear, threats and are feeling unsafe. It is outrageous that vital advice services to the most vulnerable individuals and communities are being targeted and at risk of disruption due to the threat of violence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you to our colleagues at Toynbee Hall for their work, in particular their efforts this week to ensure people have access to advice services and in providing safety and community to those who need it."
+        },
+        {
+          "type": "paragraph",
+          "text": "We call on our politicians to show leadership at this time and to do more than tackle the immediate effects of disorder, to do more than call out the agitation and disinformation. We want to see real change. We stand with those communities who have been affected by this violence and are repairing the damage; we stand with those who are showing the power of hope and kindness."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

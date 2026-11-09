@@ -1,0 +1,117 @@
+{
+  "slug": "audit-466-how-our-debt-advice-works",
+  "route": "/how-our-debt-advice-works/",
+  "title": "How our debt advice works",
+  "intro": "We know that debt comes in all shapes and sizes and that everyone’s situation is different. That’s why our free debt advice takes a personal approach to each individual case. Here’s a step-by-step guide of what to expect when you contact Toynbee Hall for debt advice: 1. A trained support… Read more",
+  "image": {
+    "src": "/images/live-site/debt.jpg",
+    "alt": "A telephone beside a sign reading “Free Advice”"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How our debt advice works"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/01/cropped-Advice-image.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Advice-image.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Here’s a step-by-step guide of what to expect when you contact Toynbee Hall for debt advice:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1. A trained support worker will do an brief initial assessment over the phone"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2. We’ll book you in for a face-to-face appointment or a telephone advice session if required"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Correspondence relating to the debt such as bills and bailiffs demands",
+            "Proof of income",
+            "Proof of id",
+            "A list of your daily living expenses. If you don’t have a list, we can help you to create one."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "3. We’ll discuss your options and talk through the pros and cons of each"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "4. Once we have established the appropriate solution, we can support you to resolve the debt."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How we’ve helped others"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Here are some of our examples of how we’ve have helped others to better manage their debt and money problems. Call us today on 0808 164 2480 or if you prefer to see someone in person, drop in to our centre (28 Commercial Street, London, E1 6LS) on Monday to Friday between 10am and 4pm to find out how we can help you."
+        },
+        {
+          "type": "paragraph",
+          "text": "I can now sleep well without worrying about debt. Jasmine came to Toynbee Hall for debt advice in relation to an outstanding Major Work repairs debt carried out on her property. Jasmine, widowed and suffering from long term ill health, was harassed by her landlord who was demanding she pay the outstanding figure of over £3,000 in full and referred Jasmine’s debt to their solicitor to issue her with a forfeiture of her leasehold. She was clearly very distressed and in tears when she came to see us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our advisor discovered that Jasmine was not getting any help with her service charge as a leaseholder and also noted that client had not defaulted on her Major Work Repair repayment. We advised Jasmine that she was entitled to get help with repayment of her Major Work Repair bill but unfortunately, she was out of time to make a claim. However, we were able to help client to apply for assistance with Service charge payment and client claim was successful."
+        },
+        {
+          "type": "paragraph",
+          "text": "We also challenged client landlord for unfairness in relation to harassment as Jasmine has not defaulted on her major work repayment. Based on our action, the landlord backed off on the legal action against Jasmine."
+        },
+        {
+          "type": "paragraph",
+          "text": "We were terrified that we could go to prison. Gwen and Vincent contacted Toynbee Hall after receiving a letter of court action. As parents to four children they were claiming Working Tax Credit and Child Tax Credit but they had been overpaid by £8,450.00 due to incorrect information on their initial claim form. The couple were understandably very anxious and concerned as they could not afford to repay the debt and were terrified that they would go to prison."
+        },
+        {
+          "type": "paragraph",
+          "text": "We were able to assist Gwen and Vincent by writing to the HMRC, explaining their financial situation and requesting a pause on any further legal action. We also worked with Gwen and Vincent to prepare a financial statement and letter of appeal which we sent to the HMRC asking them to reconsider their decision on the clients’ debt and proposing a resolution of a monthly repayment of £23."
+        },
+        {
+          "type": "paragraph",
+          "text": "The proposal was accepted and Gwen and Vincent were very relieved to be able to manage the debt and be free of the worry and uncertainty that it had cast over their lives."
+        },
+        {
+          "type": "paragraph",
+          "text": "I was trying to sort it out but I was just getting nowhere. Shamiya found herself in receipt of a County Court action brought about by her utility company for arrears of over £2,000. The debt had escalated as Shamiya’s utility meter hadn’t been read for some time resulting in an unexpected bill that she couldn’t afford to pay. She contacted the utility company to try and resolve the issue but the dispute rumbled on without a resolution until she received the summons to appear in court."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shamiya contacted Toynbee Hall and met with one of our support workers. After a brief assessment we were able to challenge the action of the utility company and as a result of our intervention we secured a reduction in the original charge from £2,000 to £800. We also came to an agreement to pay back the rest of the debt in an affordable monthly sum which enabled Shamiya to clear her debt over a fixed period of time."
+        },
+        {
+          "type": "paragraph",
+          "text": "I just didn’t know where to turn. At 68, Rosi’s was struggling financially and was in ill health, receiving chemotherapy for cancer. With no children of her own, her only income and financial support was her state pension. Rosi was initially referred to Toynbee Hall for assistance with a dispute with her bank. Rosi had been awarded a PPI sum as compensation for being mis-sold a financial package but her bank had used the PPI deposit to recover a debt that Rosi owed to them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our support worker challenged the bank for their actions, and as a result the bank paid Rosi additional PPI of over £3,000. We were also able to assess Rosi’s financial situation and identify further benefits that she was entitled to which increased her income by £51.85 per week. Rosi was very pleased with the outcome and was delighted that she now had some savings and could afford to buy the special foods that had been recommended for her post-chemotherapy care."
+        }
+      ]
+    }
+  ]
+}

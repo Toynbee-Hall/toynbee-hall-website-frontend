@@ -1,0 +1,61 @@
+{
+  "slug": "audit-220-are-you-a-landlord-that-rents-out-property-in-east-london",
+  "route": "/19/11/2020/are-you-a-landlord-that-rents-out-property-in-east-london/",
+  "title": "Are you a landlord that rents out property in East London?",
+  "intro": "Invitation to join a sharing workshop on Thursday 26th November 2020, 6.00-7.30pm",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/Landlord-survey-image-1.jpg",
+    "alt": "Are you a landlord that rents out property in East London?"
+  },
+  "template": "article",
+  "publishedAt": "2020-11-19",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Invitation to join a sharing workshop on Thursday 26th November 2020, 6.00-7.30pm"
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2019, Toynbee Hall supported a group of young private renters to research the experiences of young private renters in East London. Our aim was to understand the difficulties they faced in finding and maintaining a tenancy.",
+          "links": [
+            {
+              "text": "research the experiences of young private renters in East London",
+              "href": "/09/03/2020/a-safer-place-to-live-a-better-place-to-rent/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We now want to share our findings with landlords who rent their properties in East London to hear their perspective on some of the challenges uncovered."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us for a sharing workshop where our Young Private Renters Group present their findings and invite you to discuss your experiences as a landlord."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Toynbee Hall Research and Policy Team will provide dedicated support to facilitate this discussion."
+        },
+        {
+          "type": "paragraph",
+          "text": "There will be opportunities to take part in workshops until the end of January 2021 to design proposals to tackle the challenges uncovered together."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tower Hamlets Council has committed to learning from the recommendations generated during this process."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you would like to find out more, please email bethan.mobey@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

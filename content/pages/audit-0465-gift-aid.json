@@ -1,0 +1,75 @@
+{
+  "slug": "audit-465-gift-aid",
+  "route": "/gift-aid/",
+  "title": "Gift Aid Declaration Form",
+  "intro": "Title:",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "First Name:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Surname:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Address:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Town/City:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Postcode:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Boost your donation by 25p of Gift Aid for every £1 you donate"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/cropped-Gift_Aid_UK_Logo.svg-e1718876286771.webp",
+            "alt": "Logo"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "I want to Gift Aid this pledge and any donations I make to Toynbee Hall in the future or have made in the past four years"
+        },
+        {
+          "type": "paragraph",
+          "text": "I am a UK taxpayer and understand that if I pay less Income Tax and/or Capital Gains Tax than the amount of Gift Aid claimed on all my donations in that tax year it is my responsibility to pay any difference (please tick)"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you pay Income Tax at the higher or additional rate and want to receive the additional tax relief due to you, you must include all your Gift Aid donations on your Self-Assessment tax return or ask HM Revenue and Customs to adjust your tax code."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please notify us if you want to cancel this declaration, change your name, or home address, or no longer pay sufficient tax on your income and/or capital gains."
+        },
+        {
+          "type": "paragraph",
+          "text": "Full name:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Date:"
+        }
+      ]
+    }
+  ]
+}

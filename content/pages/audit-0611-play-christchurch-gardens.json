@@ -1,0 +1,48 @@
+{
+  "slug": "audit-611-play-christchurch-gardens",
+  "route": "/whats-on/play-christchurch-gardens/",
+  "title": "Play Session - Christchurch Gardens - Toynbee Hall",
+  "intro": "Free outdoor play session for all children and their families at Christchurch Gardens with Play Lead Rachel. Wednesdays (weekly) 3:30pm – 5pm Christchurch Gardens, Commercial St, London E1 6LY For further information: Telephone: 0203 856 9721 or 07943 277512 Email: rachel.davies@toynbeehall.org.uk",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/cropped-IMG-20231127-WA0046-1.jpg",
+    "alt": "Play Session - Christchurch Gardens - Toynbee Hall — Toynbee Hall"
+  },
+  "template": "event",
+  "dateLabel": "Wednesdays (weekly)",
+  "timeLabel": "3:30pm – 5pm",
+  "venue": "Christchurch Gardens, Commercial St, London E1 6LY",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Play Session – Christchurch Gardens"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wednesdays (weekly) 3:30pm – 5pm Christchurch Gardens, Commercial St, London E1 6LY"
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 0203 856 9721 or 07943 277512"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: rachel.davies@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "rachel.davies@toynbeehall.org.uk",
+              "href": "mailto:rachel.davies@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

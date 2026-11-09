@@ -1,0 +1,65 @@
+{
+  "slug": "audit-317-toynbee-halls-response-to-todays-announcement-on-the-additional-cost-of-living-support-measures",
+  "route": "/26/05/2022/toynbee-halls-response-to-todays-announcement-on-the-additional-cost-of-living-support-measures/",
+  "title": "Toynbee Hall’s response to today’s announcement on the additional Cost of Living support measures",
+  "intro": "Toynbee Hall response to today’s announcement on the additional Cost of Living support measures announced by the Chancellor.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/05/Copy-of-CLPW-Day-4-infograpghic.png",
+    "alt": "Toynbee Hall response to additional cost of living support measures"
+  },
+  "template": "article",
+  "publishedAt": "2022-05-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "People tell us every day of the impact of the cost of living crisis. One local resident recently told us:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“My husband has nerve damage and can’t control his own body temperature. The heating has to be on… if we did turn the heating off I don’t know what I would be coming home from work to.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall welcomes the additional cost of living support measures announced today by the Chancellor. The one-off COL payment of £650, to be paid directly by DWP to people on the lowest incomes in receipt of means-tested benefits, is a positive step towards helping ease the financial pressure for those most at risk of harm due to rising prices."
+        },
+        {
+          "type": "paragraph",
+          "text": "We also welcome the additional £150 payment to disabled people from September to help with the additional costs of living with a disability, and the decision to convert the £200 energy support loan to a £400 non-repayable grant. Finally, the commitment to increase benefits in line with inflation next year means that state support for those who cannot work will provide an income closer to the real living wage, which is essential for reducing long-term poverty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Today’s package will give an additional £1200 this year to those on the lowest incomes living with a disability. But we remain concerned that these steps will not, to quote the Chancellor, ensure that people aren’t left destitute. The Institute for Fiscal Studies estimates that the poorest households will experience inflation of around 14%, once October energy price rises are taken into account. For those in receipt of benefits at the level of the benefits cap, the extra £1200 still leaves an annual shortfall of at least £1600. For larger families with higher energy usage and food bills, the real shortfall will be even greater. So, whilst the measures announced today are of course welcome, the poorest will still face impossible choices this winter about whether their children should go hungry or cold. As another local resident told us this week:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“Anxiety is going to go through the roof. I work in a supermarket, I put the price up every week. The government has no control over it. Mental health is going to get worse. If you’re buying bread and it’s gone from 65p to £1.50. Well, it’s an essential thing. You can’t reduce buying essential things.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Today’s announcements indicate that the Government is open to increasing support for those who need it most. We share here an initial set of policy proposals to address the cost of living crisis which have been developed in partnership with local residents living on a low income. We call on the Government to listen to those people who are hardest hit when considering future support options and implement these proposals to ensure no one is left destitute:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Increase benefit levels – including for legacy benefits – to a living wage level for those who cannot work.",
+            "Stop benefit overpayment deductions until prices have stabilized and/or an individual’s budget has sufficient disposable income to cope with repayments and living costs.",
+            "Introduce a social tariff on energy bills for those on the lowest incomes and/or who have to use a pre-payment meter.",
+            "Provide clear signposting information to further support (debt advice, grants, energy efficiency support) to all households living on a low income or with a disability.",
+            "Require service providers to be proactive in seeking out people who need more support and offer accessible channels to access support, including for people who can’t use digital channels."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To learn more about these policy proposals and the people behind them, please contact: research@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

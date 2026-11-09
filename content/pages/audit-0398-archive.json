@@ -1,0 +1,115 @@
+{
+  "template": "listing",
+  "slug": "audit-398-archive",
+  "route": "/category/uncategorized/",
+  "title": "Category: Uncategorized",
+  "intro": "Browse uncategorized from Toynbee Hall.",
+  "listingType": "category",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "Toynbee Hall welcomes initiative to fight food insecurity and poverty, as London Mayor announces free school meals for all primary school pupils in London",
+      "href": "/20/02/2023/toynbee-hall-welcomes-initiative-to-fight-food-insecurity-and-poverty-as-london-mayor-announces-free-school-meals-for-all-primary-school-pupils-in-london/",
+      "summary": "We welcome London Mayor Sadiq Khan’s announcement of a new scheme to provide free school meals to every primary school pupils.",
+      "date": "2023-02-20",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/02/iStock-538487058.jpg",
+        "alt": "inner lady serving kids in a school cafeteria"
+      }
+    },
+    {
+      "title": "Debt Free Advice launches nationwide",
+      "href": "/17/11/2022/debt-free-advice-launches-nationwide/",
+      "summary": "Debt Free London is changing it’s name to Debt Free Advice and is extending access to the service nationwide.",
+      "date": "2022-11-17",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/Screenshot-2022-11-16-at-17.27.43.png",
+        "alt": "UK map with Debt Free Advice logo on orange background"
+      }
+    },
+    {
+      "title": "Join us for 2022 London Legal Walk",
+      "href": "/09/06/2022/join-us-for-2022-london-legal-walk/",
+      "summary": "On Tuesday 28th June, we are taking part in the London Legal Support Trust’s 10k London Legal Walk in support of frontline free legal advice services.",
+      "date": "2022-06-09",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/06/London-Legal-Walk-image.jpg",
+        "alt": "London Legal Walk 2022"
+      }
+    },
+    {
+      "title": "Ashurst Runners Raise Over £3,000 to help families access justice at the Free Legal Advice Centre",
+      "href": "/04/04/2022/ashurst-runners-raise-over-3000-to-help-families-access-justice-at-the-free-legal-advice-centre/",
+      "summary": "On Sunday 3rd April, 10 runners from Ashurst LLP ran the London Landmarks Half Marathon for Toynbee Hall raising over £3,000 for vital legal support that helps families and households exercise their rights and protect their incomes and security. Racing through Westminster and the City of London, the runners completed 13.1 miles in glorious sunshine… Read more",
+      "date": "2022-04-04",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/04/IMG_20220403_090356-1414x1080-1.jpg",
+        "alt": "Ashurst runners group photo"
+      }
+    },
+    {
+      "title": "Toynbee Hall to become pop-up vaccination centre from 21st – 25th July",
+      "href": "/20/07/2021/toynbee-hall-to-become-pop-up-vaccination-centre-from-21st-25th-july/",
+      "summary": "You can book an appointment online or just turn up between Wednesday 21st and Sunday 25th July",
+      "date": "2021-07-20"
+    },
+    {
+      "title": "Be a Champion for Children and help kids and families get active this summer",
+      "href": "/01/06/2021/be-a-champion-for-children-and-help-kids-and-families-get-active-this-summer/",
+      "summary": "Toynbee Hall is raising money to provide fun Family Summer Holiday Activities with all donations to our Champion for Children Campaign doubled thanks to our match funding After multiple lockdowns, school closures and some of the sharpest impacts of the pandemic, this summer is going to be a critical time for children and families in East… Read more",
+      "date": "2021-06-01",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/sunburst-wave-concept-1.png",
+        "alt": "Be a Champion for Childtren banner"
+      }
+    },
+    {
+      "title": "New Podcast Series: Pandemic Stories",
+      "href": "/18/03/2021/new-podcast-series-pandemic-stories/",
+      "summary": "To coincide with the release of the headline findings report from the Pandemic Stories Peer Research Project, the researchers joined Halima Begum to record a series of conversations about the mental health impact of the pandemic.",
+      "date": "2021-03-18"
+    },
+    {
+      "title": "Pandemic Stories Research Group make their case to APPGs",
+      "href": "/25/02/2021/pandemic-stories-research-group-make-their-case-to-appgs/",
+      "summary": "Jennifer, a peer researcher on the Pandemic Stories project and Policy Champion reflects on her experience of presenting evidence to All Party Parliamentary Groups on Universal Credit and Foodbanks",
+      "date": "2021-02-25",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/APPG.jpg",
+        "alt": "Pandemic Stories Group present to the APPGs"
+      }
+    },
+    {
+      "title": "We’re here to ensure that no one feels like they’re on their own this winter – Toynbee Hall Christmas Appeal 2020",
+      "href": "/11/12/2020/toynbee-hall-christmas-appeal-2020/",
+      "summary": "For all of us, this Christmas will be like no other. But for many in our local community, the pandemic and changing restrictions is meaning many new and additional challenges, from increased isolation and loneliness, rising winter costs on reduced incomes, to the difficult choices that result from needing to protect livelihoods and the health… Read more",
+      "date": "2020-12-11",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/12/Toynbee-Hall_Tw.png",
+        "alt": "The Toynbee Hall Christmas Appeal"
+      }
+    },
+    {
+      "title": "How to Run an Effective Board Meeting",
+      "href": "/27/07/2020/how-to-run-an-effective-board-meeting/",
+      "summary": "Board meetings are a crucial part of an organisation’s future strategy and corporate policy. Whether you’re an experienced chairperson or it’s your first time acting as board liaison, there is a list of details you should consider when planning your board meeting. From hiring a venue to the final follow up, we take a look… Read more",
+      "date": "2020-07-27"
+    },
+    {
+      "title": "What Makes a Good Conference Venue?",
+      "href": "/16/06/2020/what-makes-a-good-conference-venue/",
+      "summary": "Choosing the perfect venue for your conference or event is often a tricky decision, especially when it comes to striking a good first impression. If you’re an organisation looking to draw success, you should know that it’s very important to weigh up all of your options and ensure that your conference venue meets the requirements… Read more",
+      "date": "2020-06-16"
+    },
+    {
+      "title": "How to Plan an Event: Tips from the Barnetts",
+      "href": "/26/05/2020/how-to-plan-an-event-tips-from-the-barnetts/",
+      "summary": "Planning a successful event is no easy job. If you’ve been tasked with organising your next corporate conference, or you’re simply looking to orchestrate a small reception, you should know that any event requires detailed planning and adequate time management. Although the COVID-19 outbreak has caused most events to be cancelled or postponed, this isn’t… Read more",
+      "date": "2020-05-26",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/03/IMG_2033-1.jpg",
+        "alt": "The Launch of our Older People's Peer Action Research Project in September 2018"
+      }
+    }
+  ]
+}

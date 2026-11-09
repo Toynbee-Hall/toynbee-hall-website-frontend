@@ -1,0 +1,9 @@
+{
+  "slug": "audit-592-user",
+  "route": "/user/",
+  "title": "User",
+  "intro": "[ultimatemember form_id=929]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

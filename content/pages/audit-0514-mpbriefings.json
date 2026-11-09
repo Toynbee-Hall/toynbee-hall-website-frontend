@@ -1,0 +1,80 @@
+{
+  "slug": "audit-514-mpbriefings",
+  "route": "/research/mpbriefings/",
+  "title": "Parliamentary Briefings",
+  "intro": "MP Briefings 2026 Read More Briefing on Universal Credit Health Element September 2026 Read More Briefing on Personal Independence Payment and the Activity Trap September 2026 Find out more about our other research projects If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.ukOur Research Library Subscribe to… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/10/Untitled-design.png",
+    "alt": "Parliamentary Briefings — Toynbee Hall"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MP Briefings 2026"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/10/cropped-Untitled-design.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Briefing on Universal Credit Health Element"
+        },
+        {
+          "type": "paragraph",
+          "text": "September 2026"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/10/cropped-Untitled-design-2.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Briefing on Personal Independence Payment and the Activity Trap"
+        },
+        {
+          "type": "paragraph",
+          "text": "September 2026"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

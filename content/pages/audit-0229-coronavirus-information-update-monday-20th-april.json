@@ -1,0 +1,186 @@
+{
+  "slug": "audit-229-coronavirus-information-update-monday-20th-april",
+  "route": "/20/04/2020/coronavirus-information-update-monday-20th-april/",
+  "title": "Coronavirus information update – Monday 20th April",
+  "intro": "With many people facing uncertainty around their employment, finances, housing and care, we want to ensure everyone has information they need to get the support they are are entitled to. We’ve put together this guide with the latest information on what support is available and how you can get it. If you’re unsure on what… Read more",
+  "template": "article",
+  "publishedAt": "2020-04-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "If you’re unsure on what any of this any of this could mean for you or you need some help on any related issues, please get in touch and Advice Team will do their best to help. Call 020 7392 2953, email advice@toynbeehall.org.uk or complete this online form and someone will get back to you.",
+          "links": [
+            {
+              "text": "advice@toynbeehall.org.uk",
+              "href": "mailto:advice@toynbeehall.org.uk"
+            },
+            {
+              "text": "complete this online form",
+              "href": "/free-advice/#contact-us"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Chancellor extends furlough scheme to end of June"
+        },
+        {
+          "type": "paragraph",
+          "text": "Coronavirus Job Retention Scheme extended by one month to reflect continuing social distancing measures.",
+          "links": [
+            {
+              "text": "Coronavirus Job Retention Scheme extended by one month to reflect continuing social distancing measures.",
+              "href": "https://www.gov.uk/government/news/chancellor-extends-furlough-scheme-to-end-of-june"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Government announces extension of eligibility cut-off date for the Coronavirus Job Retention Scheme"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employers will now be able to claim for furloughed employees that were employed and on their PAYE payroll on or before 19 March 2020.",
+          "links": [
+            {
+              "text": "claim for furloughed employees",
+              "href": "https://www.gov.uk/government/news/furlough-scheme-cut-off-date-extended-to-19-march"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Extension of entitlement to statutory sick pay to those who are ‘shielding’ as a result of the coronavirus outbreak"
+        },
+        {
+          "type": "paragraph",
+          "text": "The extension sets out those who are deemed to be incapable of work by reason of coronavirus, to also include a person: “who is defined in public health guidance as extremely vulnerable and at very high risk of severe illness from coronavirus because of an underlying health condition; and has been advised, by notification sent to, or in respect of, that person in accordance with that guidance, to follow rigorously shielding measures for the period specified in the notification.”",
+          "links": [
+            {
+              "text": "extension",
+              "href": "http://www.legislation.gov.uk/uksi/2020/427/made"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Government issues further guidance to local authorities on implementing the £500 million COVID-19 council tax hardship fund."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Ministry of Housing, Communities and Local Government Council Tax information letter clarifies that hardship fund discount should not be applied on a pro-rata basis, and it may be subject to reassessment if council tax liability subsequently reduces below amount awarded. Here’s a summary from Rightsnet and the letter itself here. You can see what support Tower Hamlets is providing here:",
+          "links": [
+            {
+              "text": "Rightsnet",
+              "href": "https://www.rightsnet.org.uk/welfare-rights/news/item/government-issues-further-guidance-to-local-authorities-on-implementing-the-500-million-covid-19-council-tax-hardship-fund"
+            },
+            {
+              "text": "here",
+              "href": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/879764/32020_-_Council_Tax_information_letter_-_16_April_2020_.pdf"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/04/Council-Tax-Support-LBTH-Poster-1024x1024.jpg",
+            "alt": "Support with Council Tax - London Borough of Tower Hamlets"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Important reminder: you must claim for council tax reduction in addition to completing to a Universal Credit application. Advice Services Team Manager Helen Evans explains:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Universal Credit claimants to verify identity through Government Gateway"
+        },
+        {
+          "type": "paragraph",
+          "text": "People applying for Universal Credit will now be able to use their existing Government Gateway account to confirm their identity, helping to speed up their claim.",
+          "links": [
+            {
+              "text": "Government Gateway account",
+              "href": "https://www.gov.uk/government/news/universal-credit-claimants-to-verify-identity-through-government-gateway?utm_source=a524b965-2ac5-4bb2-9db2-f247b5f79615&utm_medium=email&utm_campaign=govuk-notifications&utm_content=daily"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Coronavirus business support"
+        },
+        {
+          "type": "paragraph",
+          "text": "A new Coronavirus business hub is available on GOV.UK. The hub is the first point of call for people seeking government information on support for business.",
+          "links": [
+            {
+              "text": "GOV.UK",
+              "href": "https://www.gov.uk/coronavirus/business-support?utm_source=http%3a%2f%2fnews.dwp.gov.uk%2fdwplz%2f&utm_medium=email&utm_campaign=Coronavirus+Touchbase+special+-+17+April+2020&utm_term=Coronavirus+Touchbase+special+-+17+April+2020&utm_content=85777"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Government releases adult social care action plan"
+        },
+        {
+          "type": "paragraph",
+          "text": "The government has released its Coronavirus (COVID-19): adult social care action plan on controlling the spread of infection in care settings, supporting the workforce, supporting independence, supporting people at the end of their lives, and responding to individual needs and supporting local authorities and the providers of care.",
+          "links": [
+            {
+              "text": "Coronavirus (COVID-19): adult social care action plan",
+              "href": "https://www.gov.uk/government/publications/coronavirus-covid-19-adult-social-care-action-plan"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Relationship breakdown and tenancy information"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nearly Legal has put together an FAQ on ‘Relationship Breakdown and Tenancies’ which may be helpful if you are working with private renters who want to understand their rights when a relationship breaks down.",
+          "links": [
+            {
+              "text": "‘Relationship Breakdown and Tenancies’",
+              "href": "https://nearlylegal.co.uk/relationship-breakdown-and-tenancies-faq/?utm_source=mailpoet&utm_medium=email&utm_campaign=new-on-nearly-legal-newsletter-total-new-posts_1"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Ofgem have provided some useful information for consumers about how to manage their energy supply during lockdown"
+        },
+        {
+          "type": "paragraph",
+          "text": "It advises what you can do if you can’t get out to topup your meter, what support is available if you are struggling to pay bills. You can find it here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "https://www.ofgem.gov.uk/coronavirus-covid-19/coronavirus-covid-19-and-your-energy-supply"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you need any help or advice, please call 020 7392 2953, email advice@toynbeehall.org.uk or complete this online form and someone will get back to you."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

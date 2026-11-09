@@ -1,0 +1,52 @@
+{
+  "slug": "audit-204-festival-of-communities-2019",
+  "route": "/18/06/2019/festival-of-communities-2019/",
+  "title": "Festival of Communities 2019",
+  "intro": "This past weekend, Toynbee Hall attended the Festival of Communities which took place in Stepney Green Park and was organised by Queen Mary University London. The annual Festival of Communities celebrates the culture and diversity of the extraordinary borough that is Tower Hamlets. It was fantastic to be part of such a vibrant event and… Read more",
+  "template": "article",
+  "publishedAt": "2019-06-18",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This past weekend, Toynbee Hall attended the Festival of Communities which took place in Stepney Green Park and was organised by Queen Mary University London."
+        },
+        {
+          "type": "paragraph",
+          "text": "The annual Festival of Communities celebrates the culture and diversity of the extraordinary borough that is Tower Hamlets. It was fantastic to be part of such a vibrant event and an important opportunity for us to share information about our work and services to local people living and working in Tower Hamlets. This was the fourth year of the festival which aims to showcase living and learning across the borough."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/06/IMG_2686.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "A special thanks goes out to the volunteers who helped to run our stall and to Queen Mary University for inviting us to attend. Also during the event peer researchers on our Community Safety project managed to collect 100 surveys about the key concerns people in Tower Hamlets face that prevent them from feeling safe. These surveys will help to inform the focus of the project, to ensure the research is best placed to support people living and working in Tower Hamlets to feel safer in their community.",
+          "links": [
+            {
+              "text": "Community Safety project",
+              "href": "/safer-and-more-welcoming-homes-and-communities/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would like to join or support the group in working towards making Tower Hamlets a safer and more inclusive place to live and work, please contact our Research Manager: philip.mullen@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "philip.mullen@toynbeehall.org.uk",
+              "href": "mailto:philip.mullen@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

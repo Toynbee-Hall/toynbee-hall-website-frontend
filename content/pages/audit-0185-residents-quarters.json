@@ -1,0 +1,36 @@
+{
+  "slug": "audit-185-residents-quarters",
+  "route": "/17/04/2018/residents-quarters/",
+  "title": "Regeneration Photo Blog – Residents’ Quarters….",
+  "intro": "By Keith Greenough and Xia Lin Recently I visited the apartments on the upper floors of the old hall. These will be home for the new residential voluntary workers. Work is nearing completion with painting, carpeting and fitting out of kitchens and bathrooms almost there. It is wonderful that the residential voluntary workers programme is… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/20180410-Toynbee-Visit-09006-e1529334350363.jpg",
+    "alt": "Regeneration Photo Blog – Residents’ Quarters…. — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-04-17",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Recently I visited the apartments on the upper floors of the old hall. These will be home for the new residential voluntary workers. Work is nearing completion with painting, carpeting and fitting out of kitchens and bathrooms almost there. It is wonderful that the residential voluntary workers programme is being reinstated and the new ‘Resident’s Quarters’ will be a great place to live and work!"
+        },
+        {
+          "type": "paragraph",
+          "text": "All around the site the re-development has moved forward. It was particularly exciting to see the wood paneling in the Lecture Hall being restored and varnished. The main staircase is also being restored and damaged sections of the ornamental balustrade have been replaced. A more obvious development is the construction of the replacement building for Profumo House. Concrete floors have been added to the steel frame I photographed in February. Things are certainly moving towards completion in the near future!"
+        },
+        {
+          "type": "paragraph",
+          "text": "During my visit I spoke to Xia Lin, who is Toynbee Hall’s Research & Evaluation Manager and will be managing the Research and Evaluation residential voluntary workers who will be staying in the Residents’ Quarters."
+        },
+        {
+          "type": "quote",
+          "quote": "This is such an inspiring visit. There must be a lot of hard work to get to this stage, and I am looking forward to moving into the new office featuring with old fireplaces. I am also looking forward to working with two Research and Evaluation Residential Voluntary Workers who will be living in one of these nice flats. They will contribute to our work on evaluating Toynbee Hall services and researching social and financial exclusion. They will take part in launching our Older People’s Need Participatory Action Research project in one of the renovated halls. If you would like to know more about the experiences and results of local older people being trained and supported to co-design, conduct and analyse 500 surveys and 45 interviews, please come to our launch, read our report and watch the project film over the coming months. You can find out more by emailing research@toynbeehall.org.uk.”"
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

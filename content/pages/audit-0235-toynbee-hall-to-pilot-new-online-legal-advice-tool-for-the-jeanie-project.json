@@ -1,0 +1,89 @@
+{
+  "slug": "audit-235-toynbee-hall-to-pilot-new-online-legal-advice-tool-for-the-jeanie-project",
+  "route": "/20/08/2018/toynbee-hall-to-pilot-new-online-legal-advice-tool-for-the-jeanie-project/",
+  "title": "Toynbee Hall to pilot new online legal advice tool for The Jeanie Project",
+  "intro": "Toynbee Hall will be one of the first to test The Jeanie Project’s new ground-breaking technology that will help food banks and community groups provide wider access to legal advice. Working alongside The Jeanie Project and with support from the Legal Education Foundation, we will be testing a free online information tool that will provide… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/Jeanie-Project-news-image.jpg",
+    "alt": "Acces to Justice video blog 1"
+  },
+  "template": "article",
+  "publishedAt": "2018-08-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall will be one of the first to test The Jeanie Project’s new ground-breaking technology that will help food banks and community groups provide wider access to legal advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Working alongside The Jeanie Project and with support from the Legal Education Foundation, we will be testing a free online information tool that will provide access legal advice, information and connections to lawyers, simply and effectively."
+        },
+        {
+          "type": "paragraph",
+          "text": "The project has been backed by the Mayor of London, Sadiq Khan who said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“It is a fundamental pillar of our democracy that everyone should be able to exercise their legal rights regardless of their background or financial position. However, cuts to legal aid have seen many people on low incomes simply unable to access good quality legal advice because it is unaffordable. That’s why the work of the Jeanie Project is so important, because without work they and others will do, wrongs won’t be righted and achieving justice will continue to be out of reach for many people”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Why are we doing this?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Government cuts to Legal Aid means that more and more people are unable to access the support and legal advice that they need. Relatively simple issues quickly become overwhelming, thanks to the lack of the necessary information and appropriate support. The consequences of this can wreck lives and families, from being illegally evicted for rent arrears, discriminated out of a job, or even removed from the country."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How it works"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Jeanie Project will use front-line legal experience and groundbreaking technology provided by KIM (Knowledge, Intelligence, Meaning). KIM was developed by Riverviewlaw and is provided under licence for free. Through the technology of simple-to-use online information and tools, we can help hundreds of groups in local communities and the service will be completely free."
+        },
+        {
+          "type": "paragraph",
+          "text": "It will begin with immigration law though other scenarios involving areas of law – including debt, housing, employment as well as family – have been developed. We hope it will then expand into MPs surgeries and other civil society organisations such as foodbanks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall will be testing the technology and processes with the community groups who are on this early journey with us. We need to make sure it works smoothly for them and the people they help. The quicker we can do this do this quicker we can share the KIM technology with more organisations that can help."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How you can help"
+        },
+        {
+          "type": "paragraph",
+          "text": "This year our Free Legal Advice Centre celebrates its 120th Anniversary which is a testament to the service and to the thousands of brilliant volunteers who have given up their time to provide access to justice for over a century, but it faces new challenges every day. You can help support our Free Legal Advice Centre and help us to ensure that people across London have access to the justice system by making donation on our new website here www.toynbeehall.org.uk/donate.",
+          "links": [
+            {
+              "text": "www.toynbeehall.org.uk/donate",
+              "href": "/donate"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For more information or to discuss corporate partnerships, contact our Relationships Manager, Rob Crich.",
+          "links": [
+            {
+              "text": "Rob Crich",
+              "href": "mailto:rob.crich@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

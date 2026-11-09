@@ -1,0 +1,99 @@
+{
+  "slug": "audit-85-we-are-part-of-the-2022-open-house-festival",
+  "route": "/08/09/2022/we-are-part-of-the-2022-open-house-festival/",
+  "title": "We are part of the 2022 Open House Festival",
+  "intro": "Toynbee Hall will be open on Saturday 17th and Sunday 18th September and will be running guided tours as part of the 2022 Open House Festival.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/09/Toynbee-Hall-Marek-Sikora-Photography-Large-27.jpg",
+    "alt": "The entrance to Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2022-09-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall will be open on Saturday 17th and Sunday 18th September and will be running free guided tours as part of the 2022 Open House Festival."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of the 2022 Open House Festival, Toynbee Hall will be open to the public on Saturday 17th and Sunday 18th September from 10am until 3pm. We also be running free guided Toynbee Hall: A Powerhouse for Social Change Tours."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Open House Festival is an annual two week celebration of London featuring amazing events, tours and open days of special buildings across all 33 London boroughs. With hundreds of thousands of visitors, it is the most popular event of its kind in the world. This is the 30th anniversary of the Open House Festival."
+        },
+        {
+          "type": "paragraph",
+          "text": "One of the curators of festival is Architect, Shahed Saleem, who has curated a list of his favourite buildings and spaces across the Whitechapel area. Toynbee Hall is one of the buildings Shahed has highlighted and included in his walk around Whitechapel. We will be holding four guided tours. To register for the tours, please sign up on the Open House website. Please note a free visitor account is required to book on to any activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can create a free visitor account and sign up to one of our tours here.",
+          "links": [
+            {
+              "text": "You can",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "c",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "r",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "e",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "a",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "t",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "f",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "v",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "i",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "s",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "o",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "u",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "n",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            },
+            {
+              "text": "and sign up to one of our tours here.",
+              "href": "https://programme.openhouse.org.uk/listings/2202"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

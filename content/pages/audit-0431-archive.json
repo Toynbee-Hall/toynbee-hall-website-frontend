@@ -1,0 +1,203 @@
+{
+  "template": "listing",
+  "slug": "audit-431-archive",
+  "route": "/event-cat/play/",
+  "title": "Event Category: Play",
+  "intro": "Browse play from Toynbee Hall.",
+  "listingType": "events",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "Keepsake of a Killer: Immersive Play",
+      "href": "/whats-on/keepsake-of-a-killer-immersive-play/",
+      "summary": "Keepsake of a Killer",
+      "date": "Saturdays, 8 to 29 November",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/Keepsake-of-a-killer-image.jpg",
+        "alt": "Keepsake of a Killer: Immersive Play — Toynbee Hall"
+      },
+      "location": "Lecture Hall, Toynbee Hall"
+    },
+    {
+      "title": "Seated Exercise (Over 50s)",
+      "href": "/whats-on/seatedexercise",
+      "summary": "This is a LinkAge Plus activity for people aged 50+."
+    },
+    {
+      "title": "English Conversation Club",
+      "href": "/whats-on/english-conversation-club",
+      "summary": "Looking to improve your English in a friendly, informal setting? Our English Conversation Club for adults (18+) is a peer-led group where we practice English through weekly themed activities – from discussing food and money to exploring culture and travel. Strengthen your speaking, reading, and writing skills while meeting new people!",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/ESOL-class.jpg",
+        "alt": "Three women talking in a room"
+      }
+    },
+    {
+      "title": "IT and Tech Support Drop-in",
+      "href": "/whats-on/it-support",
+      "summary": "A practical drop in session every Wednesday for help with any IT issues and tech support."
+    },
+    {
+      "title": "Seated Exercise (Over 50s)",
+      "href": "/whats-on/seatedexercise",
+      "summary": "This is a LinkAge Plus activity for people aged 50+."
+    },
+    {
+      "title": "English National Ballet (Over 50s)",
+      "href": "/whats-on/ballet",
+      "summary": "ENB is on a break until after the Summer.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/toynebee-83.jpg",
+        "alt": "Ballet class in the Toynbee Hall Community Centre"
+      }
+    },
+    {
+      "title": "ELOP LGBT+ Group",
+      "href": "/whats-on/elop-lgbt",
+      "summary": "ELOP are an innovative LGBT+ mental health charity based in East London.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/Untitled-design-8.png",
+        "alt": "ELOP LGBT Group - Every Tuesday"
+      }
+    },
+    {
+      "title": "Celebration: The People’s History of Petticoat Lane",
+      "href": "/whats-on/peopleshistoryofpetticoatlane",
+      "summary": "Get ready to celebrate the history of Petticoat Lane programme with an unforgettable in-person event.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/11/The-Peoples-History-of-Petticoat-Lane.jpg",
+        "alt": "Celebrating the History of Petticoat Lane"
+      }
+    },
+    {
+      "title": "Celebration: The People’s History of Petticoat Lane",
+      "href": "/whats-on/peopleshistoryofpetticoatlane",
+      "summary": "Get ready to celebrate the history of Petticoat Lane programme with an unforgettable in-person event.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/11/The-Peoples-History-of-Petticoat-Lane.jpg",
+        "alt": "Celebrating the History of Petticoat Lane"
+      }
+    },
+    {
+      "title": "Oitij-jo x Whitechapel Gallery",
+      "href": "/fundraising-events/oitij-jo-x-whitechapel-gallery/",
+      "summary": "Join the Whitechapel Gallery for an evening programme of music, film and food curated by Oitij-jo, following a day of performances and workshops celebrating British Bengali arts and culture on Petticoat Lane. Oitij-jo is dedicated to providing creative collaborations and platforms to enhance British/Bangla engagement with wider global, national and local urban and rural communities.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/Oiti-jo-day-festival-09_09.jpg",
+        "alt": "Oiti Jo Collective present - Day festival"
+      }
+    },
+    {
+      "title": "‘Dhakai Jamdani the Pride’",
+      "href": "/fundraising-events/dhakai-jamdani-the-pride/",
+      "summary": "Learn the process of naturally dyed yarms and weaving the simplest of Jamdani motifs. Come and create memories with a member of the your family through a series of workshops at House of Annetta as part of the High Streets Heritage Action Zone Cultural Programme.",
+      "date": "19 and 20 August",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/iStock-872166732.jpg",
+        "alt": "Jamdani"
+      }
+    },
+    {
+      "title": "Mosaic with Hackney Mosaic",
+      "href": "/fundraising-events/mosaic-with-hackney-mosaic/",
+      "summary": "Everyone is welcome and no experience is necessary.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/Hackney-mosaic-e1691578731122.jpg",
+        "alt": "Hackney mosaic"
+      }
+    },
+    {
+      "title": "Aam-Khatli Fruit festival",
+      "href": "/whats-on/fruitfestival",
+      "summary": "This is part of a programme of family friendly events taking place over the summer to celebrate the history of Petticoat Lane.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/FwXd_7sXoAUKWhn-1.jpg",
+        "alt": "Aam-Khatli Fruit festival"
+      }
+    },
+    {
+      "title": "Khado Food & Fun Festival",
+      "href": "/whats-on/khadofestival",
+      "summary": "",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/Khado-event-listing-whats-on.jpg",
+        "alt": "Food and Fun festival poster"
+      }
+    },
+    {
+      "title": "Songbirds Singing Group (Over 50s)",
+      "href": "/whats-on/songbirds/",
+      "summary": "This is a LinkAge Plus activity for people aged 50+.",
+      "date": "Alternate Fridays",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/songbirds-2023-e1720092376209.jpg",
+        "alt": "Singing class in the Toynbee Hall Community Centre"
+      },
+      "location": "Community Centre, 28 Commercial Street, E1 6LS"
+    },
+    {
+      "title": "Community Art Group",
+      "href": "/whats-on/art-group",
+      "summary": "Join our welcoming art group, where people work together or independently to practise and develop their skills, socialise and help one another. All ages and skill levels welcome (children must be supervised).",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/toynebee-203.jpg",
+        "alt": "Community Art Group"
+      }
+    },
+    {
+      "title": "Painting with Husna (Over 50s)",
+      "href": "/whats-on/painting-with-purpose",
+      "summary": "This is a LinkAge Plus activity for people aged 50+.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/toynebee-232-web.jpg",
+        "alt": "Painting for purpose class at the Toynbee Hall community Centre"
+      }
+    },
+    {
+      "title": "Painting with Husna (Over 50s)",
+      "href": "/whats-on/painting-with-purpose",
+      "summary": "This is a LinkAge Plus activity for people aged 50+.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/toynebee-232-web.jpg",
+        "alt": "Painting for purpose class at the Toynbee Hall community Centre"
+      }
+    },
+    {
+      "title": "Bingo with Michael",
+      "href": "/whats-on/bingo",
+      "summary": "Come and join our friendly and welcoming group, led by Michael, for a fun and lively game of Bingo! Open to all (18+)",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/Michael-and-Nasrat-2025-BINGO-e1737981941503.jpg",
+        "alt": "Bingo with Michael — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Shared Reading Group with Dorothy",
+      "href": "/whats-on/reading-group",
+      "summary": "Book lovers! Come and join our friendly group to discuss what we have been reading in an informal setting. Open to all (18+)",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/Untitled-design-7.png",
+        "alt": "Book shelf"
+      }
+    },
+    {
+      "title": "Film Club",
+      "href": "/whats-on/film-club",
+      "summary": "Fridays (weekly) 2pm – 4pm Community Centre, 28 Commercial Street, E1 6LS",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/10/cinema-g27362e961_640.jpg",
+        "alt": "Film Club — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Yoga (Over 50s)",
+      "href": "/whats-on/yoga/",
+      "summary": "This is a LinkAge Plus activity for people aged 50+.",
+      "date": "Mondays",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/09/toynebee-141.jpg",
+        "alt": "Seated yoga class"
+      }
+    }
+  ]
+}

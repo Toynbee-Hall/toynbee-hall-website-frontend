@@ -1,0 +1,82 @@
+{
+  "slug": "audit-187-the-renters-reform-bill-government-introduces-the-long-awaited-bill-banning-no-fault-evictions",
+  "route": "/17/05/2023/the-renters-reform-bill-government-introduces-the-long-awaited-bill-banning-no-fault-evictions/",
+  "title": "The Renters Reform Bill: Government introduces the long awaited Bill banning no fault evictions",
+  "intro": "The Renters’ (Reform) Bill was promised in the Government’s 2019 manifesto with a commitment to abolish section 21 ‘no fault’ evictions.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/h0dXEoCg-scaled.jpeg",
+    "alt": "Renters Reform Coalition sign"
+  },
+  "template": "article",
+  "publishedAt": "2023-05-17",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Renters’ (Reform) Bill, introduced to Parliament today, was promised in the Government’s 2019 manifesto with a commitment to abolish section 21 ‘no fault’ evictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Too many people live in insecure, unaffordable and unsafe homes. Over the past three years, Toynbee Hall has proudly been a member of the Renters Reform Coalition, a coalition of 20 organisations who represent private renters. The coalition is united in our mission to reform the private rented sector so that everyone who relies on it for their home can prosper.",
+          "links": [
+            {
+              "text": "Renters Reform Coalition",
+              "href": "https://www.rentersreformcoalition.co.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Bill means eleven million tenants across England are set to benefit from safer, fairer and higher quality homes and the abolition of section 21 will empower renters to challenge poor standards without fear of losing their home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rebecca Sycamore, Chief Executive of Toynbee Hall, said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“We know security of tenure is essential for private renters to build a strong foundation for the lives they want to lead. We are incredibly proud to be a part of the Renters Reform Coalition and after years of tireless campaigning to hold the Government to their promise, are pleased to see the Renters Reform Bill finally come to pass. The ending of no fault evictions could mean renters find it more easy to maintain work, access health care, be part of a community and take part in society as active citizens. We await the details of the bill, but this is a positive step.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The government will also bring forward legislation as part of the Bill to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Apply the Decent Homes Standard to the private rented sector for the first time, giving renters safer, higher quality homes.",
+            "Make it illegal for landlords and agents to have blanket bans on renting to tenants in receipt of benefits or with children – ensuring no family is unjustly discriminated against when looking for a place to live.",
+            "Strengthen councils’ enforcement powers and introduce a new requirement for councils to report on enforcement activity – to help target criminal landlords.",
+            "Give tenants the legal right to request a pet in their home, which the landlord must consider and cannot unreasonably refuse.",
+            "Introduce a reformed courts process, that will be digitised – reducing delays.",
+            "Introduce a new Ombudsman that will provide quicker and cheaper resolutions to disputes, while a new digital Property Portal will enable landlords to understand their obligations and help tenants make better, more informed decisions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The new Bill will also protect landlords, making it easier for them to recover properties when they need to and repossess properties from anti-social tenants."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have seen through our Young Renters Peer Research project the challenges people face across the entire renting experience, from finding a home, to making a home, to moving out. We want to ensure the government delivers on what they committed to. Join us in the fight for a fairer, more secure, decent, and affordable private renting. Join the Renters Reform Coalition.",
+          "links": [
+            {
+              "text": "Young Renters Peer Research project",
+              "href": "/youngrenters?campaignkw=Young%20Renters"
+            },
+            {
+              "text": "Join the Renters Reform Coalition",
+              "href": "https://rentersreformcoalition.co.uk/join-the-campaign"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

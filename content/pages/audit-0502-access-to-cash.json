@@ -1,0 +1,81 @@
+{
+  "slug": "audit-502-access-to-cash",
+  "route": "/research/access-to-cash/",
+  "title": "Access to Cash",
+  "intro": "A UK-wide PAR project looking at preserving access to cash for low-income and marginalised peopleToynbee Hall worked in collaboration with peer researchers from across the UK to look at the changing cash landscape and co-develop recommendations.Through this project we held in-depth interviews with over 50 people (a revisited those same people between seasons),… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/cropped-Pandemic-Stories-cover-image.jpg",
+    "alt": "Pandemic Stories Full Findings"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A UK-wide PAR project looking at preserving access to cash for low-income and marginalised people"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall worked in collaboration with peer researchers from across the UK to look at the changing cash landscape and co-develop recommendations. Through this project we held in-depth interviews with over 50 people (a revisited those same people between seasons), and a national survey of 1,031 UK residents, all of whom rely on cash for their day-to-day lives. The project revealed factors that hindered access to cash, such as the decrease in withdrawal options during and after the COVID-19 pandemic, and the lack of visibility and financial accessibility of remaining options."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/10/cropped-iStock_000070766317_Medium.jpg",
+            "alt": "To solve poverty, we must tackle the climate crisis.",
+            "caption": "plant growing out of coins with filter effect retro vintage style"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our Research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Starting in January 2022, Toynbee Hall’s research and policy team has been collaborating with individuals across the UK who rely on cash to gain insight into their lived experiences using a participatory action research approach. A team of 12 peer researchers from across the UK, supported by three community organisations, was engaged in the project. They identified key issues, designed question guides, and conducted two rounds of interviews with people in their communities who heavily depended on cash for their day-to-day transactions. Additionally, a survey was commissioned of over 1000 UK residents who relied on cash to provide quantitative data to support the qualitative research stage. The peer research project aimed to achieve two main objectives. Firstly, it aimed to assess the ongoing provision of access to cash since January 2020, identify any significant gaps in provision, and evaluate the impact of any changes or gaps in provision which occurred due to the Coronavirus Crisis, particularly on people with a priority need for access to cash such as those with mental health issues, disabilities, low-income households, and the elderly. Secondly, the project aimed to identify the types of locations where cash access solutions, including but not limited to free-to-use ATMs, would protect access to cash for vulnerable and excluded consumers in the most efficient and effective manner. We are now in the final stages of completing our report, due in Spring 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "It’s becoming a cashless society. Some things you wanna pay by cash. And especially when you’re on a low income you know and you’ve got a tight budget, you want to budget your money yourself. A lot of the times you can’t do that if you haven’t got online banking. It’s a case of constantly checking how much money you’ve got in your bank.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "You get embarrassed sometimes when they say it’s card only and you think ‘oh I haven’t got it’ and they sort of shrug their shoulders.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "My little community where I live, a lot of them are elderly, including me gran who’s aged 74. Their nearest free cash point is driving distance, and a lot of older people don’t drive. For them to get there they would have to get two buses, and it’s only a 7 or 8 minute drive. And walking I’d say 25 minutes.”"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

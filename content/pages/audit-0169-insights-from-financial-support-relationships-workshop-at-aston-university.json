@@ -1,0 +1,118 @@
+{
+  "slug": "audit-169-insights-from-financial-support-relationships-workshop-at-aston-university",
+  "route": "/16/06/2025/insights-from-financial-support-relationships-workshop-at-aston-university/",
+  "title": "Insights From Financial Support Relationships Workshop at Aston University",
+  "intro": "By Kwang Lin Wong On June 2nd, I had the privilege of attending the Workshop on Financial Support Relationships hosted by the Centre for Personal Financial Wellbeing (CPFW) at Aston University. The event brought together academics, advice and financial organisations to explore the dynamics of informal financial support relationships, with a focus on low- and… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/finance-7-scaled.jpg",
+    "alt": "Insights From Financial Support Relationships Workshop at Aston University — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2025-06-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "On June 2nd, I had the privilege of attending the Workshop on Financial Support Relationships hosted by the Centre for Personal Financial Wellbeing (CPFW) at Aston University. The event brought together academics, advice and financial organisations to explore the dynamics of informal financial support relationships, with a focus on low- and moderate-income households and LGBTQ+ communities."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Real Accounts: Understanding Lived Financial Realities"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Hayley James from the CPFW presented early findings from the Real Accounts project, a longitudinal study that examines “financial support relationships”: arrangements in which individuals exchange or manage money collaboratively. This can involve transfers, shared financial products, or shared expenses, and arrangements can also involve unpaid services like caregiving.",
+          "links": [
+            {
+              "text": "Real Accounts",
+              "href": "https://www.aston.ac.uk/research/bss/abs/centres-hubs/cpfw/projects/real-accounts"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Findings revealed:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "A range of overlooked support structures going beyond traditional understandings of support within family units, and extending into networks of friends, siblings, and ad-hoc, trust-based relationships.",
+            "Evidence that such financial relationships are becoming increasingly common due to heightened financial instability, such as the reliance on gig work and",
+            "Transfers of money, not only between generations, but also across peer and sibling relationships. These are sometimes one-way, and sometimes cyclical."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The project also challenges traditional assumptions that informal support systems are always beneficial. While they can offer resilience, they may lack transparency, legal protection, or equity, especially for marginalised groups."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Financial (In)security in LGBT+ Communities"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Lee Gregory from the University of Nottingham presented findings from the LGBT+ Welfare and Assets in Great Britain project. This mixed-methods study combined statistical analysis with qualitative insights from LGBT+ individuals, welfare and community organisations.",
+          "links": [
+            {
+              "text": "LGBT+ Welfare and Assets in Great Britain",
+              "href": "https://lgbtqwelfare.stir.ac.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Key findings included:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Bisexual women and lesbians were especially likely to lack savings or disposable income, compared to heterosexuals. There were also lower levels of benefit receipt in the LGBT+ demographic, especially among lesbian individuals and same-sex couples.",
+            "Fears of homophobia or transphobia can lead LGBT+ individuals to avoid jobs or delaying benefit claims",
+            "Financial exclusion also impacted social well-being, as reliance on welfare often restricted participation in LGBT+ community life."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The research dispelled the “pink pound” myth that LGBT+ people are economically affluent. Another key concept developed was the “queer cushion”: small circles of mutual aid among friends filling in for biological families."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Implications and Reflections"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/finance-38-1024x683.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "A cross-sector discussion followed, raising several key challenges and opportunities. Participants called for a re-examination of how welfare and financial systems are designed:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Can creditors and billers offer more flexible payment plans to prevent hardship and minimise failed bank transfers, since customers often do not earn regular monthly incomes? – The Request to pay system was highlighted as an example of an innovative system to support flexibility. This allows for more flexibility for consumers while reducing failed payments and the administrative hassle of reconciling payments for billing organisations. However, uptake remains low, and awareness among consumers and providers is limited.",
+            "Could eligible benefit claimants be automatically enrolled in social tariffs? – This would eliminate the friction of needing internet access or third-party assistance to enrol, especially since not all claimants know they are eligible for social tariffs.",
+            "Could informal lending and repayment histories contribute to credit assessments? -From my past research experience, a wealth of alternative data tools is being developed to assess financial risk and provide access to financial tools, especially in Global South countries where access to formal bank accounts is limited. – However, such data needs to be collected and used in a limited and responsible way – safeguards are needed to avoid promoting high-risk credit to people who cannot afford to repay.",
+            "How can welfare and advice providers be better trained to ensure they can provide high-quality, inclusive services to those relying on informal support for complex financial situations, and LGBT+ individuals that face specific intersectional challenges?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For Toynbee Hall and Debt Free Advice, these insights from lived experience research reinforce the need to recognise both the legitimacy and risks of non-traditional financial networks in advice and service delivery, and continue advocating for inclusive systems that do not penalise people for their identities. A challenge for those of us in data and evaluation is how to keep track of these forms of support and use them to assess individual financial situations, given their irregularity and trust-based nature."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

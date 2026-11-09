@@ -1,0 +1,182 @@
+{
+  "slug": "audit-65-improving-wellbeing-for-people-over-50-years-old-through-linkage-plus",
+  "route": "/07/04/2025/improving-wellbeing-for-people-over-50-years-old-through-linkage-plus/",
+  "title": "Improving wellbeing for people over 50 years old through LinkAge Plus",
+  "intro": "What is LinkAge Plus? Emily, our Community Partnerships Manager, explains more.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/LinkAge-Plus-actitivity-session-at-Toynbee-Hall-Community-Centre-scaled-e1744019097251.jpg",
+    "alt": "Two older women stretching and dancing in a hall with one man playing the drums."
+  },
+  "template": "article",
+  "publishedAt": "2025-04-07",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/Emily-Bird-Community-Partnerships-Manager.jpg",
+            "alt": "Young woman talking to someone out of shot"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Emily Bird is our Community Partnerships Manager. We asked her about her job and what she loves about it."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What is LinkAge Plus?"
+        },
+        {
+          "type": "paragraph",
+          "text": "LinkAge Plus is a project for people over 50 years old who live in Tower Hamlets. It’s about providing older adults with opportunities that enhance their wellbeing, expand their social connections, and help people stay active, confident, and engaged in their community – to continue making the most of life."
+        },
+        {
+          "type": "paragraph",
+          "text": "It’s co-funded by London Borough of Tower Hamlets and the North East London Integrated Care Board and delivered by five experienced community partners:",
+          "links": [
+            {
+              "text": "London Borough of Tower Hamlets",
+              "href": "https://www.towerhamlets.gov.uk/Home.aspx"
+            },
+            {
+              "text": "North East London Integrated Care Board",
+              "href": "https://www.england.nhs.uk/publication/nhs-north-east-london-icb/"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Toynbee Hall on Commercial Street",
+            "Age UK East centre on Merchant Street in Bow",
+            "Neighbours in Poplar on Poplar High Street",
+            "Peabody Sundial Centre on Shipton Street",
+            "St Hilda’s Sonali Gardens on Tarling Street"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Why did it start?"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Tower Hamlets, life expectancy is lower than every other borough in London, except Barking and Dagenham. There’s evidence that people’s health starts to worsen on average 10 years earlier than nationally, and too many older residents experience chronic loneliness.",
+          "links": [
+            {
+              "text": "Barking and Dagenham",
+              "href": "https://trustforlondon.org.uk/data/life-expectancy-borough/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Most older Londoners love life in the capital as it keeps them stimulated and helps them maintain active family and community relationships. But only 64% of them are satisfied with their health and wellbeing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tower Hamlets was one of the first national areas to pilot LinkAge Plus between 2006 and 2008, and the project was then commissioned longer term to help bring people together and address some of these challenges.",
+          "links": [
+            {
+              "text": "pilot",
+              "href": "https://www.gov.uk/government/publications/linkage-plus-tower-hamlets-pilot"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What does LinkAge Plus offer?"
+        },
+        {
+          "type": "paragraph",
+          "text": "LinkAge Plus offers a real range of social and health promotion activities including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Fitness sessions like yoga, line dancing, seated exercise, ballet, walking groups",
+            "Social & learning activities such as lunch clubs, bingo, singing, darts, pool, arts & crafts",
+            "Health workshops on topics like diabetes, diet & nutrition, preventing falls",
+            "IT & digital support sessions",
+            "Celebration events throughout the year for Christmas, Diwali, Eid, Hannukah and Older People’s Day."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We also offer one-to-one support on housing and debt to identify what people need, rebuild confidence and help them access local services. Our approach is based on providing personalised support – helping people exercise choice and control over the services they receive, in a way that suits them."
+        },
+        {
+          "type": "paragraph",
+          "text": "And we have a team of outreach workers who provide information, signposting, practical support and referrals, over the phone and in person."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How is LinkAge Plus different to other older people’s services projects?"
+        },
+        {
+          "type": "paragraph",
+          "text": "At the heart of the project is co-production – making sure that older adults are actively involved in shaping the programme, so it is more inclusive, meaningful, and responsive to real community need."
+        },
+        {
+          "type": "paragraph",
+          "text": "One key way we do this is through regular service-user meetings. These provide an opportunity for older adults to share their feedback, ideas, and concerns, which are then actioned by LinkAge Plus staff. Service users are encouraged to create and lead their own sessions, from karaoke and arts to gardening, with staff supporting them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Beyond our main hubs, we have the Older People’s Reference Group which offers a borough-wide platform for adults aged 50+ in Tower Hamlets to voice their opinions, influence decision-makers, and help shape their communities.",
+          "links": [
+            {
+              "text": "Older People’s Reference Group",
+              "href": "https://www.ageuk.org.uk/eastlondon/our-services/older-people-s-reference-group-(oprg)-0f548c5e-3018-ef11-a81c-6045bd990815/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What do you like most about your job?"
+        },
+        {
+          "type": "paragraph",
+          "text": "No two days are ever the same in my role! One moment, I’m building strategic partnerships with Public Health teams, and the next, I’m helping a community member navigate IT. The variety keeps things exciting and meaningful."
+        },
+        {
+          "type": "paragraph",
+          "text": "What I love most is the balance between big-picture thinking and hands-on support. Some days, I’m zooming in on the finer details – working directly with individuals to solve immediate challenges. Other times, I’m stepping back to consider national factors, like government policies, that shape our project’s direction."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Is there a particular achievement you’re proud of?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I’ve always admired Toynbee Hall’s work but getting to experience it from the inside is really special, to see first-hand the positive impact staff from all the different programmes have on the lives of local residents."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m especially proud to be part of the Communities Team, which, over the past year (April 2024 – March 2025), has supported 260 older adults and delivered over 660 activities for people aged 50+. These weekly activities help strengthen social connections, reduce loneliness, and enhance overall wellbeing – making a real difference in the lives of those we serve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about LinkAge Plus.",
+          "links": [
+            {
+              "text": "Find out more about LinkAge Plus",
+              "href": "/linkage-plus/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

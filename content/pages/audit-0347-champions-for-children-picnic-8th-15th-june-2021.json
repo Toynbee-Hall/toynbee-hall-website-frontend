@@ -1,0 +1,89 @@
+{
+  "slug": "audit-347-champions-for-children-picnic-8th-15th-june-2021",
+  "route": "/28/05/2021/champions-for-children-picnic-8th-15th-june-2021/",
+  "title": "Champions for Children Picnic 8th – 15th June 2021",
+  "intro": "We are inviting you to gather your friends and host a fundraising picnic for Toynbee Hall’s work helping kids and local families to get active this summer.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/sunburst-wave-concept-1.png",
+    "alt": "Be a Champion for Childtren banner"
+  },
+  "template": "article",
+  "publishedAt": "2021-05-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Host a Champions for Children Picnic and help kids and their families get active at Toynbee Hall this summer!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Host a Champions for Children picnic between 8th and 15th June, and you will be helping families to get outdoors, get active, and stay connected this summer. We’re aiming to raise £8000 between the 8th and 15th June to fund summer holiday activities for local families in a community among the hardest hit by a year of lockdowns. With your donations doubled during the Champions for Children week, your fundraising efforts will go twice as far in supporting local families to get active this summer."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/Play.jpg",
+            "alt": "Children playing in the gardens at Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Here’s how you can help:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Register using the form below"
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Find your favourite local outdoor space!"
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Invite your friends for a picnic lunch (keep your fingers crossed for good weather!)"
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Ask your guests to donate to our match funding appeal (the amount is up to you, but we’d suggest what you’d spend on lunch as a good amount)."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Share a photo of your picnic with us @ToynbeeHall on social media, with #Champions4Children so we can see all your amazing photos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please enter your details here to register your Champions for Children Picnic, and we'll be in touch shortly!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your name"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your email"
+        },
+        {
+          "type": "paragraph",
+          "text": "I will be hosting a Champions for Children Picnic Sign me up!I need more information"
+        },
+        {
+          "type": "paragraph",
+          "text": "Do you already have a connection to Toynbee Hall? I am a current/former volunteerI am a supporterI have benefitted from your servicesI'm a new supporter, Welcome!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your message (optional)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you for being a Champion for Children this Summer!"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

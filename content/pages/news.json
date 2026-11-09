@@ -1,21 +1,599 @@
 {
-  "slug": "news",
-  "title": "Latest news",
-  "intro": "Updates from Toynbee Hall, our advice services, research and community work.",
-  "blocks": [
+  "template": "listing",
+  "slug": "audit-396-archive",
+  "route": "/category/news/",
+  "title": "Category: News",
+  "intro": "Browse news from Toynbee Hall.",
+  "listingType": "category",
+  "pageSize": 12,
+  "items": [
     {
-      "type": "richText",
-      "heading": "Technology award shortlist",
-      "paragraphs": [
-        "Toynbee Hall has been shortlisted for Best Use of Technology at the UKCCF Awards 2026, recognising our Video Advice Kiosks."
-      ]
+      "title": "Toynbee Hall shortlisted for national technology award for Video Advice Kiosks",
+      "href": "/05/08/2026/toynbee-hall-shortlisted-for-national-technology-award-for-video-advice-kiosks/",
+      "summary": "Toynbee Hall has been shortlisted for Best Use of Technology at the UKCCF Awards 2026. The nomination recognises the development and deployment of our Video Advice Kiosks, which connect people directly with qualified advisers in locations where conventional advice can be difficult to access.The technology is now supporting people in prison, NHS staff and people… Read more",
+      "date": "2026-08-05",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/08/Generated-image-1.png",
+        "alt": "Toynbee Hall shortlisted for national technology award for Video Advice Kiosks — Toynbee Hall"
+      }
     },
     {
-      "type": "richText",
-      "heading": "Our latest updates",
-      "paragraphs": [
-        "Read about our work with local people, partners and communities across East London."
-      ]
+      "title": "What can the UK and South Korea learn from each other about helping people in debt?",
+      "href": "/27/07/2026/what-can-the-uk-and-south-korea-learn-from-each-other-about-helping-people-in-debt/",
+      "summary": "What can the UK and South Korea learn from each other about supporting people in debt? That was the question at the heart of a recent visit to London and Manchester by Dr Eun-Kyung Kim, the newly appointed Chair of South Korea’s Credit Counseling & Recovery Service (CCRS), and colleagues from across the organisation. For… Read more",
+      "date": "2026-07-27",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/IMG_9101-scaled.jpeg",
+        "alt": "What can the UK and South Korea learn from each other about helping people in debt? — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Five national award nominations for Toynbee Hall and its Debt Free Advice partnership",
+      "href": "/16/07/2026/five-national-award-nominations-for-toynbee-hall-and-its-debt-free-advice-partnership/",
+      "summary": "Toynbee Hall and the Debt Free Advice partnership have been shortlisted for five national charity awards, recognising our approach to tackling poverty and financial insecurity through advice, community programmes, research, innovation and partnership. The nominations span two of the charity sector’s most respected awards programmes – the Charity Times Awards 2026 and the Third Sector Awards 2026 – marking another landmark year for Toynbee Hall. … Read more",
+      "date": "2026-07-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/SCP02819-1-1-scaled.jpg",
+        "alt": "Five national award nominations for Toynbee Hall and its Debt Free Advice partnership — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Toynbee Hall announces Board leadership transition",
+      "href": "/16/07/2026/toynbee-hall-announces-board-leadership-transition/",
+      "summary": "Toynbee Hall has announced a planned transition in the leadership of its Board of Trustees, with Alice Gac appointed Chair of Trustees and Thomas Nowacki appointed Deputy Chair, following the completion of Stephen Burns’ three-year term as Chair. The appointments mark the next stage in Toynbee Hall’s long-term governance development, providing continuity of leadership as… Read more",
+      "date": "2026-07-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-7M4A8357-scaled-1.jpg",
+        "alt": "Toynbee Hall announces Board leadership transition — Toynbee Hall"
+      }
+    },
+    {
+      "title": "20 Years of Changing Lives Through Debt Advice",
+      "href": "/01/07/2026/toynbee-hall-celebrates-20-years-of-debt-free-advice-supporting-more-than-500000-londoners/",
+      "summary": "Toynbee Hall has celebrated 20 years of leading Debt Free Advice, marking two decades of helping more than 500,000 Londoners overcome financial challenges and build greater financial security. More than 200 partners, funders, colleagues, supporters and guests gathered at Merchant Taylors’ Hall to reflect on the achievements of the Debt Free Advice partnership and look… Read more",
+      "date": "2026-07-01",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/1.png",
+        "alt": "20 Years of Changing Lives Through Debt Advice — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Debt Free Advice partnership led by Toynbee Hall wins national innovation award for improving debt advice",
+      "href": "/01/07/2026/debt-free-advice-partnership-led-by-toynbee-hall-wins-national-innovation-award-for-improving-debt-advice/",
+      "summary": "Debt Free Advice, led by Toynbee Hall, has won a national award for technology designed to help advisers spend more time supporting people facing debt and financial difficulty. The Innovation & Impact Award, presented at the 2026 Institute of Money Advisers Conference in Manchester, recognises Adviser Intelligence: a suite of tools developed by Toynbee Hall… Read more",
+      "date": "2026-07-01",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/DFA-awards-WP.png",
+        "alt": "Debt Free Advice partnership led by Toynbee Hall wins national innovation award for improving debt advice — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Bringing the Reality of Debt Into the National Conversation",
+      "href": "/19/06/2026/bringing-the-reality-of-debt-into-the-national-conversation/",
+      "summary": "Recently, our Director of Advice Services and Incoming Interim Chief Executive, Matt Dronfield, spoke to a national audience on GB News to highlight debt, financial hardship and how important it can be to access advice services. Matt discussed how at Toynbee Hall, we know first hand that debt can affect anyone. Every day, our advisers support people from a range of different backgrounds and circumstances. As Matt explained on… Read more",
+      "date": "2026-06-19",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/06/GB-News-2.jpg",
+        "alt": "Bringing the Reality of Debt Into the National Conversation — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Celebrating 20 years of LinkAge Plus",
+      "href": "/18/06/2026/celebrating-20-years-of-linkage-plus/",
+      "summary": "Toynbee Hall is marking 20 years of our LinkAge Plus programme, celebrating two decades of supporting older people across Tower Hamlets to stay connected, active and part of their communities. Our LinkAge Plus programme offers a wide range of activities designed to build connection – including yoga, walking groups and exercise classes, as well as… Read more",
+      "date": "2026-06-18",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/LinkAge-Plus-actitivity-session-at-Toynbee-Hall-Community-Centre-scaled-e1744019097251.jpg",
+        "alt": "Two older women stretching and dancing in a hall with one man playing the drums."
+      }
+    },
+    {
+      "title": "Toynbee Hall appoints Matt Dronfield as Interim Chief Executive",
+      "href": "/03/06/2026/toynbee-hall-appoints-matt-dronfield-as-interim-chief-executive/",
+      "summary": "Toynbee Hall has appointed Matt Dronfield as Interim Chief Executive for an 18-month period, as the organisation prepares for its next strategic chapter. The appointment follows a competitive recruitment process led by the Board of Trustees and a colleague subpanel. Matt will lead Toynbee Hall through a period of transition and strategy development, with a focus on strengthening long-term… Read more",
+      "date": "2026-06-03",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/06/Matt-headshot-1.png",
+        "alt": "Toynbee Hall appoints Matt Dronfield as Interim Chief Executive — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Renters’ rights have changed: what this means for you",
+      "href": "/19/05/2026/renters-rights-have-changed-what-this-means-for-you/",
+      "summary": "The Renters’ Rights Act has introduced major changes to private renting in England. From 1st May 2026 new rules apply to the vast majority of private sector tenancies, strengthening tenants’ rights and increasing rental stability. The Act arguably contains the most significant changes to housing law in a generation. Here are the key things you need to know 1) If you are renting privately, you are highly likely to be impacted by these… Read more",
+      "date": "2026-05-19",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/05/toa-heftiba-nrSzRUWqmoI-unsplash-scaled.jpg",
+        "alt": "Renters’ rights have changed: what this means for you — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Invisible Illness, Visible Inequality",
+      "href": "/13/05/2026/invisible-illness-visible-inequality/",
+      "summary": "“ME Awareness Week provides an important opportunity to raise public awareness of the realities of living with ME/CFS, challenge the misconceptions and stigma that still surround the condition, and recognise the urgent need for continued research, improved healthcare provision, and fairer welfare and social security support for those affected. ME/CFS is a complex, life-changing multisystem… Read more",
+      "date": "2026-05-13",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/05/Parliament-image.png",
+        "alt": "Invisible Illness, Visible Inequality — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Two Child Limit changes: four things you can do now if you may be affected",
+      "href": "/12/05/2026/two-child-limit-changes-four-things-you-can-do-now-if-you-may-be-affected/",
+      "summary": "Recent changes to the two-child limit in Universal Credit (UC), which came into effect on 6th April 2026, mean that some families may now be entitled to additional support. The two-child limit has been lifted, which means certain households may be able to receive Universal Credit payments for more than two children. While not everyone will be affected, some… Read more",
+      "date": "2026-05-12",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/WhatsApp-Image-2023-11-27-at-10.49.26-6.jpeg",
+        "alt": "Two Child Limit changes: four things you can do now if you may be affected — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Game over for loan sharks: Debt Free Advice backs national awareness week",
+      "href": "/01/05/2026/game-over-for-loan-sharks-debt-free-advice-backs-national-awareness-week/",
+      "summary": "Debt Free Advice is supporting Stop Loan Sharks Week (11–17 May), helping to raiseawareness of the risks of illegal lending and ensure people know where to turn for help.Matt Dronfield, Managing Director of Debt Free Advice, said: “Illegal lenders often target people when they are at their most vulnerable. It’s importantpeople know that support is… Read more",
+      "date": "2026-05-01",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/05/Game-over-for-loan-sharks.png",
+        "alt": "Game over for loan sharks: Debt Free Advice backs national awareness week — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Toynbee Hall hosts “The Story of England in 50 Objects” on Community Projector",
+      "href": "/27/04/2026/toynbee-hall-hosts-the-story-of-england-in-50-objects-on-community-projector/",
+      "summary": "This Spring, Toynbee Hall is working with A Very English Chat to present “The Story of England in 50 Objects” on our Community Projector in Mallon Gardens. The project brings together a collection of 50 objects that have been chosen and co-created by people across England as part of a wider public campaign exploring national… Read more",
+      "date": "2026-04-27",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/02/20230210_173252-scaled.jpg",
+        "alt": "Your Artwork Here projected onto wall in front of city skyline"
+      }
+    },
+    {
+      "title": "From Missed Payment to Crisis: Why Council Tax Reform Matters",
+      "href": "/16/04/2026/from-missed-payment-to-crisis-why-council-tax-reform-matters/",
+      "summary": "The Government has today announced plans to reform council tax debt collection, following last year’s consultation on making the system fairer for households struggling to keep up with payments. The proposed changes are expected to give people more time before debts escalate, introduce a cap on additional costs, and strengthen expectations that councils offer realistic… Read more",
+      "date": "2026-04-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/04/Council-Tax-Reform.png",
+        "alt": "From Missed Payment to Crisis: Why Council Tax Reform Matters — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Do you have a disability or health condition that limits or prevents your capacity to work?",
+      "href": "/11/03/2026/do-you-have-a-disability-or-health-condition-that-limits-or-prevents-your-capacity-to-work/",
+      "summary": "To avoid receiving a lower rate of support, apply for the Universal Credit health element by April 5th. After that date, the support you may receive if eligible will be around £3,000 less on average per year. Our peer researchers have been pushing for an extension to the deadline for the cuts to the Universal Credit health element. While the… Read more",
+      "date": "2026-03-11",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/Par-Research-Image.png",
+        "alt": "Do you have a disability or health condition that limits or prevents your capacity to work? — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Childhood in an income-deprived borough: why free Play Programmes matter more than ever",
+      "href": "/04/12/2025/childhood-in-an-income-deprived-borough-why-free-play-programmes-matter-more-than-ever/",
+      "summary": "In Tower Hamlets, where nearly half the children are growing up in poverty, free child-focused services are essential for them and their families. Despite the challenges families face, in Tower Hamlets, childhood is full of imagination, creativity, and community. Families work hard to give their children the best start in life, balancing work, care, and home responsibilities.… Read more",
+      "date": "2025-12-04",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/WhatsApp-Image-2024-09-18-at-12.15.49-1-2-scaled.jpeg",
+        "alt": "Childhood in an income-deprived borough: why free Play Programmes matter more than ever — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Toynbee Hall’s Response to the 2025 Autumn Statement",
+      "href": "/26/11/2025/toynbee-halls-response-to-the-2025-autumn-statement/",
+      "summary": "The government’s 2025 Autumn Statement offered a recognition of the ongoing cost-of-living crisis and included some positive steps to address it. Yet these sit alongside choices that continue to erode the foundations of a robust social security system capable of responding to that crisis. One genuinely welcome step was the decision to scrap the harmful… Read more",
+      "date": "2025-11-26",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/House-of-Parliament-scaled.jpg",
+        "alt": "Toynbee Hall’s Response to the 2025 Autumn Statement — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Creating Space to Breathe in an Income-Deprived Borough",
+      "href": "/26/11/2025/creating-space-to-breathe-in-an-income-deprived-borough/",
+      "summary": "Tower Hamlets remains one of London’s most income-deprived boroughs, with over 40% of households living on low incomes. For residents, this is not simply a matter of finances – it’s about navigating multiple, overlapping challenges while trying to maintain stability, health, and family life. For advisers at Toynbee Hall’s Tower Hamlets Advice Service, their work provides essential support and breathing space, enabling… Read more",
+      "date": "2025-11-26",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/pexels-manualman32-726484.jpg",
+        "alt": "Creating Space to Breathe in an Income-Deprived Borough — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Nothing About Us Without Us: A Call to Centre Disabled Young People in Welfare Reform",
+      "href": "/19/11/2025/nothing-about-us-without-us-a-call-to-centre-disabled-young-people-in-welfare-reform/",
+      "summary": "Last week, the government announced the launch of a new independent investigation into “…why increasing numbers of young people are falling out of work or education before their careers have begun—with a particular focus on the impact of mental health conditions and disability.” The Terms of Reference (ToR) for this Independent Report into Young People and Work,… Read more",
+      "date": "2025-11-19",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Disability-Coproduction.png",
+        "alt": "Nothing About Us Without Us: A Call to Centre Disabled Young People in Welfare Reform — Toynbee Hall"
+      }
+    },
+    {
+      "title": "The Keep Britain Working Review: Discovery",
+      "href": "/11/11/2025/the-keep-britain-working-review-discovery/",
+      "summary": "An independent review into the role of employers and government in tackling health-related economic inactivity and creating and maintaining healthy and inclusive workplaces, led by Sir Charlie Mayfield, acknowledges that ill-health and barriers to work contribute to economic inactivity. However, it engages only minimally with the social model of disability. The Review frames economic inactivity… Read more",
+      "date": "2025-11-11",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Disability-Working-Review-LinkedIn.jpg",
+        "alt": "The Keep Britain Working Review: Discovery — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Keepsake of a Killer: Bringing Our History to Life Through Theatre",
+      "href": "/06/11/2025/keepsake-of-a-killer-bringing-our-history-to-life-through-theatre/",
+      "summary": "This November, Toynbee Hall are proud to host the murder mystery, ‘Keepsake of a Killer’ an immersive theatrical experience that brings our rich history and ongoing social mission to life. Set within our historic Lecture Hall, the production explores themes of social reform, inequality, and justice through a gripping combination of drama and interactive storytelling.… Read more",
+      "date": "2025-11-06",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Sergeant-Tom-and-Lantern-9-scaled.jpg",
+        "alt": "Keepsake of a Killer: Bringing Our History to Life Through Theatre — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Standing Firm: A Brief History of Black Activism in Tower Hamlets",
+      "href": "/30/10/2025/standing-firm-a-brief-history-of-black-activism-in-tower-hamlets/",
+      "summary": "October marks Black History Month, a time to reflect, remember and act. In Tower Hamlets and East London the story of Black activism is rich, layered and rooted in communities organising for justice, dignity and a place to call home. Early Presence, Hidden Histories Long before the modern era of migration and community organising, African… Read more",
+      "date": "2025-10-30",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/Black-History-Month-Blog.png",
+        "alt": "Standing Firm: A Brief History of Black Activism in Tower Hamlets — Toynbee Hall"
+      }
+    },
+    {
+      "title": "🌱 The Hidden Power of Community Centres for Mental Health",
+      "href": "/10/10/2025/%f0%9f%8c%b1-the-hidden-power-of-community-centres-for-mental-health/",
+      "summary": "Toynbee Hall, World Mental Health Day 2025 When we think about mental health support, we often picture clinics, counselling sessions, or helplines. These services are vital but for many, especially older people, mental wellbeing is nurtured in quieter, more familiar places. Places where you can take an exercise class, have a cup of tea, share… Read more",
+      "date": "2025-10-10",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/IMG_7315-scaled.jpg",
+        "alt": "🌱 The Hidden Power of Community Centres for Mental Health — Toynbee Hall"
+      }
+    },
+    {
+      "title": "🌱 The Hidden Power of Community Centres for Mental Health",
+      "href": "/10/10/2025/%f0%9f%8c%b1-the-hidden-power-of-community-centres-for-mental-health/",
+      "summary": "Toynbee Hall, World Mental Health Day 2025 When we think about mental health support, we often picture clinics, counselling sessions, or helplines. These services are vital but for many, especially older people, mental wellbeing is nurtured in quieter, more familiar places. Places where you can take an exercise class, have a cup of tea, share… Read more",
+      "date": "2025-10-10",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/IMG_7315-scaled.jpg",
+        "alt": "🌱 The Hidden Power of Community Centres for Mental Health — Toynbee Hall"
+      }
+    },
+    {
+      "title": "From Research to Real Change: Co-Creating Emotional Support in Tower Hamlets",
+      "href": "/27/08/2025/from-research-to-real-change-co-creating-emotional-support-in-tower-hamlets/",
+      "summary": "In this blog, Mehjabin and Nasrat reflect on their journey through a unique pilot project in Tower Hamlets, one that began with youth-led research into the emotional impact of the cost of living crisis, and grew into a series of collaborative workshops and community-building sessions. Blending lived experience, skill-sharing, and intergenerational dialogue, the project offered… Read more",
+      "date": "2025-08-27",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/08/image-1.png",
+        "alt": "From Research to Real Change: Co-Creating Emotional Support in Tower Hamlets — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Don’t miss the launch of Toynbee Talks The Mind-Body Connection with Anisha Joshi",
+      "href": "/20/08/2025/dont-miss-the-launch-of-toynbee-talks-the-mind-body-connection-with-anisha-joshi/",
+      "summary": "Are you curious about the link between your mind and body? How emotional stress, anxiety, and mental health challenges manifest physically? If so, then you won’t want to miss this unique and insightful speaker session with renowned osteopath and expert Anisha Joshi, hosted at Toynbee Hall. As seen on ITV’s This Morning, Anisha Joshi is… Read more",
+      "date": "2025-08-20",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/08/FX_20231110_01849m-2-scaled.jpg",
+        "alt": "Don’t miss the launch of Toynbee Talks The Mind-Body Connection with Anisha Joshi — Toynbee Hall"
+      }
+    },
+    {
+      "title": "BNPL Regulation Is Welcome – But Lenders Must Do More",
+      "href": "/25/07/2025/bnpl-regulation-is-welcome-but-lenders-must-do-more/",
+      "summary": "“Buy Now, Pay Later has crept into the mainstream – and for many, it’s become a default way to shop. But while it’s pitched as flexible and interest-free, the reality for too many people is missed payments, mounting fees, and unaffordable debt.” The numbers speak for themselves: usage has tripled in just three years, with… Read more",
+      "date": "2025-07-25",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/07/LBC-BNPL.png",
+        "alt": "BNPL Regulation Is Welcome – But Lenders Must Do More — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Why Play Matters: Creating Joyful, Safe Spaces for Children in Tower Hamlets",
+      "href": "/17/07/2025/why-play-matters-creating-joyful-safe-spaces-for-children-in-tower-hamlets/",
+      "summary": "At Toynbee Hall, we believe every child deserves a chance to play, explore, and grow but in Tower Hamlets, nearly half (48%) of children are growing up in poverty. For many families, both time and money are in short supply. That means fewer opportunities for extra-curricular activities, and limited access to safe, outdoor spaces for… Read more",
+      "date": "2025-07-17"
+    },
+    {
+      "title": "A Visit Rooted in Justice: Minister Sarah Sackman KC MP Returns to Toynbee Hall",
+      "href": "/09/07/2025/a-visit-rooted-in-justice-minister-sarah-sackman-kc-mp-returns-to-toynbee-hall/",
+      "summary": "A proud moment for Toynbee Hall as we welcomed Sarah Sackman KC MP, Minister of State for Courts and Legal Services, back to where her legal journey began, our Free Legal Advice Centre. This wasn’t a formal visit with handshakes and speeches. Sarah spent time with the people who make Toynbee Hall what it is:… Read more",
+      "date": "2025-07-09",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/07/Sarah-Sackman.png",
+        "alt": "A Visit Rooted in Justice: Minister Sarah Sackman KC MP Returns to Toynbee Hall — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Celebrating National Recognition at the Credit Strategy Credit Awards 2025",
+      "href": "/03/07/2025/celebrating-national-recognition-at-the-credit-strategy-credit-awards-2025/",
+      "summary": "Last night was a truly special moment for Toynbee Hall’s Debt Free Advice team. We were proud to be shortlisted for not one, but two prestigious national awards at the Credit Strategy Credit Awards 2025: Although we didn’t bring home a trophy this time, being recognised alongside leading organisations such as StepChange Debt Charity, IE… Read more",
+      "date": "2025-07-03",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/07/Image-scaled.jpg",
+        "alt": "Celebrating National Recognition at the Credit Strategy Credit Awards 2025 — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Insights From Financial Support Relationships Workshop at Aston University",
+      "href": "/16/06/2025/insights-from-financial-support-relationships-workshop-at-aston-university/",
+      "summary": "By Kwang Lin Wong On June 2nd, I had the privilege of attending the Workshop on Financial Support Relationships hosted by the Centre for Personal Financial Wellbeing (CPFW) at Aston University. The event brought together academics, advice and financial organisations to explore the dynamics of informal financial support relationships, with a focus on low- and… Read more",
+      "date": "2025-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/finance-7-scaled.jpg",
+        "alt": "Insights From Financial Support Relationships Workshop at Aston University — Toynbee Hall"
+      }
+    },
+    {
+      "title": "UK Spending Review 2025: A Step Forward, but Gaps Remain for Low-Income Communities",
+      "href": "/12/06/2025/uk-spending-review-2025-a-step-forward-but-gaps-remain-for-low-income-communities/",
+      "summary": "Photo by Norbert Levajsics on Unsplash The UK government’s 2025 Spending Review outlines significant investments aimed at addressing pressing societal issues. There are many welcomed steps being put forward in this review but while initiatives like expanding free school meals, increasing social housing, and enhancing winter fuel payments are commendable, critical gaps persist, particularly in support for low-income… Read more",
+      "date": "2025-06-12",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/Housing-1-scaled.jpg",
+        "alt": "UK Spending Review 2025: A Step Forward, but Gaps Remain for Low-Income Communities — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Debt Free Advice Welcomes FCA Executive to Toynbee Hall as Survey Reveals 13 Million Facing Financial Strain",
+      "href": "/16/05/2025/debt-free-advice-welcomes-fca-executive-to-toynbee-hall-as-survey-reveals-13-million-facing-financial-strain/",
+      "summary": "Debt Free Advice welcomed a senior official from the Financial Conduct Authority (FCA) to its flagship advice centre at Toynbee Hall this week, as new national data confirmed the growing scale of financial vulnerability across the UK. Sarah Pritchard, Executive Director for Supervision, Policy and Competition at the FCA, joined Debt Free Advice Managing Director… Read more",
+      "date": "2025-05-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/05/BBC-FCA-1.png",
+        "alt": "Debt Free Advice Welcomes FCA Executive to Toynbee Hall as Survey Reveals 13 Million Facing Financial Strain — Toynbee Hall"
+      }
+    },
+    {
+      "title": "More Brits Are Saving, But Millions Still Live One Crisis Away from Debt",
+      "href": "/30/04/2025/more-brits-are-saving-but-millions-still-live-one-crisis-away-from-debt/",
+      "summary": "New figures from Chase, the consumer banking arm of JPMorgan Chase, show that 69% of adults in the UK have changed their spending habits to try and save more money. Almost half of those surveyed said they’re doing so to build an emergency fund, with others saving for holidays, retirement, or simply to prepare for… Read more",
+      "date": "2025-04-30",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/LBCWebsiteTile.png",
+        "alt": "More Brits Are Saving, But Millions Still Live One Crisis Away from Debt — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Debt Advice Without Borders: A global week in London",
+      "href": "/29/04/2025/debt-advice-without-borders-a-global-week-in-london/",
+      "summary": "Earlier this month, Toynbee Hall was proud to host members of the Global Credit Counselling Alliance (GCCA) for a three-day study visit in London. The event led by our director of advice services Matt Dronfield brought together representatives from credit counselling organisations in South Korea and the United States to exchange ideas, explore innovative practices,… Read more",
+      "date": "2025-04-29",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/Delegates-4-scaled.jpg",
+        "alt": "Debt Advice Without Borders: A global week in London — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Toynbee Hall’s response to child poverty figures and the benefits reform green paper",
+      "href": "/27/03/2025/toynbee-halls-response-to-child-poverty-figures-and-the-benefits-reform-green-paper/",
+      "summary": "We urge the government to reverse policies that drive poverty, rather than cutting vital support for disabled people and their families.",
+      "date": "2025-03-27"
+    },
+    {
+      "title": "“The crisis makes us more alone” – new youth-led research shows young people’s access to emotional support significantly impacted by the cost-of-living crisis",
+      "href": "/26/02/2025/the-crisis-makes-us-more-alone-new-youth-led-research-shows-young-peoples-access-to-emotional-support-significantly-impacted-by-the-cost-of-living-crisis/",
+      "summary": "Toynbee Hall’s new youth-led research report focuses on the emotional support available to young people in the context of the cost-of-living crisis.",
+      "date": "2025-02-26",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/ESYP-Cropped.jpg",
+        "alt": "“The crisis makes us more alone” – new youth-led research shows young people’s access to emotional support significantly impacted by the cost-of-living crisis — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Celebrating 140 Years of Toynbee Hall: a legacy of Empowerment and Community",
+      "href": "/23/12/2024/celebrating-140-years-of-toynbee-hall-a-legacy-of-empowerment-and-community/",
+      "summary": "Toynbee Hall recently marked a momentous milestone, its 140th anniversary. Supporters, beneficiaries and local friends gathered to celebrate and reflect on our enduring mission to break down barriers and empower communities.",
+      "date": "2024-12-23",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/12/63-1Y7A9165-2.jpg",
+        "alt": "Celebrating 140 Years of Toynbee Hall: a legacy of Empowerment and Community — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Toynbee Hall’s advice service expands its reach with support from the Money and Pensions Service",
+      "href": "/20/12/2024/toynbee-halls-advice-service-expands-its-reach-with-support-from-the-money-and-pensions-service/",
+      "summary": "Toynbee Hall’s advice services expands access to debt support through innovative initiatives backed by the Money and Pensions Service (MaPS).",
+      "date": "2024-12-20",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/12/MAPs_DFA.jpg",
+        "alt": "Toynbee Hall’s advice service expands its reach with support from the Money and Pensions Service — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Our impact in 2023-24: Read our new impact report, Building a fairer future",
+      "href": "/05/12/2024/our-impact-in-2023-24-read-our-new-impact-report-building-a-fairer-future/",
+      "summary": "We are excited to launch our new Impact Report to reveal insights from our work over the past year and assess its impact",
+      "date": "2024-12-05",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/11/Read-our-new-Impact-Report-23-24-news-article.png",
+        "alt": "Our impact in 2023-24: Read our new impact report, Building a fairer future — Toynbee Hall"
+      }
+    },
+    {
+      "title": "FCA Targets ‘Finfluencers’ in Crackdown on Unlawful Financial Promotions",
+      "href": "/22/10/2024/fca-targets-finfluencers-in-crackdown-on-unlawful-financial-promotions/",
+      "summary": "Recent studies show that over 60% of young adults aged 18-29 follow financial influencers online, with nearly three-quarters trusting their advice.",
+      "date": "2024-10-22",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/10/Finfluencers-scaled.jpg",
+        "alt": "'finfluencer' recording themselves talking in a cafe"
+      }
+    },
+    {
+      "title": "Toynbee Hall Launches Groundbreaking Money Coaching Service for NHS Staff at Guy’s and St Thomas’ NHS Trust",
+      "href": "/27/09/2024/toynbee-hall-launches-groundbreaking-money-coaching-service-for-nhs-staff-at-guys-and-st-thomas-nhs-trust/",
+      "summary": "Toynbee Hall is proud to announce the launch of a brand-new Money Coaching Service in partnership with Guy’s and St Thomas’ NHS Foundation Trust.",
+      "date": "2024-09-27",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/SCP-DFA-NHS-Prev-49-of-55-scaled.jpg",
+        "alt": "Toynbee Hall Launches Groundbreaking Money Coaching Service for NHS Staff at Guy’s and St Thomas’ NHS Trust — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Toynbee Hall Wins Best Service Delivery Innovation at the Third Sector Awards 2024 for Groundbreaking Video Advice Kiosks",
+      "href": "/23/09/2024/toynbee-hall-wins-best-service-delivery-innovation-at-the-third-sector-awards-2024-for-its-groundbreaking-video-advice-kiosks/",
+      "summary": "Toynbee Hall is proud to announce that its Video Advice Kiosks, part of the Debt Free Advice service, have won the Best Service Delivery Innovation award at the Third Sector Awards 2024.",
+      "date": "2024-09-23",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/Third_sector_awards_0.jpg",
+        "alt": "Toynbee Hall/Debt Free Advice team celebrate with their award"
+      }
+    },
+    {
+      "title": "New Partnership to Offer Life-Changing Support for Individuals Facing Mental Health and Financial Crises",
+      "href": "/16/09/2024/new-partnership-to-offer-life-changing-support-for-individuals-facing-mental-health-and-financial-crises/",
+      "summary": "Toynbee Hall, We Are Group and Kaleidoscope have partnered to deliver the Money and Pensions Service’s (MaPS) Mental Health Crisis Breathing Space",
+      "date": "2024-09-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/External-Comms-Money-and-Pensions-Service-MHCBS.jpg",
+        "alt": "New Partnership to Offer Life-Changing Support for Individuals Facing Mental Health and Financial Crises — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Teeny Proms at Toynbee Hall – free music sessions for little people",
+      "href": "/23/08/2024/teeny-proms-at-toynbee-hall-free-music-sessions-for-little-people/",
+      "summary": "Free music sessions for children aged 3-5 on Wednesday 18th September with DaCapo Music and Proms at St Jude’s.",
+      "date": "2024-08-23",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/08/Teeny-Proms-1200-x-628-px-.png",
+        "alt": "small children playing with musical instruments"
+      }
+    },
+    {
+      "title": "Open House – 140 years of Toynbee Hall and its place in the East End",
+      "href": "/21/08/2024/open-house-140-years-of-toynbee-hall-and-its-place-in-the-east-end/",
+      "summary": "On Saturday 14th September join us for a curated set of activities as part of the Open House Festival, celebrating the history of Toynbee Hall and its place in the local area.",
+      "date": "2024-08-21",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/08/140-Years-and-beyond-Open-House-1200-x-628-px.png",
+        "alt": "Open House – 140 years of Toynbee Hall and its place in the East End — Toynbee Hall"
+      }
+    },
+    {
+      "title": "A statement on the cutting of the winter fuel allowance",
+      "href": "/14/08/2024/a-statement-on-the-cutting-of-the-winter-fuel-allowance/",
+      "summary": "Our response to the government’s decision to restrict winter fuel payments for pensioners.",
+      "date": "2024-08-14",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/08/Prepayment-electric-metre-e1724838213699.jpg",
+        "alt": "A statement on the cutting of the winter fuel allowance — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Toynbee Hall: Response to racist incidents and violence.",
+      "href": "/06/08/2024/toynbee-hall-response-to-racist-incidents-and-violence/",
+      "summary": "At Toynbee Hall our thoughts are with Muslim, refugee and ethnic minority communities across the country in the face of racist and Islamophobic unrest and violence. We are proud of our diverse, ethnically rich team and the vibrant community we serve. We are saddened and angered by the fact that our staff, their families, the… Read more",
+      "date": "2024-08-06",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/cropped-SCP00031-1-1.jpg",
+        "alt": "Toynbee Hall"
+      }
+    },
+    {
+      "title": "Priorities and Omissions: Toynbee Hall’s response to the King’s Speech",
+      "href": "/24/07/2024/priorities-and-omissions-toynbee-halls-response-to-the-kings-speech/",
+      "summary": "As Toynbee Hall celebrates its 140th anniversary, we can reflect on the fact that it has witnessed and indeed influenced dozens of King’s and Queen’s Speeches in its fight for social justice. This King’s Speech brings some welcome news to Toynbee Hall and the community it serves.",
+      "date": "2024-07-24",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/07/iStock-1710973546.jpg",
+        "alt": "Priorities and Omissions: Toynbee Hall’s response to the King’s Speech — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Credit Counseling and Recovery Service (CCRS) of South Korea visit Toynbee Hall to discuss approaches to debt advice",
+      "href": "/18/07/2024/credit-counseling-and-recovery-service-ccrs-of-south-korea-visit-toynbee-hall-to-discuss-approaches-to-debt-advice/",
+      "summary": "Toynbee Hall had the pleasure of hosting a delegation from the Credit Counseling and Recovery Service (CCRS) of South Korea.",
+      "date": "2024-07-18",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/07/KD_2-2.jpg",
+        "alt": "Credit Counseling and Recovery Service (CCRS) of South Korea visit Toynbee Hall to discuss approaches to debt advice — Toynbee Hall"
+      }
+    },
+    {
+      "title": "A statement from Toynbee Hall: This General Election, we call on all parties to scrap the Two-Child Limit",
+      "href": "/07/06/2024/a-statement-from-toynbee-hall-this-general-election-we-call-on-all-parties-to-scrap-the-two-child-limit/",
+      "summary": "New research further links child poverty to the two-child limit. As a member of the End Child Poverty Coalition, Toynbee Hall supports the All Kids Count campaign to scrap the two-child limit .",
+      "date": "2024-06-07",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/Updated-2CL-infographic-e1717757705105.jpg",
+        "alt": "A statement from Toynbee Hall: This General Election, we call on all parties to scrap the Two-Child Limit — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Get your tickets to the Pride Comedy Night at Toynbee Hall on Friday 28th June",
+      "href": "/06/06/2024/pride-comedy-night-at-toynbee-hall/",
+      "summary": "We’re celebrating Pride Month with a night of comedy raising money to help us build a fairer future.",
+      "date": "2024-06-06",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/Toynbee-PRIDE-Featured-image-1200-x-628px-2250-x-1600-px.png",
+        "alt": "Get your tickets to the Pride Comedy Night at Toynbee Hall on Friday 28th June — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Join us on Tuesday May 28th for the Emotional Support for Young People in Tower Hamlets Project Exhibition",
+      "href": "/22/05/2024/join-us-on-tuesday-may-28th-for-the-emotional-support-for-young-people-in-tower-hamlets-project-exhibition/",
+      "summary": "We are excited to invite you to an exhibition of our Emotional Support For Young People (ESYP) during the cost-of-living crisis project.",
+      "date": "2024-05-22"
+    },
+    {
+      "title": "Global Credit Counselling Alliance Established to Facilitate International Learning and Technological Collaboration",
+      "href": "/15/05/2024/global-credit-counselling-alliance-established-to-facilitate-international-learning-and-technological-collaboration/",
+      "summary": "The GCCA was officially formed, representing a significant collaborative initiative among leading credit counselling organisations from Canada, South Korea, the United Kingdom, and the United States.",
+      "date": "2024-05-15",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/05/GCCA-Signing-1.jpg",
+        "alt": "Global Credit Counselling Alliance Established to Facilitate International Learning and Technological Collaboration"
+      }
+    },
+    {
+      "title": "Mental Health Awareness Week: The cost of living crisis limits young people’s access to emotional support new research has found",
+      "href": "/13/05/2024/mental-health-awareness-week-the-cost-of-living-crisis-limits-young-peoples-access-to-emotional-support-new-research-from-tower-hamlets-youth-and-toynbee-hall-has-found/",
+      "summary": "The research from Tower Hamlets youth and Toynbee Hall exposes the impact of the cost-of-living crisis on the emotional wellbeing of young people.",
+      "date": "2024-05-13",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/05/Picture3-1.png",
+        "alt": "Young peer researchers sitting around a table discussing the Emotional Support for Young People peer research project."
+      }
+    },
+    {
+      "title": "Investigating young people’s emotional support needs and experiences in the context of the cost of living crisis",
+      "href": "/25/04/2024/investigating-young-peoples-emotional-support-needs-and-experiences-in-the-context-of-the-cost-of-living-crisis/",
+      "summary": "Early findings and solutions from the Emotional Support for Young People Peer Research Project.",
+      "date": "2024-04-25",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/IMG_5876.jpg",
+        "alt": "two members of the peer research group take part in exercise during a workshop."
+      }
+    },
+    {
+      "title": "A Statement from the Renters Reform Coalition on the Renters (Reform) Bill",
+      "href": "/24/04/2024/a-statement-on-the-renters-reform-bill/",
+      "summary": "At Toynbee Hall, we share the Renters Reform Coalition’s view that the Renter’s (Reform) Bill completely fails to do what it says on the tin.",
+      "date": "2024-04-24",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/iStock-679555844.jpg",
+        "alt": "Council housing blocks contrasted with modern high-rise flats in the background in East London"
+      }
+    },
+    {
+      "title": "Job Evaluation System Request for Proposals",
+      "href": "/12/04/2024/job-evaluation-system-request-for-proposals/",
+      "summary": "Job Evaluation System Request for Proposals to procure and implement a job evaluation system that will determine job levels for all roles within Toynbee Hall.",
+      "date": "2024-04-12",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/P1044080-scaled.jpg",
+        "alt": "Toynbee Hall Staff stand together in the courtyard outside Toynbee Hall"
+      }
+    },
+    {
+      "title": "Request for Proposal (RFP): Marketing Support Toynbee Hall Venue Hire 2024",
+      "href": "/09/04/2024/request-for-proposal-rfp-marketing-support-toynbee-hall-venue-hire-2024/",
+      "summary": "We are inviting proposals for marketing support to increase income and profitability of our venue hire business over 2024-25.",
+      "date": "2024-04-09",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/7M4A7959-scaled.jpg",
+        "alt": "Attendees sitting at tables during an event in Toynbee Hall's Ashbee Hall."
+      }
     }
   ]
 }

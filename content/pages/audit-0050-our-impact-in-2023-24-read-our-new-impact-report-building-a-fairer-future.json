@@ -1,0 +1,49 @@
+{
+  "slug": "audit-50-our-impact-in-2023-24-read-our-new-impact-report-building-a-fairer-future",
+  "route": "/05/12/2024/our-impact-in-2023-24-read-our-new-impact-report-building-a-fairer-future/",
+  "title": "Our impact in 2023-24: Read our new impact report, Building a fairer future",
+  "intro": "We are excited to launch our new Impact Report to reveal insights from our work over the past year and assess its impact",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/11/Read-our-new-Impact-Report-23-24-news-article.png",
+    "alt": "Our impact in 2023-24: Read our new impact report, Building a fairer future — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2024-12-05",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Read our new 2023-24 impact report, Building a fairer future.",
+          "links": [
+            {
+              "text": "2023-24 impact report",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/11/4538_ToynbeeHall_ImpactReport_AW-FINAL-DIGITAL-VERSION-11-11-24-1.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2023-24, we have substantially impacted the lives of tens of thousands of people in the local community. In our latest impact report, we review the impact of our work, the challenges we had to address and our approach to tackling these issues. We also look forward to the challenges ahead and how we intend to continue working towards building a fairer future."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are just some of the stats from our new impact report:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "local people £6,565,487 better off",
+            "3,263 people supported by the Advice Hub at Toynbee Hall",
+            "Our spaces hosted 301 events with 10,000 attendees",
+            "15,981 people reached through our partnerships people reached through our community and heritage work",
+            "over 100 local residents engaged in either commissioning or delivering cultural community events and over 1,000 people attended"
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "audit-239-we-are-seeking-a-new-chair-of-trustees",
+  "route": "/20/10/2021/we-are-seeking-a-new-chair-of-trustees/",
+  "title": "We are seeking a new Chair of Trustees",
+  "intro": "Toynbee Hall is looking for a new Chair of Trustees to oversee the governance of the organisation",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/10/Halls-at-night-Credit-Kristjan-Byfield.jpg",
+    "alt": "Toynbee Hall at night"
+  },
+  "template": "article",
+  "publishedAt": "2021-10-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall is looking for a new Chair of Trustees to oversee the governance of the organisation"
+        },
+        {
+          "type": "paragraph",
+          "text": "After six years of service and having overseen an incredible period of change and positive progress at Toynbee Hall, our Chair of Trustees, Julian Corner, will be stepping down from the position in early 2022. This means we are now searching for a new Chair who will lead our Board of Trustees and ensure Toynbee Hall is operating effectively, delivering our mission, and using our resources for the benefit of the people we are here to serve."
+        },
+        {
+          "type": "paragraph",
+          "text": "The new Chair will be joining at a pivotal time for us and will share our desire to further increase our reach and influence. They will help us shape the big strategic opportunities ahead, whether for the growth of our services, the scope of our organisation, or our ongoing need to be financially sustainable and will also understand issues relevant to the inner East London population and build positive alliances across communities and nationally."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are searching for someone who is trusted presence with different communities. With strong values that align with ours, you will know how to build support and leverage networks to ensure we have a bold voice locally and with policy makers, opinion formers and partners. Over the past three years we have significantly broadened and deepened the experience of our Board. We are offering the chance to lead a diverse, skilled and knowledgeable Trustee team, each with deep East London connections, and to help us shape the future of a unique and iconic social action institution."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How to apply"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you think you would make a fantastic Chair for Toynbee Hall, please click on the button below, with the following prepared:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "your CV or equivalent biographical information",
+            "a covering letter that sets out your motivation for applying for this appointment, and why you think your skills and experience make you suitable."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Closing date is Friday 10th December 2021"
+        },
+        {
+          "type": "paragraph",
+          "text": "Agreement of the final shortlist will be by 17th December 2021."
+        },
+        {
+          "type": "paragraph",
+          "text": "Informal meetings / telephone calls will follow confirmation of the final shortlist."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shortlisted candidates will have the opportunity to speak with key stakeholders in early January 2022."
+        },
+        {
+          "type": "paragraph",
+          "text": "Formal interviews for shortlisted candidates are expected to take place in w/c 10th January 2022."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read the full details and apply here"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

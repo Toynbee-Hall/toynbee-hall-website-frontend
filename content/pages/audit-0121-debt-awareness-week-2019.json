@@ -1,0 +1,57 @@
+{
+  "slug": "audit-121-debt-awareness-week-2019",
+  "route": "/12/02/2019/debt-awareness-week-2019/",
+  "title": "Debt Awareness Week 2019",
+  "intro": "This week (11th – 15th February) is Debt Awareness Week. This is a week where debt advice providers share practical ways to get advice, share stories from people who have received debt advice and look at how we can encourage a wider conversation about debt. As the lead partner of Capitalise, London’s Debt Advice Partnership,… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/02/Debt-Awareness-Week-image-1.png",
+    "alt": "Debt Awareness Week 2019"
+  },
+  "template": "article",
+  "publishedAt": "2019-02-12",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This week (11th – 15th February) is Debt Awareness Week. This is a week where debt advice providers share practical ways to get advice, share stories from people who have received debt advice and look at how we can encourage a wider conversation about debt."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the lead partner of Capitalise, London’s Debt Advice Partnership, we manage 27 debt advice partners across London to make sure that every Londoner has access to free, impartial and trustworthy debt advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the past year our own advice centre here at Toynbee Hall has helped over 2,000 people with debt and money problems. We know that debt can come in many different forms but a general trend that we have seen since the introduction of Universal Credit of an increase in people presenting with priority debt, such as rent or council tax arrears, rather than non-priority debt, such as credit card debts. As many as 38% of people seen across Tower Hamlets are behind on their council tax."
+        },
+        {
+          "type": "paragraph",
+          "text": "In response to this we’ve piloted a new project embedding financial management into debt advice. As part of this new debt model, we’ve worked with 75 people who have attended over 150 sessions with Money Support Workers to help them deal with their immediate debts and then, with a trusting relationship built, the Money Support Workers are able to help them build the confidence to avoid problem debt situations in the future. We will be releasing the findings from this project in the very near future."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“Thank you so much for your support. You gave me the chance to learn and to do things myself. You treated me with a lot of respect. When I came to you I felt alone, and was terrified I was going to lose the house. Now I feel I can manage all of the household finances and I don’t feel scared anymore.” Ahmed, Debt Advice Client"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Get the debt help you need"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are currently struggling with any debt or money problems, the Toynbee Hall Debt Advice Service is here to help. In 2018, £225,000 worth of debt was recovered across Tower Hamlets. Let’s make that figure grow and include the debt you owe. Visit our debt advice page for more info",
+          "links": [
+            {
+              "text": "isit our debt advice page for more info",
+              "href": "/debt-advice/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

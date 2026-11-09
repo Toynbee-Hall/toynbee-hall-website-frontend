@@ -1,0 +1,71 @@
+{
+  "slug": "audit-302-invitation-to-tender-transfer-of-power-in-practice",
+  "route": "/25/05/2022/invitation-to-tender-transfer-of-power-in-practice/",
+  "title": "Invitation to tender: Transfer of Power in Practice",
+  "intro": "Toynbee Hall are looking to partner with an organisation or individual with a deep understanding of transferring power from organisations to individuals in a sustainable and replicable way.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/05/Transfer-of-Power-in-Practice-Invitation-to-tender-cover.png",
+    "alt": "Transfer of Power in Practice - Invitation to tender"
+  },
+  "template": "article",
+  "publishedAt": "2022-05-25",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall are looking to partner with an organisation or individual with a deep understanding of transferring power from organisations to individuals in a sustainable and replicable way."
+        },
+        {
+          "type": "paragraph",
+          "text": "We need a partner to help us support local people to take control of the use of our spaces and resources and to help us create a pipeline of empowered and empowering local people creating change for themselves, alongside us, and within the organisation as paid team members."
+        },
+        {
+          "type": "paragraph",
+          "text": "The tender document below covers who we are, the context for the project, the core deliverables, and values we would expect in its delivery and how to apply."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/loading.svg",
+            "alt": "Loader"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/EAD-logo.svg",
+            "alt": "EAD Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/reload.svg",
+            "alt": "Reload"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/open.svg",
+            "alt": "Open"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Download",
+          "links": [
+            {
+              "text": "Download",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/05/Transfer-of-Power-in-Practice-Invitation-to-tender.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

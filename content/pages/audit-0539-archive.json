@@ -1,0 +1,333 @@
+{
+  "template": "listing",
+  "slug": "audit-539-archive",
+  "route": "/resource-types/video/",
+  "title": "Resource Type: Video",
+  "intro": "Browse resource type: video from Toynbee Hall.",
+  "listingType": "resources",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "Inclusive Design in Action",
+      "href": "/research-library/inclusive-design-in-action/",
+      "summary": "Fair By Design, Ofgem and Toynbee Hall, A case study: using inclusive design to create a fair transition to net zero.",
+      "date": "2023-05-29",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/FBD-Inclusive-Design-in-action-cover-e1705419539602.jpg",
+        "alt": "Inclusive Design in Action — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Breaking Point",
+      "href": "/training-resources/breaking-point/",
+      "summary": "The latest impact report from Debt Free Advice, where we have focused on real-world stories and experiences from our frontline team and customer feedback to paint a vivid picture of day-to-day impact our free advice service makes.",
+      "date": "2022-11-17",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Breaking-point-report-cover-image-e1706613370456.png",
+        "alt": "Breaking Point"
+      }
+    },
+    {
+      "title": "More Than Just Education",
+      "href": "/research-library/more-than-just-education",
+      "summary": "A Participatory Action Research project on adult education in London.",
+      "date": "2022-03-01",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/TH-GLA-Adult-Education-Report-Feb22-cover-image.png",
+        "alt": "More Than Just Education — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Rent-Move-Repeat",
+      "href": "/research-library/rent-move-repeat",
+      "summary": "A Participatory Action Research project on the challenges of renting in London as a young person.",
+      "date": "2021-11-12",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/11/cropped-cropped-Young-Private-Renters-Report_v4-NOV-21_Page_01-e1637913822356-2-e1706613860880.jpg",
+        "alt": "Rent-Move-Repeat — Toynbee Hall"
+      }
+    },
+    {
+      "title": "A Panel Discussion on Reasonable Adjustments",
+      "href": "/training-resources/a-panel-discussion-on-reasonable-adjustments/",
+      "summary": "",
+      "date": "2021-09-07"
+    },
+    {
+      "title": "Transcript of Reasonable Adjustments Panel Discussion",
+      "href": "/training-resources/transcript-of-reasonable-adjustments-panel-discussion/",
+      "summary": "",
+      "date": "2021-08-17",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/transcript-cover-e1629984659438.png",
+        "alt": "Transcript of Reasonable Adjustments Panel Discussion — Toynbee Hall"
+      }
+    },
+    {
+      "title": "The Domestic Abuse Act 2021",
+      "href": "/training-resources/the-domestic-abuse-act-2021/",
+      "summary": "",
+      "date": "2021-08-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/Domestic-Abuse-Act-2021.png",
+        "alt": "Domestic Abuse Act 2021 preview image"
+      }
+    },
+    {
+      "title": "Domestic Abuse",
+      "href": "/training-resources/domestic-abuse-2/",
+      "summary": "",
+      "date": "2021-08-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Domestic-Abuse.png",
+        "alt": "Domestic Abuse"
+      }
+    },
+    {
+      "title": "Draft Reasonable Adjustments letter",
+      "href": "/training-resources/request-reasonable-adjustments-a-template/",
+      "summary": "",
+      "date": "2021-08-06",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/Draft-Reasonable-adjustment-letter.png",
+        "alt": "Draft reasonable adjustment letter"
+      }
+    },
+    {
+      "title": "Sharing your invisible disability with your employer",
+      "href": "/training-resources/sharing-your-invisible-disability-with-your-employer/",
+      "summary": "",
+      "date": "2021-07-27",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/07/Sharing-your-invisible-disability-with-your-employer-thumbnail-image.png",
+        "alt": "Sharing your invisible disability with your employer"
+      }
+    },
+    {
+      "title": "What are reasonable adjustments? Know your rights if you’re a disabled person in the workplace",
+      "href": "/training-resources/what-are-reasonable-adjustments-know-your-rights-if-youre-a-disabled-person-in-the-workplace/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/What-are-reasonable-adjustments.png",
+        "alt": "What are reasonable adjustments? Know your rights if you’re a disabled person in the workplace"
+      }
+    },
+    {
+      "title": "Transferring your tenancy – Joint to Sole Tenancy",
+      "href": "/training-resources/transferring-your-tenancy-joint-to-sole-tenancy/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Transferring-your-tenancy.png",
+        "alt": "Transferring your tenancy Joint to Sole Tenancy"
+      }
+    },
+    {
+      "title": "Stop and Search: Know Your Rights",
+      "href": "/training-resources/resource-sample/",
+      "summary": "",
+      "date": "2021-06-16"
+    },
+    {
+      "title": "Unfair Dismissal: Know Your Rights",
+      "href": "/training-resources/unfair-dismissal-know-your-rights/",
+      "summary": "",
+      "date": "2021-06-16"
+    },
+    {
+      "title": "Starting a self-healing journey – For Domestic Abuse survivors",
+      "href": "/training-resources/starting-a-self-healing-journey-for-domestic-abuse-survivors/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/TH-Self-help-guide-for-survivors.png",
+        "alt": "Starting a self-healing journey For Domestic Abuse survivors"
+      }
+    },
+    {
+      "title": "Illegal Evictions: Know Your Rights",
+      "href": "/training-resources/illegal-evictions-know-your-rights/",
+      "summary": "",
+      "date": "2021-06-16"
+    },
+    {
+      "title": "Eviction (Rent Arrears) – a checklist",
+      "href": "/training-resources/eviction-rent-arrears-checklist/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Eviction-checklist.png",
+        "alt": "Rent arrears eviction checklist"
+      }
+    },
+    {
+      "title": "Rent Arrears: Contacting your landlord – rent letter guidance",
+      "href": "/training-resources/rent-arrears-contacting-your-landlord-rent-letter-guidance/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Contacting-your-landlord.png",
+        "alt": "Rent arrears - contacting your landlord letter guidance"
+      }
+    },
+    {
+      "title": "Rent Arrerars: Know Your Rights",
+      "href": "/training-resources/rent-arrerars-know-your-rights/",
+      "summary": "",
+      "date": "2021-06-16"
+    },
+    {
+      "title": "Remote Video Hearing Checklist",
+      "href": "/training-resources/remote-hearing-checklist/",
+      "summary": "",
+      "date": "2021-06-16"
+    },
+    {
+      "title": "Remote Hearings: Know Your Rights",
+      "href": "/training-resources/remote-hearings-know-your-rights/",
+      "summary": "",
+      "date": "2021-06-16"
+    },
+    {
+      "title": "Preparing for a remote hearing?",
+      "href": "/training-resources/how-can-i-prepare-for-a-remote-hearing/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/Preparing-for-a-remote-hearing-e1623849977840.png",
+        "alt": "Preparing for a remote hearing"
+      }
+    },
+    {
+      "title": "Checklist: Practical tips to prepare for a remote hearing",
+      "href": "/training-resources/checklist-practical-tips-to-prepare-for-a-remote-hearing/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Checklist-practical-tips-to-perapre-for-remote-hearing.png",
+        "alt": "Checklist - practical tips to perapre for remote hearing"
+      }
+    },
+    {
+      "title": "Template Co-parenting agreement",
+      "href": "/training-resources/co-parenting-agreement-draft-template/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Co-parenting-agreement.png",
+        "alt": "Co-parenting agreement draft template"
+      }
+    },
+    {
+      "title": "Making an unfair dismissal claim",
+      "href": "/training-resources/making-an-unfair-dismissal-claim/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Making-an-unfair-dismissal-claim.png",
+        "alt": "Making an unfair dismissal claim"
+      }
+    },
+    {
+      "title": "Understanding your housing rights: Transfer of tenancy – interview with client",
+      "href": "/training-resources/understanding-your-housing-rights-transfer-of-tenancy-interview-with-client/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Understanding-your-housing-rights.png",
+        "alt": "Transfer of tenancy – interview with client"
+      }
+    },
+    {
+      "title": "Clayden’s interview about his experiences of being stopped and searched",
+      "href": "/training-resources/claydens-interview-about-his-experiences-of-being-stopped-and-searched/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Claytons-interview-about-being-stopped-and-searched.png",
+        "alt": "Clayton's interview about being stopped and searched"
+      }
+    },
+    {
+      "title": "A guide on remote hearings",
+      "href": "/training-resources/a-guide-on-remote-hearings/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/A-guide-on-remote-hearings.png",
+        "alt": "A guide on remote hearings"
+      }
+    },
+    {
+      "title": "Complaining about a stop and search",
+      "href": "/training-resources/complaining-about-a-stop-and-search/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Complaining-about-a-stop-and-search.png",
+        "alt": "Complaining about a stop and search"
+      }
+    },
+    {
+      "title": "Domestic Abuse",
+      "href": "/training-resources/domestic-abuse/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Domestic-Abuse.png",
+        "alt": "Domestic Abuse"
+      }
+    },
+    {
+      "title": "Blog post: What is co-parenting?",
+      "href": "/training-resources/what-is-co-parenting/",
+      "summary": "",
+      "date": "2021-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/What-is-co-parenting.png",
+        "alt": "What is co-parenting?"
+      }
+    },
+    {
+      "title": "A guide to form D50B",
+      "href": "/training-resources/a-guide-to-form-d50b/",
+      "summary": "",
+      "date": "2021-05-14",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/A-guide-to-form-D50B.png",
+        "alt": "A guide to form D50B"
+      }
+    },
+    {
+      "title": "Tenancy Transfer: Know Your Rights",
+      "href": "/training-resources/tenancy-transfer-know-your-rights/",
+      "summary": "",
+      "date": "2021-05-14"
+    },
+    {
+      "title": "Dealing with Domestic Abuse: Know Your Rights",
+      "href": "/training-resources/dealing-with-domestic-abuse-know-your-rights/",
+      "summary": "",
+      "date": "2021-05-14"
+    },
+    {
+      "title": "Reasonable Adjustment: Know Your Rights",
+      "href": "/training-resources/reasonable-adjustment-know-your-rights/",
+      "summary": "",
+      "date": "2021-05-14"
+    },
+    {
+      "title": "Supermarket Discrimination: Know Your Rights",
+      "href": "/training-resources/supermarket-discrimination-know-your-rights/",
+      "summary": "",
+      "date": "2021-05-14"
+    },
+    {
+      "title": "Co-Parenting: Know Your Rights",
+      "href": "/training-resources/coparenting/",
+      "summary": "",
+      "date": "2021-01-19"
+    }
+  ]
+}

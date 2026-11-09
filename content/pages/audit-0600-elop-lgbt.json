@@ -1,0 +1,42 @@
+{
+  "slug": "audit-600-elop-lgbt",
+  "route": "/whats-on/elop-lgbt/",
+  "title": "ELOP LGBT+ Group",
+  "intro": "ELOP are an innovative LGBT+ mental health charity based in East London.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/Untitled-design-8.png",
+    "alt": "ELOP LGBT Group - Every Tuesday"
+  },
+  "template": "event",
+  "dateLabel": "Weekly",
+  "timeLabel": "4pm to 8pm",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Join our weekly LGBT+ Social Support group from 4pm – 8pm. It is a friendly space open to all LGBT+ community, be supported to expand your social network & connect to others."
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information or to book:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 0203 856 9721 or 07943 277512"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

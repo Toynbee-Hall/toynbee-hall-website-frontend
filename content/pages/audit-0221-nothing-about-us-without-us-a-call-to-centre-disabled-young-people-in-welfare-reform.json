@@ -1,0 +1,75 @@
+{
+  "slug": "audit-221-nothing-about-us-without-us-a-call-to-centre-disabled-young-people-in-welfare-reform",
+  "route": "/19/11/2025/nothing-about-us-without-us-a-call-to-centre-disabled-young-people-in-welfare-reform/",
+  "title": "Nothing About Us Without Us: A Call to Centre Disabled Young People in Welfare Reform",
+  "intro": "Last week, the government announced the launch of a new independent investigation into “…why increasing numbers of young people are falling out of work or education before their careers have begun—with a particular focus on the impact of mental health conditions and disability.” The Terms of Reference (ToR) for this Independent Report into Young People and Work,… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Disability-Coproduction.png",
+    "alt": "Nothing About Us Without Us: A Call to Centre Disabled Young People in Welfare Reform — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2025-11-19",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Last week, the government announced the launch of a new independent investigation into “…why increasing numbers of young people are falling out of work or education before their careers have begun—with a particular focus on the impact of mental health conditions and disability.” The Terms of Reference (ToR) for this Independent Report into Young People and Work, led by former Health Secretary Alan Milburn are striking due to a key omission; while “people with lived experience” are among the list of groups they will consult with, they do not give primacy to consultation with young Disabled people, let alone coproducing its recommendations with them.",
+          "links": [
+            {
+              "text": "independent investigation",
+              "href": "https://www.gov.uk/government/news/independent-investigation-to-be-launched-to-tackle-rising-youth-inactivity"
+            },
+            {
+              "text": "Terms of Reference",
+              "href": "https://www.gov.uk/government/publications/terms-of-reference-for-the-independent-report-into-young-people-and-work"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The government’s March 2025 Pathways to Work: Reforming Benefits and Support to Get Britain Working Green Paperintroduced the prospect of, “...delaying access to the health element of UC within the reformed system until someone is aged 22, on the basis that the savings generated would be reinvested into work support and training opportunities for this age group.” Meanwhile, the ToR for Milburn’s review state that the purpose is to, “…understand the drivers of the increase in the number of young people who are Not in Education Employment or Training (NEET) and [emphasis added] claiming health and disability benefits…”In describing the solutions phase, it states, “The final Report is intended to take a holistic view of the welfare, health, skills and employment system and identify areas for reform.” From this we can understand that the review is focused on young Disabled people and that solutions will likely encompass welfare reform, which could include the Green Paper’s radical proposal of cutting the UC health element benefits for Disabled people below the age of 22.",
+          "links": [
+            {
+              "text": "Pathways to Work: Reforming Benefits and Support to Get Britain Working Green Paper",
+              "href": "https://www.gov.uk/government/consultations/pathways-to-work-reforming-benefits-and-support-to-get-britain-working-green-paper/pathways-to-work-reforming-benefits-and-support-to-get-britain-working-green-paper"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "What is remarkable is that given the stakes and the potential harm that such a broad cut to benefits for Disabled people could represent, the ToR does not give primacy to consultation—let alone coproduction—with young Disabled people or the Disabled People’s Organisations that represent them. This represents a considerable backslide from the political consensus which formed around the Timms Review with numerous MPs successfully arguing for coproduction."
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall we believe that truly insightful findings can only come about by involving people with lived experience from the very beginning at the design stage, who can uncover the right questions to ask. Since 2017 we have used Participatory Action Research (PAR), a type of peer research where power is shared equally from the start with people who have lived experience of the research topic, and coproduced our policy recommendations in the same way. This approach has allowed our research to find the crux of the issue in topics ranging from adult education, young people’s emotional wellbeing, and the transition to net zero."
+        },
+        {
+          "type": "paragraph",
+          "text": "This view is echoed by the government. Stephen Timms said of his review, “Listening to those with lived experience will be critical to the success of any future reform… it is why we will co-produce the Timms review with disabled people, the organisations that represent them, and other experts.” Given the high stakes for Disabled people, we call on the Department of Works and Pensions to revise the ToRs for the Milburn review to match the stated commitment set out by the Timms Review in engaging in coproduction."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is coproduction?: Coproduction is a collaborative approach to policy development where policymakers and community members work together as equal partners to design, implement, and evaluate policies, drawing on both lived experience and professional expertise to create more inclusive and effective outcomes. Unlike traditional consultation, coproduction gives people with lived experience genuine influence over decisions, ensures that choices are made jointly rather than imposed, and involves participants from the very beginning so they can shape how the process unfolds. It requires a genuine sharing of power and engagement with a broad and representative cross-section of the community."
+        },
+        {
+          "type": "paragraph",
+          "text": "Five Tests for Coproducing Policy Reviews and Recommendations with Disabled People"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Power is Shared from the Start: The Terms of Reference, shape and structure of policy reviews and investigations aimed at Disabled people should be coproduced with Disabled People’s Organisations (DPOs), incorporating their recommendations for scope, purpose and methodology.",
+            "Lived Experience is Valued as Expertise: Policy review working groups should include DPOs as equal partners, with decisions made through consensus, ensuring that recommendations genuinely reflect DPO insights, with their contributions clearly visible and explicitly attributed.",
+            "The Process is Accessible and Inclusive: Events, meetings and communications should be co-designed with DPOs, with access requirements proactively gathered, funded, and met; and no DPOs should be excluded from participating in the review on the basis of rejecting the premise of the need to reduce benefits spending. The government should make clear that participants’ benefits entitlement will not be affected due to participation, similar to NHS participation work.",
+            "The Outcome is Not Pre-Determined: The decision-making process should be led by lived experience and evidence of Disabled people. Reviews should not work towards predetermined outcomes—such as scrapping the Work Capability Assessment—but should reflect what is best for the community. No proposed reform is immune to veto.",
+            "Mutual Accountability and Transparency: Reviews should include a published decision-making framework showing how input (from DPOs, individuals, experts, etc.) is considered, prioritised, and acted upon. The government should publish a process analysis of the review when it is completed."
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

@@ -1,27 +1,94 @@
 {
-  "slug": "whats-on",
+  "slug": "audit-595-whats-on",
+  "route": "/whats-on/",
   "title": "What’s on",
-  "intro": "Find free, inclusive activities and events for people of all ages in our East London community.",
+  "intro": "Find regular activities at Toynbee Hall’s Community Centre and across the LinkAge Plus network in Tower Hamlets.",
+  "image": {
+    "src": "/images/live-site/yoga.jpg",
+    "alt": "A group taking part in seated exercise at the Community Centre"
+  },
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "Activities for everyone",
+      "type": "infoPanel",
+      "heading": "Weekly timetable",
       "paragraphs": [
-        "Our community centre hosts activities for older people, children and young people. General opening times are 10am–4pm."
-      ]
+        "The Community Centre is generally open from 10am to 4pm."
+      ],
+      "link": {
+        "label": "View the weekly timetable (PDF)",
+        "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/08/TBH-Community-Centre-Timetable-April-26-6-1.pdf"
+      }
     },
     {
-      "type": "richText",
-      "heading": "LinkAge Plus",
-      "paragraphs": [
-        "LinkAge Plus has five hubs across Tower Hamlets. Activities take place at partner hubs across the borough."
-      ]
-    },
-    {
-      "type": "richText",
-      "heading": "Visit us",
-      "paragraphs": [
-        "Toynbee Hall is at 28 Commercial Street, London, E1 6LS. Check individual activity details before travelling."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out what’s on at our other LinkAge Plus partners"
+        },
+        {
+          "type": "paragraph",
+          "text": "LinkAge Plus has five hubs across Tower Hamlets. Find out what’s on at our other partner hubs."
+        },
+        {
+          "type": "paragraph",
+          "text": "1 Merchant Street, Bow, London, E3 4LY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Call 0203 981 7124 (extension 3, option 1) or visit their website",
+          "links": [
+            {
+              "text": "visit their website",
+              "href": "https://merchantsthub.co.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "St Matthias Community Centre, 113 Poplar High Street, E14 0AE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Call 0207 531 0190 or visit their website.",
+          "links": [
+            {
+              "text": "visit their website",
+              "href": "https://www.neighboursinpoplar.com"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Sundial Centre, 11 Shipton Street, E2 7RU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Call 0203 828 3928 or visit their website",
+          "links": [
+            {
+              "text": "visit their website",
+              "href": "https://www.peabody.org.uk/your-community/community-centres/sundial-centre"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Sonali Gardens, 79 Tarling Street, E1 0AT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Call 0207 265 9292 or visit their website",
+          "links": [
+            {
+              "text": "visit their website",
+              "href": "http://www.sthildas.org.uk"
+            }
+          ]
+        }
       ]
     }
   ]

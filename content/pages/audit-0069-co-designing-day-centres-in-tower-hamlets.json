@@ -1,0 +1,58 @@
+{
+  "slug": "audit-69-co-designing-day-centres-in-tower-hamlets",
+  "route": "/07/08/2020/co-designing-day-centres-in-tower-hamlets/",
+  "title": "Co-designing Day Centres in Tower Hamlets",
+  "intro": "An invitation to attend two workshops to co-design older people day services in Tower Hamlets The London Borough of Tower Hamlets (LBTH) is in the process of reviewing its older people’s day centres. On behalf of LBTH, Toynbee Hall’s Research and Policy Team are running two co-production workshops to get the views of wider group… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/08/DSCF0169-web.jpg",
+    "alt": "Older People's Day 2019 at Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2020-08-07",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "An invitation to attend two workshops to co-design older people day services in Tower Hamlets"
+        },
+        {
+          "type": "paragraph",
+          "text": "The London Borough of Tower Hamlets (LBTH) is in the process of reviewing its older people’s day centres. On behalf of LBTH, Toynbee Hall’s Research and Policy Team are running two co-production workshops to get the views of wider group of people who attend or are involved in the running of day centres."
+        },
+        {
+          "type": "paragraph",
+          "text": "The two workshops take place on:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tuesday 18th August, 10:00am – 11:30am Thursday 20th August, 10:00am – 11:30am"
+        },
+        {
+          "type": "paragraph",
+          "text": "The review of the older people day centre intents to seek the views of service users, their carers, staff at the day centres and a wider group of stakeholders, both from the voluntary and community sector as well as the health and care sector including NHS, LBTH and Clinical Commissioning Group."
+        },
+        {
+          "type": "paragraph",
+          "text": "The aim is to develop a new service model that is more personalised and flexible, less segregated in age in terms of its activities, more community based and promoting independence."
+        },
+        {
+          "type": "paragraph",
+          "text": "The meeting will take the form of an online workshop via Teams. We will explore what would be relevant outcomes for a new service model and what would be the opportunities and barriers to realise these, what could this look like in practice."
+        },
+        {
+          "type": "paragraph",
+          "text": "We hope you can join the workshop. Once you registered, we will send you a Teams’ invite to the meeting."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Select a date and sign up here"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

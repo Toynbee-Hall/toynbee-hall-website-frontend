@@ -1,0 +1,49 @@
+{
+  "slug": "audit-210-21638-raised-during-the-2017-big-give-christmas-challange",
+  "route": "/18/12/2017/21638-raised-during-the-2017-big-give-christmas-challange/",
+  "title": "£21,638 raised during the 2017 Big Give Christmas Challange",
+  "intro": "We are absolutely thrilled to have raised an amazing £21,638 during the 2017 Big Give Christmas Challenge, a week-long challenge that allows every donation given towards our youth project, Make it!, to be doubled. The figure was made up of just over £10,000 of online donations, which were matched by the fantastic people at Proms… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/Thank_you_002.jpg",
+    "alt": "£21,638 raised during the 2017 Big Give Christmas Challange — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2017-12-18",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are absolutely thrilled to have raised an amazing £21,638 during the 2017 Big Give Christmas Challenge, a week-long challenge that allows every donation given towards our youth project, Make it!, to be doubled."
+        },
+        {
+          "type": "paragraph",
+          "text": "The figure was made up of just over £10,000 of online donations, which were matched by the fantastic people at Proms at St. Jude’s (a long standing supporter of our youth work) and the Childhood Trust (who for the 5th year running have teamed up with The Big Give to raise funds for charities supporting children’s projects in London). The Gift Aid on top bumped us up to the grand total of £21,638.",
+          "links": [
+            {
+              "text": "Proms at St. Jude’s",
+              "href": "http://www.promsatstjudes.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a truly fantastic result and meant that we surpassed last year’s total. The funds raised will go towards our youth project Make it!, which works with young people to develop critical thinking skills, build confidence and create a greater sense of community.",
+          "links": [
+            {
+              "text": "Make it!",
+              "href": "/make-it-"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We would like say a huge thank you to everyone who made this possible by donating, sharing, retweeting, liking or supporting the campaign. We couldn’t have done it without you."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

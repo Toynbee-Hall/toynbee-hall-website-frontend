@@ -1,0 +1,133 @@
+{
+  "slug": "audit-91-bangladesh-50-stories-of-1971-a-story-competition",
+  "route": "/09/03/2021/bangladesh-50-stories-of-1971-a-story-competition/",
+  "title": "Bangladesh 50: Stories of 1971 – A Story Competition",
+  "intro": "To celebrate East London’s rich heritage and Bangladesh’s 1971 independence movement, Toynbee Hall is hosting a stories competition to capture what life might have been like at that time.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/Meeting-of-Bangladeshi-community-leaders-1980s.jpg",
+    "alt": "Meeting of Bangladeshi Community leaders"
+  },
+  "template": "article",
+  "publishedAt": "2021-03-09",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "To celebrate East London’s rich heritage of fighting injustice and strong cultural links to Bangladesh’s 1971 independence movement, Toynbee Hall is hosting a stories competition to capture your ideas of what life might have been like at that time."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Do you have a story or a memory to share?"
+        },
+        {
+          "type": "paragraph",
+          "text": "In collaboration with Swadhinata Trust, We’re looking for stories or memories that explore the themes of life in 1971, resistance, liberation and home. You can use local and family history to inspire your work or submit a completely fiction piece.",
+          "links": [
+            {
+              "text": "Swadhinata Trust",
+              "href": "https://www.swadhinata.org.uk/"
+            },
+            {
+              "text": "life in 1971, resistance, liberation and home",
+              "href": "/stories-of-71-commemorating-bangladesh-struggle-and-liberation/#story-competition"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Submitted stories will be judged on how original, interesting and engaging they are. We are looking for stories that capture the reader and hold their attention."
+        },
+        {
+          "type": "paragraph",
+          "text": "The 3 winning entries will be awarded a £100 voucher and will be featured in the musical storytelling walking tour we are producing. All submissions will be included in a digital anthology published on our website."
+        },
+        {
+          "type": "paragraph",
+          "text": "In honour of the many languages that are spoken in East London, we welcome pieces in other languages such as Sylheti, Polish, Spanish, Somali, Arabic and many more."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/03/Story-Competition-2021-15-724x1024.png",
+            "alt": "Stories of 71 - Story Competition"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Deadline: Thursday 8 April 2021"
+        },
+        {
+          "type": "paragraph",
+          "text": "Eligibility: To submit, you must be13+ and be living or studying in City of London and Tower Hamlets. If you are under 16, you will need permission from your parent/carer."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Prizes:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Three pieces will be selected to the win the prize."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Winners will receive a £100 cash voucher and be included in our story walking tour project, credited as a contributor",
+            "Winners and runners up can attend a storytelling workshop to work with a writer.",
+            "Winners and runners up will be given the opportunity to perform their story to a public audience."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How to Submit:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Send your stories with an attached entry form to whenwespeak@toynbeehall.org.uk or whatsapp 07398294110.",
+          "links": [
+            {
+              "text": "whenwespeak@toynbeehall.org.uk",
+              "href": "mailto:whenwespeak@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would prefer, we also accept recordings as audio/video pieces of you performing the story."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Competition Rules"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The story competition start date is Monday 1 March 2021",
+            "Entries will be accepted until Thursday 1 April 2021",
+            "Your story or memory can be up to 750 words or 3 minutes if spoken word.",
+            "The competition is open to anyone aged 13 and over living or studying in City of London and Tower Hamlets",
+            "If you are under 16, you must have parental/guardian permission to take part",
+            "For each submission you must complete an entry form",
+            "You may submit your story by email or whatsapp",
+            "You may submit up to 3 stories",
+            "If you are submitting a story in a different language, you must also provide a copy of the English translation. If you need help with this, please get in touch.",
+            "You retain the copyright for your submission.",
+            "Copyright: You will be asked to grant a perpetual non-exclusive royalty-free licence to store the submission. You will also further asked to grant permission to publish stories in a digital anthology and for winning entries to form part of an audio story produced as part of this project. This licence will be deemed to include all the necessary rights and permissions to enable use as described above, to fulfil the prizes and to complete the administration of this competition.",
+            "The submissions will be judged anonymously by a panel.",
+            "The winning pieces will be selected by a panel comprising of Swadhinata Trust, Storyteller Shamima Azad and Toynbee Hall."
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

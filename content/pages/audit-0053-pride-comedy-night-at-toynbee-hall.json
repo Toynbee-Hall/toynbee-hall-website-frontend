@@ -1,0 +1,61 @@
+{
+  "slug": "audit-53-pride-comedy-night-at-toynbee-hall",
+  "route": "/06/06/2024/pride-comedy-night-at-toynbee-hall/",
+  "title": "Get your tickets to the Pride Comedy Night at Toynbee Hall on Friday 28th June",
+  "intro": "We’re celebrating Pride Month with a night of comedy raising money to help us build a fairer future.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/Toynbee-PRIDE-Featured-image-1200-x-628px-2250-x-1600-px.png",
+    "alt": "Get your tickets to the Pride Comedy Night at Toynbee Hall on Friday 28th June — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2024-06-06",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A night of comedy to raise money for a fairer future and an end to poverty, injustice and inequality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Join us to celebrate Pride Month with a night of comedy to raise money for Toynbee Hall, in partnership with Aldgate Connect, and help us build a fairer future in East London and an end to poverty, injustice and inequality."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have a fantastic line-up of some of the best up and coming comedians in the country including;"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Britain’s Got Talent Finalist, Robert White",
+            "Winner of the Sydney Fringe Best in Comedy, Robyn Perkins",
+            "LGBTQ+ New Comedian of the Year 2022, Dane Buckley",
+            "Winner of Only Fans Comedy Award, Mary O’Connell"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This event is 18 +."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tickets cost £15 and all funds raised go to Toynbee Hall, a charity based in the East End of London since 1884. Toynbee Hall works alongside people facing poverty and injustice to build a fairer and happier East London. We provide vital support and work in partnership with local communities to tackle unfairness and ensure everyone has an equal chance to thrive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Go to Eventbrite for tickets and info. Buy your tickets now.",
+          "links": [
+            {
+              "text": "Go to Eventbrite for tickets and info",
+              "href": "https://www.eventbrite.co.uk/e/pride-comedy-night-at-toynbee-hall-tickets-918838760467?aff=oddtdtcreator"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

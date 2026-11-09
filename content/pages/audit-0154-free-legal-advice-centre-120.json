@@ -1,0 +1,71 @@
+{
+  "slug": "audit-154-free-legal-advice-centre-120",
+  "route": "/15/10/2018/free-legal-advice-centre-120/",
+  "title": "Celebrating the 120th anniversery of our Free Legal Advice Centre",
+  "intro": "Sir Nicolas Bratza and Lord Neuberger join Toynbee Hall to celebrate the 120th anniversary of their free legal advice service. In 1898, Toynbee Hall launched the ‘Poor Man’s Lawyer’ service. This offered free legal advice to those encountering employment, housing and consumer issues. Yesterday we held an event to celebrate the 120th anniversary of this… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/10/IMG_2389-edited.jpg",
+    "alt": "Lord Neuberger -FLAC 120 event"
+  },
+  "template": "article",
+  "publishedAt": "2018-10-15",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sir Nicolas Bratza and Lord Neuberger join Toynbee Hall to celebrate the 120th anniversary of their free legal advice service."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1898, Toynbee Hall launched the ‘Poor Man’s Lawyer’ service. This offered free legal advice to those encountering employment, housing and consumer issues. Yesterday we held an event to celebrate the 120th anniversary of this service, which is still operating today and is one of the longest-running free legal advice services in the world."
+        },
+        {
+          "type": "paragraph",
+          "text": "At an event in our newly reopened historic building, Sir Nicolas Bratza, Former President of the European Court of Human Rights and Lord David Neuberger, Former President of the Supreme Court of the United Kingdom, joined us to celebrate 120 years of the Free Legal Advice Centre (FLAC) and its vital contribution to pro bono legal advice in London. The event was also an opportunity to recognise and thank the volunteers, funders and supporters who help make the centre a success."
+        },
+        {
+          "type": "paragraph",
+          "text": "Free legal advice centres like FLAC are incredibly important for people across London and it remains as important today as it was 120 years ago. So much provision has been cut or drastically curtailed in recent years. For families across London, FLAC represents a vital source of access to justice and remains highly effective at reaching people in need of legal support."
+        },
+        {
+          "type": "paragraph",
+          "text": "Whilst this was a celebration of the past 120 years, it was also about looking forwards to the challenges ahead and how the service can continue to be effective and equipped for 2018 and beyond."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will soon by moving to a new purpose build Centre for Advice in spring 2019 that will ensure that we have the space and facilities we need. We are working towards building a more “Psychologically Informed Environment”, ensuring that we can effectively respond to the psychological needs of many clients, as well as the legal issues they face. We’re also currently working with other organisations to trial new digital tools and technology to help people to navigate an increasingly complex legal system."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jasmine Ashley-Tagoe, FLAC Manager: “I have worked at Toynbee Hall for almost 3 years and am constantly amazed and humbled by the tireless dedication of all our staff and volunteers. Many of our volunteers attend the free legal advice centre after a very long day at work and often without the opportunity to even grab a bite to eat before dutifully taking on the challenge of serving our clients. This does not go unnoticed by our clients, who frequently comment on how grateful they are for the assistance they receive.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Former President of the European Court of Human Rights, Sir Nicholas Bratza: “In celebrating the anniversary of the Centre, tribute should be paid to the volunteers who have loyally and selflessly given of their time, expertise and skills over the years. Tribute should also be paid to the law firms, which have for many years provided support to the Centre, both financially and in terms of the services of their young lawyers.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Former President of the Supreme Court, Lord Neuberger: “120 years old this year, Toynbee Hall can proudly claim to be the oldest surviving legal advice centre in the country. I have had the honour of seeing the legal advice centre here in action, I have talked to the people who run it, and I have watched advice being given sympathetically, patiently and clearly by expert lawyers and others, many of whom have had busy working days, to people, many of whom are confused, lost or angry, and some who are more relaxed but nonetheless badly in need of help an guidance. It was both a humbling and an uplifting experience."
+        },
+        {
+          "type": "paragraph",
+          "text": "This anniversary is a fitting occasion not only to celebrate in words, but also to acknowledge with actions, the enormous contribution Toynbee Hall make to access to justice for the benefit of so many members of the community who have nobody else to turn to.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about our advice services",
+          "links": [
+            {
+              "text": "Find out more about our advice services",
+              "href": "/free-advice/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

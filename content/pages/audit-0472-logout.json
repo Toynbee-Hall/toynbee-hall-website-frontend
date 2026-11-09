@@ -1,0 +1,9 @@
+{
+  "slug": "audit-472-logout",
+  "route": "/logout/",
+  "title": "Logout",
+  "intro": "",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

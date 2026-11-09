@@ -1,0 +1,71 @@
+{
+  "slug": "audit-267-debt-free-london-a-year-of-responding-to-change",
+  "route": "/22/10/2021/debt-free-london-a-year-of-responding-to-change/",
+  "title": "Debt Free London: A year of responding to change",
+  "intro": "Serving Londoners, adapting our service. Over the past year, our team has had approximately 44,000 conversations with clients.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/10/A-Year-of-responding-to-change.png",
+    "alt": "A Year of responding to change - Debt Free London report"
+  },
+  "template": "article",
+  "publishedAt": "2021-10-22",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Serving Londoners, adapting our service. Over the past year, our team has had approximately 44,000 conversations with clients."
+        },
+        {
+          "type": "paragraph",
+          "text": "As we have adapted to helping the public during times of crisis and coronavirus, many of these conversations have not taken place in the traditional, face-to-face way."
+        },
+        {
+          "type": "paragraph",
+          "text": "Recent quantitative research commissioned by Debt Free London has confirmed the importance of our services shifting to a multi-channel approach. It found that 38% would only speak to someone in person, 19% over the phone, 16% over WhatsApp, and 15% over video link.",
+          "links": [
+            {
+              "text": "Debt Free London",
+              "href": "http://debtfree.london"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In the face of these new challenges, our ambition remains to achieve a Debt Free London. Our growing partnership continues to work in every community across the capital to help people find ways of getting themselves out of the trap of debt."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have also taken other bold approaches to reaching more people in need amid the pandemic and during periods of lockdown. From January through March, we expanded our free debt advice service to operate 24 hours a day seven days a week."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have also recruited 70 new advisors to provide debt advice support to meet the increased demand we have experienced. As I write, we are training new debt advisors to help raise the high standard of our service."
+        },
+        {
+          "type": "paragraph",
+          "text": "In response to greater levels of reported domestic violence in London, we have worked with Engie and the Employers Domestic Abuse Covenant (EDAC) to try to reach more victims or survivors of domestic abuse. Sadly, debt problems and money worries will sometimes prevent victims of domestic abuse from being able to seek help."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hopefully, we can now begin to look beyond the crisis and the lockdowns of the past year. As we turn now to the road ahead, we can take with us some of the lessons from the pandemic. As a service, we will continue to be agile and adaptable, and able to cope with future challenges. We will continue to make ourselves available to advise those in need of debt advice through as many routes as possible, whether it be face-to-face or otherwise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Going forwards, we will also need to expand our horizons. If we are to better help those with debt problems and money worries, we will need to forge new alliances, seek different avenues, and work with more partners."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many sacrifices have been made by many people over the past year, and for many of those people the hardship is far from over. We know that our research suggests that more than half of Londoners have been left in a worse financial position than before the pandemic. We know that many of those seeking help from our service will be affected by the end of the Universal Credit uplift."
+        },
+        {
+          "type": "paragraph",
+          "text": "What follows in this report is testament to the great impact we are having for those who need it. But as we pivot from surviving through times of crisis to thriving in what comes next, we can be bolder and even more ambitious in what we can achieve."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

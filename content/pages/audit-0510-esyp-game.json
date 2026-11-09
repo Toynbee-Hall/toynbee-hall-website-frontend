@@ -1,0 +1,73 @@
+{
+  "slug": "audit-510-esyp-game",
+  "route": "/research/esyp-game/",
+  "title": "ESYP Game",
+  "intro": "Emotional Support for Young People PAR Project: The Game Co-designed with our young peer researchers, this game explores the emotional challenges of a 17 year old from a low-income family Download the Full Report Download the Executive Summary Read our Journal of Public Mental Health article Read a reflection from… Read more",
+  "image": {
+    "src": "/images/live-site/youth.jpg",
+    "alt": "Two young people talking across a table"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Emotional Support for Young People PAR Project: The Game"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Co-designed with our young peer researchers, this game explores the emotional challenges of a 17 year old from a low-income family"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Full Report"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Executive Summary"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read our Journal of Public Mental Health article"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read a reflection from one of our Peer Researchers"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "See our other research. Take a look through our research library"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "To stay up to date with this project and more, sign up to our e-newsletter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

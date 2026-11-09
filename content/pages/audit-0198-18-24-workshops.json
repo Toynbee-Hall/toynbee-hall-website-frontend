@@ -1,0 +1,92 @@
+{
+  "slug": "audit-198-18-24-workshops",
+  "route": "/18-24-workshops/",
+  "title": "Take part in our research",
+  "intro": "Help us make change by participating in our projects We use Participatory Action Research (PAR), working with people with lived experience to shape and carry out our research. As part of this our peer researchers often run workshops and conduct interviews with members of the community. All our opportunities are… Read more",
+  "image": {
+    "src": "/images/live-site/research.jpg",
+    "alt": "Attendees listening to a speaker at a Toynbee Hall research event"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Help us make change by participating in our projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "We use Participatory Action Research (PAR), working with people with lived experience to shape and carry out our research. As part of this our peer researchers often run workshops and conduct interviews with members of the community. All our opportunities are paid, as we believe people should be recognised for their time and expertise in contributing to our work. Below are our current opportunities to get involved with the work we do. New opportunities are added regularly."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "﻿Universal Credit Disability Benefit Interviews"
+        },
+        {
+          "type": "paragraph",
+          "text": "We are looking for Disabled people and those with long-term health conditions aged 18+ in England and Wales to take part in one-to-one online interviews with our community researchers about changes to Universal Credit. Interviews will be approximately one hour long, and as a thank you interviewees will each receive a £20 payment. More details can be found on our information sheet.",
+          "links": [
+            {
+              "text": "information sheet",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/Universal-Credit-Interview-Information-Sheet.docx"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Young Disabled Londoners in Temporary Accommodation Workshops"
+        },
+        {
+          "type": "paragraph",
+          "text": "We are currently looking for young Disabled people aged 18-26 years old in London who are either in temporary accommodation or have been in temporary accommodation within the past three years to join paid online and in-person workshops in July and August 2026. As a thank you participants will each receive a payment of £20 per hour for their time (up to £40 total). More details can be found on Disability Rights UK’s project page",
+          "links": [
+            {
+              "text": "Disability Rights UK’s project page",
+              "href": "https://www.disabilityrightsuk.org/temporary-accommodation-project"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Young Disabled Londoners in Temporary Accommodation Workshops: Register your interest"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Co-Producing Universal Credit Disability Benefits: Register your interest"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

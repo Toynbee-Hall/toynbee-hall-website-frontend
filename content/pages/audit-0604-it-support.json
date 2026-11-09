@@ -1,0 +1,43 @@
+{
+  "slug": "audit-604-it-support",
+  "route": "/whats-on/it-support/",
+  "title": "IT and Tech Support Drop-in",
+  "intro": "A practical drop in session every Wednesday for help with any IT issues and tech support.",
+  "template": "event",
+  "dateLabel": "Wednesdays (weekly)",
+  "timeLabel": "12:15pm to 1:45pm",
+  "venue": "Community Centre",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Wednesdays (weekly) 12.15-1.45pm Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "Suitable for complete beginners, or those wanting to learn new skills. Open to all (18+). If you have your own devices, please bring them along."
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 0203 856 9721 or 07943 277512"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

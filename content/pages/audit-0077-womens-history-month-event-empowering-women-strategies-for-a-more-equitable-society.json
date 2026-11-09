@@ -1,0 +1,88 @@
+{
+  "slug": "audit-77-womens-history-month-event-empowering-women-strategies-for-a-more-equitable-society",
+  "route": "/08/03/2023/womens-history-month-event-empowering-women-strategies-for-a-more-equitable-society/",
+  "title": "Women’s History Month Event – Empowering Women: Strategies for a More Equitable Society",
+  "intro": "Join us on Thursday 30th March at Toynbee Hall for an inspiring talk on women’s empowerment and strategies for a more equitable society.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/03/Empowering-Women-Event-header.png",
+    "alt": "Empowering Women Event line-up"
+  },
+  "template": "article",
+  "publishedAt": "2023-03-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us on Thursday 30th March at Toynbee Hall for an inspiring talk on women’s empowerment and strategies for a more equitable society."
+        },
+        {
+          "type": "paragraph",
+          "text": "In honour of International Women’s Day and Women’s History Month, we are hosting an event on Thursday 30th March, 6:30pm – 8pm, to explore the rich history of Toynbee Hall’s commitment to women’s equality and examine the challenges that remain."
+        },
+        {
+          "type": "paragraph",
+          "text": "For nearly 140 years, Toynbee Hall has been a leading voice in the fight for social justice and equality. From its earliest days, the charity has been dedicated to improving the lives of the most vulnerable members of society, including women."
+        },
+        {
+          "type": "paragraph",
+          "text": "One of Toynbee Hall’s earliest champions of women’s equality was Henrietta Barnett, who co-founded the charity with her husband Samuel in 1884. Henrietta was a passionate advocate for women’s rights and worked tirelessly to promote gender equality both within the charity and in the wider society."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the early days of Toynbee Hall, women were not permitted to attend public meetings or participate in the charity’s activities. However, Henrietta Barnett was determined to change this, and in 1887 she established the first women’s club at Toynbee Hall. The club provided a safe and welcoming space for women to socialise, learn new skills, and discuss issues of concern."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the years, Toynbee Hall has continued to prioritise women’s equality in its work. In the 1920s, the charity established a women’s welfare centre to provide support and advice to women in the local community. In the 1960s, Toynbee Hall was at the forefront of the women’s liberation movement, hosting talks and events on topics such as contraception, abortion rights, and equal pay."
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, Toynbee Hall continues to champion women’s equality in a variety of ways. The charity runs a number of projects aimed at supporting women in the local community, including a women’s advice service, a domestic violence support service, and a project providing support for women who have experienced homelessness."
+        },
+        {
+          "type": "paragraph",
+          "text": "As we celebrate International Women’s Day and honour Toynbee Hall’s longstanding commitment to women’s equality, we invite you to join us for a thought-provoking and inspiring panel discussion on how we can work together to create a more just and equitable world."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our esteemed panel will be led by Toynbee Hall’s new Chief Executive, Rebecca Sycamore, who will be making history as the charity’s first female Chief Executive. Rebecca will be joined by a group of distinguished speakers, including:",
+          "links": [
+            {
+              "text": "Toynbee Hall’s new Chief Executive, Rebecca Sycamore",
+              "href": "/08/03/2023/we-are-delighted-to-announce-the-appointment-of-rebecca-sycamore-as-our-new-permanent-chief-executive/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "1. P﻿olly Toynbee – Guardian columnist and broadcaster"
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Muna Yassin MBE – CEO of Fair Money Advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Sarah Michael – Pro Bono Lawyer of Allen & Overy"
+        },
+        {
+          "type": "paragraph",
+          "text": "All funds raised from this event will go towards supporting women’s only FLAC (Free Legal Advice Clinic) sessions on Saturdays. This important service provides free legal advice and support to women who may not otherwise have access to legal representation."
+        },
+        {
+          "type": "paragraph",
+          "text": "We hope you’ll join us for what is sure to be a lively and informative discussion, as we come together to celebrate the achievements of women over time, and look towards a brighter, more equitable future."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Book your tickets and join us in person or online."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

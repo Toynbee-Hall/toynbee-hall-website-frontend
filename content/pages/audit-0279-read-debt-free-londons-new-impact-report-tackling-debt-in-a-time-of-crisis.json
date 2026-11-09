@@ -1,0 +1,98 @@
+{
+  "slug": "audit-279-read-debt-free-londons-new-impact-report-tackling-debt-in-a-time-of-crisis",
+  "route": "/23/11/2020/read-debt-free-londons-new-impact-report-tackling-debt-in-a-time-of-crisis/",
+  "title": "Read Debt Free London’s new Impact Report: Tackling debt in a time of crisis",
+  "intro": "The latest Impact Report from Debt Free London, London’s debt advice partnership, reveals the extent of problem debt across London",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/Screenshot-2020-11-21-at-11.27.40.png",
+    "alt": "Debt Free London Impact Report"
+  },
+  "template": "article",
+  "publishedAt": "2020-11-23",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The latest Impact Report from Debt Free London, London’s debt advice partnership, reveals the extent of problem debt across London"
+        },
+        {
+          "type": "paragraph",
+          "text": "On Friday 19th November, Debt Free London launch their latest Impact Report during an online event. The report, Tackling debt in a time of crisis, reveals how Debt Free London has been helping Londoners manage their debt and money problems and highlights the extent in which people across London were struggling with debt prior to pandemic and now face even greater challenges."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before the coronavirus crisis, there were already 1.4 million Londoners facing problem debt, and some boroughs had the highest rates of child poverty anywhere in the country."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now – with the crisis still unfolding – these shocking figures are set to soar. A third of the public sector is furloughed, the arts and hospitality industries are in turmoil, many more people are now reliant on benefit income for the first time, and there are growing fears about the long-term effects of coronavirus on our economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key findings from the report show:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "1.4 million Londoners currently have problem debt",
+            "23,732 people benefited from Debt Free London’s free, expert advice last year",
+            "80% of clients worry about money ‘quite often’ or ‘all the time’",
+            "The most common types of debt we help with remain council tax bills (36.4%), rent arrears (36.2%) and credit or store card loans (29.3%).",
+            "74% of our clients receive some sort of state benefit as part or all of their income",
+            "The vast majority of our clients (87.9%) live in rented accommodation",
+            "92% more clients looking for work or registered unemployed",
+            "200 – 300% more demand predicted for our services in future"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read the report"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the report here"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Watch Friday’s event"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Debt and Money Advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you owe money and need some advice on how to keep your debts under control or manage your money, you can access free, expert debt advice from Debt Free London, London’s debt advice partnership."
+        },
+        {
+          "type": "paragraph",
+          "text": "We offer debt advice to people living or working in London by any of the following ways on weekdays between 10:00-17:00:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Call our freephone 0800 808 5700",
+            "WhatsApp – message on 0800 808 5700",
+            "WebChat – on our website at www.debtfree.london and click on the Chat Now button",
+            "Video Chat – on our website at www.debtfree.london/video, requires a computer or mobile device with a camera and microphone",
+            "Via video kiosk at one of our Digital Access Centres*"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "*As part of a new service to make debt advice available to everyone, we’re offering face-to-face advice in two Digital Access Centres. You can attend one of our centres in person and receive expert help from one of our advisers via a video kiosk. Our Digital Access Centres are at Toynbee Hall and Citizens Advice Islington."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

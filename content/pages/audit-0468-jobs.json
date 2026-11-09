@@ -1,0 +1,29 @@
+{
+  "slug": "audit-468-jobs",
+  "route": "/jobs/",
+  "title": "Jobs",
+  "intro": "",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Casual",
+            "Fixed-term",
+            "Full Time",
+            "Internship",
+            "Part Time",
+            "Permanent",
+            "Temporary",
+            "Volunteer"
+          ]
+        }
+      ]
+    }
+  ]
+}

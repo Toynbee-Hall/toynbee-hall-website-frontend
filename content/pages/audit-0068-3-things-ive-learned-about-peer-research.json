@@ -1,0 +1,102 @@
+{
+  "slug": "audit-68-3-things-ive-learned-about-peer-research",
+  "route": "/07/07/2022/3-things-ive-learned-about-peer-research/",
+  "title": "3 Things I’ve learned about peer research",
+  "intro": "Dr Xia Lin shares what she has learned about peer research as part of Co-Production Week.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/IMG_0850.jpg",
+    "alt": "Peer Research project"
+  },
+  "template": "article",
+  "publishedAt": "2022-07-07",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "By Dr Xia Lin, Head of Research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Five years ago, with lots of unanswered questions in mind, I started with colleagues at Toynbee Hall developing our peer research (Participatory Action Research) approach. Being passionate about using robust evidence to create social change and having worked on a number of academic research projects, I had fundamental questions about using the approach in a community action setting, including how research quality could be well-maintained with peer research, what if the change that peer researchers wanted to see was out of our control to make happen, and how could Participatory Action Research make a difference to social change and communities’ feeling of powerlessness. But I was certain that it was the right approach to explore since “nothing about us can be without us”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Five years on, we are now working with over 240 peer researchers and experts by experience on peer research. Every month, on average we are simultaneously working on 9 peer research projects. Our current portfolio ranges from supporting young people to address the issues around private renting, exploring access to cash across the country, working with the Greater London Authority to inform their adult education plan, and conducting a poverty review with the London Borough of Tower Hamlets. Our peer researchers have informed national conversations around the impact of financial strain on mental health during the COVID-19 crisis, produced podcasts on their work, and led a campaign to keep the £20 Universal Credit uplift. In addition to co-designing solutions, driving public opinion and influencing policymakers, peer researchers are also supported to participate in policy implementation, such as within the Renters Reform Coalition and shaping HM Treasury’s No Interest Loan Scheme pilot. I feel very honoured to be part of the Toynbee Hall team, experiencing the journey of co-production."
+        },
+        {
+          "type": "paragraph",
+          "text": "To look back on my experience, there are three things I have learned:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Learning 1: Learning with an open heart"
+        },
+        {
+          "type": "paragraph",
+          "text": "The most challenging experience I had was about designing research methodology for one of our projects. My colleague and I, both professionally trained academics, proposed to the group of 29 peer researchers that we conduct interviews first, followed by a survey. However, the group wanted a different order. So my first reaction to that was – “we can’t compromise on research quality”. However, being open and learning about the peer researchers’ reasons for their suggestion, including their considerations on research skills, confidence and sampling strategy, challenged my thinking on research quality and developed my understanding beyond the academic considerations."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are lots of unknowns with peer research, and that’s precisely the beauty of it. The key to success that I have learned is to work together with experts by experience as early as possible, and be transparent about our limitations. An example of this is that we have started to co-design funding applications with peer researchers as much as possible before funding is secured. This gives us much more certainty and transparency for working together with communities on a project; this way, peer researcher views help shape the application so that both funder and peer researchers are in alignment on the project scope and aims right from the start."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Learning 2: Don’t forget about learned experience"
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall, many of us had started by thinking of focusing solely on communities’ lived experience and seeing ourselves only as a facilitator. But we quickly realised that lived experience does not represent the full picture – we need both lived and learned experience to co-produce well!"
+        },
+        {
+          "type": "paragraph",
+          "text": "By co-production, we mean all parties working together as collaborators, not only experts by experience, but also researchers, policy workers, and organisations who have the power to make change. Peer researchers clearly told us that they need people with learned experience to work with them to design research, analyse data, develop influencing strategy, and push for change."
+        },
+        {
+          "type": "paragraph",
+          "text": "The need to support peer researchers well means that taking a co-production approach could make Participatory Action Research more challenging to deliver than traditional research. We need to both have strong subject knowledge and methodology expertise, but also ensure that lived experience is at the centre of the work. The need to support peer researchers, not just on research and policy training, but also in terms of their personal development and wellbeing, adds another layer of responsibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regardless of the challenges, co-production is powerful. By using co-production, we can develop better research by reaching people whose voices are rarely heard, developing more effective solutions, and ensuring decision-makers directly collaborate with people who experience the social issue under exploration first-hand."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Learning 3: I’m empowered"
+        },
+        {
+          "type": "paragraph",
+          "text": "I have learned so much from our peer researchers, colleagues and other organisations who are committed to co-production. Rather than saying Participatory Action Research “empowers” communities, I want to share my gratitude for how this approach helps me grow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Participatory Action Research challenges and improves my knowledge on research and policy. One of our peer researchers faced various challenges in conducting research; seeing her increase her confidence and secure a job at a school made my heart sing. Watching peer researchers being interviewed by the BBC and speaking to Member of Parliaments, I felt nothing but pride in what they have achieved and grateful to have been part of their journey."
+        },
+        {
+          "type": "paragraph",
+          "text": "No matter who you are, or where you are at on your own journey of co-production, I want to invite you to join this powerful force. I invite policy makers to reach out to communities, researchers and policy workers to learn from experts by experience and share your expertise, and community members to get involved and guide us. Let’s join this powerful force, let’s work together!"
+        },
+        {
+          "type": "paragraph",
+          "text": "[Note: Toynbee Hall are sharing more learning on peer research later this year, so watch this space.]"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read some of our peer research here.",
+          "links": [
+            {
+              "text": "You can read some of our peer research here.",
+              "href": "/research/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

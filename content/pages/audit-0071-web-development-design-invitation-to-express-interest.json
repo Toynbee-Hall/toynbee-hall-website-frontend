@@ -1,0 +1,151 @@
+{
+  "slug": "audit-71-web-development-design-invitation-to-express-interest",
+  "route": "/07/12/2021/web-development-design-invitation-to-express-interest/",
+  "title": "Web development/Design Invitation to express interest",
+  "intro": "We are looking to commission someone who will consult with local people to gather their ideas and vision for this digital platform and then design and create a dynamic website.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/Toynbee-Logo-–-white-text-01.png",
+    "alt": "TH Logo white text"
+  },
+  "template": "article",
+  "publishedAt": "2021-12-07",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are looking to commission someone who will consult with local people to gather their ideas and vision for this digital platform and then design and create a dynamic website."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Project Purpose"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall are the lead partner in a three-year project to facilitate the delivery of community-led cultural activities in and around the Petticoat Lane market area that celebrate its unique history. We are supporting a community decision making group made up of local people who will collectively design, commission and deliver a vibrant cultural programme of activities rooted in celebrating the layered and cultural heritage of the neighbourhood."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of our delivery of this exciting project there will be an interactive and user-friendly website sharing information, promoting opportunities and activities associated with the Cultural Programme. This will act as a digital community hub for the local communities involved in the project as well as a space to document this exciting project."
+        },
+        {
+          "type": "paragraph",
+          "text": "To facilitate this we are looking to commission someone who will consult with local people to gather their ideas and vision for this digital platform and then design and create a dynamic website for this purpose. They will also train local people how to manage it. The website would require the following functionalities:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1. What’s on diary"
+        },
+        {
+          "type": "paragraph",
+          "text": "A single place where people can see what’s happening at the PLHSHAZ cultural programme (both physical and virtual events) and how they can access them, booking places if necessary. It needs to be instinctive to use for people who aren’t digitally confident. We would welcome any suggestions that minimise admin around this function. We would like visitors to the site to be able to filter events around requirements such as date, time, audience and type of event – so they can find what they are looking for quickly."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2. An interactive space for community members to share information and communicate"
+        },
+        {
+          "type": "paragraph",
+          "text": "A publicly available space on the site where local people can post articles, comments, and participate in polls. This space needs to be bright, engaging and easily accessible."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A portal or space which allows community members to submit ideas and proposals for cultural activity or events which could be submitted as possible commissions for the HAZ cultural programme"
+        },
+        {
+          "type": "paragraph",
+          "text": "This space will need to be accessible but also direct people using it to consider factors such as the objective/justification for their idea, timetables for delivering the event/activity, and necessary budget."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "4. An interactive collage / mood board – to create an ongoing and shifting record of the cultural programme"
+        },
+        {
+          "type": "paragraph",
+          "text": "We would welcome creative ideas about how this functionality could be realised."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MANDATORY DELIVERABLES BY 31st April 2022"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Site built in Squarespace or similar",
+            "UX testing undertaken with target audiences in planning and testing phases (we will recruit for this) and bugs fixed",
+            "4 functionalities live on the site",
+            "How to guides shared with digital manager and other key stakeholders for managing/ maintaining each functionality"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "An online training session (recorded) with key stakeholders to ensure all questions are answered and they are confident to use",
+            "Training session about website design for youth who are undertaking a placement with us"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BUDGET"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our budget for this project is £4750 including VAT, software costs, locally sourced images and all expenses. We are a charitable organisation with limited budgets so we would be happy to hear of any added value that you can provide as part of your proposal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment would be via a freelance contract so you would be responsible for paying your own tax and National Insurance contributions."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TIMESCALE/ EOI PROCCESS"
+        },
+        {
+          "type": "paragraph",
+          "text": "07/12/2021 – Proposal released (individuals/ organisations interested email sam.crosby@toynbeehall.org.uk to receive invitation to Q&A session with community members at Toynbee Hall)"
+        },
+        {
+          "type": "paragraph",
+          "text": "20/12/2021 – 14:00 – During the Q&A session with community members, you will share your visions and values for this project, and answer questions local people may have for you. Local people will share their ideas and thoughts on what they would like to see on the website. We expect you to incorporate this into your EOI. The notes of this meeting will be shared with a wider community group who may have expressed interest in being involved in this process but may not attend. Local people will be paid for this time at LLW and this will be included in your costings."
+        },
+        {
+          "type": "paragraph",
+          "text": "07/01/22 – 9am EOI received. The expression of interest should include: how you are connected to the local area, an example of similar work undertaken on another site, formatted as: The problem you were asked to solve, the work you undertook, and the result. Do include with a link to the website you have designed previously and details of a referee from that work (we will only contact referees with your permission). Please also detail your timetable for delivery and what you will need from us."
+        },
+        {
+          "type": "paragraph",
+          "text": "10/01/22 – Shortlisted developers will be invited for a conversation with the team and a community panel."
+        },
+        {
+          "type": "paragraph",
+          "text": "17/01/22 – successful developer/ designer commissioned"
+        },
+        {
+          "type": "paragraph",
+          "text": "24/01/22 – work begins"
+        },
+        {
+          "type": "paragraph",
+          "text": "The people we work with in the local area tell us they value working alongside people who share their lived experiences. As such we will prioritise applications from people who live in or have a strong connection with Tower Hamlets and are from racialised communities (people of colour). We will also prioritise disabled people, those who identify as LGBTQIA, working class people and migrants."
+        },
+        {
+          "type": "paragraph",
+          "text": "Individuals/ organisations interested email sam.crosby@toynbeehall.org.uk to receive invitation to Q&A session with community members at Toynbee Hall."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

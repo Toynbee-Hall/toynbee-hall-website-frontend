@@ -1,0 +1,50 @@
+{
+  "slug": "audit-380-our-ambition",
+  "route": "/about-us/our-ambition/",
+  "title": "Our Ambition",
+  "intro": "Our strategic ambition Between now and the end of 2026 our ambitions are to: 1. Improve economic security for those affected by poverty, debt, low pay, insecure employment and housing. We will do this through direct support and through work to bring about system change. 2. Help our local community thrive – increasing emotional wellbeing,… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Between now and the end of 2026 our ambitions are to:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Improve economic security for those affected by poverty, debt, low pay, insecure employment and housing. We will do this through direct support and through work to bring about system change."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Help our local community thrive – increasing emotional wellbeing, optimism, economic security in key groups. We will also focus on how we come together despite differences and celebrating."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Collaborate to drive social change in a way that gives a platform to the ideas and solutions of people with lived experience."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Ensure that addressing systemic inequality and racial discrimination is a priority across our work and our organisation."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Read our 2022/23 Annual Report"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our e-newsletter to stay up to date with our work"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

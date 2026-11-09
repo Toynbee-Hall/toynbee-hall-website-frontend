@@ -1,0 +1,39 @@
+{
+  "slug": "audit-602-film-club",
+  "route": "/whats-on/film-club/",
+  "title": "Film Club",
+  "intro": "Join the weekly Film Club at the Community Centre.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/10/cinema-g27362e961_640.jpg",
+    "alt": "Film Club — Toynbee Hall"
+  },
+  "template": "event",
+  "dateLabel": "Fridays (weekly)",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "For further information:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 0203 856 9721 or 07943 277512"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "timeLabel": "2pm to 4pm",
+  "venue": "Community Centre, 28 Commercial Street, E1 6LS"
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "audit-412-how-to-find-us",
+  "route": "/contact-us/how-to-find-us/",
+  "title": "How to find us",
+  "intro": "All of our operations are based at: 28 Commercial Street, London, E1 6LS Toynbee Hall is just a two minute walk from Aldgate East tube station and bus stop or a 10 minute walk from Liverpool Street Station. Get in touch Address 28 Commercial Street, London, E1 6LS Phone 020 7247… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "All of our operations are based at: 28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall is just a two minute walk from Aldgate East tube station and bus stop or a 10 minute walk from Liverpool Street Station."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Get in touch"
+        },
+        {
+          "type": "paragraph",
+          "text": "Address"
+        },
+        {
+          "type": "paragraph",
+          "text": "28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phone"
+        },
+        {
+          "type": "paragraph",
+          "text": "020 7247 6943"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email"
+        },
+        {
+          "type": "paragraph",
+          "text": "Follow us"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to reach Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "This guidance has been put together by members of Toynbee Hall’s Community Centre, who want everyone to be able to easily travel to Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "We want this information to be useful for people who, like us, may use a wheelchair, need step-free travel options or cannot walk very far. We hope this guidance helps you reach us."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/10/cropped-Transport-group.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Transport-group.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Bus"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are a number of bus stops within 0.5 miles of Toynbee Hall, including Aldgate East (0.1 miles), Lolesworth Close (0.1 miles), St Boltoph Street (0.3 miles), and Altab Ali Park (0.3 miles). If you get off at Aldgate East, please be aware that there is a wide, busy crossing."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Underground"
+        },
+        {
+          "type": "paragraph",
+          "text": "The nearest underground stations are Aldgate East (0.1 miles), Aldgate (0.3 miles), Liverpool Street (0.4 miles) and Whitechapel (0.7 miles)."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Overground"
+        },
+        {
+          "type": "paragraph",
+          "text": "Shoreditch High Street (0.5 miles) is our nearest overground station and has a lift from the platform to ground level."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DLR"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our nearest DLRs are all fully accessible, including Tower Gateway (0.5 miles) and Shadwell (0.9 miles). All DLR stations have lift or ramp access to the platforms and relatively level access to the trains."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Step-free access"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unfortunately none of these underground stations have a lift from platform to ground level, except Liverpool Street. At Liverpool Street, a lift provides step-free access to the eastbound (Metropolitan, Circle, H&C) platform at Liverpool Street station."
+        },
+        {
+          "type": "paragraph",
+          "text": "﻿There is no lift to the westbound platform. If you need help to plan an accessible travel route, you can find more information here.",
+          "links": [
+            {
+              "text": "here.",
+              "href": "https://tfl.gov.uk/plan-a-journey"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please note, it’s easy to confuse Aldgate Station and Aldgate East Station. These are two different stations. Aldgate East is much closer! Also, Toynbee Hall is on Commercial Street, not Commercial Road."
+        }
+      ]
+    }
+  ]
+}

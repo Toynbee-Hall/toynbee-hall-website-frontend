@@ -1,0 +1,95 @@
+{
+  "slug": "audit-155-london-challenge-poverty-week-income-employment-benefits-debt",
+  "route": "/15/10/2019/london-challenge-poverty-week-income-employment-benefits-debt/",
+  "title": "London Challenge Poverty Week: Income (Employment, Benefits, Debt)",
+  "intro": "For London Challenge Poverty week, we’re providing a platform for a range of people to share their experiences and give their perspectives on poverty, and on how we could make London fairer for everyone. Throughout the week we will be sharing the views of people in Tower Hamlets who are facing different challenges, and sharing… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/10/iStock_000087314921_Full.jpg",
+    "alt": "London Challenge Poverty Week - Income blog"
+  },
+  "template": "article",
+  "publishedAt": "2019-10-15",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For London Challenge Poverty week, we’re providing a platform for a range of people to share their experiences and give their perspectives on poverty, and on how we could make London fairer for everyone."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Throughout the week we will be sharing the views of people in Tower Hamlets who are facing different challenges, and sharing their views on employment support, the social security system, health, housing and the experience of children and families."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "People on low incomes face huge barriers – but they also have ideas and solutions for how things could – and should – be made better. We hope you enjoy hearing from them and will give your backing for their ideas."
+        },
+        {
+          "type": "paragraph",
+          "text": "The welfare system was created to provide a safety net for all of us. But it’s forcing people to go without essentials and into problem debt. We agree that there should be a more compassionate welfare system that supports for people to move into decent jobs."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kiran"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“I had a job, I was good at typing and got really quick at it. I was working with a disability charity, doing audits and went out and visited services. But I got ill.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kiran volunteers at Toynbee Hall, and wants to get back into work."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“I wish there were more makeup courses for free, if I was good at it, I’d like to do it for the catwalk. But I have mental health issues so I would need an employer who understands.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kiran has experienced first-hand the financial difficulties caused by the welfare reforms implemented since 2016, including the ‘benefits freeze’, which has frozen benefits at the same level for three years. Food prices and energy bills have risen in line with inflation, but welfare benefits have not."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“Besides, benefits isn’t enough to live on, people are better off in a job. People can’t afford washing machines, hair products, how can you be presentable on benefits?”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Funding for courses is a big issue. I really want to do a makeup course, but if you don’t have parents to fund you it’s difficult. They should give you extra money if you’re doing a course – how can I afford transport, lunch? You need qualifications.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kiran is calling for welfare benefits to be set at a level which realistically meet people’s basic needs, and for sanctions to be stopped. She is asking for more training opportunities, and the chance to work for employers who can support people with disabilities."
+        },
+        {
+          "type": "paragraph",
+          "text": "*All names have been changed to maintain confidentiality."
+        },
+        {
+          "type": "paragraph",
+          "text": "There’s a range of events taking place this week where people across the capital are coming together to push for action on poverty, including at our ‘Designing principles together: Co-producing solutions to poverty’ event on Friday. Find out more.",
+          "links": [
+            {
+              "text": "Find out more.",
+              "href": "https://www.eventbrite.co.uk/o/toynbee-hall-17664779902"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you or anyone you know is struggling with any problems such as debt and money, housing or employment, we can help. Visit our advice pages for more details."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

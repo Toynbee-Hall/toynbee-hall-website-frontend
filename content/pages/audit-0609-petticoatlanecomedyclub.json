@@ -1,0 +1,99 @@
+{
+  "slug": "audit-609-petticoatlanecomedyclub",
+  "route": "/whats-on/petticoatlanecomedyclub/",
+  "title": "Petticoat Lane Comedy Club presents... A Night of Improvised Comedy - Toynbee Hall",
+  "intro": "Featuring two stars of the Camden Fringe: Kerfuffle (comedic games and scenes), and AdLibretto (improvised Petticoat Lane The Musical). Tuesday, 24 October 2023 20:00 – 22:00 Streets of Growth, 6 Middlesex Street, London, E1 7EX Petticoat Lane Comedy Club brings you two of the stars of the Camden Fringe: Kerfuffle is one of London’s top short form… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/09/Petticoat-Lane-Comedy-Poster.jpg",
+    "alt": "Petticoat Lane Comedy Club presents... A Night of Improvised Comedy - Toynbee Hall — Toynbee Hall"
+  },
+  "template": "event",
+  "dateLabel": "Tuesday, 24 October 2023",
+  "timeLabel": "20:00 – 22:00",
+  "venue": "Streets of Growth, 6 Middlesex Street, London, E1 7EX",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Petticoat Lane Comedy Club presents… A Night of Improvised Comedy"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/09/Petticoat-Lane-Comedy-Poster.jpg",
+            "alt": "Petticoat Lane Comedy Club presents ... a night of improvised comedy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Tuesday, 24 October 2023"
+        },
+        {
+          "type": "paragraph",
+          "text": "20:00 – 22:00"
+        },
+        {
+          "type": "paragraph",
+          "text": "Streets of Growth, 6 Middlesex Street, London, E1 7EX",
+          "links": [
+            {
+              "text": "Streets of Growth, 6 Middlesex Street, London, E1 7EX",
+              "href": "https://maps.app.goo.gl/PkAvaCdLhqjmcgit8"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Petticoat Lane Comedy Club brings you two of the stars of the Camden Fringe:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kerfuffle is one of London’s top short form impro teams, serving generous dollops of fun from your suggestions.",
+          "links": [
+            {
+              "text": "Kerfuffle",
+              "href": "https://www.instagram.com/kerfuffleimprov/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A﻿dLibretto creates original musicals from the life and childhood dreams of a member of the audience. Tonight’s show will have an unusual twist, as it will incorporate some of the character of historic Petticoat Lane.",
+          "links": [
+            {
+              "text": "A﻿dLibretto",
+              "href": "https://adlibretto.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "T﻿ickets are £10 (full price), £5 (concessions) or free to those who work or live within Tower Hamlets, thanks to the generous support of Toynbee Hall’s A People’s History of Petticoat Lane festival, which has been running throughout 2023.",
+          "links": [
+            {
+              "text": "A People’s History of Petticoat Lane",
+              "href": "/celebratingpetticoatlane/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the club’s debut in the Streets of Growth Theatre at Hayloft Point, site of the historic Boar’s Head Theatre.",
+          "links": [
+            {
+              "text": "Streets of Growth",
+              "href": "http://www.streetsofgrowth.org/"
+            },
+            {
+              "text": "Boar’s Head Theatre",
+              "href": "https://en.wikipedia.org/wiki/Boar%27s_Head_Theatre"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

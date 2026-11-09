@@ -1,0 +1,9 @@
+{
+  "slug": "audit-618-wws-test-page",
+  "route": "/wws-test-page/",
+  "title": "WWS Test page",
+  "intro": "",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

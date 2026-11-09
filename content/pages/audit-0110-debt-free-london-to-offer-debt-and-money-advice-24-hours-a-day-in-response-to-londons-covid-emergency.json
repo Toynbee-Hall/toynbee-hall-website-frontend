@@ -1,0 +1,115 @@
+{
+  "slug": "audit-110-debt-free-london-to-offer-debt-and-money-advice-24-hours-a-day-in-response-to-londons-covid-emergency",
+  "route": "/11/01/2021/debt-free-london-to-offer-debt-and-money-advice-24-hours-a-day-in-response-to-londons-covid-emergency/",
+  "title": "Debt Free London to offer debt and money advice 24 hours a day in response to London’s COVID emergency",
+  "intro": "In response to the unfolding crisis around personal finances Debt Free London is expanding its free debt advice service to operate 24 hours a day throughout January.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/01/DFL-247-news-header.jpg",
+    "alt": "Debt Free London to offer 24/7 debt advice during January"
+  },
+  "template": "article",
+  "publishedAt": "2021-01-11",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "In response to the unfolding crisis around personal finances Debt Free London is expanding its free debt advice service to operate 24 hours a day throughout January."
+        },
+        {
+          "type": "paragraph",
+          "text": "A growing number of Londoners face problem debt and financial insecurity due to the economic impact of the coronavirus pandemic. Until the end of the month, Londoners will be able to contact Debt Free London night or day for support and advice with all types of money worries – from rent and council tax arrears, to credit card and catalogue debt."
+        },
+        {
+          "type": "paragraph",
+          "text": "The access our free advice:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Call on 0800 808 5700",
+            "Start a video advice session online at www.debtfree.london/video",
+            "WhatsApp message on 0800 808 5700",
+            "Start a live web chat online at www.debtfree.london"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "January is typically the busiest time for debt advice providers. There is growing concern that as incomes fall due to the pandemic and living costs continue to rise a greater number of people than usual will require advice and support. Debt Free London has recently recruited 70 new advisers to provide debt advice to support with the increased demand."
+        },
+        {
+          "type": "paragraph",
+          "text": "The expansion of the helpline supports national research that highlights one in three people (34%) have had to use some form of debt to get by since March 2020. Additionally, more than one in ten people (12%) have resorted to missing a bill or debt repayment since March. Before the pandemic only 3% of people were falling behind with credit payments.",
+          "links": [
+            {
+              "text": "national research",
+              "href": "https://www.turn2us.org.uk/About-Us/Media-Centre/Press-releases-and-comments/Pandemic-plunges-18-million-Brits-into-debt"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Alongside the telephone service, Londoners can access trusted debt advice by email, WhatsApp, live web chat, video chat and video kiosks for those without access to digital technology. More than 92% of Debt Free London clients are looking for work or registered unemployed, and 24% are families in rent arrears.",
+          "links": [
+            {
+              "text": "More than 92% of Debt Free London clients are looking for work or registered unemployed, and 24% are families in rent arrears",
+              "href": "/23/11/2020/read-debt-free-londons-new-impact-report-tackling-debt-in-a-time-of-crisis/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Those who are in debt or in personal difficulty are more likely to be at risk of poor mental health and experience suicidal ideation than people who have no debt. The expansion of the debt service is being supported by Thrive LDN, the citywide movement to support the wellbeing of all Londoners."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Mayor of London, Sadiq Khan, said: “The coronavirus crisis has wreaked havoc on our nation’s economy and hit the personal finances of some of the most vulnerable people in our city hardest."
+        },
+        {
+          "type": "paragraph",
+          "text": "“With many households already juggling work, remote learning and caring responsibilities, concerns about debt are yet another heavy burden."
+        },
+        {
+          "type": "paragraph",
+          "text": "“That is why I’m pleased that Debt Free London and Thrive LDN will offer guidance around the clock to ensure struggling Londoners can get free support whenever they need it.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield, Head of Debt Free London, said: “Each year we see that people’s finances are hardest hit in January due to recovering from festive spending, delays in benefit payments, the longer wait between pay checks, as well increased energy costs. This can force people to go without essentials or push them towards short-term high cost borrowing just to avoid falling behind on their bills, rent or council tax."
+        },
+        {
+          "type": "paragraph",
+          "text": "“This year, as we find ourselves facing a COVID emergency, January could be worse than ever for families struggling to make ends meet, especially those who’s income has been affected by the pandemic. We are pleased to be working with Thrive LDN to be able to offer our free expert debt advice 24 hours a day, to help as many Londoners as possible stay afloat this January.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Welcoming the initiative from Debt Free London, Caroline Siarkiewicz, CEO of the Money and Pensions Service, said: “As a supporter and funder of Debt Free London and of debt provision throughout England, we welcome their excellent initiative to provide a 24/7 service to everyone in London during this period. The demand for help will understandably increase not only in the short-term following Christmas but in the months to come due to the on-going impact of the pandemic on people’s lives, income and jobs."
+        },
+        {
+          "type": "paragraph",
+          "text": "“It’s essential that access to debt advice and help is available to as many people as possible, and additional funding is enabling us to make sure there are more debt advisers available to help people regain control of their finances. Our Money Navigator tool can help anyone whose financial situation has changed find the support and guidance available to them, or to find a debt advice provider local to them if they’re based outside London.”",
+          "links": [
+            {
+              "text": "Money Navigator tool",
+              "href": "https://www.moneyadviceservice.org.uk/en/tools/money-navigator-tool"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information about Debt Free London and their free, expert advice services, visit www.debtfree.london.",
+          "links": [
+            {
+              "text": "www.debtfree.london",
+              "href": "http://www.debtfree.london"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

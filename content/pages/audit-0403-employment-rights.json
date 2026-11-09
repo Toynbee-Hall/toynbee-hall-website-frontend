@@ -1,0 +1,150 @@
+{
+  "slug": "audit-403-employment-rights",
+  "route": "/cityadvice/employment-rights/",
+  "title": "Employment rights",
+  "intro": "When you work you sometimes have to deal with difficult situations or issues. Knowing your rights at work can help you to deal with the problems and issues you may face.City Advice can help you with your rights on work related issues, including redundancy, dismissals and any form of discrimination if you live,… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "When you work you sometimes have to deal with difficult situations or issues. Knowing your rights at work can help you to deal with the problems and issues you may face."
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice can help you with your rights on work related issues, including redundancy, dismissals and any form of discrimination if you live, work or study in the City of London. We can help with:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Redundancy and dismissal • Contracts and working hours • Workplace pensions • Holidays, time off, sick leave, maternity and paternity leave • Discrimination in the workplace"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Call the Advice Line: 020 7392 2919 (Mon-Fri, 10am – 4pm), or email city.advice@toynbeehall.org.uk."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Or you can complete the online form below and someone will get back to you."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ACAS website has a range of information, advice and other services devoted to preventing and resolving employment disputes. The Direct Gov website has a section on working, jobs and pensions related services.",
+          "links": [
+            {
+              "text": "Direct Gov website",
+              "href": "https://www.gov.uk/browse/working"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/cropped-cropped-City-Advice-online-logo-15.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-cropped-City-Advice-online-logo-15.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice is a free advice service exclusively for people who live work or study in the City of London* or live in a City of London Estate and can help with a range of issues."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/toynebee-6-scaled.jpg",
+            "alt": "A City Advice session taking place with advisor and client say by a desk",
+            "caption": "toynebee-6"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Complete the online form"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Fill out this form and one of our advisors will get back to you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Name (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phone Number (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This service is only available to people who live, work or study in the City of London Square Mile* or are tenants of the Corporation of London. Please tick the boxes that apply: (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "I live in the City of LondonI work in the City of LondonI study in the City of LondonI am a tenant of the Corporation of London"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is your home postcode?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If working, what is the postcode of your workplace?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If studying, what is the postcode of your college/university?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Summary of query/concern"
+        },
+        {
+          "type": "paragraph",
+          "text": "*The City of London Square Mile refers to the small specific area traditionally known as the ‘Square Mile’ or ‘The City’. See the map below to see if you live, work or study in the City of London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check this map to see if you’re eligible for this service.",
+          "links": [
+            {
+              "text": "Check this map to see if you’re eligible for this service.",
+              "href": "https://www.google.co.uk/maps/place/City+of+London,+London/@51.5150422,-0.1107947,14z/data=!3m1!4b1!4m5!3m4!1s0x487603554edf855f:0xa1185c8d19184c0!8m2!3d51.5123443!4d-0.0909852"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall will hold your details in accordance with the Data Protection Act. From time to time we may contact you with news about Toynbee Hall. If you would prefer not to be contacted in this way, please tick this box."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How we’ve helped others with their employment rights issues"
+        },
+        {
+          "type": "paragraph",
+          "text": "I emailed City Advice for help about a dispute with my employer over statutory sick pay. I became ill due to complications with my pregnancy but my employer refused to pay me for any sick days as I hadn’t told them I was pregnant. I didn’t know what my rights were but thankfully City Advice were able to explain my entitlements and they also helped me to draft a letter to my employer. It worked, my employer paid me all my statutory sick pay which was such a relief.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice client"
+        }
+      ]
+    }
+  ]
+}

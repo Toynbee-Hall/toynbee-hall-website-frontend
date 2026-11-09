@@ -1,0 +1,85 @@
+{
+  "slug": "audit-234-toynbee-hall-to-become-pop-up-vaccination-centre-from-21st-25th-july",
+  "route": "/20/07/2021/toynbee-hall-to-become-pop-up-vaccination-centre-from-21st-25th-july/",
+  "title": "Toynbee Hall to become pop-up vaccination centre from 21st – 25th July",
+  "intro": "You can book an appointment online or just turn up between Wednesday 21st and Sunday 25th July",
+  "template": "article",
+  "publishedAt": "2021-07-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can book an appointment online or just turn up for your vaccination between Wednesday 21st and Sunday 25th July"
+        },
+        {
+          "type": "paragraph",
+          "text": "Throughout the pandemic we have done our best to use all of our assets to support people, and create platforms for them, as well as doing what we could to tackle the direct impacts of Covid. Over the coming days, we are continuing these efforts, by using our historic halls to host a pop-up vaccination centre, run by colleagues from Tower Hamlets Council and the NHS, to offer as many people as possible – whatever their circumstances – the chance to get their first or second jabs, here within the community."
+        },
+        {
+          "type": "paragraph",
+          "text": "The centre will be open 21st to 25th July into the evenings from Wednesday to Friday, and all day Saturday and Sunday. You can book an appointment online or just turn up. Further details about Toynbee Hall and other vaccination centres can be found here.",
+          "links": [
+            {
+              "text": "Further details about Toynbee Hall and other vaccination centres can be found here",
+              "href": "https://www.towerhamlets.gov.uk/lgnl/health__social_care/health_and_medical_advice/Coronavirus/Covid-19-vaccines.aspx"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Toynbee Hall pop-up vaccination centre will be open on:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Wednesday 21 July – 3pm to 9pm",
+            "Thursday 22 July – 3pm to 9pm",
+            "Friday 23 July – 3pm to 9pm",
+            "Saturday 24 July – 11am to 5pm",
+            "Sunday 25 July – 11am to 5pm"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Address: Toynbee Hall, 28 Commercial Street, London E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is available to anyone due their first Covid-19 vaccine – anyone aged 18 and over."
+        },
+        {
+          "type": "paragraph",
+          "text": "Or anyone who had their first Pfizer jab 8 weeks ago and who needs their second dose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anyone eligible can just turn up; a booking is not needed. You do not need ID or be registered with a GP to get your vaccine. No questions will be asked."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appointments can be booked using the council’s online booking system or by calling the council helpline on 020 7364 3030.",
+          "links": [
+            {
+              "text": "online booking system",
+              "href": "https://www.towerhamlets.gov.uk/vaccination"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’re coming for your second jab, please make sure it is at least 8 weeks since your first Pfizer jab."
+        },
+        {
+          "type": "paragraph",
+          "text": "The clinic will only give Pfizer vaccines."
+        }
+      ]
+    }
+  ],
+  "category": "Uncategorized"
+}

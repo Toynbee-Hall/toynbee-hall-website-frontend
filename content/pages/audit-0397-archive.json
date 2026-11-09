@@ -1,0 +1,21 @@
+{
+  "template": "listing",
+  "slug": "audit-397-archive",
+  "route": "/category/public-post/",
+  "title": "Category: Public Post",
+  "intro": "Browse public post from Toynbee Hall.",
+  "listingType": "category",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "Celebrating 140 Years of Toynbee Hall: a legacy of Empowerment and Community",
+      "href": "/23/12/2024/celebrating-140-years-of-toynbee-hall-a-legacy-of-empowerment-and-community/",
+      "summary": "Toynbee Hall recently marked a momentous milestone, its 140th anniversary. Supporters, beneficiaries and local friends gathered to celebrate and reflect on our enduring mission to break down barriers and empower communities.",
+      "date": "2024-12-23",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/12/63-1Y7A9165-2.jpg",
+        "alt": "Celebrating 140 Years of Toynbee Hall: a legacy of Empowerment and Community — Toynbee Hall"
+      }
+    }
+  ]
+}

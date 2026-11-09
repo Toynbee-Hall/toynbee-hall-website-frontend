@@ -1,0 +1,43 @@
+{
+  "slug": "audit-598-bingo",
+  "route": "/whats-on/bingo/",
+  "title": "Bingo with Michael",
+  "intro": "Come and join our friendly and welcoming group, led by Michael, for a fun and lively game of Bingo! Open to all (18+)",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/Michael-and-Nasrat-2025-BINGO-e1737981941503.jpg",
+    "alt": "Bingo with Michael — Toynbee Hall"
+  },
+  "template": "event",
+  "dateLabel": "Mondays (weekly)",
+  "timeLabel": "12:30pm to 1:30pm",
+  "venue": "Community Centre",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Mondays (weekly) 12:30pm – 1.30pm Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 0203 856 9721 or 07943 277512"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "audit-551-thank-you",
+  "route": "/thank-you/",
+  "title": "Thank You",
+  "intro": "",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

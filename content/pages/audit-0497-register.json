@@ -1,0 +1,9 @@
+{
+  "slug": "audit-497-register",
+  "route": "/register/",
+  "title": "Register",
+  "intro": "[ultimatemember form_id=927]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

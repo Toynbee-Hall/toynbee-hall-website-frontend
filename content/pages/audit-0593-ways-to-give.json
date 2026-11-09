@@ -1,0 +1,47 @@
+{
+  "slug": "audit-593-ways-to-give",
+  "route": "/ways-to-give/",
+  "title": "Ways to give",
+  "intro": "Ways to Donate However you choose to give, we are incredibly grateful for your support. In giving towards our work you’re helping empower people in the East End to build a fairer and happier society. Donate onlineYou can donate now online, or use one of the options below to get your gift to us.Donate here… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "However you choose to give, we are incredibly grateful for your support. In giving towards our work you’re helping empower people in the East End to build a fairer and happier society."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Donate online"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can donate now online, or use one of the options below to get your gift to us."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Give by post"
+        },
+        {
+          "type": "paragraph",
+          "text": "Just send your donation (cheque or CAF Voucher) to: The Fundraising Team, Toynbee Hall, 28 Commercial Street, London E1 6LS. Please make sure you include a covering note with your details, so we can acknowledge your donation and say thank you."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Donate via bank transfer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Just email or call us to find out how to make a bank transfer to Toynbee Hall or set up a regular Standing Order or Direct Debit: fundraising@toynbeehall.org.uk or 020 7392 2970."
+        }
+      ]
+    }
+  ]
+}

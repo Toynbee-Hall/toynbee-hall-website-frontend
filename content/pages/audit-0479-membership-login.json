@@ -1,0 +1,9 @@
+{
+  "slug": "audit-479-membership-login",
+  "route": "/membership-login/",
+  "title": "Member Login",
+  "intro": "[swpm_login_form]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

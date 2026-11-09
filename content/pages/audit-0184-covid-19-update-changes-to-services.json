@@ -1,0 +1,30 @@
+{
+  "slug": "audit-184-covid-19-update-changes-to-services",
+  "route": "/17/03/2020/covid-19-update-changes-to-services/",
+  "title": "Update: Changes to Services",
+  "intro": "We’re unable to offer face-to-face advice at the moment but our services are still operating. Please do get in touch via email or phone and we will do our best to help: Call: 020 7392 2953 Email: advice@toynbeehall.org.uk",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/02/IMG_4850.jpg",
+    "alt": "Toynbee Hall garden space"
+  },
+  "template": "article",
+  "publishedAt": "2020-03-17",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We’re unable to offer face-to-face advice at the moment but our services are still operating. Please do get in touch via email or phone and we will do our best to help:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Call: 020 7392 2953 Email: advice@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

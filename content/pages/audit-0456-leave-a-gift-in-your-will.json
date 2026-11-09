@@ -1,0 +1,90 @@
+{
+  "slug": "audit-456-leave-a-gift-in-your-will",
+  "route": "/get-involved/support-us/leave-a-gift-in-your-will/",
+  "title": "Leave a gift in your will",
+  "intro": "Leave your mark for the next 140 years and give people living in the East End an equal chance to thrive A gift in your will can help somebody living in the East End escape the cycle of poverty. Every day, more and more people in Tower Hamlets are… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Leave your mark for the next 140 years and give people living in the East End an equal chance to thrive"
+        },
+        {
+          "type": "paragraph",
+          "text": "A gift in your will can help somebody living in the East End escape the cycle of poverty. Every day, more and more people in Tower Hamlets are finding it difficult to cope with the pressures of debt and legal troubles. These pressures affect the wellbeing of those directly invovled as well as the wider community. A gift in your will can give the next generation a better future. To find out more, you can download our legacy pack or get in touch with with out Fundraising team. fundraising@toynbeehall.org.uk or call 020 7392 2949."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download our legacy pack"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/cropped-Toynbee-Hall-Open-House-2014-by-Jeremy-Freedman-2014-_100-e1529417904353-3.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Toynbee-Hall-Open-House-2014-by-Jeremy-Freedman-2014-_100-e1529417904353-1.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Frequently asked questions"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Leaving a gift in your will is an investment in an ever changing community."
+        },
+        {
+          "type": "paragraph",
+          "text": "One day, your gift could provide more older people with hot lunches, equip more young people with essential communication and confidence skills, help more migrant women develop their English language skills increasing their chances of employment and give more people access to free legal and financial advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please see the sections on “Preparing your will” and “Wording for your will” in our free legacy pack. If you would like to notify us about your decision to leave a gift in your will, please complete the pledge notification form.",
+          "links": [
+            {
+              "text": "pledge notification form",
+              "href": "https://www.toynbeehall.org.uk/Legacy_Pledge_Notification_Form.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To update your will and add a gift to Toynbee Hall, you simply need to complete this codicil form and attach it with your will. This will ensure your wishes are followed.",
+          "links": [
+            {
+              "text": "codicil form",
+              "href": "https://www.toynbeehall.org.uk/Codicil_Form.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As a registered charity, Toynbee Hall is exempt from Inheritance Tax, Capital Gains Tax and some aspects of Income Tax. These exemptions are all applicable to legacy donations. Please see the government guidelines for more information.",
+          "links": [
+            {
+              "text": "government guidelines for more information",
+              "href": "https://www.gov.uk/inheritance-tax"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A residuary gift is a share of the balance of your estate once all other payments have been made. For example, you could pledge 1% of your estate to Toynbee Hall. A pecunicary gift is a fixed sum of money that does not change. A specific gift is an item such as personal possessions, land, buildings or shares. For example, you could pledge a painting to Toynbee Hall."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Leaving a gift in your will is an investment in an ever changing community."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "audit-511-hospitality-connect",
+  "route": "/research/hospitality-connect/",
+  "title": "Hospitality Connect",
+  "intro": "The role of local hospitality businesses in connecting lives and building communitiesLoneliness has been identified as a major issue among older adults in the UK, affecting an estimated 1.4 million in the UK. In collaboration with the University of Surrey, as part of the UKRI’s Health Ageing Challenge, Toynbee Hall supported a group of… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/cropped-Pandemic-Stories-cover-image.jpg",
+    "alt": "Pandemic Stories Full Findings"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The role of local hospitality businesses in connecting lives and building communities"
+        },
+        {
+          "type": "paragraph",
+          "text": "Loneliness has been identified as a major issue among older adults in the UK, affecting an estimated 1.4 million in the UK. In collaboration with the University of Surrey, as part of the UKRI’s Health Ageing Challenge, Toynbee Hall supported a group of peer researchers aged 60+ to conduct PAR to explore how cafes and pubs can play an influential role as third spaces in supporting social connections for older people within communities. Peer researchers worked with community members, hospitality professionals, policy makers, and local business owners to co-design a toolkit for age-inclusive venues. Currently over the course of 2025 our peer researchers will be continuing their work with the University of Surrey on a follow up evaluation of the toolkit.",
+          "links": [
+            {
+              "text": "University of Surrey",
+              "href": "https://www.surrey.ac.uk/research-projects/hospitality-connect-role-local-hospitality-businesses-connecting-lives-and-building-communities"
+            },
+            {
+              "text": "UKRI’s Health Ageing Challenge",
+              "href": "https://www.ageing-sbdrp.co.uk"
+            },
+            {
+              "text": "follow up evaluation of the toolkit",
+              "href": "https://www.surrey.ac.uk/research-projects/age-inclusive-hospitality-aih"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/toolkit-for-age-inclusive-hospitality-venues-1-images-0-scaled.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Pandemic-Stories-003_Page_01.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Toolkit"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Project Report"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Watch our short film"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Hospitality Connect: A short film"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

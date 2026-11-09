@@ -1,0 +1,58 @@
+{
+  "slug": "audit-262-the-cost-of-living-crisis-deepens-as-high-interest-rates-and-inflation-continue-to-bite",
+  "route": "/22/06/2023/the-cost-of-living-crisis-deepens-as-high-interest-rates-and-inflation-continue-to-bite/",
+  "title": "The cost of living crisis deepens as high interest rates and inflation continue to bite",
+  "intro": "The recent hike in interest rates and consistently high inflation leave many people struggling to cope…",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/shutterstock-couple-in-kitchen.jpg",
+    "alt": "Couple in the kitchen, working out their finances"
+  },
+  "template": "article",
+  "publishedAt": "2023-06-22",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "The recent hike in interest rates and consistently high inflation could leave many people struggling to cope. The Bank of England has raised interest rates to 5%, increasing mortgage and renting costs. While inflation still stands at 8.7%, putting more squeeze on household budgets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mortgage rates have now risen significantly and people on tracker or variable deals are paying much more than a year ago. With UK interest rates at 5%, those on a typical tracker mortgage would pay about £47 more a month. Those on standard variable rate mortgages would face a £30 jump."
+        },
+        {
+          "type": "paragraph",
+          "text": "Around 1.5 million homeowners coming to the end of a fixed deal this year also face moving to a much higher monthly bill. The average rate on a two-year fixed rate deal has risen over 6%, while longer-term fixed rate deals also become more expensive, with the average five-year fixed rate rising to 5.67%."
+        },
+        {
+          "type": "paragraph",
+          "text": "Private renters are also affected, with rents growing faster than wages in the UK for nearly two years. Part of the increases is due to the painful knock on from the landlords’ high borrowing costs and the rising pace in energy and food prices."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Millions of households are now facing financial hardship as the rising cost of living and interest rates combine to squeeze their budgets. Homeowners and renters alike will be forced to make tough choices about how to spend their money."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the cost-of-living crisis deepens, more and more people will be at risk of falling into problem debt. We had a 48% increase of contacts to our service this year with 40% of clients need help with rent arrears. These numbers are alarming, so our support is needed more than ever”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield | Managing Director of Advice Services, Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free Advice is open 7 days a week, from 8am to 8pm for anyone needing help with their money worries in this challenging times. Call or send a WhatsApp message at 0800 808 5700. The service is also available through video chat, web chat and face to face in their advice centres across London. Their expert advisors are always ready to give free, impartial advice for the best solutions available.",
+          "links": [
+            {
+              "text": "Debt Free Advice",
+              "href": "https://debtfreeadvice.com/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

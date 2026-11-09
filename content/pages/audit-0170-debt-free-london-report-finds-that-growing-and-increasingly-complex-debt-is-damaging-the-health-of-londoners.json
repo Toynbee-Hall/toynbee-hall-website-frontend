@@ -1,0 +1,64 @@
+{
+  "slug": "audit-170-debt-free-london-report-finds-that-growing-and-increasingly-complex-debt-is-damaging-the-health-of-londoners",
+  "route": "/16/07/2019/debt-free-london-report-finds-that-growing-and-increasingly-complex-debt-is-damaging-the-health-of-londoners/",
+  "title": "Debt Free London report finds that growing and increasingly complex debt is damaging the health of Londoners",
+  "intro": "Debt Free London, a partnership of 26 advice charities across London led by Toynbee Hall, launches a new report on Tuesday 16th July which highlights the extent of problem debt in London and the issues that they are dealing with most frequently. Read the full Working for a Debt Free London report here The report… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/07/Working-for-a-Debt-Free-London-Report-Cover-News-story-1.png",
+    "alt": "Working for a Debt Free London Report Cover - News story"
+  },
+  "template": "article",
+  "publishedAt": "2019-07-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Debt Free London, a partnership of 26 advice charities across London led by Toynbee Hall, launches a new report on Tuesday 16th July which highlights the extent of problem debt in London and the issues that they are dealing with most frequently."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read the full Working for a Debt Free London report here"
+        },
+        {
+          "type": "paragraph",
+          "text": "The report shows that 90% of the 25,000 Londoners helped by Debt Free London last year said that their debt has negatively affected their health. Cases are rising in complexity, leading people to get further into difficulty, increasing the people’s need for more assistance to understand their options, and leading to widespread anxiety and stress."
+        },
+        {
+          "type": "paragraph",
+          "text": "Across its 26 partners which include law centres, community organisations, charities and advice providers, Debt Free London helped over 25,000 people last year and saw demand for advice reach record levels as the number of over-indebted people in London reached an estimated 1.6 million."
+        },
+        {
+          "type": "paragraph",
+          "text": "Another cause for major concern is that the two most common issues people came to the partnership to seek help for last year were Council Tax and rent arrears, which are both priority debts. Over a third (34%) of respondents are behind on these."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debts classed as ‘priority’ carry extremely serious repercussions such as the threat of bailiffs, homelessness or even imprisonment. In total 15% of our clients had a visit from bailiffs – most often, as a result of council tax bills (23%)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield, Head of Debt Free London, recently said in a report by the Mayor of London:",
+          "links": [
+            {
+              "text": "report by the Mayor of London",
+              "href": "https://data.london.gov.uk/dataset/survey-of-londoners-headline-findings"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Caroline Siarkiewicz, Acting Chief Executive of Money Advice and Pensions Service, who fund Debt Free London said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deputy Mayor of London for Social Integration, Social Mobility and Community Engagement, Debbie Weekes-Bernard said:"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

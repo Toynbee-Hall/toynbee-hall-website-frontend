@@ -1,0 +1,57 @@
+{
+  "slug": "audit-224-friday-24th-january-community-day-planning-meeting",
+  "route": "/20/01/2020/friday-24th-january-community-day-planning-meeting/",
+  "title": "Friday 24th January – Community Day Planning Meeting",
+  "intro": "What do people in East London think Toynbee Hall could do to help make Tower Hamlets a happier and fairer place? On 15th February, we are holding a community day. The day is an opportunity for us to listen. What do people in East London think Toynbee Hall could do to help make Tower Hamlets… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/01/IMG_0822.jpg",
+    "alt": "Community Day Planning Meeting"
+  },
+  "template": "article",
+  "publishedAt": "2020-01-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What do people in East London think Toynbee Hall could do to help make Tower Hamlets a happier and fairer place?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "On 15th February, we are holding a community day."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The day is an opportunity for us to listen. What do people in East London think Toynbee Hall could do to help make Tower Hamlets a happier and fairer place? We also want to share the work we already do and welcome people to the new space."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "As part of preparations, we’d like to hear from you. Can you help us plan to make this a great event?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us for a planning meeting on Friday 24th January 2020, 12:00-13:00"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you would prefer to share your thoughts about planning the Community Day in another way, please email Bethan Mobey or call 07983462374."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/01/Community-Day-Planning-Leaflet-BM-Edit-722x1024.jpg",
+            "alt": "Community Day Planning Meeting Friday 24th January"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

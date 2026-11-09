@@ -1,0 +1,99 @@
+{
+  "slug": "audit-516-pandemic-stories",
+  "route": "/research/pandemic-stories/",
+  "title": "Pandemic Stories – The impact of Covid-19",
+  "intro": "Pandemic StoriesThe impact of Covid-19 A Participatory Action Research project exploring the experiences of Londoners disproportionately affected by the COVID-19 crisis and their policy recommendations for a fairer future for all. Pandemic Stories, supported by Thrive LDN, is about community-led action by people with lived experience of surviving the pandemic in the hardest of circumstances.… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/cropped-Pandemic-Stories-cover-image.jpg",
+    "alt": "Pandemic Stories Full Findings"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The impact of Covid-19"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Participatory Action Research project exploring the experiences of Londoners disproportionately affected by the COVID-19 crisis and their policy recommendations for a fairer future for all. Pandemic Stories, supported by Thrive LDN, is about community-led action by people with lived experience of surviving the pandemic in the hardest of circumstances."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/08/cropped-Pandemic-Stories-003_Page_01.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Pandemic-Stories-003_Page_01.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Report"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Executive Summary"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Listen to the podcast"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pandemic Stories is a new series of podcasts from Toynbee Hall, supported by Thrive LDN, looking at the disproportionate impact coronavirus is having on Londoners hardest hit because of low income, disability, racial background, or housing. Hosted by Halima Begum, CEO of The Runnymede Trust, and Toynbee Hall Trustee, the researchers discuss the findings from their participatory action research project and the impact on their lives of the COVID-19 crisis. You can read the findings from the research in the report above."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the first episode we discuss how the shame families feel when they cannot cope financially is damaging their sense of self-worth. Halima is joined by Peer Researchers Anwar, Agustina and Jennifer."
+        },
+        {
+          "type": "paragraph",
+          "text": "In episode 2, we discuss how many Londoners are under pressure to support friends and family through the crisis, but how this isn’t a sustainable long-term solution. Halima is joined by Peer Researchers: Angela, Ashrafia, Jennifer and Siraj."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this episode, we discuss how the feeling of powerlessness over future finances and employment is driving anxiety in working age people. Halima is joined by Peer Researchers, Kamrul, Laura and Siraj and guests: Professor Mauricio Avendano, Professor of Public Policy and Global Health and Head of the Department of Global Health and Social Medicine Kings College London and Dr Sotiris Vandoros, Reader in Health Economics at King’s Business School, King’s College London."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/03/cropped-Pandemic-Stories-tall-1.jpg",
+            "alt": "East London skyline at sunrise with Pandemic Stories heading and icon of microphone",
+            "caption": "Pandemic Stories tall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

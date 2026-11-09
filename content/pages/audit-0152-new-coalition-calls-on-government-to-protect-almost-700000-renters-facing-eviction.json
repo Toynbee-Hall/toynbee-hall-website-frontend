@@ -1,0 +1,107 @@
+{
+  "slug": "audit-152-new-coalition-calls-on-government-to-protect-almost-700000-renters-facing-eviction",
+  "route": "/15/04/2021/new-coalition-calls-on-government-to-protect-almost-700000-renters-facing-eviction/",
+  "title": "New coalition calls on Government to protect almost 700,000 renters facing eviction",
+  "intro": "Today (15th April) marks the two-year anniversary of the government’s promise to end so-called ‘no-fault’ evictions from private rented properties under Section 21. Toynbee Hall joins the Renters Reform Coalition to ensure that the government lives up to its promise.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/04/RRC-Logo-final.png",
+    "alt": "Renters Reform Coaliton"
+  },
+  "template": "article",
+  "publishedAt": "2021-04-15",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Today (15th April) marks the two-year anniversary of the government’s promise to end so-called ‘no-fault’ evictions from private rented properties under Section 21. Toynbee Hall joins the Renters Reform Coalition to ensure that the government lives up to its promise."
+        },
+        {
+          "type": "paragraph",
+          "text": "A new Survation survey indicates that 8% of private renters in England have received a no-fault eviction in the past year, while 32% are concerned they will be asked to move out this year."
+        },
+        {
+          "type": "paragraph",
+          "text": "To support renters in their calls for change, the Renters’ Reform Coalition has been formed – a broad group of 21 leading charities, think-tanks, housing and renter organisations including Toynbee Hall, who are all committed to ensuring that all private renters have a safe, affordable and stable home, where they can live and flourish. The coalition has formed to ensure that the government lives up to its promise and brings forward plans for a redesigned rental system that better serves the nation’s millions of private renters."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Renters’ Reform Bill, announced in the last Queen’s Speech, outlined the Government pledge to end no-fault evictions as well as making further changes to the private rented sector. Two years after the initial pledge, renters are still waiting for action."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since March 2020, 8% of private renters who responded to a Survation survey had received a Section 21 notice from their landlord, which would represent 694,000 private renters across England."
+        },
+        {
+          "type": "paragraph",
+          "text": "While the initial Section 21 notice is only the first stage of the legal eviction process, a valid notice cannot be overturned in court. That means most tenants who receive one have nothing to gain by challenging the notice and move out before the case reaches court."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nearly a third of those surveyed (32%) said they were concerned about the possibility of their landlord asking them to move out this year, which would represent 2.78m private renters across England. The survey was commissioned by Generation Rent and the results are published today.",
+          "links": [
+            {
+              "text": "published today",
+              "href": "https://www.generationrent.org/survation_april_2021"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Renter’s Reform Coalition outlines its recommendations for the Renters Reform Bill and beyond in its adopted policy principles, published on 15th April on its website. These principles call for the necessary reforms needed to end no-fault evictions and deliver stability, affordability and safety for renters."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chair of the Renters’ Reform Coalition, Sue James says: “Private renters face high rents, poor living conditions and perpetual instability. This causes needless disruption to people’s lives: their finances, work, health and their children’s education. Renters need certainty to enable them to put down roots in communities and create real homes in rented properties. Having been a front-line legal housing advisor for many years I have seen the difference that good quality, secure housing can make to people’s lives. We need to see people’s homes as more than just terms in a contract."
+        },
+        {
+          "type": "paragraph",
+          "text": "The breadth of organisations that have come together to form the coalition highlights the importance of this issue. It is essential that reform of private renting is a key part of the government’s plans to improve the housing system. The Renters Reform Coalition has formed to ensure that the government keeps its promise. We welcome the opportunity to work with the government to create a renting system that is fair and fit for the future.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "More information on the Renters’ Reform Coalition including policy principles and petition, can be found at: rentersreformcoalition.co.uk",
+          "links": [
+            {
+              "text": "rentersreformcoalition.co.uk",
+              "href": "http://rentersreformcoalition.co.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Renters’ Reform Coalition is made up of:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "ACORN",
+            "Advice 4 Renters",
+            "Camden Federation of Private Tenants",
+            "Charter Institute of Environmental Health",
+            "Citizens Advice for England and Wales",
+            "Crisis",
+            "Generation Rent",
+            "Greater Manchester Tenants Union",
+            "Joseph Rowntree Foundation",
+            "Law Centres Network",
+            "London Renters Union",
+            "Nationwide Foundation",
+            "New Economics Foundation",
+            "NUS",
+            "Priced Out",
+            "Renters’ Rights London",
+            "Safer Renting",
+            "Shelter",
+            "Toynbee Hall",
+            "Z2K"
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

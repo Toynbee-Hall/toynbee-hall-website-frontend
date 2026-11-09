@@ -1,0 +1,63 @@
+{
+  "slug": "audit-141-vodcast-out-of-sight-out-of-mind-the-story-of-one-of-englands-most-notorious-childrens-workhouses",
+  "route": "/14/03/2022/vodcast-out-of-sight-out-of-mind-the-story-of-one-of-englands-most-notorious-childrens-workhouses/",
+  "title": "VODCAST: Interview with local author and historian John Walker",
+  "intro": "In this Vodcast local historian John Walker speaks to to us about his recently released book Out of Sight, Out of Mind: Abuse, Neglect and Fire in a London Children’s Workhouse, 1854-1907.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/03/Whitechapel-Children-Henrietta-Barnet.jpg",
+    "alt": "A court in Whitechapel and some of its children inhabitants"
+  },
+  "template": "article",
+  "publishedAt": "2022-03-14",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "In this Vodcast local historian John Walker speaks to to us about his recently released book Out of Sight, Out of Mind: Abuse, Neglect and Fire in a London Children’s Workhouse, 1854-1907."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this Vodcast local historian John Walker speaks to Farha (When We Speak Programme manager) and Shavena (When We Speak Participation officer) about his recently released book Out of Sight, Out of Mind: Abuse, Neglect and Fire in a London Children’s Workhouse, 1854-1907."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the video he discusses the emergence and significance of these children’s workhouses, the people that ran these institutions and those that worked to reform them including Toynbee’s co-founder Henrietta Barnett, William Crooks, who became the first Labour MP of Poplar in 1900, and George Lansbury, who became a Labour MP and leader of the Labour Party. There is also connection drawn to the contemporary circumstances of the East End and attention is drawn to the fact that despite the work that has been done in view of alleviating poverty it has not been eradicated.",
+          "links": [
+            {
+              "text": "Henrietta Barnett",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/03/Henrietta_Barnett_online_version.pdf"
+            },
+            {
+              "text": "William Crooks",
+              "href": "https://www.ideastore.co.uk/local-history-online-exhibitions-will-crooks"
+            },
+            {
+              "text": "George Lansbury",
+              "href": "https://spartacus-educational.com/PRlansbury.htm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "John Walker is a local historian who has lived in east London for over 40 years. He has run a highly successful blog about Forest Gate history, for almost a decade, and it was this that inspired him to write the book. Many of the original buildings of an old children’s workhouse survive in the area. John was curious about the conditions its children experienced, particularly as some of his own ancestors had been workhouse inmates and residents of children’s homes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Out of Sight, Out of Mind, is the story of one of England’s most notorious children’s workhouses, established originally by Whitechapel Guardians. It’s fate was transformed by determined local people, like Toynbee Hall’s Henrietta Barnett and future Labour MP, George Lansbury, to turn it into almost a model template for the residential accommodation of 20th century looked-after children. These local figures displayed determination against all the odds to fight injustices in the system and establish the path for better futures for local poor, disadvantaged children."
+        },
+        {
+          "type": "paragraph",
+          "text": "The book is available, priced £12.99 from all major book suppliers. we also have a copy in our library that is open to the public."
+        },
+        {
+          "type": "paragraph",
+          "text": "Are you a local community historian that wants to share your research? Get in touch with the heritage team at Toynbee by emailing whenwespeak@toynbeehall.org.uk."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

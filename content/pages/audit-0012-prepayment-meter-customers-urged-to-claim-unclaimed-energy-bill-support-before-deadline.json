@@ -1,0 +1,57 @@
+{
+  "slug": "audit-12-prepayment-meter-customers-urged-to-claim-unclaimed-energy-bill-support-before-deadline",
+  "route": "/02/05/2023/prepayment-meter-customers-urged-to-claim-unclaimed-energy-bill-support-before-deadline/",
+  "title": "Prepayment meter customers urged to claim unclaimed energy bill support before deadline",
+  "intro": "Prepayment Meter customers urged to claim £160 million in energy bill support before scheme ends on June 30th",
+  "template": "article",
+  "publishedAt": "2023-05-02",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Prepayment Meter customers urged to claim £160 million in energy bill support before scheme ends on June 30th."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free Advice, a partnership of debt advice charities led by Toynbee Hall, is urging prepayment meter customers to claim their share of £160 million in unclaimed Energy Bills Support Scheme (EBSS) vouchers before they expire on June 30th. The EBSS provides crucial energy bill support to eligible low-income households, with savings of up to £400 available for those who redeem their vouchers.",
+          "links": [
+            {
+              "text": "Debt Free Advice",
+              "href": "https://debtfreeadvice.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To date, £620 million has been claimed by prepayment meter customers, with £780 million in EBSS vouchers distributed. The government is urging households to redeem their vouchers before the scheme closes, with 2.4 million outstanding vouchers available for redemption at local Post Offices or PayPoints."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield, Managing Director of Debt Free Advice, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“With millions of pounds in unclaimed energy bill support still available, it’s essential that eligible households act now to claim their share. Our team at Debt Free Advice is ready to help those in need navigate the process and ensure they receive the support they’re entitled to.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free Advice is a partnership of award-winning charities that offers free, expert advice to individuals struggling with debt. With a dedicated team of advisors available through various channels, including phone, video chat, and WhatsApp, Debt Free Advice has helped over 500,000 people with their money worries over the past 16 years."
+        },
+        {
+          "type": "paragraph",
+          "text": "Don’t miss out on this crucial support for energy bill savings – contact Debt Free Advice at 0800 808 5700, or visit their website to find your nearest advice centre and access their services.",
+          "links": [
+            {
+              "text": "visit their website",
+              "href": "https://debtfreeadvice.com/find-advice"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

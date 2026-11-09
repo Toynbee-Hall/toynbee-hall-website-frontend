@@ -1,0 +1,69 @@
+{
+  "slug": "audit-254-our-impact-in-2022-23-read-our-new-impact-report-for-a-fairer-future",
+  "route": "/21/12/2023/our-impact-in-2022-23-read-our-new-impact-report-for-a-fairer-future/",
+  "title": "Our impact in 2022-23: Read our new impact report, For a Fairer Future",
+  "intro": "Toynbee Hall launch their newest impact report to reveal insights from their work over the past year and the impact it has had.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/Read-our-new-Impact-Report-1.png",
+    "alt": "Read our new impact report - image of the font cover of the report"
+  },
+  "template": "article",
+  "publishedAt": "2023-12-21",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are excited to launch our new impact report to reveal insights from our work over the past year and assess it’s impact"
+        },
+        {
+          "type": "paragraph",
+          "text": "We are excited to reveal our new new 2022-23 impact report, For a Fairer Future.",
+          "links": [
+            {
+              "text": "2022-23 impact report",
+              "href": "/about-us/our-impact/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2022-23, we have substantially impacted the lives of tens of thousands of people in the local community. In our latest impact report, we review the impact of our work, the challenges we had to address and our approach to tackling these issues. We also look forward to the challenges ahead and how we intend to continue working towards a fairer future."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are just some of the stats from our new impact report:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "13,816 advice cases opened",
+            "Clients were £9,543,022 financially better off",
+            "Our spaces hosted 260 events with 8,043 attendees",
+            "4,809 people reached through our community and heritage work",
+            "Local reach of 26,410 people"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read our impact report in full:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Download the report here.",
+          "links": [
+            {
+              "text": "Download the report here.",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/ToynbeeHall_ImpactReport_22-23-DIGITAL.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

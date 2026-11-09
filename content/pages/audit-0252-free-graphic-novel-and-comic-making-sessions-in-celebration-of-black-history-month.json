@@ -1,0 +1,29 @@
+{
+  "slug": "audit-252-free-graphic-novel-and-comic-making-sessions-in-celebration-of-black-history-month",
+  "route": "/21/10/2019/free-graphic-novel-and-comic-making-sessions-in-celebration-of-black-history-month/",
+  "title": "Graphic Novel and Comic Strip making sessions in celebration of Black History Month",
+  "intro": "Our Storyteller/Writer in Residence is holding a Free family-friendly graphic novel making session here at Toynbee Hall this Saturday",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/10/IMG_4568.jpg",
+    "alt": "Black History Month Graphic Novel Workshop"
+  },
+  "template": "article",
+  "publishedAt": "2019-10-21",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Our Storyteller/Writer in Residence ran family-friendly Comic Strip and Graphic Novel Making sessions here at Toynbee Hall as part of Black History Month."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Saturday 19th October, our Storyteller/Writer in Residence, Kashif Vaughan ran two story-making sessions at Toynbee Hall in celebration of Black History Month. The comic-strip workshop focused on the spider character Anansi which has far-reaching African origins whilst the graphic novel workshop was inspired by heroes of colour. Check out our photos charting all the creative ideas that emerged."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

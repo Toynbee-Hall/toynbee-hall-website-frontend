@@ -1,0 +1,36 @@
+{
+  "slug": "audit-256-old-and-new",
+  "route": "/22/05/2018/old-and-new/",
+  "title": "Regeneration Photo Blog – Old and New…",
+  "intro": "By Keith Greenough and Rosie Spiegelhalter. Last week I made a brief visit to Toynbee Hall. It’s amazing to see how things have moved on in just four weeks since I last called in. All around finishing touches are being applied. What struck me most was how original features are juxtaposed with new elements –… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/05/Toynbee-Hall-20180511-DSC09183-e1529322108960.jpg",
+    "alt": "Regeneration Photo Blog – Old and New… — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-05-22",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Last week I made a brief visit to Toynbee Hall. It’s amazing to see how things have moved on in just four weeks since I last called in. All around finishing touches are being applied. What struck me most was how original features are juxtaposed with new elements – lovely wooden doors and frames alongside old brickwork, a new signature light fitting above the original staircase, new flooring abutting old tiles and wall panelling and so on."
+        },
+        {
+          "type": "paragraph",
+          "text": "It has all been very tastefully planned and executed, creating the impression that a new era is being ushered in but at the same time the legacy of the past is celebrated. Now that the spaces are being cleared of construction materials it is also striking how lots of natural light streams into the working spaces on the upper floors. It will be a splendid place to work."
+        },
+        {
+          "type": "paragraph",
+          "text": "While seeing the latest progress I spoke with Rosie Spiegelhalter, Toynbee Hall’s Head of Development, who told me why she’s excited about the completion of the works on the historic hall."
+        },
+        {
+          "type": "quote",
+          "quote": "It was so brilliant seeing the building in an almost finished state after it has existed for me as a series of plans and budgets springing from a brilliant idea. It cannot be overestimated how much of an impact these buildings will have on our ability to meet genuine need and give our community a space to thrive. So many people and organisations invested in this building, perhaps the most important to me being the Wilson family and the David Hills Trust who have chosen to commemorate loved ones in a building that they have felt a genuine connection to. We will be very proud to show the building to the supporters who have trusted us to make it a success – I only hope that they are as proud of it as we are.”"
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

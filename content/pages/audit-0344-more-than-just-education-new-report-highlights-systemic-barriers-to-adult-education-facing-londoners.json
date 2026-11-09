@@ -1,0 +1,97 @@
+{
+  "slug": "audit-344-more-than-just-education-new-report-highlights-systemic-barriers-to-adult-education-facing-londoners",
+  "route": "/28/02/2022/more-than-just-education-new-report-highlights-systemic-barriers-to-adult-education-facing-londoners/",
+  "title": "More than just education: New report highlights systemic barriers to adult education facing Londoners",
+  "intro": "The findings of a participatory action research project on adult education in London reveal system barriers and outline how access to adult education can be improved",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/News-feature-image.png",
+    "alt": "More than just education"
+  },
+  "template": "article",
+  "publishedAt": "2022-02-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The findings of a participatory action research project on adult education in London reveal system barriers and outline how access to courses can be improved."
+        },
+        {
+          "type": "paragraph",
+          "text": "A new report by Toynbee Hall, commissioned by the Greater London Authority (GLA), More than just education, shows that there is a real need for adult education services to refocus away from immediate, short-term employment opportunities and more towards the wider benefits of education such as improving confidence and mental health and building stronger communities as well as advancing employment prospects.",
+          "links": [
+            {
+              "text": "More than just education",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/TH-GLA-Adult-Education-Report-Feb22-Digital.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The report also found that disabled people disproportionately face barriers to adult education such as additional costs and inadequate levels of provision for reasonable adjustments. Disabled people interviewed, felt that the onus unfairly remains on the individual to advocate for themselves and educate others about their needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are a number of systemic barriers to accessing adult education such as financial, as people are unable to access courses because of the costs involved even if the course itself is free. The research found there is an over-reliance on online information which is hampering knowledge of what courses are available for those not online, and childhood education styles that do not work for everyone. Some are put off by negative past experiences in formal education, where the lingering impact of trauma has led to distrust of education institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The report was commissioned to inform the preparation of the Mayor’s Skills Roadmap for London. For this project, a group of peer researchers who had lived experience of being part of one or more of the priority groups identified by the GLA as having the most to gain from adult education. The peer researchers co-designed and co-produced the research and conducted in-depth interviews with over 50 people from across London about how adult education services could be improved."
+        },
+        {
+          "type": "paragraph",
+          "text": "To make adult education more accessible, as a priority, framing of adult education in London needs to de-centre qualifications for employment and instead highlight the many other benefits that individuals can receive from getting involved with adult education in addition to career progress."
+        },
+        {
+          "type": "paragraph",
+          "text": "The report also recommends that the GLA and local councils, in collaboration with education providers, should be disseminating information about education opportunities in a number of ways, not just online. Co-production methods should be used to empower marginalised groups to re-engage with adult education and improve it for the benefit of others and course content should be collaboratively designed with local people to respond to the needs of an area."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rothna, one of the Peer Researchers who conducted the research said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“Adult education needs a comeback. We need local authorities and the GLA to work with the community to get to the people who are most marginalised. There are people who want to learn and focus on self-development for a better life, and they need a voice at a community level. We need grassroots level engagement – being a part of this project was very important for the people from our communities and as peer researchers we also really valued learning about everyone’s experiences which were often so different from our own.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Denean, another member of the Peer Research group said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“It’s so much bigger than just the classroom, and that it’s really important how you tell people about it. Making more use of the people that communities rely on, whether that’s mosques that support people or other institutions. We need to ask ‘who are the actual influential people who can help who are the pillars of those communities?’ And then also the discussions we had about the actual space, really focussing on the space you are learning in and asking how it is helping or hindering people to do that. Finally, the people involved in the marketing and promotions need to reflect the people that you want to reach. This can be either the people handing out leaflets or reaching out to the community, or the people who’s stories and voices are represented in promotions.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Michelle Cuomo-Boorer, Assistant Director Skills & Employment, Greater London Authority, said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“City Hall is delighted to have worked with Toynbee Hall on this participatory research project, which makes clear that there is more work to be done to ensure more Londoners are aware of adult education opportunities, and that learning is accessible to people most in need."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Mayor is committed to ensuring London’s skills system is accessible and locally relevant for Londoners, as set out in the Skills Roadmap published earlier this year. In January the Mayor announced a long term campaign to raise awareness of London’s skills offer, focused on Londoners who need it the most. I am grateful to Toynbee Hall for this report and for helping shape this work. Including and understanding the direct perspectives of Londoners in this way is essential for effective policy making”."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read the More than just education report here.",
+          "links": [
+            {
+              "text": "You can read the More than just education report here.",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/TH-GLA-Adult-Education-Report-Feb22-Digital.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

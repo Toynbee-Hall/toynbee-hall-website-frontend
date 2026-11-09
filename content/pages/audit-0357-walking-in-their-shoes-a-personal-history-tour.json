@@ -1,0 +1,54 @@
+{
+  "slug": "audit-357-walking-in-their-shoes-a-personal-history-tour",
+  "route": "/29/05/2019/walking-in-their-shoes-a-personal-history-tour/",
+  "title": "Walk in their Shoes – A personal history tour",
+  "intro": "On Tuesday 28th May, the Walk in Their Shoes tours began with local volunteers sharing and leading their own personal history tour of the East End. After establishing a route around the East End as a group, with Toynbee Hall at the centre, volunteers chose their favourite spots and places that have impacted on their… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/05/IMG_3397.jpg",
+    "alt": "One of the first walking in their shoes tours"
+  },
+  "template": "article",
+  "publishedAt": "2019-05-29",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "On Tuesday 28th May, the Walk in Their Shoes tours began with local volunteers sharing and leading their own personal history tour of the East End."
+        },
+        {
+          "type": "paragraph",
+          "text": "After establishing a route around the East End as a group, with Toynbee Hall at the centre, volunteers chose their favourite spots and places that have impacted on their lives. They then researched it’s history and wrote this into the tour. Our Residential Voluntary Artist then created a map of the all the spots chosen."
+        },
+        {
+          "type": "paragraph",
+          "text": "The tour included places such as Brick Lane Jamme Masjid, Christ Church Spitalfields, and the Whitechapel Gallery, with authentic personal tributes from the volunteers brought to life with real time sights, sounds and smells of the East End."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/05/Walking-in-their-shoes-map-1024x858.jpg",
+            "alt": "Walking in their shoes map created by Residential Voluntary Artist, Kayleigh"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "The final route was then drawn up into a route and Residential Voluntary Artist, Kayleigh Doughty created a vibrant map of the tour, which will soon be on display at Toynbee Hall, creating a legacy in our historic building."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will be recruiting a new set of volunteers to be trained by the current cohort and create their own tours. If you’re interested in taking part, please contact Theresa Dhaliwal Davies.",
+          "links": [
+            {
+              "text": "Theresa Dhaliwal Davies",
+              "href": "mailto:Theresa.Davies@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

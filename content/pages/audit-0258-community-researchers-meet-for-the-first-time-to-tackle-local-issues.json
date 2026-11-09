@@ -1,0 +1,58 @@
+{
+  "slug": "audit-258-community-researchers-meet-for-the-first-time-to-tackle-local-issues",
+  "route": "/22/05/2019/community-researchers-meet-for-the-first-time-to-tackle-local-issues/",
+  "title": "Community researchers meet for the first time to tackle local issues",
+  "intro": "On Friday 17th May, newly recruited peer researchers for our two new community-led projects came together for the first time to start designing research into the issues that are important to them. At Toynbee Hall we believe that above all, putting people with real experience of these issues into the heart of the research is… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/05/First-Training-Session-17.05.19.png",
+    "alt": "Our Community Researchers meet for the first time to help improve Tower Hamlets"
+  },
+  "template": "article",
+  "publishedAt": "2019-05-22",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "On Friday 17th May, newly recruited peer researchers for our two new community-led projects came together for the first time to start designing research into the issues that are important to them."
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall we believe that above all, putting people with real experience of these issues into the heart of the research is key to designing effective solutions. This is why we are excited to be supporting people from our local community to conduct research on the two of the biggest local issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Previous research conducted by local older people has shown that community safety is a growing concern, and data from our debt advice services shows that young people are more likely to encounter debt and money problems due to unfairness in the rental market."
+        },
+        {
+          "type": "paragraph",
+          "text": "The two projects aim to make private renting fairer for young people and to build safer and more welcoming communities. Over the course of the next two years we will be supporting our peer researchers to design and carry out research, and then use this research to campaign and work towards positive and meaningful change."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/05/PAR-Training2-17.05.19-1-e1558534666741.jpg",
+            "alt": "How our community researchers are making renting fairer for young people"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re still looking for people who are interested in helping to make a difference in Tower Hamlets to become researchers. Your involvement in the project can be flexible to suit your schedule and the time you have available."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would like to take part or request further information, please get in touch with our Research Manager Philip (philip.mullen@toynbeehall.org.uk; 07872 109731). No previous experience with research is required as we will support you with the resources, training and platform you will need to carry out research and campaign on issues that are important to you!",
+          "links": [
+            {
+              "text": "philip.mullen@toynbeehall.org.uk",
+              "href": "mailto:philip.mullen@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

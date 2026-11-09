@@ -1,0 +1,55 @@
+{
+  "slug": "audit-271-debt-free-london-service-update",
+  "route": "/23/03/2020/debt-free-london-service-update/",
+  "title": "Debt Free London Service Update",
+  "intro": "London’s debt advice partnership is now offering advice sessions on the phone, by WhatsApp and web chat.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/03/ETjbJv9WkAAFbxb.jpg",
+    "alt": "Debt Free London is now offering advice by phone, whatsapp and web chat"
+  },
+  "template": "article",
+  "publishedAt": "2020-03-23",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "London’s debt advice partnership is now offering advice sessions on the phone, by WhatsApp and web chat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free London (a partnership of 26 debt advice charities across London which helps over 24,000 Londoners each year) want to ensure all Londoners are supported to get debt free and offer debt advice in a range of different ways. Based on current advice issued by the Government and Public Health England, we will be adapting our services for the foreseeable future."
+        },
+        {
+          "type": "paragraph",
+          "text": "To protect our clients and staff, we will be stopping all face-to-face appointments and our Debt Advice Centres will be closing temporarily. This was a difficult decision, however, we will still be here to help."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are worried about making ends meet, please get in touch by phone, WhatsApp, a new web chat feature or by filling in our online form."
+        },
+        {
+          "type": "paragraph",
+          "text": "One of our advisors will get in touch by phone or by video chat for an advice session. During this session, they’ll take you through a detailed analysis of the help available to you and will plan the next steps on your journey to get debt free."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are struggling to make ends meet or have been financially impacted by coronavirus and think that you may be eligible for support under the new rules, please get in touch."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Phone or WhatsApp 0808 164 2480"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Speak to an advisor using the web chat in the bottom right hand corner at www.debtfree.london"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

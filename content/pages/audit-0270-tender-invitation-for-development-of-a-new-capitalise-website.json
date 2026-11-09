@@ -1,0 +1,70 @@
+{
+  "slug": "audit-270-tender-invitation-for-development-of-a-new-capitalise-website",
+  "route": "/23/01/2019/tender-invitation-for-development-of-a-new-capitalise-website/",
+  "title": "Tender invitation for development of a new Capitalise website",
+  "intro": "We’re inviting suitably qualified website developers to get in touch and express their interest in developing a new website for the London wide debt advice partnership, Capitalise, which is led by Toynbee Hall. Capitalise is London’s free face-to-face debt advice service helping over 20,000 Londoners with their debt and money problems each year. Our trained… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/capitalise_rgb_masterlogo-2.jpg",
+    "alt": "Capitalise"
+  },
+  "template": "article",
+  "publishedAt": "2019-01-23",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We’re inviting suitably qualified website developers to get in touch and express their interest in developing a new website for the London wide debt advice partnership, Capitalise, which is led by Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capitalise is London’s free face-to-face debt advice service helping over 20,000 Londoners with their debt and money problems each year. Our trained and accredited advisors are based across 27 partner organisations and can help with all types of money worries from rent and council tax arrears to credit card and catalogue debt. We can work with clients to prioritise their bills & debts, helping them to write letters and advocating on their behalf. The partnership is funded by the Money Advice Service and managed by Toynbee Hall. To access the service clients can call the Capitalise Hub, our free phone number (0808 164 2480), where their contact details will be collected and an initial assessment will be completed. Call centre staff then pass these details to the clients closest Capitalise delivery partner who then call the client back to make a face to face appointment at a time convenient to them."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Aims of the Capitalise website"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Provide potential clients with a clear and efficient route to the service a) Allowing them to identify where there nearest Capitalise office is and how far away it is from their postcode, and show them this on a map when selected. i. Helping them plan their journey from their postcode to their nearest Capitalise office using a range of modes of transport (walk, car, public transport) b) Encouraging them to request a call back to make an appointment after answering some short questions about themselves and their debt c) Providing the number for the Capitalise Hub if clients would prefer to call the service and make an appointment over the phone",
+            "Providing searchable advice articles to help clients answer some of our most frequently asked queries",
+            "Provide information about the service, our partnership and achievements to interested external parties",
+            "Helps the recruitment of debt advisors and volunteers across the partnership 1 See an example of the on the Money Advice Service website, under ‘Face-to- Target audience",
+            "Londoners seeking debt advice",
+            "Third parties interested in the service, it’s reach and our partnership – this includes, but is not limited to; funders, local authorities and policy makers",
+            "Londoners looking to volunteer to help those struggling with debt"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the full tender brief here for more details"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Living Wage Employer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall is a Living Wage Foundation employer and, wherever possible, purchase from suppliers that also pay the London Living Wage. In your tender, please indicate if you are a Living Wage Foundation employer and/or that all your employees receive a minimum of £10.55 per hour."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Contact"
+        },
+        {
+          "type": "paragraph",
+          "text": "For more information please contact Matt Dronfield, Head of London-wide Advice at Toynbee Hall: E: matt.dronfield@toynbeehall.org.uk T: 020 7392 2981 M: 07515 353439"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

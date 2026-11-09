@@ -1,0 +1,71 @@
+{
+  "slug": "audit-39-toynbee-hall-to-be-part-of-a-research-programme-on-young-peoples-experiences-of-emotional-support-and-the-wider-determinants-of-health",
+  "route": "/04/11/2022/toynbee-hall-to-be-part-of-a-research-programme-on-young-peoples-experiences-of-emotional-support-and-the-wider-determinants-of-health/",
+  "title": "Toynbee Hall to be part of a research programme on young people’s experiences of emotional support and the wider determinants of health",
+  "intro": "Toynbee Hall has been selected by the Health Foundation, to be part of its new research programme",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/SIvuJ6D4.jpg",
+    "alt": "Emotional Support for young people"
+  },
+  "template": "article",
+  "publishedAt": "2022-11-04",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall has been selected by The Health Foundation, to be part of its new research programme exploring what shapes the emotional support that young people experience, and the effect this has on their mental health outcomes. The Health Foundation is an independent charity committed to bringing about better health and health care for people in the UK."
+        },
+        {
+          "type": "paragraph",
+          "text": "Research has shown that emotional support can act as a protective factor or ‘buffer’ when it comes to young people’s mental health outcomes. However, research is needed to understand how family circumstances and family members’ working lives impact on their ability to provide this emotional support."
+        },
+        {
+          "type": "paragraph",
+          "text": "In partnership with Thrive LDN, a city-wide movement to improve mental health and wellbeing, Toynbee Hall will work with a group of young Londoners, who will take a participatory action research approach to investigate whether young Londoners get the emotional support they need from their families, in the context of the cost-of-living crisis.",
+          "links": [
+            {
+              "text": "Thrive LDN",
+              "href": "https://thriveldn.co.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Research shows that young people have been disproportionately impacted by the COVID-19 pandemic. They report more mental distress and loneliness than any other group, and will experience more long-term harm due to the disruption of their education."
+        },
+        {
+          "type": "paragraph",
+          "text": "In response, this project will investigate the impact of the increased living costs on families’ capacity to provide emotional support, and the consequences on young people’s health and development. Understanding the impact on young people is central to mitigating the long-term negative impact on them."
+        },
+        {
+          "type": "paragraph",
+          "text": "A group of 10 young Londoners (aged 16 to 22) from low-income families will be trained and supported to be ‘peer researchers’. They will conduct 14 focus groups with up to 55 young people and 30 family representatives, and co-design a nationwide survey. They will then be supported to analyse the responses to identify key issues, and develop proposals about how to help families, services and the government to support young people better, and share the findings and proposals with decision makers."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Emotional Support for Young People programme is supporting four teams with funding of between £100,000 and £200,000 to complete their research projects over 18 months.",
+          "links": [
+            {
+              "text": "Emotional Support for Young People",
+              "href": "https://www.health.org.uk/funding-and-partnerships/programmes/emotional-support-for-young-people"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The project will run from November 2022 to April 2024. We will announce further details in due course. Find out more about our Research and Policy work.",
+          "links": [
+            {
+              "text": "Research and Policy work.",
+              "href": "/research/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

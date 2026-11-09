@@ -1,0 +1,71 @@
+{
+  "slug": "audit-24-toynbee-hall-launch-new-youth-activism-project-when-we-speak",
+  "route": "/03/10/2019/toynbee-hall-launch-new-youth-activism-project-when-we-speak/",
+  "title": "Toynbee Hall launch new youth activism project, ‘When We Speak’",
+  "intro": "The new project aims to equip young people aged between 15 and 25 to run their own social impact projects On Tuesday 1st October, Toynbee Hall launched a new youth activism project to support young people in East London to make a difference in their communities. Kicking off this October with a series of public… Read more",
+  "template": "article",
+  "publishedAt": "2019-10-03",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The new project aims to equip young people aged between 15 and 25 to run their own social impact projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "On Tuesday 1st October, Toynbee Hall launched a new youth activism project to support young people in East London to make a difference in their communities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kicking off this October with a series of public workshops with activists and community organisers, ‘When we speak’ will inspire and enable young people in East London to bring positive social change in their local area. Toynbee Hall will be directly supporting young people ages 15 to 25 to run their own local project by providing grant money, training and coaching between October and February."
+        },
+        {
+          "type": "paragraph",
+          "text": "The launch event for the project, hosted in our historic halls, was all about honouring East London youth’s ongoing resistance, resilience and activism- and spreading the word on this opportunity so we can support more young people to step into their power."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/10/When-We-Speak-image-website-copy.jpg",
+            "alt": "Promi Ferdousi a local Bengali poet, singer & community worker performing at  the When We Speak Launch"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Young people, parents, youth workers, teachers, activists and community organisers came to the event to make their voices heard, and the space theirs. There was a whole host of incredibly powerful performances from Voices That Shake, Farzana Khan & Nawi Collective. Alicia-Pearl Cato also showcased her amazing art, giving life to our halls with powerful portraits of people she grew up with in Hackney and her black icons and there was food provided by Maame Ts kitchen. We will be uploading videos of the performances very soon.",
+          "links": [
+            {
+              "text": "Voices That Shake",
+              "href": "https://twitter.com/voicesthatshake"
+            },
+            {
+              "text": "Nawi Collective",
+              "href": "https://twitter.com/NawiCollective"
+            },
+            {
+              "text": "Maame Ts kitchen",
+              "href": "https://www.instagram.com/maame_ts_kitchen/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Looking forward to this Wednesday (9th OCT, 6-8pm) we have our first workshop of When We Speak! We are super excited to welcome Amal Bider from Goldsmiths Anti-Racist Action, where we will hear their ground-breaking activism stories of challenging institutional racism at the heart of their university."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the first workshop of many, our aim is to give access to and inspire the young people of East London to take back control of the issues in their surroundings & create social impact projects around these. This will largely be done through our workshops, we encourage any young person in East London with social or community ambitions to join When We Speak."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For more info on how we can support you or if you would like to join please contact: Annick.metefia@toynbeehall.org.uk."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

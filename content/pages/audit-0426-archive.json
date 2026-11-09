@@ -1,0 +1,75 @@
+{
+  "template": "listing",
+  "slug": "audit-426-archive",
+  "route": "/event-cat/celebrating-petticoat-lane/",
+  "title": "Event Category: Celebrating Petticoat Lane",
+  "intro": "Browse celebrating petticoat lane from Toynbee Hall.",
+  "listingType": "events",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "Celebration: The People’s History of Petticoat Lane",
+      "href": "/whats-on/peopleshistoryofpetticoatlane",
+      "summary": "Get ready to celebrate the history of Petticoat Lane programme with an unforgettable in-person event.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/11/The-Peoples-History-of-Petticoat-Lane.jpg",
+        "alt": "Celebrating the History of Petticoat Lane"
+      }
+    },
+    {
+      "title": "Celebration: The People’s History of Petticoat Lane",
+      "href": "/whats-on/peopleshistoryofpetticoatlane",
+      "summary": "Get ready to celebrate the history of Petticoat Lane programme with an unforgettable in-person event.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/11/The-Peoples-History-of-Petticoat-Lane.jpg",
+        "alt": "Celebrating the History of Petticoat Lane"
+      }
+    },
+    {
+      "title": "Oitij-jo x Whitechapel Gallery",
+      "href": "/fundraising-events/oitij-jo-x-whitechapel-gallery/",
+      "summary": "Join the Whitechapel Gallery for an evening programme of music, film and food curated by Oitij-jo, following a day of performances and workshops celebrating British Bengali arts and culture on Petticoat Lane. Oitij-jo is dedicated to providing creative collaborations and platforms to enhance British/Bangla engagement with wider global, national and local urban and rural communities.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/Oiti-jo-day-festival-09_09.jpg",
+        "alt": "Oiti Jo Collective present - Day festival"
+      }
+    },
+    {
+      "title": "‘Dhakai Jamdani the Pride’",
+      "href": "/fundraising-events/dhakai-jamdani-the-pride/",
+      "summary": "Learn the process of naturally dyed yarms and weaving the simplest of Jamdani motifs. Come and create memories with a member of the your family through a series of workshops at House of Annetta as part of the High Streets Heritage Action Zone Cultural Programme.",
+      "date": "19 and 20 August",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/iStock-872166732.jpg",
+        "alt": "Jamdani"
+      }
+    },
+    {
+      "title": "Mosaic with Hackney Mosaic",
+      "href": "/fundraising-events/mosaic-with-hackney-mosaic/",
+      "summary": "Everyone is welcome and no experience is necessary.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/Hackney-mosaic-e1691578731122.jpg",
+        "alt": "Hackney mosaic"
+      }
+    },
+    {
+      "title": "Aam-Khatli Fruit festival",
+      "href": "/whats-on/fruitfestival",
+      "summary": "This is part of a programme of family friendly events taking place over the summer to celebrate the history of Petticoat Lane.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/FwXd_7sXoAUKWhn-1.jpg",
+        "alt": "Aam-Khatli Fruit festival"
+      }
+    },
+    {
+      "title": "Khado Food & Fun Festival",
+      "href": "/whats-on/khadofestival",
+      "summary": "",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/Khado-event-listing-whats-on.jpg",
+        "alt": "Food and Fun festival poster"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "audit-407-welfare-benefits-advice",
+  "route": "/cityadvice/welfare-benefits-advice/",
+  "title": "Welfare Benefits Advice",
+  "intro": "Benefits adviceCity Advice provides free impartial advice on benefit issues to help people understand what benefits they are entitled to and assist in challenging benefits decisions. We also help those who are on low incomes, who are sick or disabled to understand their rights. We give free advice on welfare and benefits including: • Universal… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "City Advice provides free impartial advice on benefit issues to help people understand what benefits they are entitled to and assist in challenging benefits decisions. We also help those who are on low incomes, who are sick or disabled to understand their rights."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "We give free advice on welfare and benefits including:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• Universal Credit • Attendance Allowance • Carers Allowance • Child Benefit • Child Tax Credit • Disability Living Allowance • Housing Benefit • Income Support • Jobseekers Allowance • Personal Independance Payment"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are struggling to understand your benefits entitlement or need help to know how and what to claim, we can help. Our free expert benefits advice service will give impartial and confidential help with benefits and welfare to people living, working or studying in the City of London."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For more information or to see what support you might be entitled to, call 0207 392 2919 or email city.advice@toynbeehall.org.uk."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Or you can complete the online form below and someone will get back to you."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/cropped-cropped-City-Advice-online-logo-15.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-cropped-City-Advice-online-logo-15.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice is a free advice service exclusively for people who live work or study in the City of London* or live in a City of London Estate and can help with a range of issues."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/toynebee-6-scaled.jpg",
+            "alt": "A City Advice session taking place with advisor and client say by a desk",
+            "caption": "toynebee-6"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Complete the online form"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fill out this form and one of our advisors will get back to you"
+        },
+        {
+          "type": "paragraph",
+          "text": "Name (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phone Number (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This service is only available to people who live, work or study in the City of London Square Mile* or are tenants of the Corporation of London. Please tick the boxes that apply: (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "I live in the City of LondonI work in the City of LondonI study in the City of LondonI am a tenant of the Corporation of London"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is your home postcode?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If working, what is the postcode of your workplace?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If studying, what is the postcode of your college/university?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Summary of query/concern"
+        },
+        {
+          "type": "paragraph",
+          "text": "*The City of London Square Mile refers to the small specific area traditionally known as the ‘Square Mile’ or ‘The City’. See the map below to see if you live, work or study in the City of London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check this map to see if you’re eligible for this service.",
+          "links": [
+            {
+              "text": "Check this map to see if you’re eligible for this service.",
+              "href": "https://www.google.co.uk/maps/place/City+of+London,+London/@51.5150422,-0.1107947,14z/data=!3m1!4b1!4m5!3m4!1s0x487603554edf855f:0xa1185c8d19184c0!8m2!3d51.5123443!4d-0.0909852"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall will hold your details in accordance with the Data Protection Act. From time to time we may contact you with news about Toynbee Hall. If you would prefer not to be contacted in this way, please tick this box."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How we’ve helped others with benefit issues"
+        },
+        {
+          "type": "paragraph",
+          "text": "“I visited the City Advice drop-in for help when my benefits were stopped. It’s a long story but I suffer from severe depression as I was imprisoned and tortured for my political beliefs. I have no family in the UK as I had to leave them all behind when I came here in 2001. When I first went to City Advice I was in a bad situation. I had no money and I was getting into arrears with my rent. City Advice were able to help me to appeal the decision and get my benefits reinstated. I cannot begin to think what I would have done if I had not found them. Life is better now and I hope to be able to afford to see my family this year.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice client"
+        },
+        {
+          "type": "paragraph",
+          "text": "I can now sleep well without worrying about debt”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jasmine came to Toynbee Hall for debt advice in relation to an outstanding Major Work repairs debt carried out on her property. Jasmine, widowed and suffering from long term ill health, was harassed by her landlord who was demanding she pay the outstanding figure of over £3,000 in full and referred Jasmine’s debt to their solicitor to issue her with a forfeiture of her leasehold. She was clearly very distressed and in tears when she came to see us. Our advisor discovered that Jasmine was not getting any help with her service charge as a leaseholder and also noted that client had not defaulted on her Major Work Repair repayment. We advised Jasmine that she was entitled to get help with repayment of her Major Work Repair bill but unfortunately, she was out of time to make a claim. However, we were able to help client to apply for assistance with Service charge payment and client claim was successful. We also challenged client landlord for unfairness in relation to harassment as Jasmine has not defaulted on her major work repayment. Based on our action, the landlord backed off on the legal action against Jasmine."
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice client"
+        }
+      ]
+    }
+  ]
+}

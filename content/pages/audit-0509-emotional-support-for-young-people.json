@@ -1,0 +1,235 @@
+{
+  "slug": "audit-509-emotional-support-for-young-people",
+  "route": "/research/emotional-support-for-young-people/",
+  "title": "Emotional Support for Young People",
+  "intro": "PAR Project: The impact of the cost of living crisis on emotional support for young Londoners Download the Executive Summary Download the Full Report Read our Journal of Public Mental Health article Read a reflection from one of our Peer Researchers Play our interactive co-designed game Overview Toynbee Hall has been… Read more",
+  "image": {
+    "src": "/images/live-site/youth.jpg",
+    "alt": "Two young people talking across a table"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Emotional Support for Young People PAR Project: The impact of the cost of living crisis on emotional support for young Londoners"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-One-young-person-talks-to-another-in-white-room-2-scaled-1.jpg",
+            "alt": "Two young women talking at a desk",
+            "caption": "Two peer researchers talking at a desk"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Executive Summary"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Full Report"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read our Journal of Public Mental Health article"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read a reflection from one of our Peer Researchers"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Play our interactive co-designed game"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Overview"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has been working for two years with a group of 12 young peer researchers, all Tower Hamlets residents, on a participatory action research investigation into the emotional support available to young people amid the cost-of-living crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "This study highlights the mounting pressures on young people as they strive to support their families emotionally and financially, all while grappling with their own mental wellbeing. The research finds:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• over half of young people have experienced increased stress within their immediate family"
+        },
+        {
+          "type": "paragraph",
+          "text": "These issues are compounded by financial insecurity, overcrowded housing, and insufficient mental health services, creating a web of challenges that many struggle to navigate."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project has received guidance from Tower Hamlets Council, the Greater London Authority (GLA) and the NHS, in partnership with Thrive London and the Health Foundation. This project (reference no: FR-0003002) is part of the Health Foundation’ Emotional Support for Young People programme.",
+          "links": [
+            {
+              "text": "Emotional Support for Young People programme.",
+              "href": "https://www.health.org.uk/funding-and-partnerships/programmes/emotional-support-for-young-people"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-cropped-ESYP-big-room-and-speaker.jpeg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-cropped-ESYP-big-room-and-speaker.jpeg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Context"
+        },
+        {
+          "type": "paragraph",
+          "text": "There has been a significant surge in UK households facing severe financial challenges (University of Bristol Personal Finance Research Centre and abrdn Financial Fairness Trust, 2024)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The current cost of living crisis comes in the context of an erosion of social security support for those on low incomes (Child Poverty Action Group, 2023)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over a third of young people report that money worries have worsened their mental health, (The Prince’s Trust, 2024) and few than half of the estimated 1.4 million children with a probable mental health disorder receive at least one contact from NHS-funded mental health services (Children’s Commissioner, 2023)."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-Parents-emotional-support-post-its-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Parents emotional support post its"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "73% of young people experienced two or more points of pressure in the past year (such as increased pressure to provide for the immediate family or support others with their emotional wellbeing), with 54% experiencing more stress within their immediate family."
+        },
+        {
+          "type": "paragraph",
+          "text": "The cost-of-living crisis is straining family relationships. The crisis has led to: significantly less quality time for young people to spend with family and friends, fewer or no family outings, increased parental exhaustion that limits meaningful interactions, heightened stress and fatigue across entire social support networks, and fewer opportunities for self-care."
+        },
+        {
+          "type": "paragraph",
+          "text": "Transition is a key driver of poor mental health creating anxiety about: future work and studies, covering essential household costs, resource and service availability, and increased challenges to seeking help."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-24-at-19.16.49.jpeg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "WhatsApp Image 2025-02-24 at 19.16.49"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Recommendations"
+        },
+        {
+          "type": "paragraph",
+          "text": "The peer researchers held workshops to analyse the data and come up with recommendations.",
+          "links": [
+            {
+              "text": "peer researchers",
+              "href": "/03/03/2025/an-opportunity-to-learn-grow-and-contribute-to-meaningful-change-2"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-ESYP-recommendations-image-Feb-25-1-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "ESYP recommendations image - Feb 25 1"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-24-at-19.16.51.jpeg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "WhatsApp Image 2025-02-24 at 19.16.51"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Reflections from participants of the project"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Parents and carers"
+        },
+        {
+          "type": "paragraph",
+          "text": "Before there is lots of programmes going on in the community, lots of events, lots of workshops, lots of fun fairs or something, in that time we used to go with the family member’s, meet with other family members, neighbours, to have a good time, but now because of the cost of living, funding is cut, less programmes so we can’t go anywhere and we stay home and we are just detached from the community… this is the way that cost of living [crisis] makes us more alone, and this is one sense; community wise; and in family wise cost of living also makes us cut some budgets.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sometimes a lack of certain skills and knowledge [around emotional support/wellbeing] also holds me back, because I get a bit nervous about whether I’m saying the right things to them or doing the right thing.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I want to be there for them but like I said I have to be outside working longer hours. By the time I come home I’m really tired, I just want to calm down after a hard day’s work. It’s a lot of pressure on my mind [and I need to] try and release that pressure (…) so I can’t really be there for them as I’d like to be there for them”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Young people"
+        },
+        {
+          "type": "paragraph",
+          "text": "And everyone is just so busy. Yeah. Like my friends are… they’re kind of struggling with finances as well. financially struggling, all of them. So everyone is kind of really busy. And we don’t really have the time to listen to other people’s problems because we’re trying to look after our own mental health, our own struggles.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The way it’s kind of affected my relationships is because I’m like in a low mood or a bad mood, or kind of angry outbursts… it’s like my relationships are less strong with like, my siblings, my grandma, it’s because I’m in a bad mood. Angry as well, like if my little siblings do something naughty, I’m quick to get angry, I’ll start shouting quite quickly.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I feel like I find I just find it awkward to talk about my feelings in general. So I feel like I wouldn’t really go to anyone unless it’s really serious.”"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "See our other research. Take a look through our research library"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "To stay up to date with this project and more, sign up to our e-newsletter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

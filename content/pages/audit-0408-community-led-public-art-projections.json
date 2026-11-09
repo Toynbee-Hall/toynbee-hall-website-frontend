@@ -1,0 +1,189 @@
+{
+  "slug": "audit-408-community-led-public-art-projections",
+  "route": "/community-led-public-art-projections/",
+  "title": "Community Led Public Art Projections",
+  "intro": "@ Mallon Gardens PUBLIC ART PROJECT Outdoor projector for community artWe have installed a high-spec projector on our premises for outdoor projection, which will be a community asset – for local people to submit and select creative works that are projected across Mallon Gardens onto the building opposite from us.… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/02/20230210_173252-scaled.jpg",
+    "alt": "Your Artwork Here projected onto wall in front of city skyline"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PUBLIC ART PROJECT"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Outdoor projector for community art"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have installed a high-spec projector on our premises for outdoor projection, which will be a community asset – for local people to submit and select creative works that are projected across Mallon Gardens onto the building opposite from us."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/02/20230210_173252-scaled.jpg",
+            "alt": "Your Artwork Here projected onto wall in front of city skyline",
+            "caption": "20230210_173252"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "The building opposite Toynbee Hall’s advice and community centre has a painted white brick facade, acting as a rough uneven canvas."
+        },
+        {
+          "type": "paragraph",
+          "text": "We currently have three ‘frames’ on the wall where we will position the projection of creative and artistic output identified and/or created by local people."
+        },
+        {
+          "type": "paragraph",
+          "text": "The projector is a long-term asset, specifically FOR the community to submit and curate a programme of creative work they would like to see in their local area."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are launching a rolling open call of submissions, which, if they meet the criteria and guidelines, will be included in our community public art projection programme."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Thank you for arranging for our films to be screened at Toynbee Hall. Seeing our films projected onto a building in such a beautiful urban setting was amazing!”"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to submit"
+        },
+        {
+          "type": "paragraph",
+          "text": "Submissions are welcome from local creatives, artists and other local people who may not call themselves as such but have artwork they’d like to exhibit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Local people may also nominate an artist or artwork that they like that they would like to see exhibited in their local area. Whilst we cannot guarantee we will be able to secure their work for the projector programme, we will try to meet these requests:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Submissions can be through any platform of visual art- still image/photography and video art – animations, GIFs or short-film • There is NO AUDIO available via the projector so all submissions are without sound • There is no cost to exhibit • At this stage, we have no budget to commission works or to pay people to exhibit. Video length between 2 – 5min, and be looped for up to 15 minutes. • To submit, you will need to live, work, study or have a community connection to Tower Hamlets. • Priority programming will be given to those based in the Spitalfields/Banglatown/Whitechapel area (E1)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The projector"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has 1 x Barco G100 – W22 integrated with BrightSign media player for use by local creatives and community."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-18-at-15.46.59.jpeg",
+            "alt": "Example of artwork projected onto wall",
+            "caption": "WhatsApp Image 2022-10-18 at 15.46.59"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Format and technical requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "The backdrop we will be projecting on is:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/10/cropped-Untitled-design-2-e1666166303202.png",
+            "alt": "White wall for projections",
+            "caption": "White wall for projections"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The resolution is 1920 x 1080"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Video: videos must be in H264 or H265 video formats"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Images: Images must be in PNG format"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Guidelines"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. The submission must follow the production/technical format requirements shared above. If you need support with formatting, you can get in touch with communications@toynbeehall.org.uk if you submit for help on this."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. The submission is uploaded in the correct format and is a working, safe link."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. The submitted work is guaranteed to not infringe the intellectual property rights and ownership of third parties. In the unlikely event that a dispute is filed by a third party due to infringement, the applicant themselves is solely responsible for the financial burden (including the attorney’s fees) and compensation of the damage so that all parties involved in this project are exempted from liability."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Please make sure that you can manage the copyright of materials such as photos /video used in the submitted work."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Toynbee Hall will not be responsible for any issues regarding copyright infringement or complaints."
+        },
+        {
+          "type": "paragraph",
+          "text": "6. Where a submission has been found to infringe any rights copyrights, Toynbee Hall will remove the submitted work from the programme."
+        },
+        {
+          "type": "paragraph",
+          "text": "7. As a community-asset, designed to project art work for the people living, working and enjoying the local area, the submission content must be considerate and appropriate for the viewing audience, which will include many people from children to elderly."
+        },
+        {
+          "type": "paragraph",
+          "text": "8. Submissions may have already been published, screened or presented at other exhibitions and in other spaces – this project is about amplifying art and creative work into public spaces, not limiting or controlling access."
+        },
+        {
+          "type": "paragraph",
+          "text": "9. We will NOT accept work that is: – Offensive to the viewers, including explicit or suggestive sexual content, strong religious views or party political messages. – advertising or promoting a brand, services or an organisation (non-exhaustive list) – discriminatory in any way, racist, promoting violence or perpetuating discord/divisions within the local area."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Other copyrights and usage rights"
+        },
+        {
+          "type": "paragraph",
+          "text": "10. The copyright of the submitted work belongs to the creator and the creator’s team. However, at the time of screening, the Toynbee Hallteam reserve the right to make several adjustments (such as image brightness, contrast, colour tone, volume adjustment etc.) to amplify the projection. The creator and the creator’s team shall not exercise any moral rights against Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "11. Toynbee Hall can record videos and photos of this project during its time as part of the community Projection programme. Toynbee Hall will own any recorded photos and videos that we take of the projection programme."
+        },
+        {
+          "type": "paragraph",
+          "text": "12. Any video and photos taken by Toynbee Hall may be used by us and other partners for promotion, publicity and reporting purposes of the project only."
+        },
+        {
+          "type": "paragraph",
+          "text": "13. Upon submitting the online application and creative work, the applicant agrees to all of the above and promises not to exercise copyright or moral rights against any use listed above."
+        }
+      ]
+    }
+  ]
+}

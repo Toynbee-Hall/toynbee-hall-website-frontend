@@ -1,0 +1,75 @@
+{
+  "slug": "audit-27-ripon-ray-answers-listeners-questions-on-bbc-money-box",
+  "route": "/03/12/2020/ripon-ray-answers-listeners-questions-on-bbc-money-box/",
+  "title": "Ripon Ray answers listeners questions on BBC Money Box",
+  "intro": "Ripon Ray, Quality Assurance Manager for Debt Free London was part of a panel helping people decide if taking a payments break is a good way to help with financial difficulties.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/12/BBC-money-box.jpg",
+    "alt": "BBC radio 4 money box"
+  },
+  "template": "article",
+  "publishedAt": "2020-12-03",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Ripon Ray, Quality Assurance Manager for Debt Free London was part of a panel helping people decide if taking a payments break is a good way to help with financial difficulties."
+        },
+        {
+          "type": "paragraph",
+          "text": "It’s been 8 months since the Financial Conduct Authority (FCA) introduced payment deferrals or holidays to support households on low incomes who are struggling to repay personal loans due to Covid 19. People have frozen payments on a range of debts including mortgages car loans, payday loans and credit cards, while originally temporary the FCA has extended the scheme until July next year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Money Box on BBC Radio 4 asked Ripon Ray from Toynbee Hall, the lead partner of Debt Free London, to be part of a panel to answer queries from people about their debts and finances which have been thrown into difficulty due to the pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "The show asks; is taking a break from regular payments on your mortgage, credit card or a loan for example a good way to help you through financial difficulties? The panel were asks what you should consider before deferring regular payments and whether there are alternatives or long term consequences for your money."
+        },
+        {
+          "type": "paragraph",
+          "text": "In response to a question around whether we’ve noticed any changes to the type of people accessing our services, Ripon responded:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“Absolutely, from the point of view of Debt Free London, we have actually seen an increase of 92% of clients who are looking for work compared to let’s say last year. On average though we are seeing 36% of those seeking advice having credit card debt, rent arrears 36% this year and 36% when it comes to Council Tax arrears so it does vary but however, we expect to see roughly between 200% and 300% increase access to our service”."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can listen to the progamme on BBC Iplayer here."
+        },
+        {
+          "type": "paragraph",
+          "text": "The panel also included Sam Nurse, Money Advice Hub and James Jones from Experian."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Get help with debt and money"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Call our freephone 0800 808 5700",
+            "WhatsApp – message on 0800 808 5700",
+            "WebChat – on our website at www.debtfree.london and click on the Chat Now button",
+            "Video Chat – on our website at www.debtfree.london/video, requires a computer or mobile device with a camera and microphone",
+            "Via video kiosk at one of our Digital Access Centres*"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "*As part of a new service to make debt advice available to everyone, we’re offering face-to-face advice in two Digital Access Centres. You can attend one of our centres in person and receive expert help from one of our advisers via a video kiosk. Our Digital Access Centres are at Toynbee Hall and Citizens Advice Islington."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

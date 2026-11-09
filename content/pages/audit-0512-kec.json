@@ -1,0 +1,91 @@
+{
+  "slug": "audit-512-kec",
+  "route": "/research/kec/",
+  "title": "Knowledge Exchange Circle",
+  "intro": "A new forum for knowledge exchange and co-production that aims to address social issues in East London and beyond.The Knowledge Exchange Circle (KEC) is a forum developed by Toynbee Hall as regular co-designed gatherings that enable people impacted by an issue, policymakers, and stakeholders to connect, share knowledge, and build relationships on equal… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/cropped-Pandemic-Stories-cover-image.jpg",
+    "alt": "Pandemic Stories Full Findings"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A new forum for knowledge exchange and co-production that aims to address social issues in East London and beyond."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Knowledge Exchange Circle (KEC) is a forum developed by Toynbee Hall as regular co-designed gatherings that enable people impacted by an issue, policymakers, and stakeholders to connect, share knowledge, and build relationships on equal terms to inspire action. Our goal is a new model for how communities and policymakers collaborate, leading to better decisions."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-Knowledge-Exchange-Circle.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Knowledge-Exchange-Circle.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read reflections from the London Policy and Strategy Network"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our Pilot Programme"
+        },
+        {
+          "type": "paragraph",
+          "text": "In our pilot programme we looked to co-design East London’s recovery from COVID-19. Working with peer researchers from marginalised groups we created a structure which – through iterative design – shaped a forum that better equalised the power gap between resident and stakeholders. As part of the core group of 30 policymakers and organisations such as the DWP, London Councils, GLA, NHS, and Ofgem, joined low-income people to explore priorities for the area across the course of a year. This core group selected three key priorities and formulated sub groups to explore the topics of education and employment, debt, and co-design itself."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/Knowledge-Exchange-Circle-Visual-Notes.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Knowledge Exchange Circle Visual Notes"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Visual notes from our final event for the first iteration of the Knowledge Exchange Circle"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Reflections from Participants"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

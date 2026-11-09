@@ -1,0 +1,51 @@
+{
+  "slug": "audit-162-a-new-adventure-everyday-my-experience-as-a-heritage-volunteer-at-toynbee-hall",
+  "route": "/16/04/2018/a-new-adventure-everyday-my-experience-as-a-heritage-volunteer-at-toynbee-hall/",
+  "title": "A New Adventure Everyday – My experience as a Heritage Volunteer at Toynbee Hall",
+  "intro": "By Henna Khanom, Heritage Volunteer As a lover of history, Toynbee Hall never fails to excite me. Working with Eleanor (Heritage Learning and Participation Manager) to digitalise Toynbee Hall’s extensive archive meant I could pore over record after record of Toynbee Hall’s associates. These date all the way back to the late 19th century and… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/Attlee_and_boys_1930s.jpg",
+    "alt": "A New Adventure Everyday – My experience as a Heritage Volunteer at Toynbee Hall — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-04-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "By Henna Khanom, Heritage Volunteer"
+        },
+        {
+          "type": "paragraph",
+          "text": "As a lover of history, Toynbee Hall never fails to excite me. Working with Eleanor (Heritage Learning and Participation Manager) to digitalise Toynbee Hall’s extensive archive meant I could pore over record after record of Toynbee Hall’s associates. These date all the way back to the late 19th century and so there are quite a few to get through!"
+        },
+        {
+          "type": "paragraph",
+          "text": "But the large number of records is what makes the archive so fascinating: they’re filled with so many interesting people. Learning about these figures from Toynbee Hall’s history is a new adventure everyday. From Deans and Masters of Oxford, to Britain’s most popular modern Prime Minister, Clement Attlee (a hero of mine), Toynbee Hall has played an important role in modern British history. By volunteering here, you get a real sense of the pride people have for the place. Even just walking past the black and white photos on display gives you a strong sense of it’s history.",
+          "links": [
+            {
+              "text": "Clement Attlee",
+              "href": "https://www.ipsos.com/ipsos-mori/en-uk/rating-british-prime-ministers"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "On the other side of my volunteering, I work with Theresa (Heritage Volunteer Co-ordinator) for Toynbee Hall’s upcoming Heritage Exhibition. Collecting and interpreting research, scouring through old photos, and cataloguing documents has all been great fun. The exhibitions themes (housing, charity and welfare, living as neighbours to name just a few) have been eye-opening to research – I can’t wait to see the finished exhibition firsthand. Being a local east Londoner myself, its refreshing to learn about authentic local history."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m off to study History at university next year and volunteering at Toynbee Hall has made me appreciate the importance of community history, of working-class history, something the British educational curriculum never teaches you. But what I’ve loved most about volunteering at Toynbee Hall is the people I get to talk to every week. The personalities you get to meet here makes the volunteering twice as rewarding."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have some exciting Research and Heritage opportunities coming up. If you’re interested in volunteering with us, please come along to our Volunteer Open Day on Saturday 3rd March."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

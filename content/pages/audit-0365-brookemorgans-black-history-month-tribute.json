@@ -1,0 +1,28 @@
+{
+  "slug": "audit-365-brookemorgans-black-history-month-tribute",
+  "route": "/29/10/2020/brookemorgans-black-history-month-tribute/",
+  "title": "Brookemorgan’s Black History Month Tribute",
+  "intro": "When We Speak participant Brookemorgan has created a tribute to celebrate her fantastic mother during Black History Month. Find the incredibly moving poetry/visual piece below.",
+  "template": "article",
+  "publishedAt": "2020-10-29",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "When We Speak participant Brookemorgan has created a tribute to celebrate her fantastic mother during Black History Month. Find the incredibly moving poetry/visual piece below."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/Brookemorgans-Black-Hero--576x1024.png",
+            "alt": "Brookemorgan's Black hero"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

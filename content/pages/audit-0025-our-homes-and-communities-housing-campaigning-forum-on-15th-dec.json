@@ -1,0 +1,55 @@
+{
+  "slug": "audit-25-our-homes-and-communities-housing-campaigning-forum-on-15th-dec",
+  "route": "/03/12/2018/our-homes-and-communities-housing-campaigning-forum-on-15th-dec/",
+  "title": "Our Homes and Communities: Housing forum on Saturday 15th December",
+  "intro": "Come meet some of the leading community groups and organisations that campaign for affordable housing, for the rights of private and social tenants, against the privatisation of social housing and for the safety of all in tower blocks. 12:30pm – 3pm, Saturday 15th December at Toynbee Hall, 28 Commercial Street, London, E1 6LS The “housing… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/12/Housing-event-visual.png",
+    "alt": "Housing forum at Toynbee Hall 15th December"
+  },
+  "template": "article",
+  "publishedAt": "2018-12-03",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Come meet some of the leading community groups and organisations that campaign for affordable housing, for the rights of private and social tenants, against the privatisation of social housing and for the safety of all in tower blocks."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "12:30pm – 3pm, Saturday 15th December at Toynbee Hall, 28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "The “housing crisis” debate can make us feel powerless and isolated, but Toynbee Hall is organising a Housing Forum open to all so you can hear about current projects and initiatives that you can get involved with to resist and empower our homes and communities."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first part will have a forum format where you will have the opportunity to meet each organisation at their stall, so you can get specific and relevant information on your rights to housing. In the second part of the event, we will all come together for a discussion on each organisation’s approach, with a panel of speakers there to answer any questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "WITH: Defend Council Housing Tower Blocks UK Rainbow Collective London Renters Union Tanya Murat (Up the Elephant)"
+        },
+        {
+          "type": "paragraph",
+          "text": "**Kids corner!** Our event will have a kids corner with special arts and crafts and storytelling activities, run by our Resident Storyteller. Bring the whole family!"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This event is free, open to all and there’s no need to book Our venue is fully accessible."
+        },
+        {
+          "type": "paragraph",
+          "text": "Part of the Residential Volunteering Programme – Heritage Lottery Fund."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

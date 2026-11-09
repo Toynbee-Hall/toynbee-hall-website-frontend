@@ -1,0 +1,153 @@
+{
+  "slug": "audit-455-fundraise-for-us",
+  "route": "/get-involved/support-us/fundraise-for-us/",
+  "title": "Fundraise for us",
+  "intro": "From hosting coffee mornings to tackling a marathon, we can support you to fundraise for people facing injustice and inequality.Our Fundraising team are happy to share ideas, talk through plans, and offer support at eage stage of your fundraising journey.Email fundraising@toynbeehall.org.uk and a member of the team will be happy to help.… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Fundraise for us"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our Fundraising team are happy to share ideas, talk through plans, and offer support at eage stage of your fundraising journey."
+        },
+        {
+          "type": "paragraph",
+          "text": "Email fundraising@toynbeehall.org.uk and a member of the team will be happy to help.",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/08/cropped-Event-catering-2-1.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/04/cropped-IMG_20220403_090356-1414x1080-1.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Hosting a fundraising event"
+        },
+        {
+          "type": "paragraph",
+          "text": "Whether you’ve got something in mind or need a little inspiration, our team can help you make the most of your time and effort."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the past our supporters have: • organised karaoke events • shaved their heads • organised car boot sales • hosted pub quizzes • organised competitive game nights • held 24-hour table football tournaments"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How can we help?"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Printing, posters and promotion. We have a host of resources to help get your name out there and ensure your event is the talk of the town."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Collections and admin. We can help with collections on the day and provide buckets and money boxes to help you keep your donations in one place."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Need a few extra hands to ensure your event runs as smoothly as possible? Our team is on hand to help! Just let us know what you need and we’ll be there."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Challenge and sports fundraising"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can take part in any challenge, any place, anywhere – from a local 5k to an ultramarathon – to raise money to support people living in poverty."
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Pick your challenge Browse sites such as Time Outdoors, Running Diary, and Discover Adventure for a range of challenges you can get involved in. You can also sign up to our e-news and be the first to know when we have spaces available in events like the Santa Run or London to Brighton Cycle!"
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Pick your fundraising target and set up your fundraising page JustGiving and Virgin Money Giving both offer secure platforms for your friends and family to donate to."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Get in touch with out Fundraising team They can provide you help and tips on how to fundraise. Get in touch.",
+          "links": [
+            {
+              "text": "Get in touch",
+              "href": "mailto:fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Start training and working towards your target"
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Event day! Have fun, you’ve worked hard for it!"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Enjoy!"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/cropped-Santa-Run.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Santa-Run.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "“The Santa Run was a brilliant way to support Toynbee Hall and have a fun morning as a family. My son loved waving to supporters and my daughter slept through the whole thing, waking just as we crossed the finishing line! Despite the rain, there was a fantastic atmosphere and we’d certainly do it again another year. Toynbee provided all the information and support we needed to complete the event and encourage our friends and family to support us.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I was lucky enough to get a place to run the London Marathon and chose to fundraise for Toynbee Hall as I had previously volunteered with the organisation and had seen firsthand the great work it does. I really enjoyed running the London Marathon – the sense of achievement at the end was great, and definitely worth the pain along the way! However, what really left its mark on me was the sense of community amongst the runners, as well as the amazing support given by the crowds. The sense of goodwill from the local community in the outskirts of London was also really heartening, with many people coming out of their homes to encourage the runners and offer us drinks and food.”"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Join us! Subscribe to our quarterly e-newsletter to get the latest news and updates from Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall needs the contact information you provide to contact you about with the latest news, events and updates. You may unsubscribe from these communications at any time. For information on how to unsubscribe as well as our privacy practices and commitment to protecting your privacy, you can read our data protection policy here.",
+          "links": [
+            {
+              "text": "data protection policy here",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/Data-Protection-Policy-v3.0.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

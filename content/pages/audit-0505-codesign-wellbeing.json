@@ -1,0 +1,118 @@
+{
+  "slug": "audit-505-codesign-wellbeing",
+  "route": "/research/codesign-wellbeing/",
+  "title": "Co-designing Emotional Wellbeing Activities",
+  "intro": "Thriving TogetherCo-designed emotional wellbeing activities for young people (14-22) and their familiesYoung people and their families are under increasing strain, and there are a lack of spaces that facilitate building emotional support structures to protect mental health. We will soon be starting phase two of our co-designed ‘Thriving Together’ project. This project is for young people… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Co-designed emotional wellbeing activities for young people (14-22) and their families"
+        },
+        {
+          "type": "paragraph",
+          "text": "Young people and their families are under increasing strain, and there are a lack of spaces that facilitate building emotional support structures to protect mental health. We will soon be starting phase two of our co-designed ‘Thriving Together’ project. This project is for young people (14-22 years old) in Tower Hamlets and their families. Through a series of youth-led workshops we aim to improve the mental and emotional wellbeing of young people and their families in Tower Hamlets by: • Building strong community connections between young people, parents/carers, and local support services. • Providing practical mental health and financial wellbeing support, including stress management, emotional resilience, and money management. • Fostering open communication and peer learning, creating safe spaces where participants can share experiences and learn from each other. If you want to be involved or are keen to find out more, please contact research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/cropped-cropped-Parents-emotional-support-wall-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Parents emotional support wall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download our ESYP research"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What happened in Phase One?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drawing from the findings of our PAR project on Emotional Support for Young People, which explored young people’s emotional support needs during the cost of living crisis, we trialled a new approach to wellbeing. Co-designed with young people and local residents we organised a series of workshops for young people aged 14-22 and parents/guardians of young people. The project began by building connections among young people and their parents/carers in Tower Hamlets through youth-led wellbeing activities. This created a trusting environment where participants could openly share and learn from each other. Key activities included: • Mental health workshops on stress management delivered by local services. • Financial wellbeing workshops delivered by the Money Charity. • Emotional resilience and communication workshops delivered by Blooming Parenting. Peer researchers who led the earlier Emotional Support for Young People (ESYP) work helped co-design and deliver these sessions, making sure they were relevant and grounded in participants’ experiences. Read more from our peer researcher Mehjabin on the process.",
+          "links": [
+            {
+              "text": "Emotional Support for Young People",
+              "href": "/research/esyp"
+            },
+            {
+              "text": "the Money Charity.",
+              "href": "https://themoneycharity.org.uk"
+            },
+            {
+              "text": "Blooming Parenting",
+              "href": "https://bloomingparenting.com"
+            },
+            {
+              "text": "peer researcher Mehjabin on the process",
+              "href": "/26/02/2025/an-opportunity-to-learn-grow-and-contribute-to-meaningful-change"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you for the amazing session yesterday. Even after a whole day at the office, I felt very energised and it was so lovely to do activities with the community together, something that hasn’t been around in a while.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And I feel like these icebreakers are actually like fun. They’re not just about speaking, you get put into teams, you do things. You’re just in that position and just end up connecting with people without even intentionally like doing it.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "During the session, I feel like it’s quite productive, like whether it’s new faces or the same faces, I feel like I’m always learning something. And when you leave, I feel like everyone’s just, you’re left in a high and we’re all like, smiling as we go.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "But I think my main negative emotion is, like, stress. Like, work related stress, study related stress, so I think, from coming to these sessions, I think I mentioned it a lot, but like [it’s] a bit of a de-stress. I feel like it actually makes a very positive impact to my life. Because, like, when I have a clear mind and I’m like, speaking to people, you just automatically feel like you a raised, like, higher mood levels and stuff.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "“I think especially since because a lot of them [interactions with parents’ generation], it’s literally young person vs parents. So it can be more intimidating that way, but I think it’s been… that’s where I put the confidence, because I don’t know, it’s like, it’s not like a battle thinking, you know, when at home you’re speaking, and you’re just like the young person vs parents, and it’s like, there’s always negative stuff, but I feel like here it was quite supportive, and everyone built on everyone’s ideas, and confidence as well with opportunities.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I think it’s more of a de-stressor, like, after like, a very long stressful day, like, I want to come here and, like, connect with people and just like, have fun and joy. And I think in terms of, yeah, so that even, like, for days I have, like, I know I’m coming to Toynbee Hall. I like, wake up 10 minutes earlier to get into work 10 minutes earlier so I can leave earlier [and come to the session]”"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

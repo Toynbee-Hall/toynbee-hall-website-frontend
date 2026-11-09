@@ -1,0 +1,128 @@
+{
+  "slug": "audit-332-how-to-run-an-effective-board-meeting",
+  "route": "/27/07/2020/how-to-run-an-effective-board-meeting/",
+  "title": "How to Run an Effective Board Meeting",
+  "intro": "Board meetings are a crucial part of an organisation’s future strategy and corporate policy. Whether you’re an experienced chairperson or it’s your first time acting as board liaison, there is a list of details you should consider when planning your board meeting. From hiring a venue to the final follow up, we take a look… Read more",
+  "template": "article",
+  "publishedAt": "2020-07-27",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Board meetings are a crucial part of an organisation’s future strategy and corporate policy. Whether you’re an experienced chairperson or it’s your first time acting as board liaison, there is a list of details you should consider when planning your board meeting. From hiring a venue to the final follow up, we take a look at how to run an effective board meeting."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Before the Board Meeting"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Creating and communicating your agenda"
+        },
+        {
+          "type": "paragraph",
+          "text": "Having a purposeful board meeting agenda with specific topics will ensure focus is directed effectively. Time allocations need to be aligned with the priority of issues you’ll be addressing. For example, if KPIs are a centre of interest, you’ll need more time to go through the financial reports with the board members."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once your agenda is ready, it needs to be sent to all attendees along with the board meeting pack. Ideally, you should ask to have individual calls with each member to see if there are any additional matters they would like to discuss during the meeting. This will help you build rapport, grant you more control on the day and confirm that everyone truly understands your assessment."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Choosing the perfect venue"
+        },
+        {
+          "type": "paragraph",
+          "text": "The critical element of creating a good ambience for your board function is finding the right meeting room. The meeting space, the layout and the size of the venue hall play an important part in setting the tone. Search for a meeting venue with plenty of function rooms for hire, including private dining rooms. Make sure that there is audio-visual equipment available, as well as a catering service."
+        },
+        {
+          "type": "paragraph",
+          "text": "For those who want to move away from in-house conference rooms in favour of a more original backdrop, choosing a historic venue can redefine the entire outcome. Hotels with plain walls and standard decor can be notoriously conventional and unremarkable, which is why it’s essential to find an event space that your board of directors can engage and relate with."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "During the Meeting"
+        },
+        {
+          "type": "paragraph",
+          "text": "At the start of the board meeting, the chairperson (typically the CEO) will summarise the agenda items for no longer than 20 minutes. The agenda is then approved by the board members who can request last-minute additions or adjustments. This is followed by taking care of issues discussed during the previous session, also known as meeting minutes. The corporate secretary usually reads them out, but they can also be sent along with the agenda for approval prior to the board meeting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Make sure to explain the structure of the board meeting package so that everyone knows what to expect. This will avoid confusion and unnecessary interruptions. You can then go through old business, new business and any outstanding matters. Unless the board chair has any special announcements to make, you can open up the floor for any other disclosures that might be of interest to the membership."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Follow up"
+        },
+        {
+          "type": "paragraph",
+          "text": "During the board meeting, you should have someone taking notes and steps for follow up. This could be your corporate secretary or any other person within the administration. This will ensure that there is a formal record of issues to be resolved or addressed before the next meeting, including who is responsible for these assignments. An email should be sent to all the members with a breakdown of these action items and who they belong to."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Final Tips"
+        },
+        {
+          "type": "paragraph",
+          "text": "Running a board meeting is very much like event planning – everything needs to be planned to the last detail in order to run smoothly. The key to an effective meeting is keeping distractions in check while making sure that everyone’s voice is heard. Productive board meetings should always involve open communication with a focus on strategic actions for the benefit of organisational goals.",
+          "links": [
+            {
+              "text": "event planning",
+              "href": "/26/05/2020/how-to-plan-an-event-tips-from-the-barnetts/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Meeting Room Hire for Corporate Events and Board Meetings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has a selection of hall spaces for hire, ideal for corporate events. Depending on the size and purpose of your board meeting, you can choose from a range of modern training rooms to historic halls such as the Lecture Hall and the Ashbee Hall.",
+          "links": [
+            {
+              "text": "corporate events",
+              "href": "/16/06/2020/what-makes-a-good-conference-venue/"
+            },
+            {
+              "text": "Lecture Hall",
+              "href": "/events/the-lecture-hall/"
+            },
+            {
+              "text": "Ashbee Hall",
+              "href": "/events/the-ashbee-hall/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We provide a variety of facilities and additional services including A/V equipment and events catering that is tailored for corporate functions. Our event management team can also accommodate special requirements. Speak to our team today!",
+          "links": [
+            {
+              "text": "Speak to our team",
+              "href": "/events/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/06/Lecture-Portrait-Cabaret-Toynbee-TH-1024x621.jpg",
+            "alt": "Toynbee Hall Conference Venue"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "Events Blogs"
+}

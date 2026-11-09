@@ -1,0 +1,81 @@
+{
+  "slug": "audit-297-theatre-of-the-oppressed",
+  "route": "/25/04/2019/theatre-of-the-oppressed/",
+  "title": "Theatre of the Oppressed: Tackling loneliness through interactive workshops",
+  "intro": "Following research undertaken last year which discovered that loneliness is a real problem in our community, we held a series of workshops for people to share their experiences of loneliness in a fun and creative way. In response to our Older Peoples peer research project last year, which discovered that loneliness is a real problem… Read more",
+  "template": "article",
+  "publishedAt": "2019-04-25",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Following research undertaken last year which discovered that loneliness is a real problem in our community, we held a series of workshops for people to share their experiences of loneliness in a fun and creative way."
+        },
+        {
+          "type": "paragraph",
+          "text": "In response to our Older Peoples peer research project last year, which discovered that loneliness is a real problem in our community, we wanted to explore this issue further together and find some ways to help people out of social isolation.",
+          "links": [
+            {
+              "text": "Older Peoples peer research project",
+              "href": "/06/09/2018/new-peer-led-research-reveals-the-needs-of-older-people-in-tower-hamlets/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Resident Social Action Innovator Annick Metefia, organised the workshop and brought in expert facilitator Gaynor Smith. Gaynor is a drama teacher and currently a youth worker for DreamArts, who specialises in working with community groups on a wide range of social issues using drama techniques."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following a successful taster session where Gaynor ran several icebreakers activities, designed to lead into deep conversations about loneliness and isolation, we introduced guest co-facilitator Rose Swainston, an Independent support worker at Caxton Youth Organisation."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/04/Theatre-of-the-oppressed-image-for-web-story-2.png-1024x768.jpg",
+            "alt": "The group write a poem reflecting loneliness and disconnection"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "During the sessions, participants took part in several activities and gesturing games meant to engage and activate their imaginations. In connection with National Poetry Day, the group was then split into two groups. One group put together a “sculpture” or frame to represent both belonging and disconnection, and the second group wrote several collective poems. Here is example of one of these."
+        },
+        {
+          "type": "paragraph",
+          "text": "Group poem: Walking alone/Disconnection Disconnection is… A woman anxious about hearing the news, Lonely because she lost her friends, Family far away She needs to find a way to be reconnected English as a second language At the chippie trying to make an order Strange words, strange country, Barriers all around and her “Would you like a cup of tea?” Connection is Offering tea, playing football, dancing Conversations emerging through actions, The woman enters the place where she has no need to fear, Meeting like-minded people, She learns to live."
+        },
+        {
+          "type": "paragraph",
+          "text": "One of the group then made a connection between the poem and her own life:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“It is a little bit like my story. I would have been dead if I hadn’t found out about a place like Toynbee. I was like “wow, here there are people who speak my language, I can chat, do activities, tai chi… I’m so appreciative of that”."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was followed by a sharing and open rehearsal session on Friday12th April, where participants were encourage to project their voice across the room and to get louder, in preparation for their performance to a live audience later that afternoon."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are now looking at how we can offer more workshops or a performance event and how we can provide a platform for the group to help them influence policy makers to do more to tackle loneliness and social isolation through their work."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about our current research projects.",
+          "links": [
+            {
+              "text": "Find out more about our current research projects",
+              "href": "/other-projects/research/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

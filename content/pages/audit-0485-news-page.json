@@ -1,0 +1,13 @@
+{
+  "slug": "audit-485-news-page",
+  "route": "/news-page/",
+  "title": "News",
+  "intro": "[frontpage_news widget=”309″ name=”Latest News”]",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/01/toynbeeViewCropped.png",
+    "alt": "News — Toynbee Hall"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

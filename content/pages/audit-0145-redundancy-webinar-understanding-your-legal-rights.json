@@ -1,0 +1,52 @@
+{
+  "slug": "audit-145-redundancy-webinar-understanding-your-legal-rights",
+  "route": "/14/08/2020/redundancy-webinar-understanding-your-legal-rights/",
+  "title": "Redundancy Webinar: Understanding Your Legal Rights",
+  "intro": "Join us on 27th August for a discussion on how you can establish your legal rights when facing redundancy. As the government’s ‘furlough’ scheme comes to an end, the economic impact of COVID-19 means that many employees will now be at risk of redundancy. This webinar will outline what a fair process should look like,… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/08/Redundancy-Webinar-Image.png",
+    "alt": "FLAC webinar: Redundancy - Understanding your legal rights"
+  },
+  "template": "article",
+  "publishedAt": "2020-08-14",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us on 27th August for a discussion on how you can establish your legal rights when facing redundancy."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the government’s ‘furlough’ scheme comes to an end, the economic impact of COVID-19 means that many employees will now be at risk of redundancy."
+        },
+        {
+          "type": "paragraph",
+          "text": "This webinar will outline what a fair process should look like, what rights to alternative job roles you might have, and in what circumstances you will be entitled to a redundancy payment (and how much you can expect should you receive one). It will also briefly outline how you can take action if you think your employer has acted unlawfully."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please note that although we may use case studies as examples, we will not be able to answer specific enquiries about individual cases and situations."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Thursday, 27 August 2020"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "14:00 – 15:30 BST"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sign up here"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

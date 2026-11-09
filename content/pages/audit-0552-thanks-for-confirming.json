@@ -1,0 +1,32 @@
+{
+  "slug": "audit-552-thanks-for-confirming",
+  "route": "/thanks-for-confirming/",
+  "title": "Thanks for confirming",
+  "intro": "Thank you for confirming Thank you for confirming that you’d like to stay in touch with Toynbee Hall and hear about our latest campaigns, news, and events. You can opt-out of these correspondences, or refine your preferences at any time, by emailing fundraising@toynbeehall.org.uk.",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Thank you for confirming"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you for confirming that you’d like to stay in touch with Toynbee Hall and hear about our latest campaigns, news, and events. You can opt-out of these correspondences, or refine your preferences at any time, by emailing fundraising@toynbeehall.org.uk."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/02/IMG_4850.jpg",
+            "alt": "Toynbee Hall garden space",
+            "caption": "IMG_4850"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "audit-103-nothing-about-us-without-us-toynbee-hall-joins-the-united-nations-institute-for-training-and-research-for-launch-of-the-new-global-centre-of-excellence-on-ageing",
+  "route": "/10/05/2023/nothing-about-us-without-us-toynbee-hall-joins-the-united-nations-institute-for-training-and-research-for-launch-of-the-new-global-centre-of-excellence-on-ageing/",
+  "title": "“Nothing about us without us,” Toynbee Hall joins the United Nations Institute for Training and Research for launch of the new Global Centre of Excellence on Ageing",
+  "intro": "On Thursday 27th April, Toynbee Hall Peer Researcher, Bee Eng Lim, and Head of Research, Dr Xia Lin attended University of Surrey panel event with the United Nations Institute for Training and Research. As Luis Gallegos, President of the United Nations Institute for Training and Research (UNITAR), emphasized during his speech at the launch of… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/mmexport1682629757883_edit_27369854873947.jpg",
+    "alt": "Bee and Dr Xia Lin photographed with Luis Gallegos, President of United Nations Institute for Training and Research (UNITAR) and Silvia Candamil Neira, vice president of the United Nations Global Initiative on Ageing"
+  },
+  "template": "article",
+  "publishedAt": "2023-05-10",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "On Thursday 27th April, Toynbee Hall Peer Researcher, Bee Eng Lim, and Head of Research, Dr Xia Lin attended University of Surrey panel event with the United Nations Institute for Training and Research."
+        },
+        {
+          "type": "paragraph",
+          "text": "As Luis Gallegos, President of the United Nations Institute for Training and Research (UNITAR), emphasized during his speech at the launch of new Global Centre of Excellence on Ageing, “nothing about us without us,”. This serves as a reminder of the importance of co-producing research and solutions with communities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall peer researcher Bee Eng Lim and Head of Research Dr Xia Lin attended a panel discussion at the University of Surrey, where the launch of its new Centre of Excellence on Aging was celebrated under the auspices of the United Nations.",
+          "links": [
+            {
+              "text": "the launch of its new Centre of Excellence on Aging",
+              "href": "https://www.surrey.ac.uk/news/new-global-centre-excellence-ageing-launches-clear-call-action-against-ageism"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We are collaborating with the University of Surrey on a Participatory Action Research project aimed at exploring ways to transform cafes and pubs into age-friendly spaces that could reduce levels of loneliness and social isolation among older adults. At the launch, we learned about groundbreaking research at the University on aging, including changing lighting in care homes, understanding the impact of the immune system, and digital innovation. We are thrilled to be part of this research community."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the panel, our peer researcher Bee Eng Lim expressed her enthusiasm for our work at Toynbee Hall, which aligns with the UN Decade of Healthy Ageing’s goals and the Sustainable Development Goals (SDGs) by improving the overall standard of living, participation, and inclusion of the world’s ageing population."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Centre will work to improve our understanding of the life course and ageing and will focus on processes ranging from preconception through to appreciating the treatment of the older population."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about Toynbee Hall’s current Peer Research.",
+          "links": [
+            {
+              "text": "Find out more about Toynbee Hall’s current Peer Research.",
+              "href": "/research/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

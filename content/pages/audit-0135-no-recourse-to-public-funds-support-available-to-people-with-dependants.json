@@ -1,0 +1,112 @@
+{
+  "slug": "audit-135-no-recourse-to-public-funds-support-available-to-people-with-dependants",
+  "route": "/13/07/2020/no-recourse-to-public-funds-support-available-to-people-with-dependants/",
+  "title": "No recourse to public funds – support available to people with dependants",
+  "intro": "Free Legal Advice Centre Volunteer, Laura S M Humayun explains what having no recourse to public funds means and what is support is available. What does no recourse to public funds mean? Generally, reference to public funds refers to state benefits, tax credits or housing support from the government. Someone with no recourse to public… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/07/NRPF-poster.png",
+    "alt": "No recourse to public funds - people with dependants"
+  },
+  "template": "article",
+  "publishedAt": "2020-07-13",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Free Legal Advice Centre Volunteer, Laura S M Humayun explains what having no recourse to public funds means and what is support is available."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What does no recourse to public funds mean?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Generally, reference to public funds refers to state benefits, tax credits or housing support from the government. Someone with no recourse to public funds (NRPF) cannot access these because of their immigration status. This includes individuals in the UK on: spouse visas, student visas and those with limited leave to remain granted under family or private life rules.",
+          "links": [
+            {
+              "text": "state benefits",
+              "href": "https://www.gov.uk/government/publications/public-funds--2/public-funds"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“I felt like no one could hear my voice and no one was out there to listen to me”"
+        },
+        {
+          "type": "paragraph",
+          "text": "A previous client at Toynbee Hall explained how the NRPF condition impacted her. She was initially disappointed at how little help she could access. The need to provide for herself and her family without benefits or further government aid was challenging. The client recalls how she kept finding herself in a difficult position, unable to provide for many basic necessities. Whenever she turned for help, she was rejected. The NRPF condition impacted all aspects of her life. She expressed that many other families can be stuck in a similar position which has a negative effect on the children."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Lockdown and COVID-19:"
+        },
+        {
+          "type": "paragraph",
+          "text": "During this pandemic, those with NRPF cannot access some of the benefits or other support offered by the government. Some of the difficulties faced by those with NRPF include the inability to purchase fresh food or secure suitable accommodation. This means some are unable to fend for themselves and have to rely on others for help. As a result, this can have significant negative impact on their mental health and bring other challenges."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Support available"
+        },
+        {
+          "type": "paragraph",
+          "text": "Social service support is not considered to fall into the public funds category. Local authorities have duties towards their residents. They have a duty to:"
+        },
+        {
+          "type": "paragraph",
+          "text": "– Assist families with a child in need – Assist young people (care leavers) – Assist adults with care needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "This can include providing accommodation and financial support to homeless families or those at risk of homelessness"
+        },
+        {
+          "type": "paragraph",
+          "text": "The government has asked local councils to provide support for families with NRPF requiring shelter or financial assistance during this pandemic.",
+          "links": [
+            {
+              "text": "asked local councils",
+              "href": "http://www.nrpfnetwork.org.uk/News/Pages/coronavirus-update.aspx"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall’s Free Legal Advice Centre offers legal advice for those with no recourse to public funds. We will be providing remote advice through telephone and video conferencing where possible. Interpreters can be arranged if requested. On the first and third Saturday of every month, women can seek advice from our female advisors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please note: These services are appointment only so please contact us."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "email: flac@toynbeehall.org.uk"
+        },
+        {
+          "type": "paragraph",
+          "text": "NRPF Network Factsheet",
+          "links": [
+            {
+              "text": "NRPF Network Factsheet",
+              "href": "http://www.nrpfnetwork.org.uk/Documents/coronavirus-factsheet.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "(support available during COVID-19)"
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

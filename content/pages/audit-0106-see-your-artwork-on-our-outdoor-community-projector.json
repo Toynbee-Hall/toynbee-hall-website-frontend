@@ -1,0 +1,96 @@
+{
+  "slug": "audit-106-see-your-artwork-on-our-outdoor-community-projector",
+  "route": "/10/10/2023/see-your-artwork-on-our-outdoor-community-projector/",
+  "title": "See your artwork on our outdoor community projector",
+  "intro": "We invite local people to submit and select creative works to be projected across Mallon Gardens. Autumn is here and the long winter nights are beginning to draw in, but it’s not all doom and gloom. This means we can restart our community-led public art projection programme. We have a high-spec projector on our premises… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/02/20230210_173252-scaled.jpg",
+    "alt": "Your Artwork Here projected onto wall in front of city skyline"
+  },
+  "template": "article",
+  "publishedAt": "2023-10-10",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We invite local people to submit and select creative works to be projected across Mallon Gardens."
+        },
+        {
+          "type": "paragraph",
+          "text": "Autumn is here and the long winter nights are beginning to draw in, but it’s not all doom and gloom. This means we can restart our community-led public art projection programme."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have a high-spec projector on our premises for outdoor projection, which is a community asset – for local people to submit and select creative works that are projected across Mallon Gardens onto the building opposite from us."
+        },
+        {
+          "type": "paragraph",
+          "text": "The building opposite Toynbee Hall’s advice and community centre has a painted white brick façade, acting as a rough uneven canvas."
+        },
+        {
+          "type": "paragraph",
+          "text": "We currently have three ‘frames’ on the wall where we will position the projection of creative and artistic output identified and/or created by local people."
+        },
+        {
+          "type": "paragraph",
+          "text": "The projector is a long-term asset, specifically FOR the community to submit and curate a programme of creative work they would like to see in their local area."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are launching a rolling open call of submissions, which, if they meet the criteria and guidelines, will be included in our community public art projection programme."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to submit"
+        },
+        {
+          "type": "paragraph",
+          "text": "Submissions are welcome from local creatives, artists and other local people who may not call themselves as such but have artwork they’d like to exhibit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Local people may also nominate an artist or artwork that they like that they would like to see exhibited in their local area. Whilst we cannot guarantee we will be able to secure their work for the projector programme, we will try to meet these requests:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Submissions can be through any platform of visual art- still image/photography and video art – animations, GIFs or short-film"
+        },
+        {
+          "type": "paragraph",
+          "text": "• There is NO AUDIO available via the projector so all submissions are without sound"
+        },
+        {
+          "type": "paragraph",
+          "text": "• There is no cost to exhibit"
+        },
+        {
+          "type": "paragraph",
+          "text": "• At this stage, we have no budget to commission works or to pay people to exhibit. Video length between 2 – 5min, and be looped for up to 15 minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "• To submit, you will need to live, work, study or have a community connection to Tower Hamlets."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Priority programming will be given to those based in the Spitalfields/Banglatown/Whitechapel area (E1)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about our community projector.",
+          "links": [
+            {
+              "text": "Find out more about our community projector.",
+              "href": "/community-led-public-art-projections/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

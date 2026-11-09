@@ -1,0 +1,53 @@
+{
+  "slug": "audit-450-oitij-jo-x-whitechapel-gallery",
+  "route": "/fundraising-events/oitij-jo-x-whitechapel-gallery/",
+  "title": "Oitij-jo x Whitechapel Gallery",
+  "intro": "Join the Whitechapel Gallery for an evening programme of music, film and food curated by Oitij-jo, following a day of performances and workshops celebrating British Bengali arts and culture on Petticoat Lane. Oitij-jo is dedicated to providing creative collaborations and platforms to enhance British/Bangla engagement w",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/Oiti-jo-day-festival-09_09.jpg",
+    "alt": "Oiti Jo Collective present - Day festival"
+  },
+  "template": "event",
+  "dateLabel": "Saturday 9th September 2023",
+  "timeLabel": "6pm – 12am",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Saturday 9th September 2023, 6pm – 12am"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Full lineup coming soon"
+        },
+        {
+          "type": "paragraph",
+          "text": "This event takes place in Gallery 2 at Whitechapel Gallery, a ground floor space."
+        },
+        {
+          "type": "paragraph",
+          "text": "– You do not require a ticket to attend this event, however if we reach capacity you may be refused entry"
+        },
+        {
+          "type": "paragraph",
+          "text": "– You are welcome to bring children to this event"
+        },
+        {
+          "type": "paragraph",
+          "text": "– We are unable to provide British Sign Language interpretation for this event"
+        },
+        {
+          "type": "paragraph",
+          "text": "– We are unable to provide live closed captioning or CART for this event."
+        },
+        {
+          "type": "paragraph",
+          "text": "– This event last approximately 6 hours."
+        }
+      ]
+    }
+  ]
+}

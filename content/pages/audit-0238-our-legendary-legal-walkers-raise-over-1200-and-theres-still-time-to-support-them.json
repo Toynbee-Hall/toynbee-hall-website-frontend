@@ -1,0 +1,53 @@
+{
+  "slug": "audit-238-our-legendary-legal-walkers-raise-over-1200-and-theres-still-time-to-support-them",
+  "route": "/20/10/2021/our-legendary-legal-walkers-raise-over-1200-and-theres-still-time-to-support-them/",
+  "title": "Our Legendary Legal Walkers Raise Over £1,200 ….and there’s still time to support them",
+  "intro": "On Monday 18th October, Team Toynbee Hall completed the London Legal Walk, raising over £1,200 to help people exercise their rights and protect their finances, homes and health. Persevering through the rain and the early evening gloom, our team walked with nearly 600 other charities, law-firms and in-house teams to support access to justice in… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/10/IMG_20211018_174858357.jpg",
+    "alt": "Our Legendary Legal Walkers Raise Over £1,200 ….and there’s still time to support them — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2021-10-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/10/IMG_20211018_174858357.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "On Monday 18th October, Team Toynbee Hall completed the London Legal Walk, raising over £1,200 to help people exercise their rights and protect their finances, homes and health. Persevering through the rain and the early evening gloom, our team walked with nearly 600 other charities, law-firms and in-house teams to support access to justice in the capital and law centres like Toynbee Hall’s Free Legal Advice Centre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Access to legal advice is more important than ever … the pandemic exacerbated so many challenges that people already faced in their lives. For the families who needed it, quick, accessible, easy to understand legal advice at FLAC was vital and transformative"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rob Crich, Toynbee Hall’s lead walker, said: “After 900 days since the last London Legal Walk, it was fantastic to see so many legal professionals and charities come together to raise vital funds to support those who face barriers to getting the legal help they need. Access to legal advice is more important that ever. Throughout the last 18 months, the pandemic has exacerbated so many challenges that people already faced in their lives – whether redundancy, or eviction, or the possibility of “No Recourse to Public Funds.” For the individuals and families who needed it, quick, accessible, easy to understand legal advice at FLAC was vital and transformative.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can still support Team Toynbee Hall’s efforts with a donation to their Fundraising page here. All the money raised will go towards helping people protect their finances, homes, and wellbeing with free legal advice and support that enables them to exercise their rights and get justice.",
+          "links": [
+            {
+              "text": "here",
+              "href": "https://uk.virginmoneygiving.com/ToynbeeHall21"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you so much to all our legal walkers and those who have already supported."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

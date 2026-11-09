@@ -1,0 +1,84 @@
+{
+  "slug": "audit-89-short-changed-new-report-calls-for-a-bank-account-for-every-young-londoner-5",
+  "route": "/09/01/2018/short-changed-new-report-calls-for-a-bank-account-for-every-young-londoner-5/",
+  "title": "Short Changed – New report calls for a bank account for every young Londoner",
+  "intro": "London Assembly launch a new report, looking at the financial health of Londoners. Yesterday at City Hall, The London Assembly launched a new report titled Short Changed: the financial health of Londoners which looks at why many Londoners are finding it hard to access quality and affordable financial services despite London being a leading global… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/Short_Changed_Report.png",
+    "alt": "Short Changed – New report calls for a bank account for every young Londoner — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-01-09",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "London Assembly launch a new report, looking at the financial health of Londoners."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yesterday at City Hall, The London Assembly launched a new report titled Short Changed: the financial health of Londoners which looks at why many Londoners are finding it hard to access quality and affordable financial services despite London being a leading global financial centre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sian Williams (Director of Financial Health at Toynbee Hall) spoke at the launch event about why financial inclusion matters and told the story of Iris, a mother, who has gone to six banks to try to get a bank account."
+        },
+        {
+          "type": "paragraph",
+          "text": "The report found that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "44 per cent of people in the UK, who are in financial difficulty are between the ages of 18 and 34.",
+            "Around a quarter (27 per cent) of 18 to 30 year olds in London say they are in debt all the time.",
+            "A third of all users of high-cost loans are 18-34 year olds.",
+            "40 per cent of 18-24 year olds are less confident about managing their money, compared to 22 per cent of the rest of the UK adult population."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The report makes a number of recommendations for the Mayor, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Work with the financial services industry, schools and colleges to create a young person’s banking charter, with the aim of ensuring all 16-18 year olds have a bank account. The Charter should include a commitment from banks to provide young people with a bank account by default.",
+            "Commission an annual survey of London households on their financial activity, in order to get a better understanding of London’s ‘underbanked’ communities.",
+            "Hold a Money Advice Week to promote affordable credit and use TfL advertising space to promote credit unions.",
+            "Work with schools, charities and the financial services industry to deliver high quality financial education for young people."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Short Changed is a timely and important report for Londoners, and we’re pleased to have been able to contribute to it, drawing on the insights and experiences of the people we work with. We see every day the challenges that families in the capital have making ends meet. The wide ranging recommendations in the report could make a significant difference to them and to many other Londoners."
+        },
+        {
+          "type": "paragraph",
+          "text": "In terms of priorities for the Mayor, we would like to see an ambition that no young Londoner leave school without having access to an account where they can make payments and receive money; better and fairer access to credit for those who need to smooth their income, from a range of providers, but with an emphasis on affordability; and, crucially, strategies at local borough and cross-borough level to engage all stakeholders in doing all they can to make London a financially healthy city.” Sian Williams, Director of Financial Health at Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "The event was chaired by Assembly Member and Chair of the Economy Committee, Caroline Russell and other speakers included Robert Peston (Journalist and Broadcaster), Faisel Rahman (Founder of Fair Finance) and Tony Greenham (Director of Economy and Inclusive Growth, RSA and Deputy Chair, Greater London Mutual)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the full Short Changed report here.",
+          "links": [
+            {
+              "text": "Read the full Short Changed report here.",
+              "href": "https://www.london.gov.uk/sites/default/files/financial-inclusion.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

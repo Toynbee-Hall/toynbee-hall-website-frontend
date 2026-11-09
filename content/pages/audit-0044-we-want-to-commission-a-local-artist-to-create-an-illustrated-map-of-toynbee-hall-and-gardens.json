@@ -1,0 +1,43 @@
+{
+  "slug": "audit-44-we-want-to-commission-a-local-artist-to-create-an-illustrated-map-of-toynbee-hall-and-gardens",
+  "route": "/05/06/2020/we-want-to-commission-a-local-artist-to-create-an-illustrated-map-of-toynbee-hall-and-gardens/",
+  "title": "We want to commission a local artist to create an illustrated map of Toynbee Hall and Gardens",
+  "intro": "We want to commission an illustrated map showing Mallon Gardens, the surrounding buildings and people using the space to provide directions to visitors. Toynbee Hall has opened a new public garden, a rare bit of green space on the edge of the city, which we want to make a welcoming space and for the whole… Read more",
+  "template": "article",
+  "publishedAt": "2020-06-05",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We want to commission an illustrated map showing Mallon Gardens, the surrounding buildings and people using the space to provide directions to visitors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has opened a new public garden, a rare bit of green space on the edge of the city, which we want to make a welcoming space and for the whole community so people feel comfortable visiting and using the facilities in and around the gardens."
+        },
+        {
+          "type": "paragraph",
+          "text": "The garden and the activities it will offer will give the community access to a safe and welcoming green space where they can meet, socialise, and take part in fun and healthy activities, whether that’s intergenerational gardening classes to games for local schools."
+        },
+        {
+          "type": "paragraph",
+          "text": "When we return to normal there will a range of activites and events taking place across Toynbee Hall’s spaces and at our neighbour organisation, Arts Admin. We need a map to point all of our visitors in the right direction."
+        },
+        {
+          "type": "paragraph",
+          "text": "The style and content of the map should reflect the spirit of the organisation and our community roots. If you would like to see the full brief in order to submit an expression of interest please email Georgia Herbert. The deadline for expression of interest is 15th June",
+          "links": [
+            {
+              "text": "Georgia Herbert",
+              "href": "mailto:Georgia.Herbert@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "audit-418-donation-confirmation",
+  "route": "/donation-confirmation/",
+  "title": "Donation Confirmation",
+  "intro": "[give_receipt]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "audit-377-individual-and-collective-redundancies-a-guide-to-your-rights",
+  "route": "/31/07/2020/individual-and-collective-redundancies-a-guide-to-your-rights/",
+  "title": "Individual and Collective Redundancies – A guide to your Rights",
+  "intro": "By Rosie Morris and Michael Burman This guide explains how individual and collective redundancies work, what your rights are and your employer’s obligations. This guide will take you through the steps and explain what needs to happen and what is needed from you and your employer. To read this guide please click the link below.… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/03/iStock_43526598_MEDIUM.jpg",
+    "alt": "Consumer rights advice"
+  },
+  "template": "article",
+  "publishedAt": "2020-07-31",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "By Rosie Morris and Michael Burman"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This guide explains how individual and collective redundancies work, what your rights are and your employer’s obligations. This guide will take you through the steps and explain what needs to happen and what is needed from you and your employer. To read this guide please click the link below. This guide was written Rosie Morris and Michael Burman from Howard Kennedy LLP who support the Free Legal Advice Centre. The guide represents the views of the authors. Please note: This guide does not constitute legal advice or gives rise to a solicitor/client relationship. Whilst we endeavour to ensure that the information provided is correct, no warranty, press or implies, is given as to its accuracy and we do not accept any liability for error or omission."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read the full guide here"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/07/Howard-Kennedy_Lockup_Original-Purple_Large.jpg",
+            "alt": "Howard Kennedy logo"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

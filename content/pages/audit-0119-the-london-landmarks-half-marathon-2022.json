@@ -1,0 +1,91 @@
+{
+  "slug": "audit-119-the-london-landmarks-half-marathon-2022",
+  "route": "/12/01/2022/the-london-landmarks-half-marathon-2022/",
+  "title": "Run for Team Toynbee Hall in the London Landmarks Half Marathon",
+  "intro": "Join Team Toynbee Hall in this iconic race through central London on Sunday 3rd April 2022 The London Landmarks Half Marathon is a closed road central London run. 14,500 runners will start on Pall Mall, finish by Downing Street and have fabulous views of London’s most iconic landmarks including Big Ben, St Paul’s Cathedral, Nelson’s… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/LLHM2022_CharityPartnerShareables_map-e1644321911744.png",
+    "alt": "Run for Team Toynbee Hall in the London Landmarks Half Marathon — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2022-01-12",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "The London Landmarks Half Marathon is a closed road central London run. 14,500 runners will start on Pall Mall, finish by Downing Street and have fabulous views of London’s most iconic landmarks including Big Ben, St Paul’s Cathedral, Nelson’s Column, the Gherkin, the Shard, the Tower of London and the London Eye.",
+          "links": [
+            {
+              "text": "The London Landmarks Half Marathon",
+              "href": "https://llhm.co.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This is not your average half marathon!"
+        },
+        {
+          "type": "paragraph",
+          "text": "So get your running shoes on, and stretch those legs! Are you looking for a new target? Or perhaps you are a seasoned runner looking to smash that Personal Best? Want to be part of a movement for a fairer, happier London?"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/LLHM2022_CharityPartnerShareables_Logo_yellowbg-1024x410.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Enter now!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have 8 places available, contact fundraising@toynbeehall.org.uk and secure your place today!",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are successful you will be asked to commit to raising £300 (excluding gift aid) through sponsorship."
+        },
+        {
+          "type": "paragraph",
+          "text": "By joining our team, not only will you help create a fairer, happier London, but you’ll also benefit from:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "a Toynbee Hall running T-shirt or vest",
+            "a fundraising pack to help take your challenge to the finish line",
+            "fun tools and tips to help you with your fundraising, including regular emails to keep you motivated and an assigned Toynbee Hall fundraiser for personal support",
+            "a friendly team here to support you every step of the way and cheer you on Race Day"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Already have your place in the ballot and want to support Toynbee Hall? Simply let us know by e-mailing fundraising@toynbeehall.org.uk, we’d love to have you join the team!",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you’ve entered, one of our friendly team will be in touch with more details about the race, support with fundraising ideas, and help with practicalities such as setting up your own dedicated Just Giving page to share your progress with your supporters."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

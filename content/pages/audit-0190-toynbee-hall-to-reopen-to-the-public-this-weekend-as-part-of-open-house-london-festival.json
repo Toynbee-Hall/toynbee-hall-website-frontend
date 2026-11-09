@@ -1,0 +1,59 @@
+{
+  "slug": "audit-190-toynbee-hall-to-reopen-to-the-public-this-weekend-as-part-of-open-house-london-festival",
+  "route": "/17/09/2018/toynbee-hall-to-reopen-to-the-public-this-weekend-as-part-of-open-house-london-festival/",
+  "title": "Toynbee Hall to reopen to the public this weekend as part of Open House London Festival",
+  "intro": "After three years of renovation work, part funded by the Heritage Lottery Fund, we’re opening the doors to the public this weekend as part Open House London, the world’s largest architecture festival. We’re returning to our original East End home and for the first time the building will include a new, free and permanent exhibition… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/09/IMG_2076.jpg",
+    "alt": "Toynbee Hall to reopen to the public this weekend as part of Open House London Festival — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-09-17",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "After three years of renovation work, part funded by the Heritage Lottery Fund, we’re opening the doors to the public this weekend as part Open House London, the world’s largest architecture festival."
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re returning to our original East End home and for the first time the building will include a new, free and permanent exhibition showcasing stories of social action from across our 134 years of history."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Saturday 22nd and Sunday 23rd September, members of the public will be able to see, for the first time, the panelled halls and architectural detailing of the Grade II listed building and explore a new interactive history exhibition, Toynbee Hall: A Powerhouse for Social Change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall: A Powerhouse for Social Change shows the extent of Toynbee Hall’s contribution to some of the most defining moments in London’s social history: from the role of our co-founder Henrietta Barnett and former residents William Beveridge and Clement Attlee, up to the involvement of the Bengali Community and local innovators whose ideas still shape our work today as we aim to inspire future generations to challenge inequality and social injustice in East London and beyond. It also pays tribute to the work of Charles Booth and his ‘Inquiry into Life and Labour in London’, with a mural depicting one of the maps."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/09/Booth-Mural-300x300.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/09/20180917_082619.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall will be open to the public on 22nd and 23rd September from 11am – 3pm and on every weekend commencing Monday 24th September"
+        },
+        {
+          "type": "paragraph",
+          "text": "28 Commercial Street, London, E1 6LS."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

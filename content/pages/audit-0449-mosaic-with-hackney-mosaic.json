@@ -1,0 +1,47 @@
+{
+  "slug": "audit-449-mosaic-with-hackney-mosaic",
+  "route": "/fundraising-events/mosaic-with-hackney-mosaic/",
+  "title": "Mosaic with Hackney Mosaic",
+  "intro": "Everyone is welcome and no experience is necessary.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/Hackney-mosaic-e1691578731122.jpg",
+    "alt": "Hackney mosaic"
+  },
+  "template": "event",
+  "dateLabel": "Friday 11th August",
+  "timeLabel": "11am – 3pm",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Come along and help us make a mosaic celebrating the history of Petticoat Lane"
+        },
+        {
+          "type": "paragraph",
+          "text": "Friday 11th August"
+        },
+        {
+          "type": "paragraph",
+          "text": "11am – 3pm"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have a market stall on Wentworth Street"
+        },
+        {
+          "type": "paragraph",
+          "text": "For more information, contact the Hackney Mosaic Project: hackney-mosaic.co.uk",
+          "links": [
+            {
+              "text": "hackney-mosaic.co.uk",
+              "href": "https://www.hackney-mosaic.co.uk/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

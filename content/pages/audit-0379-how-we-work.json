@@ -1,0 +1,73 @@
+{
+  "slug": "audit-379-how-we-work",
+  "route": "/about-us/how-we-work/",
+  "title": "How we work with local people",
+  "intro": "Toynbee Hall is a community organisation that pioneers ways to reduce structural disadvantage. Based in the East End of London, we work alongside people who live here, to tackle unfairness and make this a place where everyone has an equal chance to thrive. We take an asset based approach to… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall is a community organisation that pioneers ways to reduce structural disadvantage. Based in the East End of London, we work alongside people who live here, to tackle unfairness and make this a place where everyone has an equal chance to thrive. We take an asset based approach to our work, and believe everyone has something valuable to offer in the fight for a fairer London. What we learn from our work in London we use to influence change across the UK."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/09/IMG_5739.jpg",
+            "alt": "Women speaking in the hall",
+            "caption": "IMG_5739"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How this works"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our research team support local people to do Participatory Action Research (PAR). What this means is that, when we try to find out more about things, we start with the experts – people who have lived experience – and then those people are involved at every stage, from collecting data to sharing findings with decision makers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Most services are shaped by, and delivered with the people who use them. This happens all sorts of ways, because we’ve learned things from research, because people have asked us for specific kinds of help, or because people come to us with ideas they want to make real. We try to be as flexible as possible so, whatever form your idea takes, we do our best to help."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/12/cropped-cropped-IMG_4504.jpg",
+            "alt": "Our Impact in 2019 - Cover image",
+            "caption": "cropped-cropped-IMG_4504.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of our services are commissioned and so aren’t designed by local people. In these services, wherever possible, we build in paid Community Advocate roles so people using those services can be recruited to evaluate and feed back to us and commissioners what could be done better. We then work hard to change services in line with the feedback we receive."
+        },
+        {
+          "type": "paragraph",
+          "text": "We try to hand over power, supporting local people to commission the things they need directly – deciding everything from who delivers activities in the community centre to commissioning public art and activities. Our youth programme gives micro grants directly to young people to help them deliver change."
+        },
+        {
+          "type": "paragraph",
+          "text": "All of our frontline staff who are involved in research, policy or community services meet paid community members as part of their interview process. These community members influence who gets to work in our teams, ensuring that we all know the value of listening and power sharing from our very first day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our trustee team includes people who have used our services, ensuring that at every level of the organisation the expertise that comes from experience is valued."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Want to get involved?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Come along to a community living room session and any of our team will be happy to chat with you, and agree with you how we can keep you in the loop with all the opportunities to get involved."
+        }
+      ]
+    }
+  ]
+}

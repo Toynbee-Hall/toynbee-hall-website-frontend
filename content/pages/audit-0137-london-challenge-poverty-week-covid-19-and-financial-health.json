@@ -1,0 +1,127 @@
+{
+  "slug": "audit-137-london-challenge-poverty-week-covid-19-and-financial-health",
+  "route": "/13/10/2020/london-challenge-poverty-week-covid-19-and-financial-health/",
+  "title": "London Challenge Poverty Week: Covid 19 and Financial Health",
+  "intro": "By Jen Durrant, Financial Health Research Manager At Toynbee Hall we believe that it is only by listening to the people affected by a problem that we can truly tackle it, and Covid-19 is no exception. So our excellent team of peer researchers – people from the local community surrounding and served by Toynbee Hall… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/stencil.default2.jpg",
+    "alt": "ATM out of service due to social distancing"
+  },
+  "template": "article",
+  "publishedAt": "2020-10-13",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "By Jen Durrant, Financial Health Research Manager"
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall we believe that it is only by listening to the people affected by a problem that we can truly tackle it, and Covid-19 is no exception. So our excellent team of peer researchers – people from the local community surrounding and served by Toynbee Hall who have trained and worked with us to develop their research skills – have been busy listening to dozens of those suffering from the economic fallout of the pandemic. They wanted to find out how it is affecting them and what could be done to help."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conducting research during the pandemic has posed its own challenges, but the peer researchers have been determined to hear from as many people across the community as possible. They’ve interviewed neighbours, friends and family over the phone and in person (including while socially distancing), and embraced new technologies, including learning how to use MS Teams to conduct online interviews. The result is a rich set of pandemic stories as told directly by people disproportionately affected by Covid-19. Here’s a brief overview of what they tell us about how the pandemic has affected financial wellbeing for low to middle income households across London."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Falling income and rising costs"
+        },
+        {
+          "type": "paragraph",
+          "text": "The main concern for many people, beyond the health threat of the virus itself, is loss of income and job security."
+        },
+        {
+          "type": "paragraph",
+          "text": "At the same time as incomes are falling, costs are rising. This is due to a number of factors, including the increasing price of essentials, shortages meaning people cannot access the cheaper products they usually rely on to save money, food and energy consumption growing as more people are at home and the cost of supporting family members through the pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "In order to meet the shortfall between expenditure and income, some people are having to turn to credit – further adding to their costs. While it may offer short term relief, the costs of interest and charges on this credit could have a detrimental impact over the long term and push some into problem debt."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Lack of access to cash"
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, physically accessing their money has become a problem for some people, with the pandemic further exacerbating the sharp decline in free-to-use ATMs over recent years. This means people who are dependent on cash – typically those on the lowest incomes who need the security and control that cash provides to manage a limited budget, and who may not have digital access or even a bank account – are finding it harder to take out the money they need to pay for essentials. They may have to pay to withdraw it, which adds to the pressure on already stretched budgets."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Impact and coping strategies"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our interviews revealed a number of coping strategies that people are using to deal with these financial pressures, including seeking help from family, drawing down savings and careful budgeting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Despite doing everything they can, however, half (56%) of those we spoke to are having to go without essentials, such as food, internet and heating."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Need for support"
+        },
+        {
+          "type": "paragraph",
+          "text": "Clearly, individual coping strategies alone will not be enough to help people through this pandemic. Although government policies such as the furlough scheme (soon to be replaced with the job support scheme) and temporary boosts to universal credit have provided a vital stopgap for many, significant problems remain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our research highlights the need for more comprehensive, structural support if we are to prevent increases in poverty and enable everyone to live a life of dignity as they deserve. London Challenge Poverty Week and the ongoing discussions around how to build back better are an opportunity to do just that – and we all have a duty to listen to, respect and respond to the people most affected."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Taking action"
+        },
+        {
+          "type": "paragraph",
+          "text": "This research project doesn’t stop at capturing people’s lived experience of the pandemic. We’re now working with the peer researchers to co-design a set of policy recommendations which, if implemented, would provide essential support to people disproportionately affected now, and help to avoid similar inequalities occurring in the future."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of their initial recommendations include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "More comprehensive income protection measures for those whose jobs have been affected by the pandemic, as many people were not eligible for the furlough and self-employed income support schemes",
+            "Interventions to help build people’s confidence and improve their mental and emotional health when they lose their jobs, so they are in the best place possible to explore new opportunities",
+            "Targeted employment support for different age groups and for people with disabilities and/or caring commitments, recognising the difficulties in finding work suitable to their needs",
+            "Recognition that employment support alone will not be enough, as requiring individuals to find work when the jobs are simply not there will be counter-productive",
+            "Investment in structural solutions to create new jobs, for example in public services, mental health and the green economy"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us this Friday and have your say"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can have your say on which of our suggested recommendations should be taken forward by joining our online event this Friday as part of London Challenge Poverty Week."
+        },
+        {
+          "type": "paragraph",
+          "text": "Peer researchers will be sharing their work and findings in more detail and will discuss key issues around financial health, employment challenges and the role of community support during the crisis for low income and other disproportionately affected Londoners."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can sign up here"
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

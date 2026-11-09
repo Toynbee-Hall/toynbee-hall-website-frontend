@@ -1,0 +1,168 @@
+{
+  "slug": "audit-445-employment",
+  "route": "/free-advice/employment/",
+  "title": "Employment New",
+  "intro": "Free Legal Advice Centre: Employment Toynbee Hall’s Free Legal Advice Centre provides advice to the public on employment matters. We partner with City law firms to offer a service delivered by volunteer trainee solicitors, whose work is supervised by Toynbee Hall staff with subject-specific expertise. We only offer appointments for cases suitable for delivery by… Read more",
+  "image": {
+    "src": "/images/live-site/advice.jpg",
+    "alt": "Private advice booths at the Toynbee Hall Advice Centre"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Free Legal Advice Centre: Employment"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall’s Free Legal Advice Centre provides advice to the public on employment matters. We partner with City law firms to offer a service delivered by volunteer trainee solicitors, whose work is supervised by Toynbee Hall staff with subject-specific expertise. We only offer appointments for cases suitable for delivery by our volunteer trainee solicitors, and these cases are prioritised accordingly. Our volunteers interview clients, carry out research, and prepare follow-up advice letters, which are reviewed and confirmed by the appropriate supervisor before being sent to clients. Please note that we cannot provide ongoing support or urgent responses. Each session is intended to provide one-off advice rather than continuous advice. If, during an advice session, we identify that an issue is beyond our expertise or particularly complex, we will provide information about trusted organisations that can help with wider or more complex needs."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "We can help with a range of with non-urgent employment matters such as:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/18-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "18"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Unfair Dismissial"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/19-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "19"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Redundancy Pay"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/20-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "20"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Procedures at Work"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/22-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "22"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Discrimination at Work"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/24-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "24"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Trade Union Rights"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/25-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "25"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Whistle Blowing"
+        },
+        {
+          "type": "paragraph",
+          "text": "We cannot assist with urgent matters. Please note that deadlines for application to the Employment Tribunal tend to be within 3 months of the problem happening or your employment coming to end. You should mention any key dates when you contact us. We are unable to advise employers or Toynbee Hall employees. We do not provide advocacy or representation."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to get help"
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is how the process works for getting advice on your Employment Issue"
+        },
+        {
+          "type": "paragraph",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CALL OUR HELPLINE"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the first instance, email us at flac@toynbeehall.org.uk or call our Customer Care Team on 0800 808 5701 (8am-8pm, 7 days a week), who will be able to direct you to the Free Legal Advice Clinic for next steps."
+        },
+        {
+          "type": "paragraph",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WE’LL CALL YOU BACK"
+        },
+        {
+          "type": "paragraph",
+          "text": "You will then receive a call back either offering an appointment or asking for more information to assess more fully your enquiry. Employment appointments are generally offered in person at our at our monthly Monday evening clinic, but can be offered online or by phone too.."
+        },
+        {
+          "type": "paragraph",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTEND YOUR APPOINTMENT"
+        },
+        {
+          "type": "paragraph",
+          "text": "At the appointment you will be interviewed by volunteer trainee solicitors who will then provide you with advice in writing, which is supervised and confirmed by Toynbee Hall staff with subject-specific expertise. This written advice is provided within one week of the appointment and will focus on the next steps you need to take to resolve the issue. We do not offer an ongoing casework service. If, during an advice session, we identify that your issue is beyond our expertise or particularly complex, we will provide information about trusted organisations that can help you with their wider or more complex needs"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Email us at flac@toynbeehall.org.uk or call us on 0800 808 5701"
+        }
+      ]
+    }
+  ]
+}

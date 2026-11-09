@@ -1,0 +1,73 @@
+{
+  "slug": "audit-280-toynbee-hall-secures-funding-to-help-support-local-people-through-the-covid-19-pandemic",
+  "route": "/23/11/2020/toynbee-hall-secures-funding-to-help-support-local-people-through-the-covid-19-pandemic/",
+  "title": "Toynbee Hall secures funding to help support local people through the Covid-19 pandemic",
+  "intro": "A grant of £58,000 has been awarded through the Covid-19 Community-Led Organisations Recovery Scheme (CCLORS)",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/Halls-at-night-Credit-Kristjan-Byfield-scaled.jpg",
+    "alt": "Image of Toynbee Hall at dusk"
+  },
+  "template": "article",
+  "publishedAt": "2020-11-23",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We have been awarded a grant of £58,000 through the Covid-19 Community-Led Organisations Recovery Scheme (CCLORS)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has received a share of £9.5million of National Lottery funding to help recover from the impacts of the Covid-19 pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "A grant of £58,000 has been awarded through the Covid-19 Community-Led Organisations Recovery Scheme (CCLORS). The scheme is led by independent trust Power to Change in partnership with Locality, The Ubele Initiative and Social Investment Business, and was part of The National Lottery Community Fund’s Coronavirus Community Support Fund, that launched in May this year.",
+          "links": [
+            {
+              "text": "Organisations Recovery Scheme (CCLORS)",
+              "href": "https://www.powertochange.org.uk/news/200-bame-organisations-secure-share-of-9-5m-national-lottery-funding-to-survive-covid-19-pandemic/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The grant will enable Toynbee Hall to directly support some of the hardest-hit groups. This includes older people who are isolated and disconnected from the digital world, without access to online services or the one-to-one support they need to take advantage of it. We are also supporting disproportionately affected groups such as families with little or no income, BAME communities and those with No Recourse to Public Funds who were already struggling before the crisis, in addition to families who have taken a sharp income hit and are struggling to pay for food and other essentials."
+        },
+        {
+          "type": "paragraph",
+          "text": "With this funding we will increase advice capacity and increase the amount of time available to support people who face additional barriers to accessing advice such as language, a lack digital skills, learning disabilities or complex mental health problems or. Alongside this, increasing our legal capability offer to equip people who can navigate the legal system themselves with the skills and information to do this will, free up advisor time to provide tailored support to people with more complex needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are seeing a rapidly increasing need for advice: with welfare benefits, employment, housing, debt and immigration and domestic violence. Cases are increasingly complex and people that are digitally excluded and/or struggling with language barriers are particularly in need of specialist support."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are also seeing a surge in landlords failing to respect tenants’ rights and instances of domestic violence, and issues that have needed urgent legal intervention to protect people’s homes and health – particularly for those who have been put at risk through the crisis measures. To help people exercise their rights we are doubling the capacity of our Legal Advice Service with additional appointments directed towards Covid-19 related issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "In total, 302 community-led organisations have received a total of £9.5million through CCLORS to help recover from the impacts of the Covid-19 pandemic. The total includes 205 community organisations led by, or that support, Black, Asian and Minority Ethnic (BAME) communities."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/digital-white-background.png",
+            "alt": "National Lottery Community Fund"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/power-to-change_transparent.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

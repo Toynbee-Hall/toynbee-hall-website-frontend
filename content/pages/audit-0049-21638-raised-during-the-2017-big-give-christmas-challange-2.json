@@ -1,0 +1,71 @@
+{
+  "slug": "audit-49-21638-raised-during-the-2017-big-give-christmas-challange-2",
+  "route": "/05/12/2018/21638-raised-during-the-2017-big-give-christmas-challange-2/",
+  "title": "2018 Big Give Christmas Challenge target smashed",
+  "intro": "We are absolutely thrilled to have raised an amazing £23,435 during the 2018 Big Give Christmas Challenge, a week-long challenge that allows every donation given towards our youth projects to be doubled. The figure was made up of just over £10,774 of online donations, which were matched by the fantastic people at Proms at St.… Read more",
+  "template": "article",
+  "publishedAt": "2018-12-05",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are absolutely thrilled to have raised an amazing £23,435 during the 2018 Big Give Christmas Challenge, a week-long challenge that allows every donation given towards our youth projects to be doubled."
+        },
+        {
+          "type": "paragraph",
+          "text": "The figure was made up of just over £10,774 of online donations, which were matched by the fantastic people at Proms at St. Jude’s and the Childhood Trust. The Gift Aid on top of that pushed us beyond our £22k target. This is a truly fantastic result and meant that we surpassed last year’s total. The funds raised will go towards our youth projects.",
+          "links": [
+            {
+              "text": "Proms at St. Jude’s",
+              "href": "http://www.promsatstjudes.org.uk/"
+            },
+            {
+              "text": "Childhood Trust",
+              "href": "http://www.childhoodtrust.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Building on the success of our last youth project Make it!, we’re starting a new youth project that will empower young people to make positive life choices and a meaningful contribution in their own community. Toynbee Hall Youth Action, will support young people living in Tower Hamlets and the City of London to realise their potential by increasing confidence, aspiration and educational attainment."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will run a range from workshops exploring the history of social action in the East End, then develop a fellowship programme where local young people will speak at conferences and events across London, facilitating debates, and engaging their peers in projects that improve their communities, giving them a voice to affect the issues the matter to them."
+        },
+        {
+          "type": "paragraph",
+          "text": "This will also help us run a range of heritage learning projects with schools to use our history to inspire the next generation of social activists. We recently undertook a project with Year 4 pupils at Canon Barnett Primary School who learned about our history and celebrated six children’s rights. You can see our short film about this project here:"
+        },
+        {
+          "type": "paragraph",
+          "text": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/12/Our-Mark-Canon-Barnett-School-project-film-converted-with-Clipchamp-converted-with-Clipchamp.mp4",
+          "links": [
+            {
+              "text": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/12/Our-Mark-Canon-Barnett-School-project-film-converted-with-Clipchamp-converted-with-Clipchamp.mp4",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/12/Our-Mark-Canon-Barnett-School-project-film-converted-with-Clipchamp-converted-with-Clipchamp.mp4"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about this project.",
+          "links": [
+            {
+              "text": "Find out more about this project.",
+              "href": "/30/11/2018/our-mark-artwork-by-canon-barnett-primary-school-pupils-becomes-part-of-our-historic-building/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We would like say a huge thank you to everyone who made this possible by donating, sharing, retweeting, liking or supporting the campaign. We couldn’t have done it without you."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

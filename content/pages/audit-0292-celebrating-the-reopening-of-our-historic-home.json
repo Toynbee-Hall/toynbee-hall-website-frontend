@@ -1,0 +1,69 @@
+{
+  "slug": "audit-292-celebrating-the-reopening-of-our-historic-home",
+  "route": "/24/09/2018/celebrating-the-reopening-of-our-historic-home/",
+  "title": "Celebrating the reopening of our historic home",
+  "intro": "Dr John Sentamu, Matthew Ryder, Stuart Hobley and Rushanara Ali MP were the guest speakers at our official reopening event in the restored halls ahead of the public opening on Open House Weekend. After over two years of restoration, we were honoured to be reopening Toynbee Hall’s historic buildings part funded by the Heritage Lottery… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/09/IMG_2220.jpg",
+    "alt": "Celebrating the reopening of our historic home — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-09-24",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dr John Sentamu, Matthew Ryder, Stuart Hobley and Rushanara Ali MP were the guest speakers at our official reopening event in the restored halls ahead of the public opening on Open House Weekend."
+        },
+        {
+          "type": "paragraph",
+          "text": "After over two years of restoration, we were honoured to be reopening Toynbee Hall’s historic buildings part funded by the Heritage Lottery Fund, and reveal a free, permanent exhibition of our heritage as a powerhouse for social change."
+        },
+        {
+          "type": "paragraph",
+          "text": "We were joined by a wide range of friends, funders, and supporters who were given their first opportunity to explore the new spaces and learn about the East End’s social history in our exhibition before gathering in the Lecture Hall to hear from our guest speakers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chief Executive, Jim Minton kicked things off and introduced one of Toynbee Hall’s Welfare Advisors and Development Assistant, Dami Owobamirin to the stage. Dami has been on a real journey at Toynbee Hall. After first coming in to use one of our advice services, she took a real interest in the work of the organisation, first volunteering and then becoming a paid member of staff. Dami shared some of her personal experiences from each step of her journey at Toynbee Hall as explained why it’s so important that services like these are available to everyone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matthew Ryder, The Deputy Major for Social Intergration highlighted how the Mayor’s Office is tackling inequality, fairness and discrimination so everyone can benefit from living in London. The Archbishop of York, Dr John Sentamu, then followed by reiterating that we need to do more than tinker with a problem and organisations like us can be an engine for change and social justice. Dr Sentamu finished by symbolically breaking bread with our guest Polly Toynbee."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stuart Hobley from Heritage Lottery Fund said a few words before our final guest speaker of the evening, MP for Bethnal Green and Bow, Rushanara Ali spoke of how we have so much to be proud of in this part of London, and that this can be the start of something really profound in tackling the painful inequality in this constituency. But we still have much to do."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank to everyone who came and made this such a special reopening for everyone involved in the project. This is a start of ongoing heritage learning project which will allow us to inspire the next generation of social activists to drive change say through workshops, events, community curation and arts activities. The halls will also provide a valuable spaces for the community to use and co-design projects and services with us."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is only the first phase of the regeneration project. Click here to find out more.",
+          "links": [
+            {
+              "text": "Click here to find out more.",
+              "href": "/about-us/regenerating-our-estate/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "To see the halls and the exhibition for yourself, we are now open every weekday between 11am and 3pm, and on the third weekend of each month. These are:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "20th & 21st October 17th & 18th November 15th & 16th December"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

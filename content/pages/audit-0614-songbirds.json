@@ -1,0 +1,47 @@
+{
+  "slug": "audit-614-songbirds",
+  "route": "/whats-on/songbirds/",
+  "title": "Songbirds Singing Group (Over 50s)",
+  "intro": "This is a LinkAge Plus activity for people aged 50+.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/songbirds-2023-e1720092376209.jpg",
+    "alt": "Singing class in the Toynbee Hall Community Centre"
+  },
+  "template": "event",
+  "dateLabel": "Alternate Fridays",
+  "timeLabel": "10:30am to 12:30pm",
+  "venue": "Community Centre, 28 Commercial Street, E1 6LS",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Join this friendly group who come together to socialise and sing a range of songs, modern and old in a range of styles. No singing skills required, it is all about enjoying yourself in a group setting and joining in!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fridays (fortnightly, alternate Fridays) 10.30am-12.30pm Community Centre, 28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please contact the centre ahead of joining to check which week the session is running:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 07943 277512 or 0203 856 9721"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

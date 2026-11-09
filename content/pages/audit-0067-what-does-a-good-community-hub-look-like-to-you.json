@@ -1,0 +1,73 @@
+{
+  "slug": "audit-67-what-does-a-good-community-hub-look-like-to-you",
+  "route": "/07/07/2021/what-does-a-good-community-hub-look-like-to-you/",
+  "title": "What does a good community hub look like to you?",
+  "intro": "Toynbee Hall joins the Mayor of London’s Festival of Ideas as community groups and charities lead the capital’s recovery from the pandemic.",
+  "template": "article",
+  "publishedAt": "2021-07-07",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall joins the Mayor of London’s Festival of Ideas as community groups and charities lead the capital’s recovery from the pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Mayor of London, Sadiq Khan, has announced a £1m fund to support community groups and charities to lead the capital’s recovery from the pandemic and build stronger communities. Community groups and organisations will run community-led activities and projects that help those most adversely affected by the pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of the London Festival of Ideas, On Thursday 22nd July , Toynbee Hall is inviting communities in East London to join us developing Toynbee Hall into a multi-use community hub where communities can socialise, take part in activities, receive support services, and influence social policies at local and national levels."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will be asking what does a good community hub look like and develop a shared vision for a stronger community. We are offering a ‘Thank You’ incentive of £25 for those who take part. You can find details on how to take part below."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/07/Centre-for-Co-production-Workshop-Recruitment-Image.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "The announcement also coincides with National Co-production Week, a week organised by the Social Care Institute for Excellence to celebrate the benefits of co-production, share good practice and promote the contribution of people in developing better services."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the course of the next month, there will be almost 150 events taking place in community centres, gardens, playgrounds and art studios across the city. From panel discussions to nature trails, community picnics to celebrating community hubs. These events all contribute to building London’s strong communities and create space to explore collective visions for thriving futures. The Festival of Ideas programme is a partnership between Consortium, City Bridge Trust, Greater London Authority, King’s College London, Locality, London Boroughs Faiths Network, Local Trust, London Councils, London Funders, London Plus, Toynbee Hall, and The Ubele Initiative."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jim Minton, Chief Executive of Toynbee Hall, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“At Toynbee Hall, we are really pleased to be part of the Festival of ideas, hosting one of many conversations around London designed to help communities shape recovery and build back a fairer and happier city."
+        },
+        {
+          "type": "paragraph",
+          "text": "“So many Londoners have been hit hard by the pandemic and the lockdowns, with a huge impact on our lives and wellbeing. The Festival and the grant programme will help give people the space to reflect on what we have learned, celebrate how we have come together and set priorities for the future.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Mayor of London, Sadiq Khan, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“London’s community organisations and charities have played a vital role in supporting Londoners through this pandemic, despite the unique challenges of volunteering during COVID-19. I am incredibly proud to be supporting these organisations and helping them to continue their essential work through the London Festival of Ideas and our new Community Grants Fund.”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "To sign up to take part, please click here or email: research@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

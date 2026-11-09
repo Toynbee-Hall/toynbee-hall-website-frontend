@@ -1,0 +1,48 @@
+{
+  "slug": "audit-6-debt-free-advice-partnership-led-by-toynbee-hall-wins-national-innovation-award-for-improving-debt-advice",
+  "route": "/01/07/2026/debt-free-advice-partnership-led-by-toynbee-hall-wins-national-innovation-award-for-improving-debt-advice/",
+  "title": "Debt Free Advice partnership led by Toynbee Hall wins national innovation award for improving debt advice",
+  "intro": "Debt Free Advice, led by Toynbee Hall, has won a national award for technology designed to help advisers spend more time supporting people facing debt and financial difficulty. The Innovation & Impact Award, presented at the 2026 Institute of Money Advisers Conference in Manchester, recognises Adviser Intelligence: a suite of tools developed by Toynbee Hall… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/DFA-awards-WP.png",
+    "alt": "Debt Free Advice partnership led by Toynbee Hall wins national innovation award for improving debt advice — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2026-07-01",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "The Innovation & Impact Award, presented at the 2026 Institute of Money Advisers Conference in Manchester, recognises Adviser Intelligence: a suite of tools developed by Toynbee Hall for the Debt Free Advice partnership to reduce administration, improve consistency and help more people access high-quality debt advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Every year, thousands of people turn to Debt Free Advice for help with debt, benefits and financial challenges. As demand for support continues to grow, Adviser Intelligence helps advisers focus on what matters most: helping people find a way forward."
+        },
+        {
+          "type": "paragraph",
+          "text": "The technology has been developed to support skilled professionals, not replace them. By reducing paperwork, improving access to guidance and helping services work more efficiently, it gives advisers more time to listen, support and help people navigate complex financial situations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield, Managing Director of Director of Debt Free Advice and Incoming Interim CEO, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“We are incredibly proud to receive this award. Adviser Intelligence has never been about replacing advisers. It is about giving skilled professionals better tools so they can focus on what matters most: helping people navigate complex financial challenges and make informed decisions about their future."
+        },
+        {
+          "type": "paragraph",
+          "text": "“This recognition reflects the creativity, expertise and commitment of colleagues across Toynbee Hall and the wider Debt Free Advice partnership. It shows what is possible when we combine innovation with a commitment to fairness, inclusion and high-quality support for people who need it most.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "This latest recognition builds on Debt Free Advice’s track record of innovation, including Video Advice Kiosks and other digital tools designed to improve outcomes for people experiencing financial hardship."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "audit-389-accessibility",
+  "route": "/accessibility/",
+  "title": "Accessibility",
+  "intro": "Making our website easier to access Toynbee Hall has installed a new tool to help anyone who may be struggling to access the website. The accessibility tool Recite Me, provides: • Translation into 103 languages • Provision of ‘text to speech’ – voices content for people with sight-impairments • Adjustable colour schemes and text… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Making our website easier to access"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall has installed a new tool to help anyone who may be struggling to access the website. The accessibility tool Recite Me, provides:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• Translation into 103 languages"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• Provision of ‘text to speech’ – voices content for people with sight-impairments"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• Adjustable colour schemes and text sizes – for people with dyslexia and sight impairments"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "• Text-only view and reading ruler – for people with dyslexia and sight impairments"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "To get started, all you’ll need to do is just click on the ‘Accessibility” button at the top of any page."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Recite Me User Guide"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Recite Me Language Guide﻿"
+        }
+      ]
+    }
+  ]
+}

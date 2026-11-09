@@ -1,0 +1,156 @@
+{
+  "slug": "audit-405-helpguides",
+  "route": "/cityadvice/helpguides/",
+  "title": "City Advice help guides",
+  "intro": "Help guides Here are some handy guides that could help you get extra supportWe’ve created a series of easy-read education packs to help you understand what support is available and how you can get it. There may be extra forms of support that you might not be aware of. Please note: Regulations and guidance can… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/05/City-Advice-Helpguides.png",
+    "alt": "City Advice Help guides"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Here are some handy guides that could help you get extra support"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’ve created a series of easy-read education packs to help you understand what support is available and how you can get it. There may be extra forms of support that you might not be aware of. Please note: Regulations and guidance can change over time, and these materials may not always reflect the very latest updates. For the most current, accurate, and tailored advice for your situation, we recommend contacting our service directly."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/09/How-to-cope-with-the-Cost-of-Living-Crisis-Part-2.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-A-guide-to-benefits-for-older-people-Cover-image.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How to cope with the Cost of Living Crisis Part 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "In part 2 of our cost of living help guide, we list some of the ways you can maximise your income."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/How-to-cope-with-the-Cost-of-Living-Crisis-Part-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-A-guide-to-benefits-for-older-people-Cover-image.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How to cope with the Cost of Living Crisis Part 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "In part 1 of our cost of living help guide, we list some of the ways you can maximise your income."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/03/Travel-concessions-in-the-City-of-London-V3_Page_01.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-A-guide-to-benefits-for-older-people-Cover-image.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Travel concessions in the City of London"
+        },
+        {
+          "type": "paragraph",
+          "text": "Various travel concessions are available for people living in the City of London"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/07/A-Guide-to-Care-Assessments-Cover-image.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-A-guide-to-benefits-for-older-people-Cover-image.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A Guide to Care Assessments"
+        },
+        {
+          "type": "paragraph",
+          "text": "This guide explains Care and Care needs assessments where a person appears to need a carer or has caring responsibilities﻿"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/05/Understanding-Debt-cover-image.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-A-guide-to-benefits-for-older-people-Cover-image.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Understanding Debt"
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt is a complex area, but it is really important to understand the difference between different types of debt. This is a guide to understanding debt. ﻿"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/03/cropped-Top-tips-on-tax-Cover-image-e1646137487554.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-A-guide-to-benefits-for-older-people-Cover-image.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Top tips on tax"
+        },
+        {
+          "type": "paragraph",
+          "text": "This guide, produced by TaxAid, has some helpful tips on tax. ﻿"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/cropped-A-guide-to-benefits-for-older-people-Cover-image.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-A-guide-to-benefits-for-older-people-Cover-image.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Benefits for older people"
+        },
+        {
+          "type": "paragraph",
+          "text": "This guide explains Attendance Allowance and Pension Credit and how you can claim it.﻿"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Are you a resident of the City of London?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our City Advice service can support you on a wide range of issues. Click the button below to find out how you can access the service."
+        }
+      ]
+    }
+  ]
+}

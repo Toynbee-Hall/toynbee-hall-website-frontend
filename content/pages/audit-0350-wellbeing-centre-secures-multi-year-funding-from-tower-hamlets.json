@@ -1,0 +1,54 @@
+{
+  "slug": "audit-350-wellbeing-centre-secures-multi-year-funding-from-tower-hamlets",
+  "route": "/28/08/2019/wellbeing-centre-secures-multi-year-funding-from-tower-hamlets/",
+  "title": "Wellbeing Centre secures multi-year funding from Tower Hamlets",
+  "intro": "We are delighted to have been awarded three years of funding from the Tower Hamlets Local Community Fund for our work empowering older people in our community. Over the next three and a half years, this significant contribution will allow older people aged 50-100+ to tackle loneliness and work together to bring about change in… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/08/DSC_0025.jpg",
+    "alt": "Wellbeing Centre secures multi-year funding from Tower Hamlets — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2019-08-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Over the next three and a half years, this significant contribution will allow older people aged 50-100+ to tackle loneliness and work together to bring about change in the local area – as well as enabling Toynbee Hall to support people who live in severe isolation."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fund replaces Tower Hamlets Council’s Mainstream Grants programme, which supported local voluntary organisations, including Toynbee Hall, with funding of around £3m per year. We are pleased to have secured a significantly larger level of funding through the Local Community Fund – reflecting both the increase in demand for our service in recent years and the Council’s trust in the voluntary sector more broadly."
+        },
+        {
+          "type": "paragraph",
+          "text": "The grant will fund our Wellbeing Centre, which supports around 250 older people from different backgrounds every year – through providing a space where they can socialise, learn and eat together informally, and offering opportunities to learn new skills and receive tailored support in moments of crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "This will help sustain a service which many local older people have come to rely on: whether they use it as a space to have a cup of tea with friends, or as a platform to raise concerns and ideas to influence positive change locally."
+        },
+        {
+          "type": "paragraph",
+          "text": "But it will also enable new work which goes beyond traditional wellbeing provision. A ‘Peer Connections’ project enabled through the funding will help older people do important work connecting isolated older people to vital services and networks – thus extending the reach of support offered into other local spaces: from GP surgeries, sheltered housing, and libraries, to older people’s homes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has been offering wellbeing support to people aged 50+ since the 1950s. However, with spiraling living costs and ever-increasing levels of social isolation, the Centre’s support has become more and more vital in recent years. We look forward to continuing to work with older people to find solutions to these issues over the next three years."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Wellbeing Centre is a welcoming space for people over 50 to stay fit and healthy, build social networks, and access varied and holistic support to overcome challenges. It offers a wide variety of health, fitness, learning and social activities as well as one to one tailored support. You can view the Centre’s Activity Diary here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "/other-projects/older-peoples-and-wellbeing-services/wellbeing-centre-activity-diary/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

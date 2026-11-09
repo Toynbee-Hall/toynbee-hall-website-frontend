@@ -1,0 +1,9 @@
+{
+  "slug": "audit-422-downloads",
+  "route": "/downloads/",
+  "title": "Downloads",
+  "intro": "[wpdm_archive_compact template=”default” order_by=”post_title” order=”ASC” items_per_page=”12″ cols=2]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

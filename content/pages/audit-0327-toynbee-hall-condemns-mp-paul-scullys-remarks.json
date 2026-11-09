@@ -1,0 +1,28 @@
+{
+  "slug": "audit-327-toynbee-hall-condemns-mp-paul-scullys-remarks",
+  "route": "/27/02/2024/toynbee-hall-condemns-mp-paul-scullys-remarks/",
+  "title": "Toynbee Hall condemns MP Paul Scully’s remarks",
+  "intro": "in relation to this borough at the heart of London.",
+  "template": "article",
+  "publishedAt": "2024-02-27",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "As an organisation working alongside people facing poverty and injustice in Tower Hamlets, Toynbee Hall condemns MP Paul Scully’s remarks in relation to this borough at the heart of London. We believe that it is important to call out Islamophobic or any racist statements against our community."
+        },
+        {
+          "type": "paragraph",
+          "text": "What we have learned through our research with the local community is that it is racism and discrimination which are factors preventing low-income people in Tower Hamlets accessing jobs. People who live here want to counter the years of reduction in public services that make accessing support far harder. They want opportunities to come together to celebrate our diversity and build stronger communities together."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has stood on Commercial Street for 140 years and we remain proud to be part of this diverse community."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

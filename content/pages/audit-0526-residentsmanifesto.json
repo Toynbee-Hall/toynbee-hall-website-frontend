@@ -1,0 +1,100 @@
+{
+  "slug": "audit-526-residentsmanifesto",
+  "route": "/residentsmanifesto/",
+  "title": "A Tower Hamlets Residents’ Manifesto",
+  "intro": "10 ideas for a brighter, poverty-free future that we shape together April 2022In the lead up to the 2022 local mayoral elections, Toynbee Hall worked with Tower Hamlets residents to co-design a manifesto to improve the borough. Read the full Residents’ Manifesto Download the full manifesto Watch our residents supporter video… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "April 2022"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the lead up to the 2022 local mayoral elections, Toynbee Hall worked with Tower Hamlets residents to co-design a manifesto to improve the borough."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/04/1.png",
+            "alt": "Residents Manifesto Drone image for Tower Hamlets",
+            "caption": "A Tower Hamlets Residents' Manifesto"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the full manifesto"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Watch our residents supporter video"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our Main Asks"
+        },
+        {
+          "type": "paragraph",
+          "text": "We are a group of 30 Tower Hamlets residents, working together with the research and policy team at Toynbee Hall. Many of us are community researchers in our borough, investigating the issues that are important to us, like poverty, safety and housing. Over the last five years, we have shaped, conducted and analysed much of the research in this manifesto, and developed proposals that addresses the main priorities and the issues that people are facing in the borough. This manifesto highlights 10 ideas for the next Mayor of Tower Hamlets, to create a brighter, poverty-free future that we shape together. Ahead of the local elections in May 2022, we need the next Mayor of Tower Hamlets to have big ambitions for the residents of this borough. We believe this can be achieved by supporting and taking action on our proposal priorities developed by the people who know best what they need – our residents. We have tested out the support for these proposals through a survey conducted over two weeks with over 180 local residents, and this input has shaped our manifesto priorities. This is our manifesto."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Supporters Video"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why local residents support the manifesto:"
+        },
+        {
+          "type": "paragraph",
+          "text": "One of my favourite manifesto proposals is that large employers should employ Tower Hamlets residents, mainly from low income families, as that would really help to improve the lives of people in Tower Hamlets.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "There’s too many kids that don’t have enough of anything, or a community to go to, or somewhere to go to if they don’t have their family that they can lean on.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "We need to be able to breathe safely outside and go to work and not feel scared… sometimes I go out at like 6 or 7 o’clock I’m looking over my shoulder to see if anyone is following me… so that’s my favourite Manifesto proposal, the one on women’s safety.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I support the Residents’ Manifesto because there’s a really concerning rent affordability crisis that needs to be tackled by increased rent control powers.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I believe that it’s important to have accountability in the Council and to make sure there’s actually someone to be held accountable so that residents actually have someone to talk to about their problems and then they can have their issues solved.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "It affects children as they grow up in overcrowded housing. I’ve got a 16-year-old who’s doing GCSEs, who shares a room with his 12-year-old sister, and his 8-year-old brother.”"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

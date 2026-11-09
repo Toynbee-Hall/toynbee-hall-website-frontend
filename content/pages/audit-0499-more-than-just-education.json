@@ -1,0 +1,63 @@
+{
+  "slug": "audit-499-more-than-just-education",
+  "route": "/research-library/more-than-just-education/",
+  "title": "More Than Just Education",
+  "intro": "A Participatory Action Research project on adult education in London.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/TH-GLA-Adult-Education-Report-Feb22-cover-image.png",
+    "alt": "More Than Just Education — Toynbee Hall"
+  },
+  "template": "resource",
+  "downloads": [
+    {
+      "title": "Download [4.98 MB]",
+      "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/TH-GLA-Adult-Education-Report-Feb22-Digital.pdf",
+      "format": "PDF"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/loading.svg",
+            "alt": "Loader"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/EAD-logo.svg",
+            "alt": "EAD Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/reload.svg",
+            "alt": "Reload"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/open.svg",
+            "alt": "Open"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Download [4.98 MB]",
+          "links": [
+            {
+              "text": "Download [4.98 MB]",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/TH-GLA-Adult-Education-Report-Feb22-Digital.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

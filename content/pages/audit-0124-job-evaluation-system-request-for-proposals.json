@@ -1,0 +1,123 @@
+{
+  "slug": "audit-124-job-evaluation-system-request-for-proposals",
+  "route": "/12/04/2024/job-evaluation-system-request-for-proposals/",
+  "title": "Job Evaluation System Request for Proposals",
+  "intro": "to procure and implement a job evaluation system that will determine job levels for all roles within Toynbee Hall.",
+  "image": {
+    "src": "/images/live-site/team.jpg",
+    "alt": "A group standing outside Toynbee Hall for a team photograph"
+  },
+  "template": "article",
+  "publishedAt": "2024-04-12",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "RFP Issue Date: 12 April 2024 RFP Closing Date: 26 April 2024"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Background"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall works alongside people facing poverty and injustice to build a fairer and happier East London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Based in the East End of London since 1884, we are a charity that provides vital support and works in partnership with local communities to tackle unfairness and ensure everyone has an equal chance to thrive. Toynbee Hall is completing a total reward project this year. One element of the project is to procure and implement a job evaluation system/tool. Toynbee Hall does not currently have a job evaluation system and the aim of implementing a system is to create a more systematic and structured approach to evaluating roles with the aim to increase fairness and transparency."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Objectives"
+        },
+        {
+          "type": "paragraph",
+          "text": "To procure and implement a job evaluation system that will determine job levels for all roles within Toynbee Hall. The system will be used to evaluate current roles and be used moving forwards for new roles within the organisation."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "System Requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "The system must;"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Increase fairness and transparency of how roles are evaluated within the organisation."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Demonstrate how it aims to remove biases from the evaluation process including how it avoids discrimination based on race, gender, age or other protected characteristics."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Be one that is relevant for the broad variety of roles within the organisation (including those that work various hours/locations/different stakeholders etc.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Include factor areas that are relevant to roles within Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Be affordable to implement and be financially sustainable."
+        },
+        {
+          "type": "paragraph",
+          "text": "• Not be overly complicated so that it can be easily explained and understood internally to those carrying out evaluations."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Proposal requirements and process"
+        },
+        {
+          "type": "paragraph",
+          "text": "• how the tool will align to our needs and each of the objectives as set out above"
+        },
+        {
+          "type": "paragraph",
+          "text": "• cost – software – hardware – ongoing costs"
+        },
+        {
+          "type": "paragraph",
+          "text": "• alignment to Toynbee Hall values"
+        },
+        {
+          "type": "paragraph",
+          "text": "• time to implement"
+        },
+        {
+          "type": "paragraph",
+          "text": "• ongoing time/process to evaluate new roles after initial implementation"
+        },
+        {
+          "type": "paragraph",
+          "text": "• training and support offered"
+        },
+        {
+          "type": "paragraph",
+          "text": "• testimonial/reference from relevant clients"
+        },
+        {
+          "type": "paragraph",
+          "text": "Proposals should be sent via email to dot.calvert@toynbeehall.org.uk by the 26 April 2024.",
+          "links": [
+            {
+              "text": "dot.calvert@toynbeehall.org.uk",
+              "href": "mailto:dot.calvert@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

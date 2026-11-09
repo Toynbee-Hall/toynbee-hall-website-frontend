@@ -1,0 +1,73 @@
+{
+  "slug": "audit-78-cleary-gottlieb-and-toynbee-hall-celebrate-womens-free-legal-advice-clinic-in-east-london",
+  "route": "/08/03/2024/cleary-gottlieb-and-toynbee-hall-celebrate-womens-free-legal-advice-clinic-in-east-london/",
+  "title": "Cleary Gottlieb and Toynbee Hall Celebrate Women’s Free Legal Advice Clinic in East London",
+  "intro": "We are delighted to announce on International Women’s Day, that we will be re-establishing in-person women’s legal advice sessions",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/03/ToynbeeGottliebGroup02-240305.jpg",
+    "alt": "Toynbee Hall's advice team members meet with Clearly Gottlieb team members to celebrate the Free Legal Advice Centre"
+  },
+  "template": "article",
+  "publishedAt": "2024-03-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We delighted to announce on International Women’s Day, that we will be re-establishing in-person women’s legal advice sessions thanks to support from longstanding partners, Cleary Gottlieb."
+        },
+        {
+          "type": "paragraph",
+          "text": "On March 5, 2024, Cleary Gottlieb’s London office hosted a reception to celebrate its longstanding partnership with the Toynbee Hall Women’s Free Legal Advice Clinic.",
+          "links": [
+            {
+              "text": "Cleary Gottlieb",
+              "href": "https://www.clearygottlieb.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Toynbee Hall Women’s Free Legal Advice Clinic is a safe and welcoming environment for women across London to seek legal support on areas ranging from housing and employment law to family law and domestic violence. The majority of women using this essential service have suffered abuse and have no other recourse to legal support."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since 2015, Cleary Gottlieb has sponsored and staffed the Toynbee Hall Women’s Free Legal Advice Clinic on Saturday mornings. In collaboration with expert advisers at Toynbee Hall, our female lawyers have dedicated thousands of pro bono hours to volunteering at this service. The clinic has for many years been committed to a Psychologically Informed Environment model, acknowledging that the needs of its clients can extend far beyond legal advice and making every effort to address extra-legal barriers that prevent people exercising their rights."
+        },
+        {
+          "type": "paragraph",
+          "text": "The effectiveness of this model is exemplified by recent feedback from one of the clinic’s clients, an individual forced to sleep away from her own home due to anti-social behaviour who visited the clinic in January 2024:"
+        },
+        {
+          "type": "paragraph",
+          "text": "I am stunned by the quality of your work on my case – and that of your colleagues – the care you have taken, and the amount of detail incorporated and the clarity of your recommendations. It all makes perfect sense. I really am most grateful for the empathic response and incisive approach. This is just what I had always hoped for but never experienced till now. It shows how important a knowledge of the law and a legally trained mind are to disentangling these apparently intractable problems.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Having operated the clinic without interruption as a remote service since the start of the COVID-19 pandemic, we are delighted to announce that Toynbee Hall will be re-establishing in-person advice sessions at its historic center in East London from March 2024. We hope that this development, enabled in part through Cleary Gottlieb’s sponsorship, will ensure that the communities served by this partnership can access justice for many years to come."
+        },
+        {
+          "type": "paragraph",
+          "text": "We hope this development will ensure that communities served by this partnership can access the vital justice they need for many years to come.“"
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about our advice services and how you can support us.",
+          "links": [
+            {
+              "text": "advice services",
+              "href": "/free-advice/"
+            },
+            {
+              "text": "support us",
+              "href": "/get-involved/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

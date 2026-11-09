@@ -1,0 +1,135 @@
+{
+  "slug": "audit-194-web-development-design-invitation-to-submit-expression-of-interest",
+  "route": "/17/11/2020/web-development-design-invitation-to-submit-expression-of-interest/",
+  "title": "Web Development/Design invitation to submit expression of interest",
+  "intro": "We are looking to commission someone to test, and embed new functionality into our Wordpress site",
+  "template": "article",
+  "publishedAt": "2020-11-17",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are looking to commission someone to test and embed new functionality into our WordPress site"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Project Purpose"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall works to make London a fairer and happier place to be. A big part of our work is enabling people from within our local community to be able to help one another. They do this in a number of ways from becoming Befriending volunteers or getting involved in a research project to running projects or providing free legal advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are opportunities both formally and informally to volunteer. To lead change. And to share thoughts and lived experiences with one another."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our work in this area is cutting-edge and we want our digital platforms to reflect that. We have a small amount of funding to make some fundamental changes to how the community we support are able to use our website to support themselves and one another as well as access services as well as possible."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1. Volunteer resource hub"
+        },
+        {
+          "type": "paragraph",
+          "text": "In an ideal world we would be able to divide this space in such a way as different groups of volunteers could collaborate in teams, share resources and also ask for advice. We’d like for them to also be able to submit public posts for the website for our team to review and publish. We want to make it as easy as possible to publish information and blogs written by volunteers and give them one space to go we are open to whether this is built into the website or create a micro-site."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples of groups using:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Digital befriending volunteers developing and sharing resources to help digitally unskilled people to get online for the first time",
+            "ESOL volunteers supporting local people to develop their English skills",
+            "Research volunteers discussing policy changes they’d like to see",
+            "Legal Advice Volunteers creating advice and guidance resources",
+            "All volunteers wanting to know about social opportunities, training and policies that apply to them in their roles."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2. What’s on diary"
+        },
+        {
+          "type": "paragraph",
+          "text": "A single place where people can see what’s happening at Toynbee Hall (both physical and virtual events) and how they can access them, booking places if necessary. This needs to be able to easily manage reoccurring weekly activities as well as one off events so that it can be useful to local people with a minimal amount of maintenance from the staff team. It needs to be instinctive to use for people who aren’t digitally confident. We would welcome any suggestions that minimise admin around this function. We would like visitors to the site to be able to filter events around requirements such as date, time, audience and type of event – so they can find what they are looking for quickly."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "3. A training/ resources space"
+        },
+        {
+          "type": "paragraph",
+          "text": "A publicly available space on our site where local people can access training and information that helps them solve problems they are facing. This will host useful information such as resources and help guides in an easy to navigate, accessible way and allows people to feed back if they need information in another format and ask follow up questions/request resources. We are particularly interested in ways to make this useful to people who are less confident digitally. Crucially we want to be able to help people find the information they need easily and use it confidently."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Mandatory deliverables by 30th March 2021"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "UX testing undertaken with target audiences in planning and testing phases (we will recruit for this) and bugs fixed",
+            "3 functionalities live on the site",
+            "How to guides shared with digital manager and other key stakeholders for managing/ maintaining each functionality",
+            "An online training session (recorded) with key stakeholders to ensure all questions are answered and they are confident to use"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Budget"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our budget for this project is £4500 including VAT, software costs and all expenses. We are a charitable organisation with limited budgets so we would be happy to hear of any added value that you can provide as part of your proposal. Employment would be via a freelance contract so you would be responsible for paying your own tax and National Insurance contributions."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Timescale/EOI Process"
+        },
+        {
+          "type": "paragraph",
+          "text": "17/11/2020 – Proposal released (individuals/ organisations interested email david.allsey@toynbeehall.org.uk to receive invitation to Q&A session with stakeholders)",
+          "links": [
+            {
+              "text": "david.allsey@toynbeehall.org.uk",
+              "href": "mailto:david.allsey@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "30/11/2020 – 15:00 – Stakeholder Q&A via teams (recorded). Stakeholders will answer questions on the call, and any submitted by email in advance. Everyone who expresses an interest will get a copy of the recording, so attendance is optional."
+        },
+        {
+          "type": "paragraph",
+          "text": "07/12/20 – 9am EOI received. The expression of interest should include: an example of similar work undertaken on another site, formatted as: The problem you were asked to solve, the work you undertook, and the end result. With a link to the site, and details of a referee from that work (we will only contact referees with your permission). Your timetable for delivery and what you will need from us."
+        },
+        {
+          "type": "paragraph",
+          "text": "10/12/20 – Conversations with shortlisted developers"
+        },
+        {
+          "type": "paragraph",
+          "text": "11/12/20 – successful developer/ designer commissioned 04/01 – work begins"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

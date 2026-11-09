@@ -1,0 +1,100 @@
+{
+  "slug": "audit-45-new-report-londoners-disproportionately-affected-by-the-covid-19-crisis-must-be-involved-in-future-policy-making",
+  "route": "/05/08/2021/new-report-londoners-disproportionately-affected-by-the-covid-19-crisis-must-be-involved-in-future-policy-making/",
+  "title": "New report: Londoners disproportionately affected by the COVID-19 crisis must be involved in future policy-making",
+  "intro": "The Pandemic Stories report explores the experiences of Londoners disproportionately affected by the COVID-19 crisis",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/Pandemic-Stories-cover-image.jpg",
+    "alt": "Pandemic Stories Full Findings"
+  },
+  "template": "article",
+  "publishedAt": "2021-08-05",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Pandemic Stories report explores the experiences of Londoners disproportionately affected by the COVID-19 crisis"
+        },
+        {
+          "type": "paragraph",
+          "text": "A new report from Toynbee Hall and Thrive LDN has been released today outlining how the pandemic has widened pre-existing inequalities and how Londoners can challenge systemic injustices through a collective voice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pandemic Stories, a peer-to-peer research report, gives voice to people from London’s hardest hit communities. The report tells the stories of Londoners who are disproportionately impacted because of lower quality of life and opportunity available to people living on a low income or in rented accommodation, living with disability, or experiencing systemic racism, and expands on the headline findings released in March with more in-depth findings and recommendations. Pandemic Stories also draws a picture of our collective hopes and ambitions for the way forward and actions taken so far.",
+          "links": [
+            {
+              "text": "Pandemic Stories",
+              "href": "/research"
+            },
+            {
+              "text": "The report",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/Pandemic-Stories-Full-Report-August-2021.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Based on evidence gathered through interviews with members of their own communities, a diverse group of trained peer researchers have set out where support is needed in four key areas: financial health and employment, advice and information, community support and collective voice, and mental health. The findings show how the pandemic has not only been a health crisis, but has dramatically affected people’s social, economic and family life, as well as their mental health."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pandemic Stories calls for every Londoner to be able to take part in accessible and programmed opportunities, to meet with their neighbours and to speak to and be listened to by decision-makers. From the interview discussions it is clear that more inclusive decision-making in London is needed. To support this, the report’s authors recommend the development of a ‘listening infrastructure’, as well as including participatory policy-making and co-design in every element of London partners’ recovery strategy."
+        },
+        {
+          "type": "paragraph",
+          "text": "The research findings and the 12 priority recommendations raise key issues as the capital begins to recover from the pandemic. The report’s peer researchers have presented their findings and outlined their broader set of recommendations to key decision makers, including to MPs and peers at the joint meeting of the All-Party Parliamentary Groups (APPG) on Universal Credit and Ending the Need for Food Banks. They have also held separate workshops to inform the GLA’s London Recovery Board missions on employment and digital inclusion, and to respond to the Women and Equalities Committee inquiry into the disproportionate impact of COVID-19 on BAME communities. Their calls for change are compelling and rooted in Londoners’ lived experience of the pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Commenting on the report, Sian Williams, Director of Policy at Toynbee Hall, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“For many people in the communities our peer researchers interviewed, the pandemic is the latest crisis in a steadily worsening series of systemic exclusion and inequality. In this report, the researchers identify evidence-based solutions and set out the way forward for building stronger community networks, increasing financial resilience, and improving mental wellbeing."
+        },
+        {
+          "type": "paragraph",
+          "text": "We believe that acting on these recommendations is essential to community empowerment, and we are working with the peer researchers and a wide range of stakeholders to honour our commitment to co-design. Co-producing a fairer and happier future with those most affected must play a key part of any recovery strategy.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Commenting on the report, Dan Barrett, Thrive LDN director said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“As we emerge from the coronavirus crisis, we must continue to put people and communities in the lead, allowing us to develop meaningful and trusted relationships at a London, multi-borough and community level. Doing so will allow us to support the wellbeing and resilience of all Londoners who need help and support now and beyond the pandemic.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The report is dedicated to Jennifer Griffith, a key member of the peer research group. Jennifer joined the project as a researcher in June 2020. A dedicated member of the team, she helped shape the Pandemic Stories research, conducted interviews with her peers, and developed recommendations. A talented policy influencer, she took part in podcasts and presentations, including to the APPG on Universal Credit and the Need to End Food Banks. Jennifer was employed by Toynbee Hall as one of their first Policy Champions from February 2021. She passed away in March 2021."
+        },
+        {
+          "type": "paragraph",
+          "text": "In February 2021, whilst presenting on the work of the peer researchers Jennifer said: “I am hoping that our findings and recommendations will be taken seriously and that we can improve the mental wellbeing and finances of our communities. This will help us to grow together to not only depend on the government or handouts, but to be so empowered individually and in our communities so that we can make improvements and make a difference.”"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/cropped-Pandemic-Stories-003_Page_01-727x1024.jpg",
+            "alt": "Pandemic Stories full findings cover"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read the full report here",
+          "links": [
+            {
+              "text": "You can read the full report here",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/Pandemic-Stories-Full-Report-August-2021.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

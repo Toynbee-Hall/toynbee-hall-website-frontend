@@ -1,0 +1,76 @@
+{
+  "slug": "audit-64-proms-at-st-judes-2023-north-londons-world-class-music-and-literary-festival",
+  "route": "/07/04/2023/proms-at-st-judes-2023-north-londons-world-class-music-and-literary-festival/",
+  "title": "Proms at St Jude’s 2023: North London’s world-class music and literary festival",
+  "intro": "The Festival, which supports Toynbee Hall, is back for 2023 for it’s 30th year from Saturday 24 June to Sunday 2 July.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/04/Toynbee-Hall-volunteer-at-Proms-2022.jpg",
+    "alt": "Toynbee Hall youth project worker talks to attendee at Proms at St Jude's Festival"
+  },
+  "template": "article",
+  "publishedAt": "2023-04-07",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Festival, which supports Toynbee Hall, is back for 2023 for it’s 30th year from Saturday 24 June to Sunday 2 July."
+        },
+        {
+          "type": "paragraph",
+          "text": "Have you ever been to the Proms at St Jude’s Festival? If the answer is no, then you may not be aware that it is home to a world-class arts festival in North London which supports Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Festival takes place for nine days every summer and has been held for 30 years. In 2023, it runs from Saturday 24 June to Sunday 2 July."
+        },
+        {
+          "type": "paragraph",
+          "text": "As well as concerts, there are a dozen popular guided Heritage Walks, a weekend of top authors talking at the Literary Festival (LitFest), a late-night comedy slot and a Family Festival for young and old, with some events free."
+        },
+        {
+          "type": "paragraph",
+          "text": "Speaking at the recent launch, Kate Webster, Chair of Proms, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“It’s wonderful to get our 2023 season off the ground and we’re looking forward to a lively festival without any pandemic restrictions at last. Our new feature this year is our Family Festival on Sunday, 2 July, designed for people with children or grandchildren up to 11 years old, so please save the date now!”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Everything takes place in Hampstead Garden Suburb, NW11 – nearest Tube Golders Green and buses 13, 102 and 460."
+        },
+        {
+          "type": "paragraph",
+          "text": "Full details of this year’s programme can be found at promsatstjudes.org.uk, where you can also sign up to join the free online mailing list.",
+          "links": [
+            {
+              "text": "promsatstjudes.org.uk,",
+              "href": "http://promsatstjudes.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/04/Fantasia-Orchestra-opens-the-Festival-in-2023-Credit-Frank-Noon-1024x682.jpg",
+            "alt": "Fantasia Orchestra opens the Festival in 2023. Credit Frank Noon."
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Tickets go on sale to the public on 17 April and you can beat the crowds by becoming a Friend before then.",
+          "links": [
+            {
+              "text": "becoming a Friend",
+              "href": "https://www.promsatstjudes.org.uk/join-as-a-friend"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

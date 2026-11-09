@@ -1,0 +1,467 @@
+{
+  "slug": "audit-26-coronavirus-update-how-to-access-our-services-during-lockdown",
+  "route": "/03/12/2020/coronavirus-update-how-to-access-our-services-during-lockdown/",
+  "title": "Coronavirus update: How to access our services post lockdown – December update",
+  "intro": "Find out what the local tier system means and how we can still provide help and support.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/COVID-service-update-December-update.gif",
+    "alt": "How to safely access our services December update"
+  },
+  "template": "article",
+  "publishedAt": "2020-12-03",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "On Wednesday 2nd December, lockdown restrictions were lifted across England and replaced by a local tier system to keep the Coronavirus pandemic under control. London is currently in Tier 2, which is High Alert. Here’s what this means:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/Tier-2-rules-1024x576.jpg",
+            "alt": "Tier 2 - high Alert"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "To know what this means for you in your area, search your post code and see what restrictions are in place.",
+          "links": [
+            {
+              "text": "search your post code and see what restrictions are in place.",
+              "href": "https://www.gov.uk/coronavirus-local-help"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For information within Tower Hamlets – visit the Tower Hamlets Council website.",
+          "links": [
+            {
+              "text": "visit the Tower Hamlets Council website",
+              "href": "https://www.towerhamlets.gov.uk/lgnl/health__social_care/health_and_medical_advice/Coronavirus/Coronavirus.aspx"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to access our services"
+        },
+        {
+          "type": "paragraph",
+          "text": "With many people facing uncertainty and confusion around their employment, finances, housing, care or social security, we want to ensure everyone has the information they need to be able to understand their rights and get the support they are entitled to."
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall we provide a range of help and support services that continue to be available. Here is how you can access our services."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Debt and Money Advice"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/DFL-lockdown-guide-image-1024x575.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "If you owe money and need some advice on how to keep your debts under control or manage your money, you can access free, expert debt advice from Debt Free London, London’s debt advice partnership."
+        },
+        {
+          "type": "paragraph",
+          "text": "We offer debt advice to people living or working in London by any of the following ways on weekdays between 10:00-17:00:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Call our freephone 0800 808 5700",
+            "WhatsApp – message on 0800 808 5700",
+            "WebChat – on our website at www.debtfree.london and click on the Chat Now button",
+            "Video Chat – on our website at www.debtfree.london/video, requires a computer or mobile device with a camera and microphone",
+            "Via video kiosk at one of our Digital Access Centres*"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "*As part of a new service to make debt advice available to everyone, we’re offering face-to-face advice in two Digital Access Centres. You can attend one of our centres in person and receive expert help from one of our advisers via a video kiosk. Our Digital Access Centres are at Toynbee Hall and Citizens Advice Islington."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Free Legal Advice"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/FLAC-lockdown-guide-image1-1024x576.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "We can provide free legal advice on issues such as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Employment including redundancy rights – If you are worried about your employment or think you may face the possibility of redundancy, it’s important to know your rights. We’ve produced a series of videos to help you know what a fair process should look like and what rights you have. Watch here."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Immigration law",
+            "Civil advice",
+            "Housing including evictions",
+            "Consumer issues",
+            "Women-only sessions*"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "*We offer women-only advice sessions on a Saturday. We provide general advice for women only during this session. We can offer legal advice on employment, housing, family issues, including domestic violence or forced marriages and consumer issues. Advice is provided by volunteer women legal solicitors only, there may be Bengali translators present."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our Free Legal Advice Centre is closed for face-to-face appointments. However you can still access free, expert legal advice by phone and email."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Please complete our online form here. Alternatively you can call 020 7392 2953 or email: flac@toynbeehall.org.uk"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Live or work in the City of London Square Mile?"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/City-Advice-banner-image-lockdown-guide-1024x636.png",
+            "alt": "City Advice - the free advice service for the City of London Mask image"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Do you live, work or study in the City of London Square Mile or live in a City of London Corporation Estate? We have a specialist service that is available to people in the City of London. The City Advice Service provides free, expert advice and issues such as employment and redundancy, housing, welfare benefits, family and relationships, consumer rights and debt and money."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more about how City Advice can help or call the freephone number 020 7392 2919."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Community Services"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/Web-edit-lockdown-guide.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Our Community Centre continues to be shut during the lockdown period. We are currently running small conversation bubbles for isolated people. These bubbles are invitation only. We are also running volunteer led befriending and digital inclusion programmes. If you are interested in accessing any of these services please call us on 07949 840569."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our community’s wellbeing is our top priority and we will be introducing additional activities only if we’re confident that we can keep our community centre members and staff safe and happy to do so."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Linkage Plus"
+        },
+        {
+          "type": "paragraph",
+          "text": "The LinkAge Plus project is currently unable to run face to face activities but our outreach workers are working remotely to offer practical support and signposting to 50+ people within Tower Hamlets. To access LinkAge Plus please call us on 07957 906036."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more about Linkage Plus."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Phone Befriending Service"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you or someone you know lives in Tower Hamlets and is experiencing loneliness, or wants to make a new friend without leaving home – our befriending project might be for you. The project brings together people with shared interests for a regular conversation over the phone."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you are interested in being matched with a befriender and receive regular calls, find out more or contact Miry on miry.mayer@toynbeehall.org.uk."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Youth projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our youth activism project, When We Speak, is continuing to run a series of online virtual events to discuss a range of issues with special guests and empower young people through the power of activism.",
+          "links": [
+            {
+              "text": "When We Speak",
+              "href": "/other-projects/youth-projects/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The next event is in collaboration with Burnt Roti on 18th November. Burnt Roti is a magazine and blog website that covers controversial topics within South Asian Communities including, young womxn, identity, sexuality and mental health. Burnt Roti is now the leading South Asian lifestyle magazine in the UK. Sign up to this event here."
+        },
+        {
+          "type": "paragraph",
+          "text": "To keep up to date with future events, follow us on Instagram and Facebook.",
+          "links": [
+            {
+              "text": "Instagram",
+              "href": "https://www.instagram.com/toynbeehall"
+            },
+            {
+              "text": "Facebook.",
+              "href": "https://www.facebook.com/ToynbeeHall1884"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A bit unsure about anything? Don’t worry!"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are a Tower Hamlets or City of London resident and are unsure on what any of this any of this could mean for you or you need advice on benefits or eligibility to Government support please get in touch and our Advice Team and they will do their best to help."
+        },
+        {
+          "type": "paragraph",
+          "text": "Call 020 7392 2953, email advice@toynbeehall.org.uk or complete this online form and someone will get back to you.",
+          "links": [
+            {
+              "text": "advice@toynbeehall.org.uk",
+              "href": "mailto:advice@toynbeehall.org.uk"
+            },
+            {
+              "text": "complete this online form",
+              "href": "/free-advice/#contact-us"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Otherwise please contact please contact your local advice provider. You can find your nearest advice provider here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "https://www.adviceuk.org.uk/looking-for-advice/find-advice/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Government Financial Support"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’re income has been affected in any way by Coronavirus, you could be eligible to claim financial support."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/s960_Job_retention_scheme.jpg",
+            "alt": "S960_Job_retention_scheme"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "From 1st November the Job Retention Scheme (Furlough scheme) was supposed to be replaced by the Job Support Scheme. Following the announcement of the National Lockdown, the Government have postponed this decision and the Job Retention Scheme (The Furlough scheme will remain in place until December)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employees can receive 80% of their current salary up to a maximum of £2,500 for hours not worked and further economic support announced. In addition, business premises forced to close in England are to receive grants worth up to £3,000 per month under the Local Restrictions Support Grant."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more at Gov.uk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mortgage holidays will also be extended by up to six months. Final guidance will be published by the FCA soon."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Check what benefits you can get"
+        },
+        {
+          "type": "paragraph",
+          "text": "You might be able to claim benefits or get more money on your current benefits if your work has been affected by Coronavirus."
+        },
+        {
+          "type": "paragraph",
+          "text": "This might be because you:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "are earning less than usual – including if you’re self-employed",
+            "have lost your job or been made redundant",
+            "have stopped being self-employed"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more and see what you are entitled to."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Self-Employment Income Support Scheme grant extension"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Self-Employment Income Support Scheme grant extension provides critical support to the self-employed in the form of 2 further grants, each available for 3 month periods covering November 2020 to January 2021 and February 2021 to April 2021. Find out more.",
+          "links": [
+            {
+              "text": "Find out more.",
+              "href": "/\\\\tbhfile01\\data\\Communications\\Website\\News%20and%20Blogs\\The%20Self-Employment%20Income%20Support%20Scheme%20grant%20extension%20provides%20critical%20support%20to%20the%20self-employed%20in%20the%20form%20of%202%20further%20grants,%20each%20available%20for%203%20month%20periods%20covering%20November%202020%20to%20January%202021%20and%20February%202021%20to%20April%202021."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you are a carer"
+        },
+        {
+          "type": "paragraph",
+          "text": "During this COVID-19 pandemic, it’s important to know what support is available to you as a carer and those you look after. Find out what support you can get by visiting Carers UK."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What is the latest advice for carers."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Free School Meals"
+        },
+        {
+          "type": "paragraph",
+          "text": "This weekend, the Government announced that they would extending free school meals. The new Winter Grant scheme, which is to be run by councils, will provide support with food and bills, and a holiday food and activities programme is to be expanded. Local authorities will receive the funding at the beginning of December."
+        },
+        {
+          "type": "paragraph",
+          "text": "To get free school meals for your child in Tower Hamlets. The child’s parent (or guardian) must make a claim either by:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "completing a paper copy of the claim form available from schools or by telephoning the benefits service on 020 7364 5000",
+            "making a claim for housing and/or council tax benefit (which also counts as a claim for free school meals – you do not need to complete a separate form in this case)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Information and evidence required"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the child’s name, date of birth and school",
+            "evidence of the parent’s (or guardian’s) income (unless this has been provided already)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Covid Support for Vulnerable or Isolating Residents in Tower Hamlets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tower Hamlets Council has a dedicated phoneline to support vulnerable residents and people identified by the NHS as being at the highest risk of severe illness from coronavirus"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have been identified by the NHS as being at the highest risk of severe illness from coronavirus, you can read the full government guidance online. Call 020 7364 3030: The phone line is open: Monday to Friday (9am – 5pm)",
+          "links": [
+            {
+              "text": "full government guidance",
+              "href": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fguidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19%2Fguidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19&data=04%7C01%7COliver.Moore%40towerhamlets.gov.uk%7C3720396abc5942505ee208d88570a4f9%7C3c0aec87f983418fb3dcd35db83fb5d2%7C0%7C0%7C637406066128019380%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Wk4Ewx3sIWlXfBpSVNFSQl7qHvtWlwcqvTShxbCT38c%3D&reserved=0"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This number is for Tower Hamlets residents, their families or their carers to let the council know if they have any urgent requirements. The phone line can be used by vulnerable residents that need help during this difficult time including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "residents that have been identified as being extremely vulnerable,",
+            "those at the highest risk of severe illness,",
+            "the very elderly,",
+            "people with disabilities,",
+            "those self-isolating with underlying health conditions,",
+            "or those isolating as a result of NHS Test and Trace."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are a Tower Hamlets or City of London resident and are unsure on what any of this any of this could mean for you or you need advice on benefits or eligibility to Government support please get in touch and our Advice Team and they will do their best to help. Call 020 7392 2953, email advice@toynbeehall.org.uk or complete this online form and someone will get back to you.",
+          "links": [
+            {
+              "text": "advice@toynbeehall.org.uk",
+              "href": "mailto:advice@toynbeehall.org.uk"
+            },
+            {
+              "text": "complete this online form",
+              "href": "/free-advice/#contact-us"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Otherwise please contact please contact your local advice provider. You can find your nearest advice provider here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "https://www.adviceuk.org.uk/looking-for-advice/find-advice/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

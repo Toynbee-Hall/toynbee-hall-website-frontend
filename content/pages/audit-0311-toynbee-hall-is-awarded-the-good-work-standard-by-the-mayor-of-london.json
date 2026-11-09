@@ -1,0 +1,58 @@
+{
+  "slug": "audit-311-toynbee-hall-is-awarded-the-good-work-standard-by-the-mayor-of-london",
+  "route": "/26/02/2020/toynbee-hall-is-awarded-the-good-work-standard-by-the-mayor-of-london/",
+  "title": "Toynbee Hall is awarded the Good Work Standard by the Mayor of London",
+  "intro": "We are delighted to be recognised by the Mayor of London and become one of the first employers in London to be awarded the Good Work Standard. On Wednesday 26th February, staff and volunteers were presented with a plaque by Charlotte Rayner from the Greater London Authority (GLA) to acknowledge our commitment to our staff… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/02/Web-edit.jpg",
+    "alt": "Toynbee Hall awarded the Good Work Standard"
+  },
+  "template": "article",
+  "publishedAt": "2020-02-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are delighted to be recognised by the Mayor of London and become one of the first employers in London to be awarded the Good Work Standard."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Wednesday 26th February, staff and volunteers were presented with a plaque by Charlotte Rayner from the Greater London Authority (GLA) to acknowledge our commitment to our staff and the improvements we’ve made to make Toynbee Hall a better place to work."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Mayor of London’s Good Work Standard sets the benchmark for the best employment standards and helps employers contribute to a fairer and more inclusive London economy. This means the economy works for all Londoners and more Londoners can access good jobs, in workplaces that support their health and wellbeing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Standard was officially launched in summer 2019 as part of the Mayors commitment to making London the best city in the world to work. There are four pillars to the Good Work Standard, covering fair pay and conditions, workplace wellbeing, skills and progression and diversity and recruitment. You can read a bit more about it on the GLA website here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "https://www.london.gov.uk/what-we-do/business-and-economy/supporting-business/what-mayors-good-work-standard"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We are proud to be one of the first official Good Work Standard employers in London and we hope other organisations adopt the Standard as they play crucial role in making London a fairer, happier and healthier place to work. Better pay and better conditions for workers could also help to tackle other growing issues such as in-work poverty, life-dissatisfaction and improve general wellbeing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jim Minton, Chief Executive of Toynbee Hall said;"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/02/Good-Work-Standard-Logo-1.png",
+            "alt": "The Good Work Standard Logo"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

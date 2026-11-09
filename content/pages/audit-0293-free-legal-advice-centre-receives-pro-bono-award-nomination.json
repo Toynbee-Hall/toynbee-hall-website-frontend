@@ -1,0 +1,57 @@
+{
+  "slug": "audit-293-free-legal-advice-centre-receives-pro-bono-award-nomination",
+  "route": "/24/11/2021/free-legal-advice-centre-receives-pro-bono-award-nomination/",
+  "title": "Free Legal Advice Centre receives Pro Bono Award nomination",
+  "intro": "Toynbee Hall’s Free Legal Advice Centre have been nominated for a Pro Bono Award for their “People Like Us – Know Your Rights” public legal education project.",
+  "template": "article",
+  "publishedAt": "2021-11-24",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall’s Free Legal Advice Centre have been nominated for a Pro Bono Award for their “People Like Us – Know Your Rights” public legal education project."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall’s Free Legal Advice Centre have been nominated for a Pro Bono Award for their “People Like Us – Know Your Rights” community-focused public legal education project. Competing in the Best New Pro Bono Activity category at the prestigious LawWorks Pro Bono Awards, People Like Us – Know Your Rights has been recognised for how it enhances legal knowledge, skills, and capability within the local community utilising the expertise and knowledge of pro bono legal volunteers from partners including Allen & Overy, Bank of New York Mellon, Bloomberg, Cleary Gottlieb Steen and Hamilton, Duncan Lewis, and Howard Kennedy, the Free Legal Advice Centre has been",
+          "links": [
+            {
+              "text": "People Like Us – Know Your Rights",
+              "href": "/know-your-rights/"
+            },
+            {
+              "text": "LawWorks Pro Bono Awards",
+              "href": "https://www.lawworks.org.uk/solicitors-and-volunteers/get-involved/lawworks-pro-bono-awards-2021"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The “Know Your Rights” pro bono work has helped us respond to surging demand for legal support locally and an avalanche of common issues that resulted from the additional pressures of the Covid-19 crisis on people’s lives."
+        },
+        {
+          "type": "paragraph",
+          "text": "The project has been a vital response to address an expanding access to justice gap, exacerbated by Covid-19 and has helped ensure that individuals can access easy to understand information on how to respond to common legal issues and exercise their rights. As well as legal information packs, easy to follow guides, and social media shareable information, the project has created a range of video resources that have been shared across social media. In the first two months that the video content was live it was viewed a total of 584 times."
+        },
+        {
+          "type": "paragraph",
+          "text": "The LawWorks Pro Bono Awards take place on Tuesday 7th December. Thank you to all the volunteers and firms who have supported the work."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would like to discuss how to support the Free Legal Advice Centre as a firm, please contact rob.crich@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "rob.crich@toynbeehall.org.uk",
+              "href": "mailto:rob.crich@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

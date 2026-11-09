@@ -1,0 +1,34 @@
+{
+  "slug": "audit-454-support-us",
+  "route": "/get-involved/support-us/",
+  "title": "Support us",
+  "intro": "Support our work Help us make East London a fairer and happier place Subscribe to our e-newsletter",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Support our work"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Help us make East London a fairer and happier place"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our e-newsletter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

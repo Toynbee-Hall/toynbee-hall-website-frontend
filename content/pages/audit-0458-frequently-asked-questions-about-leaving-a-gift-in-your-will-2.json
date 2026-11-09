@@ -1,0 +1,29 @@
+{
+  "slug": "audit-458-frequently-asked-questions-about-leaving-a-gift-in-your-will-2",
+  "route": "/get-involved/support-us/leave-a-gift-in-your-will/frequently-asked-questions-about-leaving-a-gift-in-your-will-2/",
+  "title": "Frequently Asked Questions about leaving a gift in your will",
+  "intro": "Answers to frequently asked questions about leaving a gift in your will If you would like further assistance, please don’t hesitate to contact Rob Crich at rob.crich@toynbeehall.org.uk or 020 7392 2949 How do I go about remembering Toynbee Hall in my will? Please see the sections on “Preparing your will” and “Wording for your will” in our… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Answers to frequently asked questions about leaving a gift in your will"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would like further assistance, please don’t hesitate to contact Rob Crich at rob.crich@toynbeehall.org.uk or 020 7392 2949"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Leaving a gift in your will is an investment in an ever changing community."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "audit-423-employment-rights",
+  "route": "/employment-rights/",
+  "title": "Employment Rights and Immigration Law",
+  "intro": "Employment Rights These sessions are by appointment only. We can provide advice regarding: • Dismissal • Redundancy﻿ • Discrimination• Unpaid wages • We can help with making claims to an employment tribunalWhat will I need? • Copy of your employment contract • Details of any disciplinary, grievance or dismissal issues • Any recent letters from… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Employment Rights"
+        },
+        {
+          "type": "paragraph",
+          "text": "These sessions are by appointment only."
+        },
+        {
+          "type": "paragraph",
+          "text": "We can provide advice regarding:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Dismissal • Redundancy﻿ • Discrimination • Unpaid wages • We can help with making claims to an employment tribunal"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What will I need?"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Copy of your employment contract • Details of any disciplinary, grievance or dismissal issues • Any recent letters from your employer • Staff handbook • Copy of employment tribunal applications – if you have made any • Proof of your income – wage slips, benefit letters, tax credit"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Online Initial Assessment Form"
+        }
+      ]
+    }
+  ]
+}

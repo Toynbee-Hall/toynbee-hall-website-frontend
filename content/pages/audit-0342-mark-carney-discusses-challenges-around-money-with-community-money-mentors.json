@@ -1,0 +1,53 @@
+{
+  "slug": "audit-342-mark-carney-discusses-challenges-around-money-with-community-money-mentors",
+  "route": "/28/02/2019/mark-carney-discusses-challenges-around-money-with-community-money-mentors/",
+  "title": "Mark Carney discusses challenges around money with Community Money Mentors",
+  "intro": "At Toynbee Hall, we believe in the importance of putting real lived experiences into the heart of our services and sharing that experience with decision makers. Yesterday, we welcomed Mark Carney, Governor of the Bank of England to Toynbee Hall to meet a group of Community Money Mentors who shared their experiences and discussed issues… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/02/IMG_3128-web-story.jpg",
+    "alt": "Community Money Mentors share their experiences with money with Mark Carney, Governor of the Bank of England"
+  },
+  "template": "article",
+  "publishedAt": "2019-02-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall, we believe in the importance of putting real lived experiences into the heart of our services and sharing that experience with decision makers. Yesterday, we welcomed Mark Carney, Governor of the Bank of England to Toynbee Hall to meet a group of Community Money Mentors who shared their experiences and discussed issues around money, banking and savings."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Community Money Mentors graduated from our money management course that teaches people the skills and techniques to improve their financial health and then share this learning with others in their communities. We now employ many of the graduates from the course to teach it themselves across London."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/02/IMG_3125-web-story-1024x682.jpg",
+            "alt": "Mark Carney, Governor of the Bank of England meets with Community Money Mentors"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Mr Carney asked the Money Mentors some questions about the work they do around money before they put forward some of the challenges they come across that people on low incomes face. These included; reliance on cash in an increasingly cashless society, personal budgeting, technology that works for and not against people and other issues around banking. Two changes that were specifically called for was the ability to widely withdraw £5 from ATM machines and removal of fee charging ATMs."
+        },
+        {
+          "type": "paragraph",
+          "text": "The discussion covered the unfair increased costs that people on low incomes have to pay for essential goods and services, that wouldn’t have to pay if they were financially better off, known as the ‘Poverty Premium’. They also spoke about how we can work with banks to help encourage people to make savings in case of emergencies so they can cover unexpected costs such as essential repairs or job loss. We hope that these challenges will be taken into consideration when designing new financial services and that banks will do more to incentivize people on low incomes to use their products and services."
+        },
+        {
+          "type": "paragraph",
+          "text": "We want to thank the East End Community Foundation for organizing the visit and we hope that Mr Carney found the discussion valuable and informative. Find out more about the Community Money Mentors Programme and see how we’re improving the financial health of more people across London.",
+          "links": [
+            {
+              "text": "Find out more about the Community Money Mentors Programme",
+              "href": "/other-projects/learning-programmes/community-money-mentors/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

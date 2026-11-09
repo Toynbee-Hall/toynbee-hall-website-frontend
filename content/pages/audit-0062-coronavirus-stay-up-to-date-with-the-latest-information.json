@@ -1,0 +1,272 @@
+{
+  "slug": "audit-62-coronavirus-stay-up-to-date-with-the-latest-information",
+  "route": "/07/04/2020/coronavirus-stay-up-to-date-with-the-latest-information/",
+  "title": "Coronavirus – Stay up to date with the latest information: Updated 7th Aprill",
+  "intro": "The coronavirus outbreak is likely to have a major impact on all areas of life. In uncertain times it’s important to keep up to speed with the latest developments and know how you and your family are likely to be impacted. Here are some regularly updated guides from trusted sources so you have everything you… Read more",
+  "template": "article",
+  "publishedAt": "2020-04-07",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "The coronavirus outbreak is likely to have a major impact on all areas of life. In uncertain times it’s important to keep up to speed with the latest developments and know how you and your family are likely to be impacted. Here are some regularly updated guides from trusted sources so you have everything you need to know."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read the latest government information – Gov.uk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Here you can find the full guidance from the Government on what you need to do, the support available and procedures you need to follow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Visit www.gov.uk/coronavirus",
+          "links": [
+            {
+              "text": "www.gov.uk/coronavirus",
+              "href": "http://www.gov.uk/coronavirus"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Symptoms and What to do – NHS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Information on what to do if you are experiencing symptoms and how to protect yourself and others."
+        },
+        {
+          "type": "paragraph",
+          "text": "Symptoms and what to do",
+          "links": [
+            {
+              "text": "Symptoms and what to do",
+              "href": "https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms-and-what-to-do/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Protecting extremely vulnerable people – Gov.uk"
+        },
+        {
+          "type": "paragraph",
+          "text": "This guidance is for people, including children, who are at very high risk of severe illness from coronavirus (COVID-19) because of an underlying health condition, and for their family, friends and carers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guidance on protecting vulnerable people",
+          "links": [
+            {
+              "text": "Guidance on protecting vulnerable people",
+              "href": "https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Guidance on taking your children to school – Gov.uk"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can still take your children to school if you’re a ‘critical worker’. This means your job keeps an important service running, like the NHS, police or food deliveries. Check if you’re a critical worker."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guidance on taking your children to school",
+          "links": [
+            {
+              "text": "Guidance on taking your children to school",
+              "href": "https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Claim a grant through the coronavirus (COVID-19) Self-employment Income Support Scheme – Gov.uk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Use this scheme if you’re self-employed or a member of a partnership and have lost income due to coronavirus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Claim a grant through the coronavirus (COVID-19) Self-employment Income Support Scheme",
+          "links": [
+            {
+              "text": "Claim a grant through the coronavirus (COVID-19) Self-employment Income Support Scheme",
+              "href": "https://www.gov.uk/guidance/claim-a-grant-through-the-coronavirus-covid-19-self-employment-income-support-scheme"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Debt Free London"
+        },
+        {
+          "type": "paragraph",
+          "text": "A pan-London debt advice partnership made up of 26 debt charities who provide free, expert debt advice. Now offering advice via WhatsApp and online webchat."
+        },
+        {
+          "type": "paragraph",
+          "text": "www.debtfree.london",
+          "links": [
+            {
+              "text": "www.debtfree.london",
+              "href": "http://www.debtfree.london"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Coronavirus: what it means for you – Citizens Advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Check here if you’re concerned about paying your bills, going to work, being off sick and taking your children school or for general info."
+        },
+        {
+          "type": "paragraph",
+          "text": "Visit Citizens Advice and find out what this means for you",
+          "links": [
+            {
+              "text": "Visit Citizens Advice and find out what this means for you",
+              "href": "https://www.citizensadvice.org.uk/health/coronavirus-what-it-means-for-you"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Updated 7th April: What benefits can you get – Citizens Advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "You might be able to claim benefits or get more money if you’re already getting benefits. This includes any ‘statutory sick pay’ your employer might give you."
+        },
+        {
+          "type": "paragraph",
+          "text": "What benefits can you get",
+          "links": [
+            {
+              "text": "What benefits can you get",
+              "href": "https://www.citizensadvice.org.uk/benefits/coronavirus-check-if-there-are-changes-to-your-benefits/?utm_medium=social&utm_source=twitter&utm_campaign=covid19&utm_content=advice"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you can’t pay your bills, rent or mortgage – Citizens Advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read this guide if you think you may struggle to pay your bills due to coronavirus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out what to do if you can’t pay your bills due to coronavirus",
+          "links": [
+            {
+              "text": "Find out what to do if you can’t pay your bills due to coronavirus",
+              "href": "https://www.citizensadvice.org.uk/debt-and-money/if-you-cant-pay-your-bills-because-of-coronavirus"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Check if you’re entitled to sick pay – Citizens Advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out the details about what you are entitled to in terms of sick pay due to the coronavirus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out if you’re entitled to sick pay",
+          "links": [
+            {
+              "text": "Find out if you’re entitled to sick pay",
+              "href": "https://www.citizensadvice.org.uk/work/rights-at-work/sick-pay/check-if-youre-entitled-to-sick-pay"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Guidance for residents – London Borough of Tower Hamlets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Key information for Tower Hamlets residents from the local authority."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guidance for residents",
+          "links": [
+            {
+              "text": "Guidance for residents",
+              "href": "https://www.towerhamlets.gov.uk/News_events/2020/March_20/Stay_at_home_to_save_lives.aspx"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Advice for employers and employees – ACAS"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can check ways you and your employer can support each other on the ACAS website. ACAS provides free information for employees and employers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Advice for employers and employees",
+          "links": [
+            {
+              "text": "Advice for employers and employees",
+              "href": "https://www.acas.org.uk/coronavirus"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Crimestoppers – Domestic Abuse help page"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re mindful many women, men and children will be at higher risk of domestic violence and abuse whilst the move to self-isolation continues in the wake of Covid-19. We want to encourage you to learn the signs to spot, so that if you do see or hear something, you can speak up and tell us what you know. 100% anonymously. Crimestoppers Domestic Abuse page",
+          "links": [
+            {
+              "text": "Crimestoppers Domestic Abuse page",
+              "href": "https://crimestoppers-uk.org/keeping-safe/personal-safety/domestic-abuse"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall we’ve sadly had to close our face-to-face advice and Community Centre activities. We know this caused disappointment amongst our community members but we are committed to making sure that we remain contact with our friends and neighbours to give as much support as we can. Our advice services are now operating by phone and email. Debt Free London debt advice partnership has launched an online web chat and WhatsApp services and our community centre which holds a range of free activities is working to move online. If you need any help or advice, please do call or email on:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "020 7392 2953 advice.toynbeehall.org.uk"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

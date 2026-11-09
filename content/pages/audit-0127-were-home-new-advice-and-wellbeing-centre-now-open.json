@@ -1,0 +1,64 @@
+{
+  "slug": "audit-127-were-home-new-advice-and-wellbeing-centre-now-open",
+  "route": "/12/06/2019/were-home-new-advice-and-wellbeing-centre-now-open/",
+  "title": "We’re home! New Advice and Wellbeing Centre now open",
+  "intro": "All of our operations have now returned to our original East End site as we open our brand new advice and wellbeing centre. After three years away from our original site, we are thrilled to return all of our services and office back to 28 Commercial Street, our historic home since 1884. As the redevelopment… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/06/IMG_3454-1.jpg",
+    "alt": "Advice centre main reception"
+  },
+  "template": "article",
+  "publishedAt": "2019-06-12",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "All of our operations have now returned to our original East End site as we open our brand new advice and wellbeing centre."
+        },
+        {
+          "type": "paragraph",
+          "text": "After three years away from our original site, we are thrilled to return all of our services and office back to 28 Commercial Street, our historic home since 1884."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the redevelopment of the Toynbee Hall Estate nears completion, we moved our offices back into the newly renovated spaces above our Grade II listed building that has seen some of greatest social reformers and change makers pass through it’s doors."
+        },
+        {
+          "type": "paragraph",
+          "text": "At the front of the site facing Commercial Street, you will see our brand new purpose built centre, where we will deliver many of our services."
+        },
+        {
+          "type": "paragraph",
+          "text": "This new building will house our advice centre which provides vital services such as our debt advice service and Free Legal Advice service, the oldest of its kind anywhere in the world."
+        },
+        {
+          "type": "paragraph",
+          "text": "The building also contains a new Wellbeing Centre. This space will belong to the older people who visit our centre to take part in a wide range of activities. It will be a place where anyone over 50 can come and have a say about their local area. This new space will help us provide more programmes to tackle social isolation and the physical and mental ill health that brings and help people to age well.",
+          "links": [
+            {
+              "text": "range of activitie",
+              "href": "/other-projects/older-peoples-and-wellbeing-services/wellbeing-centre-activity-diary/"
+            },
+            {
+              "text": "s",
+              "href": "https://dmtrk.net/t/1TVB-6BVWS-BD28TD-3MQ441-1/c.aspx"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Opening times: Advice Centre – Monday to Friday (10am – 1pm and 2pm – 4pm) Wellbeing Centre – Monday to Saturday (9:30am – 4:30pm)"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any queiries about our services or the new centre, please call 020 7427 6943."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "audit-208-welcome-to-the-new-toynbee-hall-website",
+  "route": "/18/08/2018/welcome-to-the-new-toynbee-hall-website/",
+  "title": "Welcome to the new Toynbee Hall website",
+  "intro": "We’re happy to tell you that you’re one of the first people to access our new website. One of our biggest strengths is the breadth of our work but that also presents one of our biggest challenges. We provide advice services, older people’s wellbeing and youth services, learning programmes, we conduct external policy and research… Read more",
+  "template": "article",
+  "publishedAt": "2018-08-18",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We’re happy to tell you that you’re one of the first people to access our new website."
+        },
+        {
+          "type": "paragraph",
+          "text": "One of our biggest strengths is the breadth of our work but that also presents one of our biggest challenges. We provide advice services, older people’s wellbeing and youth services, learning programmes, we conduct external policy and research work, run range of historical and heritage projects and sustain all this by hiring out our venues. Directing everyone to the information they need can be tricky."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have designed our new site to help people easily find whatever information they need. Whether someone wants to access our services, get informed by our latest piece of research or find out more about any of the other areas, it’s crucially important that our new website is able to serve all of those purposes and encompasses all areas of our work."
+        },
+        {
+          "type": "paragraph",
+          "text": "What’s new"
+        },
+        {
+          "type": "paragraph",
+          "text": "We reached a tipping point where more people where accessing our website from a mobile device than a desktop screen. The new site is now optimized for mobile use and is adaptive to whatever screen size is being used."
+        },
+        {
+          "type": "paragraph",
+          "text": "We’ve also made strides in the accessibility of our content. Thanks to the Recite Me tool at the top of the page, our content is now available in 103 languages and in an appropriate format for many different visual impairments and can adjust to the needs of people with dyslexia."
+        },
+        {
+          "type": "paragraph",
+          "text": "We simplified our navigation making it easier to find the information you need. It’s easier to find the right advice service depending on what you need help with. We’ve added more visual elements"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any feedback or any comments on the layout, the accessibility or the content, please contact us by emailing website@toynbeehall.org.uk.",
+          "links": [
+            {
+              "text": "website@toynbeehall.org.uk",
+              "href": "mailto:website@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

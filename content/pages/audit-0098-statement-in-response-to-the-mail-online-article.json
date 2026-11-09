@@ -1,0 +1,53 @@
+{
+  "slug": "audit-98-statement-in-response-to-the-mail-online-article",
+  "route": "/09/08/2020/statement-in-response-to-the-mail-online-article/",
+  "title": "Statement in response to The Mail Online article",
+  "intro": "Our online community Facebook page was the subject of an article on The Mail Online on Sunday Morning. Our online community Facebook page was the subject of a Mail on Sunday article today. The article discussed an incident within our “Activities against Isolation” group, which is and will always be an inclusive and diverse space… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/09/TH-newlogo-compressed4doc.jpg",
+    "alt": "Statement in response to The Mail Online article — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2020-08-09",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Our online community Facebook page was the subject of an article on The Mail Online on Sunday Morning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our online community Facebook page was the subject of a Mail on Sunday article today. The article discussed an incident within our “Activities against Isolation” group, which is and will always be an inclusive and diverse space for people to enjoy, together."
+        },
+        {
+          "type": "paragraph",
+          "text": "When our members join in any of our groups, we hope that they can meet new people and learn from each other’s lived experiences in a truly safe space."
+        },
+        {
+          "type": "paragraph",
+          "text": "This incident has made us think hard about our values, the community we serve and the challenges they face and how we need to change and learn and remind all members that we are for all, not one. And that although historical culture is important we must acknowledge that history is filled with racism and discrimination that has no place in our world and in our groups. We want to use this uncomfortable moment as an opportunity to learn, educate ourselves and those around us."
+        },
+        {
+          "type": "paragraph",
+          "text": "It takes bravery to raise concerns and we are grateful to anyone who raises them so we can act and make changes. When these issues are raised it offers an opportunity for us to learn as a group and work with anyone providing sessions to help them understand where material would be inappropriate."
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall, all of our work is geared towards creating a fairer and happier East London. Our online community is a key element of that work and we are proud to have created a joyful online space where people can benefit from a range of activities and interact with others during the COVID pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is so important that when people raise issues within our community, particularly those who have experienced structural inequality and are made to feel uncomfortable, that we listen and ensure we become permanently better at making our physical and online spaces welcoming and safe for everyone and that we ensure all of our activities are fully inclusive and we can learn together about what this means."
+        },
+        {
+          "type": "paragraph",
+          "text": "We aim to make our online community group a safe space where people should be able to express their experience respectfully and to be respected for doing so."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

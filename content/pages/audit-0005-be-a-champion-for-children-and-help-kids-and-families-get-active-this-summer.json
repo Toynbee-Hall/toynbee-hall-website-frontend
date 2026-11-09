@@ -1,0 +1,71 @@
+{
+  "slug": "audit-5-be-a-champion-for-children-and-help-kids-and-families-get-active-this-summer",
+  "route": "/01/06/2021/be-a-champion-for-children-and-help-kids-and-families-get-active-this-summer/",
+  "title": "Be a Champion for Children and help kids and families get active this summer",
+  "intro": "Toynbee Hall is raising money to provide fun Family Summer Holiday Activities with all donations to our Champion for Children Campaign doubled thanks to our match funding After multiple lockdowns, school closures and some of the sharpest impacts of the pandemic, this summer is going to be a critical time for children and families in East… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/sunburst-wave-concept-1.png",
+    "alt": "Be a Champion for Childtren banner"
+  },
+  "template": "article",
+  "publishedAt": "2021-06-01",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall is raising money to provide fun Family Summer Holiday Activities with all donations to our Champion for Children Campaign doubled thanks to our match funding"
+        },
+        {
+          "type": "paragraph",
+          "text": "After multiple lockdowns, school closures and some of the sharpest impacts of the pandemic, this summer is going to be a critical time for children and families in East London."
+        },
+        {
+          "type": "paragraph",
+          "text": "To help families recover, we are providing a packed programme of summer holiday activities to help children have fun and get active and their parents access support to recover from the effects of the pandemic. Between Tuesday 8th and 15th June we’re raising vital funds through the Champions for Children online match-funding campaign to deliver this work."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We need your help between the 8th and 15th June"
+        },
+        {
+          "type": "paragraph",
+          "text": "All donations to the campaign will be doubled thanks to our match funding. It means your support will go twice as far helping children get outside and have fun while parents can access the advice and skills opportunities they need to recover from the effects of the pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "All donations will make such a difference in helping us reach our target of £8,000, which would allow us to deliver 2 months of Summer Holiday Activities providing outdoor play in the garden, whole family fun days, and additional support for parents who need crisis advice, wellbeing support or opportunities to improve their skills."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "About our Project"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our programme of activities and tailored support for families at Toynbee Hall, will deliver fun open and structured sessions in our garden and community centre, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Open play sessions, creative activities and family gardening",
+            "Family fun days which will bring children, parents and grandparents together for creative activities that explore family and local history",
+            "Support to help families tackle issues impacting their lives: from money and legal advice to English language skills and money management classes."
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/Play.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "Uncategorized"
+}

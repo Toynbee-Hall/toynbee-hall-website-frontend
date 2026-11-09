@@ -1,0 +1,110 @@
+{
+  "slug": "audit-388-senior-management-team",
+  "route": "/about-us/senior-management-team/",
+  "title": "Senior Management Team",
+  "intro": "Our People We have published our first diversity report to highlight where we are as an organisation and what more needs to be done to offer fairer and more inclusive opportunities. Read the report﻿new link Senior Management Team Alex Botha Interim Chief Executive Howard Jackson Finance Director Sian Williams Director of External Policy Elizabeth Archer… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our People"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have published our first diversity report to highlight where we are as an organisation and what more needs to be done to offer fairer and more inclusive opportunities."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Senior Management Team"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Alex Botha"
+        },
+        {
+          "type": "paragraph",
+          "text": "Interim Chief Executive"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Howard Jackson"
+        },
+        {
+          "type": "paragraph",
+          "text": "Finance Director"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sian Williams"
+        },
+        {
+          "type": "paragraph",
+          "text": "Director of External Policy"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Elizabeth Archer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Head of Service Design and Delivery"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Daniel Bunn"
+        },
+        {
+          "type": "paragraph",
+          "text": "Head of Learning & Evaluation, Information & Systems"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Ben Campion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Commercial Enterprise Manager"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Mila Smith"
+        },
+        {
+          "type": "paragraph",
+          "text": "HR Business Partner"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Matt Dronfield"
+        },
+        {
+          "type": "paragraph",
+          "text": "Head of London-Wide Advice"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Xia Lin"
+        },
+        {
+          "type": "paragraph",
+          "text": "Head of Research"
+        }
+      ]
+    }
+  ]
+}

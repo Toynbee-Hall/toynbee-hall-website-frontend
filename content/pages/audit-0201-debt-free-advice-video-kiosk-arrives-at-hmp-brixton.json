@@ -1,0 +1,67 @@
+{
+  "slug": "audit-201-debt-free-advice-video-kiosk-arrives-at-hmp-brixton",
+  "route": "/18/03/2024/debt-free-advice-video-kiosk-arrives-at-hmp-brixton/",
+  "title": "Debt Free Advice video kiosk arrives at HMP Brixton",
+  "intro": "The country’s first ever video advice kiosk has been installed at HMP Brixton to connect prisoners with expert advisors.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/03/Kiosk-Brixton-4.jpg",
+    "alt": "Debt Free Advice Advisor on the other end ready to speak to users."
+  },
+  "template": "article",
+  "publishedAt": "2024-03-18",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The country’s first ever video advice kiosk has been installed at HMP Brixton to connect prisoners with debt and money issues to expert advisors at Debt Free Advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free Advice is a coalition of charities led by Toynbee Hall and funded by the Money and Pensions Service. We provide free, expert advice to individuals with problem debt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prisoners can speak to an advisor about their money problems through a private, online video chat within a soundproof cubicle. The kiosk has been installed as part of the prison’s ongoing programme to support prisoners and help reduce reoffending."
+        },
+        {
+          "type": "paragraph",
+          "text": "The kiosk designed as a soundproof booth, ensuring conversations remain private and confidential and maintaining the same intimacy and confidentiality of traditional advice centres."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free Advice has also partnered with community hubs and libraries such as Tate Streatham Library in Lambeth and Kensington and Chelsea Town Hall to ensure these video advice kiosks can be a lifeline for the most vulnerable across London. The service has facilitated over 4,000 video conversations since rolling out these kiosks at various locations across London since 2021."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/03/Kiosk-KC-3.jpg",
+            "alt": "The video advice kiosk is also launched at community hubs and libraries, such as Kensington and Chelsea Town Hall."
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "We want to offer financial guidance to those impacted by the criminal justice system, ensuring no one is left behind. Our innovative video advice kiosk bridges the physical divide, providing uninterrupted support and access to vital resources for a future free of financial burdens.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Money problems are too often at the root of offending which is why initiatives like this are vital to equip people in prison with the life management skills they need to contribute positively to society when released. This, alongside the work being done to get prisoners work experience and jobs, will help many integrate back into their communities and cut the chances of reoffending.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Money and Pensions Service welcomes the new collaboration between Debt Free Advice and HMP Brixton, facilitating prisoners’ access to free debt advice through a video kiosk. This service will play a crucial role in prisoners’ rehabilitation efforts, with the aim of lowering reoffending rates, improving mental wellbeing, and facilitating their successful reintegration into society. The introduction of the video kiosk marks a significant initiative that MaPS fully supports.”"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/03/Kiosk-Brixton-6.jpg",
+            "alt": "HMP Brixton staff talking with Debt Free Advice and Money and Pensions Service"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

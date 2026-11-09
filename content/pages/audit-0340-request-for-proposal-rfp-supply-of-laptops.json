@@ -1,0 +1,33 @@
+{
+  "slug": "audit-340-request-for-proposal-rfp-supply-of-laptops",
+  "route": "/27/11/2023/request-for-proposal-rfp-supply-of-laptops/",
+  "title": "Request for Proposal (RFP): Supply of Laptops",
+  "intro": "Toynbee Hall is seeking proposals from vendors for the supply of laptops.",
+  "template": "article",
+  "publishedAt": "2023-11-27",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall is seeking proposals from vendors for the supply of laptops"
+        },
+        {
+          "type": "paragraph",
+          "text": "These laptops are part of an overall refresh of our tech infrastructure to ensure its fit for purpose."
+        },
+        {
+          "type": "paragraph",
+          "text": "All proposals must be received by 15 December 2023 and we will be ready to purchase the product by January 2024 – so delivery timeline must allow for setup and handover to end users by February 2024 at the latest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about the scope of work and specifications of laptops required."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

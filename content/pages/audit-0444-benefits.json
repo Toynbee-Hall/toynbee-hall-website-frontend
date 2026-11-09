@@ -1,0 +1,63 @@
+{
+  "slug": "audit-444-benefits",
+  "route": "/free-advice/benefits/",
+  "title": "Help with benefit applications",
+  "intro": "We can help Tower Hamlets residents navigate the benefits system and apply for a range of benefits to help you maximise your income and get your full benefit entitlement. You may be eligible for payments such as: • Personal Independence Payments (PIP) • Attendance Allowance (AA) • Disability Living Allowance for disabled children (DLA) •… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "We can help Tower Hamlets residents navigate the benefits system and apply for a range of benefits to help you maximise your income and get your full benefit entitlement."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may be eligible for payments such as:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Personal Independence Payments (PIP) • Attendance Allowance (AA) • Disability Living Allowance for disabled children (DLA) • Pension Credit • Council Tax Reduction • Carers Allowance • Universal Credit."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "For help with benefit applications, please call 0800 808 5701 or email advice@toynbeehall.org.uk"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLEASE NOTE: This service is for Tower Hamlets residents ONLY."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Contact us"
+        },
+        {
+          "type": "paragraph",
+          "text": "Do you need help with something else? Please complete our form and find out how we can help."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Name (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Email (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Message"
+        }
+      ]
+    }
+  ]
+}

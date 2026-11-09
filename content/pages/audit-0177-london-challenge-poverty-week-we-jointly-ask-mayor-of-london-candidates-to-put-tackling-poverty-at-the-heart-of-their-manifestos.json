@@ -1,0 +1,76 @@
+{
+  "slug": "audit-177-london-challenge-poverty-week-we-jointly-ask-mayor-of-london-candidates-to-put-tackling-poverty-at-the-heart-of-their-manifestos",
+  "route": "/16/10/2023/london-challenge-poverty-week-we-jointly-ask-mayor-of-london-candidates-to-put-tackling-poverty-at-the-heart-of-their-manifestos/",
+  "title": "London Challenge Poverty Week: We jointly ask Mayor of London candidates to put tackling poverty at the heart of their manifestos",
+  "intro": "Alongside many other organisations, we co-sign this letter to candidates to be Mayor of London in 2024. This week (Monday 16 October – Sunday 22 October) is London Challenge Poverty Week, where organisations across London come together to put the spotlight on the reality of poverty in London and to campaign collectively for meaningful change. … Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/10/Copy-of-LCPW-Twitter-Post-Template-.png",
+    "alt": "London Challenge Poverty Week header image"
+  },
+  "template": "article",
+  "publishedAt": "2023-10-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Alongside many other organisations, we co-sign this letter to candidates to be Mayor of London in 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "This week (Monday 16 October – Sunday 22 October) is London Challenge Poverty Week, where organisations across London come together to put the spotlight on the reality of poverty in London and to campaign collectively for meaningful change.",
+          "links": [
+            {
+              "text": "London Challenge Poverty Week",
+              "href": "https://londonchallengepovertyweek.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Soaring food prices, eye-watering rents hikes, rising mortgage rates and crippling child care bills mean that poverty is becoming a more widely shared experience in communities across London. Low-income households in the city are more likely to be in debt and going without essentials than in any other region in the UK. More and more people are experiencing the lived reality of poverty that others have known for too long. Over a quarter (27%) of Londoners live in households that are in poverty after housing costs, and in Tower Hamlets it is 39% and 51% of children (Trust for London Poverty Profile).",
+          "links": [
+            {
+              "text": "Trust for London Poverty Profile",
+              "href": "https://trustforlondon.org.uk/data/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As we approach elections in London and nationally in 2024, London Challenge Poverty Week 2023 is an opportunity to send a message to those that would represent us, that Londoners want real systemic change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rebecca Sycamore, Chief Executive of Toynbee Hall, has co-signed a letter alongside many other organisations asking candidates to be Mayor of London in 2024 to make tackling poverty a priority for them. We believe that systemic change requires strong leadership, and so we are calling on our would-be leaders of our city, to commit to putting tackling poverty at the heart of their manifestos. You can read the letter here.",
+          "links": [
+            {
+              "text": "You can read the letter here",
+              "href": "https://londonchallengepovertyweek.org.uk/wp-content/uploads/2023/10/Letter-to-London-mayoral-candidates-FINAL-1.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of London Challenge Poverty Week, there are a range of events taking this week, where organisations and individuals will share experiences that touch on these themes to draw attention to the reality of poverty and the urgent action required to root out inequality. Find out more and get involved.",
+          "links": [
+            {
+              "text": "Find out more and get involved",
+              "href": "https://londonchallengepovertyweek.org.uk/whats-on-2/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/10/LCPW-1024x1024.jpg",
+            "alt": "London Challenge Poverty Week Themes for the week."
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

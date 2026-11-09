@@ -1,0 +1,69 @@
+{
+  "slug": "audit-138-you-have-the-power-to-connect-people-with-each-other-this-uncertain-winter",
+  "route": "/13/12/2021/you-have-the-power-to-connect-people-with-each-other-this-uncertain-winter/",
+  "title": "You have the power to connect people with each other this uncertain winter",
+  "intro": "This winter, we’re appealing for support to tackle the impact of social disconnection and isolation in East London. A donation to our Winter Appeal will get people the support they urgently need. 125 years ago, a radical revolution in communication took place in our lecture theatre. 12th December 1896, Guglielmo Marconi showcased his wireless telegraphy… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/banner-3.jpg",
+    "alt": "You have the power to connect people with each other this uncertain winter — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2021-12-13",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This winter, we’re appealing for support to tackle the impact of social disconnection and isolation in East London. A donation to our Winter Appeal will get people the support they urgently need."
+        },
+        {
+          "type": "paragraph",
+          "text": "125 years ago, a radical revolution in communication took place in our lecture theatre. 12th December 1896, Guglielmo Marconi showcased his wireless telegraphy system for the first time to an audience of the public and press. Using the signal created by an electrical spark, Marconi showed you could ring a bell wherever it was placed the room."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marconi was demonstrating a new way for people to stay connected with each other. And connecting people – so that they can get the support they want and need, and shape change together – has been at the heart of everything we do at Toynbee Hall, especially over the last 18 months."
+        },
+        {
+          "type": "paragraph",
+          "text": "125 years later, we’re appealing for support to help ignite the spark of hope for people who are disconnected and isolated – like many older people who live alone, close to Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "125 years after Marconi, we’re still finding new ways to connect people and tackle the debilitating impact of extended isolation and loneliness in people’s lives."
+        },
+        {
+          "type": "paragraph",
+          "text": "For many older people locally who live alone, the pandemic has been a time of loneliness and disconnection. The closure of many services they relied on and the additional risks to health and wellbeing that Covid-19 has created have been a source of additional worry and anxiety. It’s meant that even a trip to the shops or a visit to a neighbour can become a real ordeal. At the same time, for many of these older people their intense feelings of loneliness and isolation have been exacerbated by digital exclusion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has responded by creating a new Telephone Befriending Programme, where a volunteer befriender is paired with a local older person for regular telephone chats, as well as any help they need arranging access to food, prescriptions and the range of activities and professional advice our Community Centre and partners offers."
+        },
+        {
+          "type": "paragraph",
+          "text": "125 years after Marconi, we’re still finding new ways to connect people and tackle the debilitating impact of extended isolation and loneliness in people’s lives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Currently there are 73 befrienders involved in the project but demand massively outstrips what we can currently deliver. During 2022, we need to expand our services to connect with so many more people. Demand for what we do has never been stronger."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because of the dual problems of digital exclusion and social isolation, we need to connect many more people long-term."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can help us make more connections now by giving a gift to our Winter Appeal."
+        },
+        {
+          "type": "paragraph",
+          "text": "[toynbee_donation_form]"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

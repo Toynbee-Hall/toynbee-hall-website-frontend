@@ -1,0 +1,80 @@
+{
+  "slug": "audit-57-london-legal-walk-10x-challenge",
+  "route": "/06/10/2020/london-legal-walk-10x-challenge/",
+  "title": "London Legal Walk 10x Challenge",
+  "intro": "On Monday 5th October, Staff and Volunteers from Toynbee Hall took part in the London Legal Support Trust’s virtual London Legal Walk 10 x Challenge to raise funds for the Free Legal Advice Centre. Although they were all participating separately, the team walked, ran and cycled more than 150 km, a fantastic effort! Toynbee Hall’s… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Miry-2.jpg",
+    "alt": "People participating in the London Legal Walk"
+  },
+  "template": "article",
+  "publishedAt": "2020-10-06",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall’s Free Legal Advice Centre is the oldest continuously running legal advice centre in the world. Since March, the Centre has doubled weekly advice appointments for Covid-19 related issues: meeting a huge and worrying surge in demand as more and more people find themselves in crisis. At this time, more than ever, the Centre is needed to ensure people who are marginalised have access to justice."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can support their efforts here: https://uk.virginmoneygiving.com/ToynbeeHall20",
+          "links": [
+            {
+              "text": "https://uk.virginmoneygiving.com/ToynbeeHall20",
+              "href": "https://uk.virginmoneygiving.com/ToynbeeHall20"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are some photos of our team in action:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Agnes-3-rotated.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Felicity-1-768x1024.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Miry-1-768x1024.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Stephanie-1-1-768x1024.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/stephanie-2-1-768x1024.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Stephanie-3-1-768x1024.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

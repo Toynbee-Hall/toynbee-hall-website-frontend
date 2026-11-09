@@ -1,0 +1,90 @@
+{
+  "slug": "audit-22-meet-our-new-residential-volunteers",
+  "route": "/03/09/2019/meet-our-new-residential-volunteers/",
+  "title": "Meet our new Residential Voluntary Workers",
+  "intro": "Last month we were delighted to welcome three new Residential Voluntary Workers at Toynbee Hall – the second cohort since we re-launched this historic programme in summer 2018. Residential volunteers have lived and worked with the communities surrounding Toynbee Hall since our foundation in 1884, with notable examples including Clement Attlee and William Beveridge. Today,… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/09/IMG_4220.jpg",
+    "alt": "Artist and residential volunteer Roxanne Williams paints during Open House Weekend at Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2019-09-03",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Today, we engage early-career creatives, social researchers and activists to live and work here, immersing themselves in the local community by working closely with the people we support."
+        },
+        {
+          "type": "paragraph",
+          "text": "Last year, our Residential Voluntary Workers worked with older people to explore mental health and stigma, designed murals and permanent artworks with local school children, and contributed to our policy and research work through holding talks, debates and conferences in our historic buildings."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the new residency begins, here is an introduction to the new Residential Voluntary Workers and what they hope to achieve over the next six months."
+        },
+        {
+          "type": "paragraph",
+          "text": "Farzana Khan, Writer in Residence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Farzana is a cultural producer and an award-winning arts educator with over 10 years background in youth and community work, particularly focused on arts-based education projects both in the UK and internationally. She is currently curating a Black Activism Map with the Stuart Hall Foundation, mapping cultural resistance in the UK."
+        },
+        {
+          "type": "paragraph",
+          "text": "Farzana will be working with our Research & Policy team to draw on the experiences of local people and the findings of policy and research work at Toynbee Hall to develop a theatre piece exploring social issues affecting marginalised communities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roxanne Williams , Artist in Residence"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roxanne is a visual artist and curator who explores human expression through painted portraits. Based in London, she is influenced by the ‘clash of cultures’ in her home city and uses acrylic-based mediums, sprayed, painted or dipped, to create her works. She has previously worked with Rick Mix, The Albany, Trispace Gallery and Boxpark."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roxanne will be working with local older people to design and create visual artworks exploring wellbeing and personal identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kashif Vaughan , Writer/Storyteller in Residence"
+        },
+        {
+          "type": "paragraph",
+          "text": "A storyteller, blogger and novelist, Kashif is also currently working on a graphic novel and runs a graphic novel reading group. He started his career in education as a teaching and learning support assistant, before becoming a librarian."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kashif will be working with older people from a range of backgrounds to explore East End heritage, through storytelling workshops encouraging people to share personal stories and explore local history collectively."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Residential Voluntary Workers programme is generously supported by the National Lottery Community Fund, the National Lottery Heritage Fund, and the Charles S French Charitable Trust.",
+          "links": [
+            {
+              "text": "National Lottery Community Fund",
+              "href": "https://www.tnlcommunityfund.org.uk/funding/programmes/national-lottery-awards-for-all-england"
+            },
+            {
+              "text": "National Lottery Heritage Fund",
+              "href": "https://www.heritagefund.org.uk/"
+            },
+            {
+              "text": "Charles S French Charitable Trust",
+              "href": "https://www.csfct.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Photo caption: Artist and residential volunteer Roxanne Williams paints during Open House Weekend at Toynbee Hall."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

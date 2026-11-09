@@ -1,0 +1,142 @@
+{
+  "slug": "audit-276-unsung-black-achievers-from-the-20th-and-21st-century",
+  "route": "/23/10/2020/unsung-black-achievers-from-the-20th-and-21st-century/",
+  "title": "Unsung Black Achievers from the 20th and 21st Century",
+  "intro": "By Adeola Gbakinro, Participant of Toynbee Hall’s youth project, When We Speak and Founder of Uplifting the Next Generation In honour of Black History Month, we remember the forgotten Black activists from our history whose achievements have sadly been undocumented in our own and in so many historical records. We’re working to record and celebrate… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Unsung-Black-achievers-blog-photo-Adeola-Gbakinro.png",
+    "alt": "Photo of Black woman protesting - Usung Black Achievers"
+  },
+  "template": "article",
+  "publishedAt": "2020-10-23",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "By Adeola Gbakinro, Participant of Toynbee Hall’s youth project, When We Speak and Founder of Uplifting the Next Generation"
+        },
+        {
+          "type": "paragraph",
+          "text": "In honour of Black History Month, we remember the forgotten Black activists from our history whose achievements have sadly been undocumented in our own and in so many historical records. We’re working to record and celebrate their work at Toynbee Hall and stop the erasure of Black history in the UK. We want to be able to share the stories of the many Black people who have worked in our community. As well as remembering the people that have passed through our halls in years gone by, we asked the people we work with today who are making history now about their Black heroes, that have inspired them professionally or personally."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adeola Gbakinro, 24, is a participant of Toynbee Hall’s youth project, When We Speak and the founder of Uplifting the Next Generation (an organisation that opens up opportunities for young people aged 13-19 from underprivileged communities, by connecting young people with professionals across different sectors). Adeola has kindly shared a blog about some of the unsung Black achievers from the 20th and 21st Century.",
+          "links": [
+            {
+              "text": "When We Speak",
+              "href": "/what-is-when-we-speak/"
+            },
+            {
+              "text": "Uplifting the Next Generation",
+              "href": "https://www.uplifttng.co.uk/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Unsung Black Achievers from the 20th and 21st Century"
+        },
+        {
+          "type": "paragraph",
+          "text": "Black History month originated from the United States. Since then it has become more than just a period of 31 days here in the UK but an ongoing movement of hope. This year has been unique to say the least but the closest we have been to real change and awareness."
+        },
+        {
+          "type": "paragraph",
+          "text": "A century of praise. A century of progress. A century of pain. From the era of Olaudah Equiano to today’s activists, we’ve been calling for equal rights, value and belonging in a place we call home. The Black Lives Matter movement is the surface of this. The school history textbooks do not share with us the many successes of black people in the UK. Our struggle for justice has often been covert due to supremacy and colonialism in my opinion. Here are examples of black unsung achievers from the current and past century within their respective fields:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Tessa Sanderson CBE – First Black British woman to win an Olympic gold medal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jamaican born, Wolverhampton raised, Tessa was a javelin thrower from young. Tessa is a six-time Olympian and won a gold medal for Britain in 1984. She competed at junior level in her teens and competed in her first Olympics at the age of 20. She also competed in the European and Commonwealth games. Today she is an international speaker and presenter."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Lavinya Stennet – CEO of The Black Curriculum"
+        },
+        {
+          "type": "paragraph",
+          "text": "The vision to create The Black Curriculum came from Lavinya’s first-hand experiences in British formal education, where she witnessed the effects of systemic disenfranchisement through the exclusion of Black pupils and Black British history. Lavinya believes in the power of education, and the arts to ultimately transform the lives of people."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Linford Christie OBE – Britain and Europe’s most successful sprinter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Linford was born in Jamaica and came to England as a child. Linford won his first major athletic title at the age of 26. Since then he has gone on to win Olympic, World, Commonwealth and European medals. Linford is the only British athlete to have won gold medals at all four major sporting competitions."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Prof Rotimi Jaiyesimi – Consultant Obstetrician & Gynaecologist"
+        },
+        {
+          "type": "paragraph",
+          "text": "Professor Jaiyesimi is a graduate of Ibadan University in Nigeria who has served the NHS for over 25 years. He was one of the first Nigerian UK consultants in Obstetrics and Gynaecology. His peers describe him as an asset to the UK health service and a mentor to many."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Len Garrison – Co-Founder of Black Cultural Archives"
+        },
+        {
+          "type": "paragraph",
+          "text": "Len was a community activist, author and educationalist who co-founded Black Cultural Archives in 1981. It documents the black struggle for justice and remembers those who fought for their rights in the World Wars. Len studied African and Caribbean History at the University of Sussex."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Alayo Akinkugbe – Creator of @ablackhistoryofart"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alayo created the Instagram account @ablackhistoryofart in February 2020, halfway through her Bachelor’s in History of Art, out of a frustration at the lack of black figures being discussed in her degree. She highlights black artists, sitters, curators and thinkers who have been largely overlooked in the field of art history."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Patrick Vernon OBE and Dr Angelina Osborne – 100 Great Black Britons",
+            "David Olusugo – Black and British",
+            "Remi Eddo-Lodge – Why I’m No Longer Talking to White People About Race",
+            "Afua Hirsch – Brit(ish): On Race, Identity and Belonging"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Reflect on your own unconscious biases about black people",
+            "Call us black and not ‘BAME’",
+            "If you are part of a large organisation, do you have a mentoring scheme for aspiring young black people who would like to join your organisation in the future?",
+            "Donate funds to UK black owned business",
+            "Educate yourself on systemic racism and inequality",
+            "Champion the work of black allies"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For more examples of Black achievers visit the 100 Great Black Britons website.",
+          "links": [
+            {
+              "text": "100 Great Black Britons",
+              "href": "https://www.100greatblackbritons.co.uk/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

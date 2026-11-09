@@ -1,0 +1,49 @@
+{
+  "template": "listing",
+  "slug": "audit-425-archive",
+  "route": "/event-cat/art/",
+  "title": "Event Category: Art",
+  "intro": "Browse art from Toynbee Hall.",
+  "listingType": "events",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "Keepsake of a Killer: Immersive Play",
+      "href": "/whats-on/keepsake-of-a-killer-immersive-play/",
+      "summary": "Keepsake of a Killer",
+      "date": "Saturdays, 8 to 29 November",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/Keepsake-of-a-killer-image.jpg",
+        "alt": "Keepsake of a Killer: Immersive Play — Toynbee Hall"
+      },
+      "location": "Lecture Hall, Toynbee Hall"
+    },
+    {
+      "title": "Community Art Group",
+      "href": "/whats-on/art-group",
+      "summary": "Join our welcoming art group, where people work together or independently to practise and develop their skills, socialise and help one another. All ages and skill levels welcome (children must be supervised).",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/toynebee-203.jpg",
+        "alt": "Community Art Group"
+      }
+    },
+    {
+      "title": "Painting with Husna (Over 50s)",
+      "href": "/whats-on/painting-with-purpose",
+      "summary": "This is a LinkAge Plus activity for people aged 50+.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/toynebee-232-web.jpg",
+        "alt": "Painting for purpose class at the Toynbee Hall community Centre"
+      }
+    },
+    {
+      "title": "Painting with Husna (Over 50s)",
+      "href": "/whats-on/painting-with-purpose",
+      "summary": "This is a LinkAge Plus activity for people aged 50+.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/toynebee-232-web.jpg",
+        "alt": "Painting for purpose class at the Toynbee Hall community Centre"
+      }
+    }
+  ]
+}

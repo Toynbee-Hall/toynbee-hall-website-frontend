@@ -1,0 +1,48 @@
+{
+  "slug": "audit-273-teeny-proms-at-toynbee-hall-free-music-sessions-for-little-people",
+  "route": "/23/08/2024/teeny-proms-at-toynbee-hall-free-music-sessions-for-little-people/",
+  "title": "Teeny Proms at Toynbee Hall – free music sessions for little people",
+  "intro": "Free music sessions for children aged 3-5 on Wednesday 18th September with DaCapo Music and Proms at St Jude’s.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/08/Teeny-Proms-1200-x-628-px-.png",
+    "alt": "small children playing with musical instruments"
+  },
+  "template": "article",
+  "publishedAt": "2024-08-23",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Free music sessions for children aged 3-5 on Wednesday 18th September with DaCapo Music and Proms at St Jude’s."
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re very excited to have our friends at DaCapo Music and Proms at St Jude’s join us on Wednesday 18th September for two music sessions for children aged 3-5 years old. If you know a little one who loves music, please do bring them along!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sessions are free! Each session is 40 minutes – the first is at 10.30am, and the second at 11.30am. Places are limited so please book in advance on this page."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any questions, please contact Lizzie! Maximum one adult accompanying one child.",
+          "links": [
+            {
+              "text": "Lizzie",
+              "href": "https://mailto:elizabeth.stevenson@toynbeehall.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Register your child’s place here"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

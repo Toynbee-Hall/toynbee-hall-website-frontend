@@ -1,0 +1,177 @@
+{
+  "slug": "audit-496-proms-at-st-judes",
+  "route": "/proms-at-st-judes/",
+  "title": "Proms at St Jude’s",
+  "intro": "Music and Literary FestivalProms at St Jude’s is a world class festival of music and culture taking place each June in Hampstead Garden Suburb, London NW11. Proms at St Jude’s have supported our youth work for more than 30 years Proms at St Jude’s is an annual music and culture festival… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Proms at St Jude’s is a world class festival of music and culture taking place each June in Hampstead Garden Suburb, London NW11."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Proms at St Jude’s have supported our youth work for more than 30 years"
+        },
+        {
+          "type": "paragraph",
+          "text": "Proms at St Jude’s is an annual music and culture festival in Hampstead Garden Suburb. The event will take place in June each year and has supported Toynbee Hall for more than 30 years. In that time, they have raised over £840,000 for our youth programmes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The organisation is run by volunteers. All surplus goes to charity: Toynbee Hall and the North London Hospice."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A historic connection"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall was founded by the creator of Hampstead Garden Suburb, Henrietta Barnett and her husband Samuel in 1884."
+        },
+        {
+          "type": "paragraph",
+          "text": "They created Toynbee Hall as place for future leaders to live and work in London’s East End and come face-to-face with poverty and the social issues of the day. Today we continue to strive for social change and provide vital services for communities who are some of hardest hit, firstly by the coronavirus pandemic and now the cost-of-living crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are many parallels between the work of Henrietta in establishing Hampstead Garden Suburb and the Henrietta Barnett School, and her work here in East London. She was truly committed to assisting and educating women and children from all social backgrounds and believed that everyone should have the right to an education and a respectable career, a belief that still resonates today."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/Henrietta-Barnett-Proms-microsite-image.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Henrietta Barnett Proms microsite image"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Proms at St Jude’s supported projects"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/cropped-EWYP.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-EWYP.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Emotional Support for Young People peer research project"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall and a group of young peer researchers, all residents of Tower Hamlets aged 16-22, have been investigating young people’s emotional support needs and experiences in the context of the cost of living crisis. The project is also exploring the impact of increased living costs on the relationships between young Londoners and their families. Find out more about this project.",
+          "links": [
+            {
+              "text": "Find out more about this project",
+              "href": "/research/esyp"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The project aims to:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Investigate whether young Londoners in low-income households get the emotional support they need from their families, in the context of the cost-of-living crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Explore the impact of increased living costs on the relationships between young Londoners and their families."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Develop solutions alongside young Londoners and their families."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about this peer research project."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The ‘Let us Play’ programme"
+        },
+        {
+          "type": "paragraph",
+          "text": "Near to Toynbee Hall, many people live in flats with limited access to safe, outdoor space. Our consultation with local families revealed that because of this, there is a lack of play opportunities and little support for young parents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our play programme provides opportunities for children to play outdoors and indoors, whilst also supporting their parents. We make connections to nature for children living in a highly urban environment, supporting their development. Our programme also helps parents to learn about play and access paid opportunities to support play."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let us Play is a free outdoor play day for all children and their families, outside in all weathers and everyone is welcome!"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/IMG-20231127-WA0046.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "IMG-20231127-WA0046"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "OUR LATEST IMPACT REPORT"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "For a Fairer Future"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read our latest impact report to see the impact of our work in 2022/23, including out youth programmes thanks to the generous support of the Proms at St Jude’s."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/cropped-4538_ToynbeeHall_ImpactReport_V2-1-1_Page_01-scaled-e1705406798457.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "4538_ToynbeeHall_ImpactReport_V2 (1) (1)_Page_01"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Proms at St Jude’s Festival"
+        },
+        {
+          "type": "paragraph",
+          "text": "To learn more about Proms at St Jude’s and register your interest for Prom’s at St Jude’s Music and Literary Festival 2025 please visit their website."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "If you wish to make a donation to support our work, you can do so here."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read about how we use personal data by visiting our Data Protection, Privacy and GDPR Page.",
+          "links": [
+            {
+              "text": "Data Protection, Privacy and GDPR Page",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/01/EsGOV_03-Toynbee-Hall-Data-Protection-and-GDPR-Policy-v2.0-Jan-23.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

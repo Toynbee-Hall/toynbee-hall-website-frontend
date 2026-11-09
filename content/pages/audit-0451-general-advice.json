@@ -1,0 +1,91 @@
+{
+  "slug": "audit-451-general-advice",
+  "route": "/general-advice/",
+  "title": "General Advice",
+  "intro": "These sessions are by appointment only. Please complete the online form below so that we can initially assess your issue. We are currently unable to offer any face-to-face advice appointments until further notice. Wednesdays This session advises in relation to the following topics: General civil litigationCivil liberties Please note: Areas of law dealt… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "General Advice"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "These sessions are by appointment only."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the online form below so that we can initially assess your issue. We are currently unable to offer any face-to-face advice appointments until further notice."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Wednesdays"
+        },
+        {
+          "type": "paragraph",
+          "text": "This session advises in relation to the following topics:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "General civil litigation",
+            "Civil liberties"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please note: Areas of law dealt with on Wednesday will depend on the advisers attending on the night."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What do I need to bring with me at the session?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "any paperwork or letters relating to the issue",
+            "court documents or legal agreements",
+            "proof of your income – wage slips, benefit letters, tax credits"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Other problems"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any paper work, letters or other correspondence relating to the issue."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For more support"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please call us on 020 7392 2978"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email flac@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "flac@toynbeehall.org.uk",
+              "href": "mailto:flac@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

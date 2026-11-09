@@ -1,0 +1,69 @@
+{
+  "slug": "audit-195-breaking-point",
+  "route": "/17/11/2022/breaking-point/",
+  "title": "Breaking Point",
+  "intro": "Debt Free London is changing it’s name to Debt Free Advice and is extending access to the service nationwide.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/SCP08005-1.jpg",
+    "alt": "Debt Free Advice sandwich board on busy street"
+  },
+  "template": "article",
+  "publishedAt": "2022-11-17",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Debt Free Advice launch ‘Breaking Point’, a new impact report painting a vivid picture of day-to-day impact our free advice service makes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the last few years, there’s been enormous uncertainty, first, a global pandemic and now the cost-of-living crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our service has adapted to these challenges by making ourselves more accessible; and we are better placed than ever to provide free and impartial debt advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Today we are launching ‘Breaking Point’, our latest impact report, where we have focused on real-world stories and experiences from our frontline team and customer feedback to paint a vivid picture of day-to-day impact our free advice service makes."
+        },
+        {
+          "type": "paragraph",
+          "text": "We know that customers feel better about their finances after visiting our service. We also know that most of our customers feel more confident and informed about the options available to help them resolve their problem debts. Satisfaction with our service is at an all-time high as we hit over one thousand Trustpilot reviews scoring 4.7 stars out of a maximum 5."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our debt advice service is more necessary than ever. Recent research from the Money and Pensions Service found that London’s need for debt advice has progressively increased in the past few years and is now the region with the highest percentage of people needing debt advice (27%)."
+        },
+        {
+          "type": "paragraph",
+          "text": "We didn’t know until recently that an additional 24% of Londoners are at risk of needing debt advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the last year, we have targeted this 24% with outreach campaigns. For example, we launched a pop-up advice centre on Oxford Street, travelled London in our Debt BUS-ter mobile advice centre, and extended our service so that Londoners could call us around the clock."
+        },
+        {
+          "type": "paragraph",
+          "text": "With most Londoners at risk or requiring debt advice, the cost-of-living crisis will see many customers reach breaking point."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our data shows that customers visit us with a record-breaking average of 3.9 debts per customer. For two years, the frequency of utility bills debts has doubled. Water bill arrears are a top debt type for the first time."
+        },
+        {
+          "type": "paragraph",
+          "text": "This post-pandemic ‘new-normal’ is unbearable for many of our customers, with many having to choose between heating or eating, meaning we must redouble our efforts as a debt advice service."
+        },
+        {
+          "type": "paragraph",
+          "text": "We face significant challenges, but I know that with an ethos of innovation and the amazing team I am honoured to lead as part of Toynbee Hall, we will meet this challenge head-on, delivering the first-class service everyone deserves."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

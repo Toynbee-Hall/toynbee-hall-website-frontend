@@ -1,0 +1,98 @@
+{
+  "slug": "audit-409-community-services",
+  "route": "/community-services/",
+  "title": "Community Services",
+  "intro": "Our Community CentreThe Community Centre at Toynbee Hall has a full schedule of free and inclusive social, physical and learning based activities as well as regular celebrations and events.All of our activities are decided on by the people who use them. Find out what’s happening in the Community Centre this month.What’s on in the Community… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Community Centre at Toynbee Hall has a full schedule of free and inclusive social, physical and learning based activities as well as regular celebrations and events."
+        },
+        {
+          "type": "paragraph",
+          "text": "All of our activities are decided on by the people who use them. Find out what’s happening in the Community Centre this month."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/songbirds-2023-e1720092376209.jpg",
+            "alt": "Singing class in the Toynbee Hall Community Centre",
+            "caption": "songbirds 2023"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "About the Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "We know many residents in Tower Hamlets face many challenges which impact both their mental health and their physical wellbing. High rates of poverty, poor physical health, and the prevalence of social isolation especially amongst older people, prevents people from staying active, engaged in their community and able to deal with challenges. We believe everyone should be able to have access to freely available community spaces and have be able to access social and physical activities. activities. During this cost of living crisis and rising energy bills, it’s also a much needed community asset, where people can sit in comfort and warmth, enjoy a cup of tea and a chat, and join in with activities if they choose too."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Community Centre at Toynbee Hall, which opened in 2020, provides local people with the space and support they need to lead fulfilling lives, opportunites to socialise and meet new people and maintain their independence when circumstances change. By helping local people remain active, stay healthy and tackle the challenges they face, our work adds strength and resilience to the community."
+        },
+        {
+          "type": "paragraph",
+          "text": "The centre in our newly build 28 Commercial Street building is a warm, welcoming, flexible and vibrant space that has been shaped by the people who use it. The Centre is an inclusive space and is welcoming of many groups in the community including older people and local families and we have a full programme of activities."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/cropped-toynebee-117-scaled-2.jpg",
+            "alt": "Class instructor demonstrates to the class in an English National Ballot class",
+            "caption": "toynebee-117"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/07/cropped-Linkage-Plus-lol-2.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Linkage-Plus-lol-2.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Linkage Plus is a project for people over 50 living in Tower Hamlets that is based in five centres across the borough; Age UK East London, Neighbours in Poplar, Peabody at Sundial, Sonali Gardens and Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our outreach staff visit sheltered schemes, GP Surgeries, One Stop Shops and other local sites to offer help, advice and support ot even just a friendly chat. We can also help with information about pensions and benefits to help you stay independent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Call 0203 856 9721 or email us at: linkageplus@toynbeehall.org.uk"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/12/cropped-Linkage-Map-for-website-4.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Linkage-Map-for-website-4.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Support the Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "Through supporting the Wellbeing Centre you will enable isolated older people to build social connections, stay healthy, and learn new skills. You can set up a regular or one-off donation through clicking the link below, or get in touch with our Development team to discuss other ways of supporting the Centre: fundraising@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ]
+}

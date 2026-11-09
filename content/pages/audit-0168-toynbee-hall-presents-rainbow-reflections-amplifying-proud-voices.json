@@ -1,0 +1,63 @@
+{
+  "slug": "audit-168-toynbee-hall-presents-rainbow-reflections-amplifying-proud-voices",
+  "route": "/16/06/2023/toynbee-hall-presents-rainbow-reflections-amplifying-proud-voices/",
+  "title": "Toynbee Hall presents: Rainbow Reflections – Amplifying Proud Voices",
+  "intro": "Join us at Toynbee Hall on July 5 for ‘Rainbow Reflections’: a vibrant panel discussing key LGBTQIA+ topics. Keep the spirit of Pride alive.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/Rainbow-reflections.jpg",
+    "alt": "Pride flag in front of blue sky with text: Toynbee Hall presents Rainbow Reflections"
+  },
+  "template": "article",
+  "publishedAt": "2023-06-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us at Toynbee Hall on July 5 for ‘Rainbow Reflections’: a vibrant panel discussing key LGBTQIA+ topics. Keep the spirit of Pride alive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Join us at Toynbee Hall for a momentous afternoon as we keep the spirit of Pride Month thriving into July with our exciting panel discussion – “Rainbow Reflections: Amplifying Proud Voices.” This event promises to be a vibrant, thought-provoking experience that you won’t want to miss!"
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of our commitment to social justice and equality, we’re inviting an eclectic mix of passionate speakers to our panel. While the names of our illustrious panelists are yet to be revealed, expect influential voices from the realms of activism, law, media, business, and more, all of whom have made significant contributions to the LGBTQIA+ community."
+        },
+        {
+          "type": "paragraph",
+          "text": "This dynamic discussion will delve into critical topics including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The ongoing cost-of-living crisis and its impact on the LGBTQIA+ community.",
+            "The current status of Trans rights in the UK, focusing specifically on the realm of sports.",
+            "The unique challenges faced by people of colour within the LGBTQIA+ community, unpacking the intersectionality of race and sexual orientation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As we unroll these conversations, we’ll also explore Toynbee Hall’s historical connection with the LGBTQIA+ community, and discuss how we can foster a more inclusive future together."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come and be a part of this engaging, enlightening event where we honour the past, present, and future of the LGBTQIA+ community. We look forward to welcoming you on Wednesday, 5th July, for an afternoon of education, celebration, and pride!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Make sure to arrive early for our pre-panel lunch, served from midday, and the opportunity to mingle with like-minded advocates and allies."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Book your free tickets via Eventbrite."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

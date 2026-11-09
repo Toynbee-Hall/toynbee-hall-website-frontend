@@ -1,0 +1,37 @@
+{
+  "slug": "audit-99-a-statement-on-the-passing-of-hrh-queen-elizabeth-from-stephen-burns-chair-of-trustees",
+  "route": "/09/09/2022/a-statement-on-the-passing-of-hrh-queen-elizabeth-from-stephen-burns-chair-of-trustees/",
+  "title": "A statement on the passing of HRH Queen Elizabeth from Stephen Burns, Chair of Trustees",
+  "intro": "We are deeply saddened to hear the news of the passing of Her Majesty the Queen.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/09/queen.jpeg",
+    "alt": "Queen Elizabeth II opens Attlee House in 1971"
+  },
+  "template": "article",
+  "publishedAt": "2022-09-09",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are deeply saddened to hear the news of the passing of Her Majesty the Queen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall was honoured to welcome Her Majesty to Toynbee Hall in 1971 for the opening of the newly-built Attlee House, named for Prime Minister Clement Attlee, who began his career in public service at Toynbee Hall and went on to found the welfare state. Her Majesty’s parents, King George VI and Queen Elizabeth the Queen mother, were frequent visitors to Toynbee Hall and the local community during the Blitz, and long-term local residents still tell cherished stories of meeting the King and Queen during the war and feeling encouraged by their strength and commitment to serve. Her Majesty Queen Elizabeth personified that commitment, and we honour her lifetime of service now. On behalf of all the staff, volunteers and community members at Toynbee Hall, we send our deepest condolences to all the Royal Family, and especially HRH Princess Alexandra, our Royal Patron, at this difficult time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please check our website and social media pages for details of changes to planned events during the official period of mourning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stephen Burns, Chair of the Board of Trustees"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

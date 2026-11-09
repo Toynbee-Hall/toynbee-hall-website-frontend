@@ -1,0 +1,66 @@
+{
+  "slug": "audit-118-ridelondon-2022-for-team-toynbee-hall",
+  "route": "/12/01/2022/ridelondon-2022-for-team-toynbee-hall/",
+  "title": "RideLondon 2022 for Team Toynbee Hall",
+  "intro": "Join Team Toynbee Hall to RideLondon in May 2022. RideLondon – the world’s greatest festival of cycling – returns on Sunday 29 May 2022, with a new format and exciting new route through Essex and there’s a chance to ride this iconic 100 mile race on traffic-free roads by joining Team Toynbee Hall. We have… Read more",
+  "template": "article",
+  "publishedAt": "2022-01-12",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "RideLondon – the world’s greatest festival of cycling – returns on Sunday 29 May 2022, with a new format and exciting new route through Essex and there’s a chance to ride this iconic 100 mile race on traffic-free roads by joining Team Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have places available, so contact fundraising@toynbeehall.org.uk and secure your place today!",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are successful you will be asked to commit to raising £500 (excluding gift aid) through sponsorship."
+        },
+        {
+          "type": "paragraph",
+          "text": "By joining our team, not only will you help create a fairer, happier London, but you’ll also benefit from:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "a Toynbee Hall race vest",
+            "a fundraising pack to help take your challenge to the finish line",
+            "fun tools and tips to help you with your fundraising, including regular emails to keep you motivated and an assigned Toynbee Hall fundraiser for personal support",
+            "a friendly team here to support you every step of the way and cheer you on Race Day"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Already have your place in the ballot and want to support Toynbee Hall? Simply let us know by e-mailing fundraising@toynbeehall.org.uk, we’d love to have you join the team!",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you’ve entered, one of our friendly team will be in touch with more details about the race, support with fundraising ideas, and help with practicalities such as setting up your own dedicated Just Giving page to share your progress with your supporters."
+        },
+        {
+          "type": "paragraph",
+          "text": "The event will start on Victoria Embankment and finish to rapturous applause at Tower Bridge, with 65 miles through some of Essex’s most beautiful countryside and villages in between. The full route will be announced in early 2022."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

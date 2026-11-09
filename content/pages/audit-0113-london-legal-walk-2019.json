@@ -1,0 +1,51 @@
+{
+  "slug": "audit-113-london-legal-walk-2019",
+  "route": "/11/04/2019/london-legal-walk-2019/",
+  "title": "Team Toynbee Hall Success at The London Legal Walk 2019",
+  "intro": "Thank you for helping us raise over £1000 for our Free Legal Advice Centre On Monday 17th June, a team of 20 walkers from Toynbee Hall took part in the annual 10km London Legal Walk to raise funds for the free legal advice centres from across London and the South East Thank you to everyone… Read more",
+  "template": "article",
+  "publishedAt": "2019-04-11",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Thank you for helping us raise over £1000 for our Free Legal Advice Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "On Monday 17th June, a team of 20 walkers from Toynbee Hall took part in the annual 10km London Legal Walk to raise funds for the free legal advice centres from across London and the South East"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you to everyone who took part in the walk, donated to us or shared news of our efforts on social media. This all contributed to fantastic team effort which has seen us raise an incredible £1,000 so far."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Team walked the scenic Central London route in support of our Free Legal Advice Centre (FLAC) which serves hundreds of people with expert legal support every year. On the walk, it was fantastic to welcome FLAC supporters and volunteers, past and present, who continue to be vital to the success of the Centre, believed to be the world’s longest continually running free legal advice service."
+        },
+        {
+          "type": "paragraph",
+          "text": "On the walk, we joined over 15,000 legal professionals, colleagues, clients and friends supporting access for justice in London and the South East, which in total has raised an amazing £670,000 so far. As part of that, we were also delighted to be joined by teams from long term supporters of the Free Legal Advice Centre including Clearly Gottlieb Steen & Hamilton, Allen & Overy, Howard Kennedy, and HFW who have also helped raise money for FLAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "FLAC advised nearly 1000 people last year on a range of issues with housing and employment proving to be the most common. With the forecast growth in the number of people relying on the private rented sector, and an increasing number of people in low waged and insecure jobs, the demand for advice continues to grow. All the funds from events like the Legal Walk go a long way to help ease some of the increasing pressure on services such as FLAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you couldn’t come along and would like to help support our Free Legal Advice Centre, it’s not too late to make a donation on our Virgin Money Giving page .",
+          "links": [
+            {
+              "text": "Virgin Money Giving page",
+              "href": "https://uk.virginmoneygiving.com/fundraiser-display/showROFundraiserPage?userUrl=ToynbeeHall&pageUrl=5"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

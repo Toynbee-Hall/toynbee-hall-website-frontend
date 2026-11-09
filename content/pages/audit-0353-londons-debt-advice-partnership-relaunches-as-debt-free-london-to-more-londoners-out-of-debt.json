@@ -1,0 +1,86 @@
+{
+  "slug": "audit-353-londons-debt-advice-partnership-relaunches-as-debt-free-london-to-more-londoners-out-of-debt",
+  "route": "/29/04/2019/londons-debt-advice-partnership-relaunches-as-debt-free-london-to-more-londoners-out-of-debt/",
+  "title": "London’s debt advice partnership relaunches as Debt Free London to help more Londoners out of debt",
+  "intro": "Debt Free London (formerly known as Capitalise) is making its service easier to find, understand and use. It has helped over 250,000 people since launching in 2006, however, debt is still a growing problem across the capital. Capitalise, a London-wide partnership of organisations led by Toynbee Hall and funded by the Money & Pensions Service… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/04/Debt-Free-London-Bus-Ad.png",
+    "alt": "Debt Free London Bus Ad"
+  },
+  "template": "article",
+  "publishedAt": "2019-04-29",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Debt Free London (formerly known as Capitalise) is making its service easier to find, understand and use. It has helped over 250,000 people since launching in 2006, however, debt is still a growing problem across the capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capitalise, a London-wide partnership of organisations led by Toynbee Hall and funded by the Money & Pensions Service to provide free debt advice to Londoners, is rebranding as Debt Free London.",
+          "links": [
+            {
+              "text": "Money & Pensions Service",
+              "href": "https://www.moneyandpensionsservice.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Why are we rebranding?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The change to Debt Free London says exactly what we want to achieve for Londoners seeking help with debt. For that reason, the new campaign enables the service to be a much more obvious destination for those searching for help online."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free London will officially launch on 29th April with a new, simpler website . Alongside the website, we are launching an advertising campaign on 700 buses, DLR trains and online adverts on Facebook and Instagram",
+          "links": [
+            {
+              "text": "simpler website",
+              "href": "http://www.debtfree.london"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/04/Debt-free-London-logo-grey-text-1024x171.png",
+            "alt": "Debt Free London"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "How can Debt Free London help?"
+        },
+        {
+          "type": "paragraph",
+          "text": "London is one of the world’s most expensive cities to live in and work and therefore debt is a much more common issue than many think; virtually anyone can experience money problems at any time. There are almost 1.3 million adults who are struggling to make ends meet across London, it is a growing problem. To date, Debt Free London’s expert advisers have supported over 250,000 over indebted Londoners."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples of money problems that Debt Free London’s people have helped resolve include illness, meaning that people cannot work; unexpected emergency property repairs; benefits overpayments and unexpectedly high utility bills. It can also help with credit and store-card, rent, council tax and almost any other debt issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free London’s service is completely free. If people have worries about debt they can call free on 0808 164 2480 for a brief assessment to establish the nature and urgency of the debt. If required, Debt Free London will arrange a face-to-face appointment or a telephone advice session. Anyone worried about debt can also contact Debt Free London via its website www.debtfree.london.."
+        },
+        {
+          "type": "paragraph",
+          "text": "As a result, Debt Free London will discuss options with you and talk through the pros and cons of each and tailored solutions for each specific situation. Debt Free London helps resolve debts when an appropriate, tailored solution is established. This could include advocacy, representation and negotiation with creditors. We can also assist with letter writing and ongoing support throughout the resolution process."
+        },
+        {
+          "type": "paragraph",
+          "text": "The organisations that are part of the Debt Free London partnership provide free face-to-face debt advice in different areas of London. Our partners have all been awarded a recognised Specialist Quality Mark to provide debt advice at casework or specialist level."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

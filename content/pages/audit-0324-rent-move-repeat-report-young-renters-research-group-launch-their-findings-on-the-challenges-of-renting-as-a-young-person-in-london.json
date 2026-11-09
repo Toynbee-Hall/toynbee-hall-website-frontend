@@ -1,0 +1,96 @@
+{
+  "slug": "audit-324-rent-move-repeat-report-young-renters-research-group-launch-their-findings-on-the-challenges-of-renting-as-a-young-person-in-london",
+  "route": "/26/11/2021/rent-move-repeat-report-young-renters-research-group-launch-their-findings-on-the-challenges-of-renting-as-a-young-person-in-london/",
+  "title": "Rent-Move-Repeat Report: Young Renters Research Group launch their findings on the challenges of renting as a young person in London",
+  "intro": "Precarious and insecure living in London has become the new norm and impacts almost every aspect of young renter’s lives, say young people in new report",
+  "template": "article",
+  "publishedAt": "2021-11-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Precarious and insecure living in London has become the new norm and impacts almost every aspect of young renter’s lives, say young people in new report."
+        },
+        {
+          "type": "paragraph",
+          "text": "A new report from Toynbee Hall, supported by Berkeley Foundation, has been released today outlining the risks and challenges young people (aged 18-30) face in the London rental market, and a group of young renters have co-designed a set of proposals to tackle the housing affordability crisis and improve the renting experience.",
+          "links": [
+            {
+              "text": "A new report from Toynbee Hall",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/Young-Private-Renters-Report_v4-_DEC_21.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The report, authored by a peer research group made up of young renters and Toynbee Hall’s research and policy team, found that young private renters face challenges across the entire renting experience, from finding a home, to making a home, to moving out. The research shows that a number of challenges contribute to a riskier experience of renting for young people."
+        },
+        {
+          "type": "paragraph",
+          "text": "The renters also realised that precarious and insecure living has become so normalised that they did not initially recognise themselves as being in temporary accommodation. But the temporary nature of the private rented sector impacted on almost every aspect of their lives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are some of the key findings:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The percentage of income they spend on rent makes it difficult to cope with rent increases or slow deposit return;",
+            "Lack of options for affordable housing can force acceptance of inadequate living situations such as poorly maintained properties, overcrowding or illegal sublets;",
+            "Regular house moves can create extra risk through repeated exposure to periods of financial precarity, and increased chance of encountering poor landlords and letting agents;",
+            "Most of our respondents moved between two and five times in a period of five years, and they did so primarily due to reasons outside their control;",
+            "Young private renters often do not know their legal rights;",
+            "They lack time and confidence to communicate with landlords and letting agents and to exercise their rights, especially when these relationships can be difficult."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Working alongside private landlords in a series of workshops, they have co-designed a set of recommendations including investment in ethical property management agencies which guarantee renters’ rights to accessible, affordable and safe housing and the development of a website and app, co-designed with renters, to help renters to get information and support and manage their tenancy. They want to see Section 21 no-fault evictions scrapped, better regulation and enforcement of the sector and a landlord register and co-design principles used at every step of the process."
+        },
+        {
+          "type": "paragraph",
+          "text": "The peer researchers have also collaborated with design studio AW—AR Studio, Supported by Trust for London and the Oak Foundation, to build a creative response in the form of a micro-site of gifs to illustrate their experiences of private renting.",
+          "links": [
+            {
+              "text": "AW—AR Studio",
+              "href": "https://aw-ar.studio/"
+            },
+            {
+              "text": "micro-site of gif",
+              "href": "https://www.rent-move-repeat.org/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Commenting on the report, Sian Williams, Director of Policy and Innovation from Toynbee Hall said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“The challenge faced by young people in the private renter sector is huge, but this work has provided clear solutions. One of the most important parts of this project was how solutions were co-designed between those young researchers with experience of renting, and local landlords. It provides young people and landlords an opportunity to share their lived experience, to build consensus and a basis on which workable solutions can be co-designed.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Commenting on the report, Matthew Walsham, Policy and Campaigns Lead from Partnership for Young London said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“The challenge faced by young people in the private renter sector is huge, but this work has provided clear solutions. One of the most important parts of this project was how solutions were co-designed between those young researchers with experience of renting, and local landlords. It provides young people and landlords an opportunity to share their lived experience, to build consensus and a basis on which workable solutions can be co-designed.”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can read the report and see the full findings and co-designed recommendation here"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "audit-30-community-fun-day-saturday-15th-february",
+  "route": "/04/02/2020/community-fun-day-saturday-15th-february/",
+  "title": "Community Fun Day – Saturday 15th February",
+  "intro": "Join us for a day of free activities and food on Saturday 15th February, 11:00am – 3:00pm. On Saturday 15th February from 11.00am to 3.00pm, we’re holding a community fun day here at Toynbee Hall. There will be kids activities, yoga, henna art, nail painting, chess, local history film screenings and lunch provided. We want… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/02/OPEN-HOUSE-at-Toynbee-Hall-by-Jeremy-Freedman-2013_125-website.jpg",
+    "alt": "Community Fun Day - Saturday 15th February"
+  },
+  "template": "article",
+  "publishedAt": "2020-02-04",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join us for a day of free activities and food on Saturday 15th February, 11:00am – 3:00pm."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Saturday 15th February from 11.00am to 3.00pm, we’re holding a community fun day here at Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "There will be kids activities, yoga, henna art, nail painting, chess, local history film screenings and lunch provided."
+        },
+        {
+          "type": "paragraph",
+          "text": "We want to welcome residents from our neighbouring estates to Toynbee Hall, to share what we do and become a place that is well-used and valued by people living locally."
+        },
+        {
+          "type": "paragraph",
+          "text": "We also want to find out what you want for the future of Tower Hamlets and East London, and the role that Toynbee Hall should play in making this happen. As an organisation that involves local people in decision-making, we want to work with people in the local area to make change happen. The conversations we have at the Fun Day will inform our future work."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any accessibility requirements, please call/text Beth on 07983462374 or email Bethan.mobey@toynbeehall.org.uk.",
+          "links": [
+            {
+              "text": "Bethan.mobey@toynbeehall.org.uk",
+              "href": "mailto:Bethan.mobey@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Everyone is welcome!"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "audit-109-celebrating-our-trustees-this-trustees-week",
+  "route": "/10/11/2023/celebrating-our-trustees-this-trustees-week/",
+  "title": "Celebrating Our Trustees this Trustees Week",
+  "intro": "This week is Trustees Week and we want to take this opportunity to celebrate and thank our esteemed Board of Trustees.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/11/DSC08329-1-119-scaled.jpg",
+    "alt": "Trustees of Toynbee Hall past and present, Ali Hussain, Sarah Squires and Richard Allen,"
+  },
+  "template": "article",
+  "publishedAt": "2023-11-10",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This week is Trustees Week and we want to take this opportunity to celebrate and thank our esteemed Board of Trustees."
+        },
+        {
+          "type": "paragraph",
+          "text": "As we come to the end of Trustees Week, it is with great pride and gratitude that we take this opportunity to celebrate and thank our Board of Trustees. These dedicated individuals volunteer their time, expertise, and resources to guide Toynbee Hall, shaping the path we tread and the impact we make."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our trustees give their time voluntarily and receive no personal benefit from Toynbee Hall. They are a group with a diverse range of skills, a deep commitment to Toynbee Hall’s values and mission, and hold a personal connection to East London. They continue to provide governance, and invaluable strategic oversight of the organisation very effectively, enabling us to achieve so many positive outcomes."
+        },
+        {
+          "type": "paragraph",
+          "text": "We extend our deepest appreciation to each of our trustees past and present for their contributions. Their dedication goes beyond meetings and decision-making; it reflects a profound commitment to our cause and a belief in the power of our collective efforts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please join us in expressing our heartfelt thanks to our trustees. Their hard work and dedication are fundamental to our achievements and the positive difference we make in our community."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about our Board of Trustees.",
+          "links": [
+            {
+              "text": "Find out more about our Board of Trustees.",
+              "href": "/about-us/our-team/trustees/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

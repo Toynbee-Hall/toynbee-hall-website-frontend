@@ -1,0 +1,48 @@
+{
+  "slug": "audit-601-english-conversation-club",
+  "route": "/whats-on/english-conversation-club/",
+  "title": "English Conversation Club",
+  "intro": "Looking to improve your English in a friendly, informal setting? Our English Conversation Club for adults (18+) is a peer-led group where we practice English through weekly themed activities – from discussing food and money to exploring culture and travel. Strengthen your speaking, reading, and writing skills while mee",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/ESOL-class.jpg",
+    "alt": "Three women talking in a room"
+  },
+  "template": "event",
+  "dateLabel": "Thursdays",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "An informal space to practice English"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Thursdays 2pm-4pm Community Centre, 28 Commercial St, London E1 6SL"
+        },
+        {
+          "type": "paragraph",
+          "text": "This group is for people with some understanding of English."
+        },
+        {
+          "type": "paragraph",
+          "text": "These are non-accredited sessions led by the Community Centre Team."
+        },
+        {
+          "type": "paragraph",
+          "text": "For Tower Hamlets residents only."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For more information, contact Nasrat on 07943 277512 or email nasrat.tania@toynbeehall.org.uk"
+        }
+      ]
+    }
+  ],
+  "timeLabel": "2pm to 4pm",
+  "venue": "Community Centre, 28 Commercial Street, E1 6LS"
+}

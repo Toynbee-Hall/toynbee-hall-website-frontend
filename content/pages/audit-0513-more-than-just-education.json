@@ -1,0 +1,87 @@
+{
+  "slug": "audit-513-more-than-just-education",
+  "route": "/research/more-than-just-education/",
+  "title": "More than just education",
+  "intro": "A participatory action research project on adult education in London A Toynbee Hall project commissioned by the Greater London Authority to inform development of the Skills Roadmap for London and approaches to improving access to adult education for Londoners. February 2022Read the report Download the Report Listen to the podcast More than… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/cropped-More-than-just-education-feature-image.png",
+    "alt": "More than just education"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A participatory action research project on adult education in London"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Toynbee Hall project commissioned by the Greater London Authority to inform development of the Skills Roadmap for London and approaches to improving access to adult education for Londoners."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/cropped-More-than-just-education-feature-image.png",
+            "alt": "More than just education",
+            "caption": "cropped-More-than-just-education-feature-image.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Report"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Listen to the podcast"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What makes accessible and empowering adult education in London?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has been working with a group of peer researchers from some of the more marginalised of backgrounds for a piece of research commissioned by the GLA to feed into the Skills Roadmap for London. The project explored how adult education in the capital can be made more accessible and empowering. To mark the launch of our final report “More than just education” five of our peer researchers held a conversation about the value of the project, their experiences with it, and some of the key findings."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/03/cropped-cropped-cropped-More-than-just-education-podcast-social-media.png",
+            "alt": "More than just education podcast",
+            "caption": "cropped-cropped-cropped-More-than-just-education-podcast-social-media.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

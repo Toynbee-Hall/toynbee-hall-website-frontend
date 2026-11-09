@@ -1,0 +1,80 @@
+{
+  "slug": "audit-140-tower-hamlets-brexit-commission-launches-impact-report-as-borough-prepares-for-brexit-uncertainties",
+  "route": "/14/02/2019/tower-hamlets-brexit-commission-launches-impact-report-as-borough-prepares-for-brexit-uncertainties/",
+  "title": "Tower Hamlets Brexit Commission launches new report as borough prepares for Brexit uncertainties",
+  "intro": "The Tower Hamlets Brexit Commission launch report looking at the wider impact of Brexit in the borough. Today at City Hall, the Tower Hamlets Brexit Commission, made up of people from business, the public sector and academia launched a new report assessing the impact of Brexit on Tower Hamlets. The report looks at the direct… Read more",
+  "template": "article",
+  "publishedAt": "2019-02-14",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Tower Hamlets Brexit Commission launch report looking at the wider impact of Brexit in the borough."
+        },
+        {
+          "type": "paragraph",
+          "text": "Today at City Hall, the Tower Hamlets Brexit Commission, made up of people from business, the public sector and academia launched a new report assessing the impact of Brexit on Tower Hamlets."
+        },
+        {
+          "type": "paragraph",
+          "text": "The report looks at the direct impact of Brexit on the wider community and not just it’s impact on the council, which is what government had tasked local authorities to produce. The report focuses on three key areas; impact on the local economy, delivery of public services and the impact on civil society. Across these areas, the report identifies 13 findings and 24 recommendations on how these key areas can prepare for any possible uncertainties that Brexit will bring.",
+          "links": [
+            {
+              "text": "13 findings",
+              "href": "https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/The_Brexit_Commission/The_commissions_findings.aspx"
+            },
+            {
+              "text": "24 recommendations",
+              "href": "https://www.towerhamlets.gov.uk/lgnl/council_and_democracy/The_Brexit_Commission/The_commissions_recommendations.aspx"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Chief Executive of Toynbee Hall, Jim Minton spoke at the launch event as Toynbee Hall was one of the organisations that provided oral evidence to the commission back in November on the implications of Brexit for civil society. The possible implications include: a fall in investment rates for trusts that charities rely on, non UK citizens failing to connect Brexit with the need to secure individual rights putting them at risk and a lack of assistance and advice available to EU citizens. The evidence provided also showed that there could be a negative impact on the recruitment of staff and volunteers in the community and voluntary sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a lot of our members, their workforce has a disproportionate amount of people from Eastern Europe. We’ve had people already leaving but more worryingly, there are significant numbers of people in that workforce planning to get out. Reasons reported back included the rising cost of living here and improved living standards back home. This means the business case for not being home is getting weaker and weaker.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "At the event Jim Minton welcomed the report’s recommendations around skills training, better access to advice and information and calls for civic leaders to show empathy and flexibility around the uncertainties of Brexit. He said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“The report is right to place emphasis on placed based pride. Depsite the uncertainties around Brexit we need to positive, united and optimistic about the future of Tower Hamlets”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Recommendations to tackle these issues include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The local VCS and the council should place a particular focus on informing ‘hard to reach’ groups of their rights under the EU Settlement Scheme.",
+            "The Tower Hamlets Council for Voluntary Service (THCVS) should undertake a mapping exercise to understand what funding the borough receives from the EU, the services that are impacted and the availability of replacement funding post-Brexit.",
+            "The Tower Hamlets Partnership should promote positive messages on the careful use of language in the context of Brexit, noting the role that language can play in maintaining or disrupting community cohesion.",
+            "Tower Hamlets Partnership should work with the council to positively encourage community cohesion in the borough, by creating a sense of place-based pride among residents.",
+            "All voluntary and community sector organisations, public sector bodies and businesses in Tower Hamlets should support their staff and volunteers by providing guidance on the EU Settlement Scheme, in addition to wellbeing and emotional support where necessary."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the full Impact of Brexit on Tower Hamlets report here.",
+          "links": [
+            {
+              "text": "Read the full Impact of Brexit on Tower Hamlets report here.",
+              "href": "https://www.towerhamlets.gov.uk/Documents/Brexit_Report_PRINT_FINAL.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

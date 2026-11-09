@@ -1,0 +1,40 @@
+{
+  "slug": "audit-255-join-us-for-the-launch-of-our-new-community-led-research-projects",
+  "route": "/22/03/2019/join-us-for-the-launch-of-our-new-community-led-research-projects/",
+  "title": "Our two new community-led research projects will be launched on April 18th",
+  "intro": "We’re holding an event to launch two new Participatory Action Research (PAR) projects in Tower Hamlets on Thursday 18th April. The two projects will look at community safety and the needs of young renters. As a result of the success of our previous PAR project that explored the needs of older people in Tower Hamlets,… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/03/IMG_2033-1.jpg",
+    "alt": "The Launch of our Older People's Peer Action Research Project in September 2018"
+  },
+  "template": "article",
+  "publishedAt": "2019-03-22",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We’re holding an event to launch two new Participatory Action Research (PAR) projects in Tower Hamlets on Thursday 18th April. The two projects will look at community safety and the needs of young renters."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "As a result of the success of our previous PAR project that explored the needs of older people in Tower Hamlets, we are delighted to launch our two new community-led research projects. Local residents will be trained to interview, survey and analyse the data they gather as part of the project. We believe that above all, putting people with real experience of these issues into the heart of the process is key to designing effective solutions."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "These projects are both based in Tower Hamlets. The first will explore community safety and integration. The second will look the experiences of young people living in the private rented sector. These projects are solutions focused, they will therefore not only investigate the key issues faced by local Tower Hamlets residents but will also identify, trial and implement where possible, effective strategies for overcoming these issues."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you live in Tower Hamlets and are passionate about community safety and the needs of young renters, you are welcome to attend but you need to first register your interest with our research manager, Philip Mullen or call 0207 392 2956. You can also contact Philip if you have any questions about our research projects, our community-led approach or if you would like to discuss collaborating with us on these projects"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

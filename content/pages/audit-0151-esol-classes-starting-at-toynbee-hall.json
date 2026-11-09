@@ -1,0 +1,59 @@
+{
+  "slug": "audit-151-esol-classes-starting-at-toynbee-hall",
+  "route": "/15/04/2019/esol-classes-starting-at-toynbee-hall/",
+  "title": "ESOL course starting at Toynbee Hall",
+  "intro": "We are delighted to have partnered up with New City College to deliver entry level ESOL (supporting English as a Second Language) classes at Toynbee Hall. Come along for a chat and an assessment on Friday 3rd May at 10:00am at 28 Commercial Street, London E1 6LS. Toynbee Hall and New City College, Tower Hamlets… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/Community-Money-Mentors.jpg",
+    "alt": "ESOL Classes starting at Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2019-04-15",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Come along for a chat and an assessment on Friday 3rd May at 10:00am at 28 Commercial Street, London E1 6LS."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall and New City College, Tower Hamlets are working in partnership to provide free-of-charge ESOL (supporting English as a second language) classes."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would be interested in taking part in the course, you will need to bring with you:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Proof of any benefits you are receiving in your name (letters or bank statements must be dated within the last 3 months",
+            "Your passport and National Insurance Number",
+            "If you are working, evidence of your last 3 payslips"
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/ESOL-May-Enrolment-Flyer_Page_1-724x1024.jpg",
+            "alt": "ESOL May Enrolment Flyer"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about New City College. We look forward to meeting you!",
+          "links": [
+            {
+              "text": "Find out more about New City College.",
+              "href": "https://www.ncclondon.ac.uk/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "audit-549-testing-widget",
+  "route": "/testing-widget/",
+  "title": "Testing Widget",
+  "intro": "[do_widget id=smartslider3-3]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "audit-482-membership-registration",
+  "route": "/membership-registration/",
+  "title": "Registration",
+  "intro": "[swpm_registration_form]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

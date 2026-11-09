@@ -1,0 +1,69 @@
+{
+  "slug": "audit-102-join-us-for-our-very-first-datathon",
+  "route": "/10/04/2019/join-us-for-our-very-first-datathon/",
+  "title": "Join us for our very first Datathon",
+  "intro": "Take part in person or online as we use public data to help the Tower Hamlets community. We need your help! Since its inception in 1884, evidence based research has been central to Toynbee Hall’s mission as a charity. Over a century ago we played a key role in creating the first data visualizations mapping… Read more",
+  "template": "article",
+  "publishedAt": "2019-04-10",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Take part in person or online as we use public data to help the Tower Hamlets community."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We need your help!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Since its inception in 1884, evidence based research has been central to Toynbee Hall’s mission as a charity. Over a century ago we played a key role in creating the first data visualizations mapping poverty in order to help tackle inequalities in London. 135 years later we are now turning to new technologies to help serve our local community."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Wednesday 24th April, 13:00 – 17:00pm, the Research Team at Toynbee Hall invites any and all researchers, data analysts, data scientists, and people with a deep understanding of the local community to join us in person OR on Twitter for our first ever Toynbee Hall Datathon."
+        },
+        {
+          "type": "paragraph",
+          "text": "Continuing our history of using evidence to build narratives for social change, we invite you to join us for an afternoon of analyzing and visualizing publicly available data, to help create materials we can use in our mission to advocate for effective and impactful governmental policy."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will provide the questions, data, wifi, and refreshments you will need. All you need to do is to bring your own laptop, ideas, and willingness to create data visualizations that Toynbee Hall can use in future campaigns to advocate for social change using commonly used open source softwares (e.g. R and Python)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone is welcome to attend, regardless of your level of experience using statistical software. All we ask is that you come with a passion for using data for good!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We welcome all levels of analysts as this is also a chance to meet new people interested in using data for good! If you can’t join us in person, join us online that day on #data4toynbee on Twitter."
+        },
+        {
+          "type": "paragraph",
+          "text": "The topics of this datathon will be Youth Homelessness as well as Safety and Cohesion in Tower Hamlets. Please email our Research Manager, Philip Mullen with any questions you have about the event or our research!",
+          "links": [
+            {
+              "text": "Philip Mullen",
+              "href": "mailto:philip.mullen@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please get in touch with any questions you may have!"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Register here"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

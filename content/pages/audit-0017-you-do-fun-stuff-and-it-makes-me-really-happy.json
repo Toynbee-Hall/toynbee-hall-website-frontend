@@ -1,0 +1,231 @@
+{
+  "slug": "audit-17-you-do-fun-stuff-and-it-makes-me-really-happy",
+  "route": "/03/03/2025/you-do-fun-stuff-and-it-makes-me-really-happy/",
+  "title": "“You do fun stuff and it makes me really happy”",
+  "intro": "Rachel Davies is Toynbee Hall’s Play Lead. She tells us what her role involves and the importance of play.",
+  "template": "article",
+  "publishedAt": "2025-03-03",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/Rachel-D-1-e1739875179173.png",
+            "alt": "Rachel Davies"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Rachel Davies is Toynbee Hall’s Play Lead. We asked her about her role."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What does being a Play Lead involve?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Being Play Lead means listening to children’s voices to discover what they want and need. I work towards providing permissive, fun, challenging and interesting co-designed inclusive play spaces."
+        },
+        {
+          "type": "paragraph",
+          "text": "In my role, I manage a small team of play workers, I resource and equip the play spaces, and create and deliver a variety of workshops."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our workshops focus on creative outdoor play – arts and nature-based activities – which are accessible for all children to learn, enjoy and play together."
+        },
+        {
+          "type": "paragraph",
+          "text": "These spaces are special: families and children feel included and encouraged to take part in child-focused ‘loose parts’ play and activities where everyone can hope to gain a better understanding of child-led risky play and its huge benefits."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Where are these spaces and activities?"
+        },
+        {
+          "type": "paragraph",
+          "text": "During term time, on Wednesday afternoons I’m with children and their families for Community Outdoor Play Sessions at Christchurch Gardens/ Christchurch School, Brick Lane.",
+          "links": [
+            {
+              "text": "Christchurch Gardens/ Christchurch School, Brick Lane",
+              "href": "https://www.christchurchprimarybricklane.org/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "On Thursdays, at Canon Barnett School, we offer nature-based workshops with classes during the school day – for example, den building with hazel poles, nets and various other materials.",
+          "links": [
+            {
+              "text": "Canon Barnett School",
+              "href": "https://www.mulberrycanonbarnett.org/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "And on Thursday evenings we run a regular Children’s Art Club at Toynbee Hall Community Centre for the children of parents who volunteer regularly at a nearby food bank.",
+          "links": [
+            {
+              "text": "Children’s Art Club",
+              "href": "/whats-on/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the last three months, we supported around 180 children in the school sessions, with about ten coming regularly to the Art Club."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/IMG_4117-576x1024.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Are there other activities?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes, we’re continuing the Toynbee Hall tradition of offering different opportunities to local families when we can. For example, last autumn we supported a group of early years children from Christchurch School, and their parents, to attend a classical concert for children under five years old, here at Toynbee Hall. This was the children’s first ever school trip!"
+        },
+        {
+          "type": "paragraph",
+          "text": "This was made possible by our supporters Proms at St Jude’s. They are a musical and literary society, based in Hampstead, with historic links to the founders of Toynbee Hall, Henrietta and Samuel Barnett.",
+          "links": [
+            {
+              "text": "Proms at St Jude’s",
+              "href": "https://www.promsatstjudes.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Also, thanks to our supporters The Childhood Trust and their partners, the Alliance of Independent Events Agencies, we were able to take seven Tower Hamlets families, including 18 children, for a very memorable children’s Christmas celebration lunch.",
+          "links": [
+            {
+              "text": "The Childhood Trust",
+              "href": "https://www.childhoodtrust.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/decapo-music.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Why does Toynbee Hall have a Play programme?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our mission is to build a fairer future. The importance and benefits of outdoor play are clear for children. However, for children in Tower Hamlets, there is limited suitable outdoor playing space and because families are often working more than one job, they are time poor in terms of being able to take children to play areas. That makes it very difficult for local children to access safe outdoor play."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What makes Toynbee Hall’s Play programme special?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our ‘unstructured play’ encourages children to use their imagination and explore their surroundings without rigid rules or limitations."
+        },
+        {
+          "type": "paragraph",
+          "text": "This helps build resilience, independence, understandings and decision-making skills."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our sessions are also all about family bonding. There is a clear intergenerational aspect to these sessions where children and adults mix, parents and grandparents are all invited along and bring with them a wealth of knowledge of play that crosses time and cultures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alongside the physical and mental health benefits of being outdoors and active, we also encourage healthy eating – sharing food together and the social aspects of eating with others."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What are some of the benefits you see?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Many of our children now happily claim the food prep area and can, very proudly, peel and cut vegetables, making Vietnamese noodle salads and hot chocolate from scratch. ."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What’s the best part about your job?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seeing the enjoyment and development that play can bring. One eight-year-old told us: “We feel safe and included with everything. We get to play what we want, and we feel understood. You don’t tell us off when we do bad things, we talk about it and work things out together.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And a parent told us: “I strongly believe this club is something that all schools should try their best to replicate. My children absolutely love every minute of it.”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What would you like to do next?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reach out to Tower Hamlets families to find out what they would like to see us offering – maybe some big play days here in Toynbee Hall, or play days on the estates, or trips to other places. I’d also like to see what may be possible in communal spaces on local estates."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A special thanks to our supporters"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our Play programme wouldn’t be possible without our incredible supporters. Thanks especially to Proms at St Jude’s, Childhood Trust, London Borough of Tower Hamlets Council, DaCapo Music and everyone who gives so generously to our Big Give Christmas Challenge each year.",
+          "links": [
+            {
+              "text": "London Borough of Tower Hamlets Council",
+              "href": "https://www.towerhamlets.gov.uk/Home.aspx"
+            },
+            {
+              "text": "DaCapo Music",
+              "href": "https://www.dacapo.co.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to hear more about how you can support our work, please get in touch. Email elizabeth.stevenson@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "elizabeth.stevenson@toynbeehall.org.uk",
+              "href": "mailto:elizabeth.stevenson@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Read more about What’s on at Toynbee Hall",
+          "links": [
+            {
+              "text": "What’s on at Toynbee Hall",
+              "href": "/whats-on/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

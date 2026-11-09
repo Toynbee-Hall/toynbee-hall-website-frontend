@@ -1,0 +1,45 @@
+{
+  "slug": "audit-554-the-profumo-connection",
+  "route": "/the-profumo-connection/",
+  "title": "The Profumo Connection",
+  "intro": "Our connection to John ProfumoJohn Profumo CBE (1915-2006) was a politician and social worker who resigned from the Macmillan government following a scandal in 1963 and devoted the last 40 years of his life to voluntary work supporting numerous projects at Toynbee Hall. Toynbee Hall Icon﻿ John Profumo John Profumo was a dedicated volunteer and… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/Jack-5-e1687355195651.jpg",
+    "alt": "Black and white photo of John Profumo making an address at Toynbee Hall"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "John Profumo CBE (1915-2006) was a politician and social worker who resigned from the Macmillan government following a scandal in 1963 and devoted the last 40 years of his life to voluntary work supporting numerous projects at Toynbee Hall."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "John Profumo"
+        },
+        {
+          "type": "paragraph",
+          "text": "John Profumo was a dedicated volunteer and tireless campaigner for Toynbee Hall for more than 40 years. He was an exceptional voluntary fundraiser and eventually became our President. Find out more about John Profumo in our Digital Archive."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/01/cropped-Profumo-1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Profumo-1.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "John Profumo dedicated 40 years of his life to supporting the community here in East London. If you would like to support us to continue his great work, please find out how you can do so:"
+        }
+      ]
+    }
+  ]
+}

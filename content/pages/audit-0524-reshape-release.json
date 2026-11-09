@@ -1,0 +1,116 @@
+{
+  "slug": "audit-524-reshape-release",
+  "route": "/research/reshape-release/",
+  "title": "Reshape Release",
+  "intro": "Reshaping Release: Our ongoing work with Switchback shaping a better future for prison leavers Download the Prison Recall Report Download the Mental Health and Prison Release Report Find out more about Switchback Overview Over the past few years Toynbee Hall has been working with Switchback, a London based prison rehabilitation charity and their experts by… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/Screenshot-2025-06-04-002924.png",
+    "alt": "Mental Health and Prison Release Report front cover"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Reshaping Release: Our ongoing work with Switchback shaping a better future for prison leavers"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Prison Recall Report"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Download the Mental Health and Prison Release Report"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more about Switchback"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Overview"
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the past few years Toynbee Hall has been working with Switchback, a London based prison rehabilitation charity and their experts by experience (EBE) board to bring the PAR approach to issues affecting prison leavers."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the UK prison leavers are a group at high risk of poverty, exacerbated by stigma and poor support post-release. Many struggle to find stable employment and/or housing, and some are released without access to a place to sleep, internet, or even a bank account. Our work with Switchback’s EBE board looks to find out the key issues and co-design recommendations that will reshape release into a more positive experience."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our first collaboration led to the 2024 ‘Mental Health and Prison Release’ report that focused on the neglect of prison leaver mental health. Prison leavers report heightened anxiety (particularly around the subject of recall) and also a lack of support structures and trusted people that they could ask for help."
+        },
+        {
+          "type": "paragraph",
+          "text": "In June 2025 a second report was released focused on the topic of recall, where people on probation can be sent back to prison. The rate of recall has nearly doubled in the last 15 years, and has been a significant contributor to prison overcrowding. The majority of these recalls have been driven by licence condition breaches rather than further offenses, and the impact on prison leavers can be destablishing and scupper any positive progress made on probation."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/cropped-Screenshot-2025-06-04-002924-2.png",
+            "alt": "Mental Health and Prison Release Report front cover",
+            "caption": "Mental Health and Prison Release Report"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Positive relationships are key to prevent recall and best support prison leavers, but often prison leavers do not feel safe to share their challenges with probation officers or those around them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Communication about licence conditions and how to avoid recall is not clear, and is sometimes used as a first – rather than last – resort. Communications fail to account for high levels of neurodiversity, speech and language needs among people on probation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avoidable recalls damage positive resettlement progress and can make people lose faith in their ability to live life differently. Once recalled people can become forgotten within the system as well, further damaging trust."
+        },
+        {
+          "type": "paragraph",
+          "text": "Right now the foundations are outdated – we need fresh perspective and new eyes on it to change the foundation and update and revitalise it. Like changing the soil for gardening. Right now they just do this paper and that paper, but you’re not really sorting the person, you’re sorting the way it looks.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "People matter. People’s mindsets matter. People’s experiences matter. No matter what background you come from, you’re still human at the end of the day. I think that’s what people miss when it comes to people who have been in prison.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I don’t trust anything or anyone and institutions are at the bottom of that list. I have no reason to trust them. They’ve never done anything which has benefitted me. I just can’t trust them, too many experiences. It’s like going to court – every experience is just evidence as to why you can’t trust them.”"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "See our other research. Take a look through our research library"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "To stay up to date with this project and more, sign up to our e-newsletter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

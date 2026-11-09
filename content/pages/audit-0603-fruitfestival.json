@@ -1,0 +1,40 @@
+{
+  "slug": "audit-603-fruitfestival",
+  "route": "/whats-on/fruitfestival/",
+  "title": "Aam-Khatli Fruit festival",
+  "intro": "This is part of a programme of family friendly events taking place over the summer to celebrate the history of Petticoat Lane.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/FwXd_7sXoAUKWhn-1.jpg",
+    "alt": "Aam-Khatli Fruit festival"
+  },
+  "template": "event",
+  "dateLabel": "Saturday 17 June",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Mohila Ongon is hosting Aam-Khatli fruit festival on 17th June celebrating Bengali culture, heritage and food."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Enjoy and get a feel of Bangladeshi heritage and culture, including Bangladeshi fruits and snack you can expect to try on the day! There will be food, games, arts and crafts, Henna, face painting, raffle, live music and more."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Saturday 17th June 1pm – 6pm Toynbee Hall, 28 Commercial Street, E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would like more information please contact Ferdous on 07500970957."
+        }
+      ]
+    }
+  ],
+  "timeLabel": "1pm to 6pm",
+  "venue": "Toynbee Hall, 28 Commercial Street, E1 6LS"
+}

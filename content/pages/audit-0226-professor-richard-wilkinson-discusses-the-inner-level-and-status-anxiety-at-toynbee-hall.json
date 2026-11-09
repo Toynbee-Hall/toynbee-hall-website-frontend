@@ -1,0 +1,71 @@
+{
+  "slug": "audit-226-professor-richard-wilkinson-discusses-the-inner-level-and-status-anxiety-at-toynbee-hall",
+  "route": "/20/01/2020/professor-richard-wilkinson-discusses-the-inner-level-and-status-anxiety-at-toynbee-hall/",
+  "title": "Professor Richard Wilkinson discusses The Inner Level and Status Anxiety at Toynbee Hall",
+  "intro": "Professor Richard Wilkinson, the co-author of The Spirit Level and The Inner Level, discusses status anxiety, London and inequality with the local community at Toynbee Hall. My Fair London in partnership with the Equality Trust and Toynbee Hall invited Professor Richard Wilkinson to discuss his latest book, The Inner Level, co-written with Professor Kate Pickett.… Read more",
+  "template": "article",
+  "publishedAt": "2020-01-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Professor Richard Wilkinson, the co-author of The Spirit Level and The Inner Level, discusses status anxiety, London and inequality with the local community at Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "My Fair London in partnership with the Equality Trust and Toynbee Hall invited Professor Richard Wilkinson to discuss his latest book, The Inner Level, co-written with Professor Kate Pickett. The Inner Level explains how economic inequality impacts on each of us as individuals; how we think, feel and behave.",
+          "links": [
+            {
+              "text": "My Fair London",
+              "href": "https://www.myfairlondon.org.uk/"
+            },
+            {
+              "text": "Equality Trust",
+              "href": "https://www.equalitytrust.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "At the event on Thursday 16th January there was a range of interesting discussions about how we can make the capital a fairer place to be in the 2020s. The conversations were focused on the psychological impact of inequality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Professor Wilkinson discussed the psychological effects of material inequalities, in particular, the epidemic of mental health problems, such as anxiety and depression. 74% of adults (83% of 18-24 year olds) felt so stressed they were overwhelmed or unable to cope sometime in the past year. (Mental Health Foundation Survey UK, 2018). Jim Minton, Chief Executive of Toynbee Hall who spoke at the event, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Other speakers at the event included; Dave Baillie from Psychologists for Social Change, Alex Bax, Chief Executive of Pathway and Wanda Wyporska, Executive Director at The Equality Trust.",
+          "links": [
+            {
+              "text": "Psychologists for Social Change",
+              "href": "http://www.psychchange.org/"
+            },
+            {
+              "text": "Pathway",
+              "href": "https://www.pathway.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "After the event, attendees from the community shared their thoughts on what had been discussed."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you want to have a say on what Toynbee Hall can be doing to tackle issues in Tower Hamlets and East London, join us on Friday 24th January as we begin planning a Community Day in February that will inform us on what we can be doing to make our community a happier healthier place. Find out more here.",
+          "links": [
+            {
+              "text": "Find out more here",
+              "href": "/20/01/2020/friday-24th-january-community-day-planning-meeting/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

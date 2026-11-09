@@ -1,20 +1,121 @@
 {
-  "slug": "donate",
-  "title": "Donate to Toynbee Hall",
-  "intro": "Your donation helps people access advice, support and community activities, and contributes to a fairer future for East London.",
+  "slug": "audit-417-donate",
+  "route": "/donate/",
+  "title": "Donate",
+  "intro": "A donation to Toynbee Hall can make a world of difference to the individuals, families and communities that we work with. Help us to create a fairer future with an end to poverty, injustice and inequality. Families and older people on low incomes are among the hardest hit by huge increases to the cost of… Read more",
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "Your support matters",
-      "paragraphs": [
-        "Donations help Toynbee Hall work alongside people facing poverty and injustice. Choose a donation option through the charity’s secure giving service."
-      ]
-    },
-    {
-      "type": "richText",
-      "heading": "Other ways to help",
-      "paragraphs": [
-        "You can also fundraise, volunteer or explore a corporate partnership."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A donation to Toynbee Hall can make a world of difference to the individuals, families and communities that we work with."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Help us to create a fairer future with an end to poverty, injustice and inequality."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/03/cropped-toynebee-50.jpg",
+            "alt": "Local residents taking part in an seated exercise session in the Toynbee Hall Community Centre",
+            "caption": "cropped-toynebee-50.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/cropped-toynebee-6-web-1.jpg",
+            "alt": "two women helping each other in a Linkage Plus sewing class",
+            "caption": "cropped-toynebee-6-web-1.jpg"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/07/cropped-cropped-homepage-slider-i-am-looking-for.jpg",
+            "alt": "Yesmin speaks during panel discussion at Financial health exchange event",
+            "caption": "cropped-cropped-homepage-slider-i-am-looking-for.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Families and older people on low incomes are among the hardest hit by huge increases to the cost of living. Where we work in Tower Hamlets, East London, half of all children and elderly people live in poverty; this means the cost-of-living crisis is putting further pressure onto families and households who already struggle to make ends meet."
+        },
+        {
+          "type": "paragraph",
+          "text": "With your support we can help people on low incomes save money, claim benefits, access a range of advice services while supporting people to improve their skills, wellbeing and make social connections in the local area."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ways to donate"
+        },
+        {
+          "type": "paragraph",
+          "text": "However you choose to give, we are incredibly grateful for your support. In giving towards our work you’re helping empower people in the East End to build a fairer and happier society."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Donate online"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can donate online right now, and use one of the options below to get your gift to us. You can make a one-time donation or set up a recurring payment."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Give by post"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can send a donation (by cheque or CAF Voucher) to: The Fundraising Team Toynbee Hall 28 Commercial Street London E1 6LS. Please make sure you include a covering note with your details, so we can acknowledge your donation and say thank you."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Donate via bank transfer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please email or call us to find out how to make a bank transfer to Toynbee Hall or set up a regular Standing Order or Direct Debit: Email: fundraising@toynbeehall.org.uk or Call: 020 7392 2970"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Make a donation"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can understand more about how we use personal data by visiting our Data Protection, Privacy and GDPR Page."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sign up to our quarterly e-newsletter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall needs the contact information you provide to contact you about with the latest news, events and updates. You may unsubscribe from these communications at any time. For information on how to unsubscribe as well as our privacy practices and commitment to protecting your privacy, you can read our data protection policy here.",
+          "links": [
+            {
+              "text": "data protection policy here",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/Data-Protection-Policy-v3.0.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
       ]
     }
   ]

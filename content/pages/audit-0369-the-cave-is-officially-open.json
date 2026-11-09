@@ -1,0 +1,49 @@
+{
+  "slug": "audit-369-the-cave-is-officially-open",
+  "route": "/30/04/2018/the-cave-is-officially-open/",
+  "title": "The Cave is officially open!",
+  "intro": "Young people on Make it! have built their own crowdfunded indoor cave for the community to use all year round. On Thursday 26th April, the cave (which was completed over the course of a 3 day community project) was officially opened. This will now be open for the public to use for free in a… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/IMG_6415_-_web_edit.jpg",
+    "alt": "The Cave is officially open! — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-04-30",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Young people on Make it! have built their own crowdfunded indoor cave for the community to use all year round."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Thursday 26th April, the cave (which was completed over the course of a 3 day community project) was officially opened. This will now be open for the public to use for free in a bid to promote a healthier and more active lifestyle for young people."
+        },
+        {
+          "type": "paragraph",
+          "text": "Back in February we began a crowdfunding a campaign to build an indoor caving experience inside a shipping container at Mile End Urban Adventure Base in a project called Make Caves. The idea for the cave, designed and constructed entirely by the young people themselves with expertise provided by local charity Build Up Foundation, was in response to growing number of playgrounds being shut down and the lack of inspiring play facilities in Tower Hamlets."
+        },
+        {
+          "type": "paragraph",
+          "text": "From Tuesday to Thursday, 36 young people from 3 local schools built, painted and decorated the cave whilst also learning about healthy eating by cooking fresh meals for the whole crew and taking part in film workshops with Chocolate Films."
+        },
+        {
+          "type": "paragraph",
+          "text": "The need for high-quality play facilities is clear as over a quarter of year 6 students in the borough are obese, a figure that rises to 63% in adulthood. From what young people tell us, we know they love sports, but say it’s hard to keep healthy in an area with few opportunities for outdoor play, and a whopping 42 fast food shops for every school. This cave will give young people the opportunity to tackle this issue by getting their peers active through play! It will act as a draw to the youth centre, putting children in touch with the other services available such as BMX, climbing and kayaking."
+        },
+        {
+          "type": "paragraph",
+          "text": "In June, the students who built the cave will introduce it to to local children on an activities day they will lead for 360 year 6 students transitioning to secondary school."
+        },
+        {
+          "type": "paragraph",
+          "text": "To find out more about how your kids can brave the cave, contact Curtis Worrell, Youth Project Manager or call Mile End Urban Adventure Base on 020 7364 0925."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

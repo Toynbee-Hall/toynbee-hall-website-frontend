@@ -1,0 +1,63 @@
+{
+  "slug": "audit-498-inclusive-design-in-action",
+  "route": "/research-library/inclusive-design-in-action/",
+  "title": "Inclusive Design in Action",
+  "intro": "Fair By Design, Ofgem and Toynbee Hall, A case study: using inclusive design to create a fair transition to net zero.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/FBD-Inclusive-Design-in-action-cover-e1705419539602.jpg",
+    "alt": "Inclusive Design in Action — Toynbee Hall"
+  },
+  "template": "resource",
+  "downloads": [
+    {
+      "title": "Download [6.02 MB]",
+      "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/FBD-Ofgem-Toynbee-Hall-Inclusive-Design-in-Action-FINAL-April-2023-2.pdf",
+      "format": "PDF"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/loading.svg",
+            "alt": "Loader"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/EAD-logo.svg",
+            "alt": "EAD Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/reload.svg",
+            "alt": "Reload"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/plugins/embed-any-document/images/open.svg",
+            "alt": "Open"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Download [6.02 MB]",
+          "links": [
+            {
+              "text": "Download [6.02 MB]",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/FBD-Ofgem-Toynbee-Hall-Inclusive-Design-in-Action-FINAL-April-2023-2.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

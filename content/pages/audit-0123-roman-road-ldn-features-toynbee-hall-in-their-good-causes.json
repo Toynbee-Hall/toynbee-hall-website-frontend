@@ -1,0 +1,47 @@
+{
+  "slug": "audit-123-roman-road-ldn-features-toynbee-hall-in-their-good-causes",
+  "route": "/12/04/2018/roman-road-ldn-features-toynbee-hall-in-their-good-causes/",
+  "title": "Roman Road LDN features Toynbee Hall in their Good Causes",
+  "intro": "Roman Road LDN, a local social enterprise which produces an online magazine, highlights the work and future plans of Toynbee Hall. Roman Road LDN, a local social enterprise which produces an online magazine, highlights the work of Toynbee Hall and our future plans. Supported by Roman Road Trust and London Borough of Tower Hamlets, Roman… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/Roman_Road_LDN_story.png",
+    "alt": "Roman Road LDN features Toynbee Hall in their Good Causes — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-04-12",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Roman Road LDN, a local social enterprise which produces an online magazine, highlights the work and future plans of Toynbee Hall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roman Road LDN, a local social enterprise which produces an online magazine, highlights the work of Toynbee Hall and our future plans."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supported by Roman Road Trust and London Borough of Tower Hamlets, Roman Road LDN aims to help local communities flourish by celebrating the best of what local life offers from shopping and culture to local heroes and good causes. This month Toynbee Hall was the foucs of their Good Causes section."
+        },
+        {
+          "type": "paragraph",
+          "text": "This in-depth feature looks at our origins and history, our work in the present day and our future plans which includes the upcoming reopening of our newly-rennovated Halls and how the regeneration will help us to expand our services."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read the feature in full here.",
+          "links": [
+            {
+              "text": "You can read the feature in full here.",
+              "href": "http://romanroadlondon.com/toynbee-hall-reducing-poverty-tower-hamlets/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

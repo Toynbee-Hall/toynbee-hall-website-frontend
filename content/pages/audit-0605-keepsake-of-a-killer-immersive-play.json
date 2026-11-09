@@ -1,0 +1,47 @@
+{
+  "slug": "audit-605-keepsake-of-a-killer-immersive-play",
+  "route": "/whats-on/keepsake-of-a-killer-immersive-play/",
+  "title": "Keepsake of a Killer: Immersive Play",
+  "intro": "Keepsake of a Killer",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/Keepsake-of-a-killer-image.jpg",
+    "alt": "Keepsake of a Killer: Immersive Play — Toynbee Hall"
+  },
+  "template": "event",
+  "dateLabel": "Saturdays, 8 to 29 November",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "In the footsteps of The Ripper… evil stalks!"
+        },
+        {
+          "type": "paragraph",
+          "text": "The date is March, 1889 It’s four months since the Ripper’s reign of terror, and Whitechapel’s peace is shattered by the discovery of a woman found mutilated beneath Fenchurch Street station. The question is, has Jack returned? In an attempt to conceal the discovery before renewed fear engulfs Whitechapel, the police convey the body to Toynbee Hall, home of the social reformer, Henrietta Barnett. There, with the help of her students, the truth must be found. Step back in time at this iconic venue, and immerse yourself in the investigation inside Toynbee’s authentic Victorian Lecture Hall. You will examine the victim’s belongings, study police reports, interrogate witnesses and revisit the virtual reality crime scene, to discover the facts of the poor woman’s life and find her justice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Torchlight Mysteries launch a 2 hour thrilling immersive performance where you will be in the heart of the action – seated in the magnificent Toynbee Hall. You will work with others to solve the mystery – do you think Jack has returned? If not, who is the murderer? With live action and case notes for you to examine, this will create a truly immersive mix."
+        },
+        {
+          "type": "paragraph",
+          "text": "Performances at 4.30pm and 7.30pm every Saturday November 8th to 29th November."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tickets and further information: https://torchlightmysteries.com/keepsakeofakiller",
+          "links": [
+            {
+              "text": "https://torchlightmysteries.com/keepsakeofakiller",
+              "href": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftorchlightmysteries.com%2Fkeepsakeofakiller&data=05%7C02%7Cjacob.o%27regan%40toynbeehall.org.uk%7C9bbb5b2308494fdc483b08de07553a37%7C7993b59f8f234e789177e64b1c1aef42%7C0%7C0%7C638956259851885262%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5GBdkMRuxZy4DP0IJ4nNRWDipll2PsjxFHENdo%2BMovM%3D&reserved=0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "timeLabel": "4:30pm and 7:30pm",
+  "venue": "Lecture Hall, Toynbee Hall"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "audit-612-reading-group",
+  "route": "/whats-on/reading-group/",
+  "title": "Shared Reading Group with Dorothy",
+  "intro": "Book lovers! Come and join our friendly group to discuss what we have been reading in an informal setting. Open to all (18+)",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/Untitled-design-7.png",
+    "alt": "Book shelf"
+  },
+  "template": "event",
+  "dateLabel": "Tuesdays (weekly)",
+  "timeLabel": "1:30pm – 3pm",
+  "venue": "Community Centre",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Tuesdays (weekly) 1:30pm – 3pm Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 0203 856 9721 or 07943 277512"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

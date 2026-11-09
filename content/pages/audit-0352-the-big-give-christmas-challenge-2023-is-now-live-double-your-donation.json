@@ -1,0 +1,78 @@
+{
+  "slug": "audit-352-the-big-give-christmas-challenge-2023-is-now-live-double-your-donation",
+  "route": "/28/11/2023/the-big-give-christmas-challenge-2023-is-now-live-double-your-donation/",
+  "title": "The Big Give Christmas Challenge 2023 is now LIVE. Double your donation.",
+  "intro": "For one week only, all donations to help us tackle play poverty will be DOUBLED!",
+  "template": "article",
+  "publishedAt": "2023-11-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For one week only, all donations to help us tackle play poverty will be DOUBLED!"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Toynbee Hall aims to connect children to nature, tackle food & play poverty, and improve physical and mental wellbeing.",
+            "We will provide outdoor play activities and forest school & weekend gardening sessions for 300 disadvantaged local children and their families.",
+            "£25,000 fundraising target",
+            "Online donations from the public are doubled from midday Tuesday 28th November to midday Tuesday 5th December"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Double your donation to Toynbee Hall in the Big Give’s Christmas Challenge. Toynbee Hall are taking part in the Christmas Challenge to raise £25,000 in just one week! These funds will be used for our Green Spaces to Play – Tackling Play Poverty project."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nestled between Canary Wharf and The City, Tower Hamlets has the fastest-growing population of any local authority in England and Wales. Sadly, 56% of children living here do so in poverty, despite most having at least one working parent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Play poverty in the borough is at an all-time high. Children in poverty are nine times less likely to have access to green spaces and safe places to play. The chance to play in such spaces is something the majority of us likely took for granted when growing up and the importance of these opportunities cannot be overestimated. Play not only provides respite for children living in adverse circumstances, it also offers opportunities to learn crucial socialisation and development skills."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/11/Big-Give-Rachel-quote-1024x576.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Outdoor educational activities led by our experienced Play Lead will engage children and promote learning about nature, gardening, and healthy eating. Forest school and outdoor play sessions will be held weekly in new edible gardens, together with two local schools and the Attlee Community Centre, enabling children to explore nature, develop outdoor skills, and engage in creative play. These new gardens are both at Toynbee Hall and in the schools and community centre we have partnered with."
+        },
+        {
+          "type": "paragraph",
+          "text": "Donations to Green Spaces to Play will be generously matched by our generous backers Proms at St. Jude’s, and Big Give Champion, The Childhood Trust, during the campaign meaning your money can support twice as many children and families in Tower Hamlets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ash Hiden, Fundraising Relationships Manager at Toynbee Hall said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“We’re delighted to be a part of the Big Give Christmas Challenge again and to offer people the chance to double their donations at no extra cost to themselves. Our target is £25,000, which will fund vital safe places and green spaces for children in Tower Hamlets to play in. With Canary Wharf within eyeshot, it’s sad to think that play poverty is so prevalent in the borough. I urge everyone to donate to our Big Give campaign page and give the gift of play this Christmas.”"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/11/Big-Give-social-quote-1-1024x576.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Visit the Toynbee Hall campaign page on the Big Give website and make a donation from midday Tuesday 28th November to midday Tuesday 5th December. One donation, double the impact."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

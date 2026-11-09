@@ -1,0 +1,86 @@
+{
+  "slug": "audit-338-double-the-impact-of-your-donation-and-help-us-raise-22000-for-young-people-this-christmas",
+  "route": "/27/11/2018/double-the-impact-of-your-donation-and-help-us-raise-22000-for-young-people-this-christmas/",
+  "title": "Double the impact of your donation and help us raise £22,000 for young people this Christmas",
+  "intro": "Donate to Toynbee Hall on theBigGive.org.uk from 12pm on #GivingTuesday 27th November and your donation will be doubled! For the fifth year running, Toynbee Hall is taking part in the Big Give Christmas Challenge, raising funds for our new youth project, Toynbee Hall Youth Action. During the challenge this year we aim to raise over £22,000 to support… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/11/All-in-a-line.jpg",
+    "alt": "The Big Give Christmas Challenge is now open"
+  },
+  "template": "article",
+  "publishedAt": "2018-11-27",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Donate to Toynbee Hall on theBigGive.org.uk from 12pm on #GivingTuesday 27th November and your donation will be doubled!"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/11/TBG-Logo-Horizontal-Black-Details@2x1-300x80.png",
+            "alt": "The Big Give 2018"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "For the fifth year running, Toynbee Hall is taking part in the Big Give Christmas Challenge, raising funds for our new youth project, Toynbee Hall Youth Action. During the challenge this year we aim to raise over £22,000 to support young people living in Tower Hamlets and the City of London to realise their potential.",
+          "links": [
+            {
+              "text": "Toynbee Hall Youth Action",
+              "href": "https://secure.thebiggive.org.uk/projects/view/30149/Toynbee+Hall+Youth+Action/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Our new youth work will range from workshops exploring the history of social action in the East End, to a fellowship programme involving Young Fellows speaking at conferences and events across London, facilitating debates, and engaging their peers in projects that improve their communities."
+        },
+        {
+          "type": "paragraph",
+          "text": "In order to raise £22,000 in just one week we have the help of the fantastic people at The Proms at St Jude’s and the Big Give’s philanthropic partner, The Childhood Trust, who for this week only will double all online donations on theBigGive.org.uk. So, give what you can before midday on Tuesday 4th December and see your donation go twice as far!",
+          "links": [
+            {
+              "text": "The Proms at St Jude’s",
+              "href": "http://www.promsatstjudes.org.uk/"
+            },
+            {
+              "text": "The Childhood Trust",
+              "href": "http://www.childhoodtrust.org.uk/"
+            },
+            {
+              "text": "theBigGive.org.uk",
+              "href": "https://secure.thebiggive.org.uk/projects/view/30149/Toynbee+Hall+Youth+Action/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall Youth Action builds on the success of our long-standing youth work in the East End of London. Over the past four years, over 250 young people gained a level 2 accreditation in critical thinking through our projects. In addition, 90% of those who engaged with our youth work reported an increase in confidence, while more than 80% felt encouraged to take more of an active role in their communities."
+        },
+        {
+          "type": "paragraph",
+          "text": "For more information on how to donate during the Challenge, please click here or contact us at fundraising@toynbeehall.org.uk.",
+          "links": [
+            {
+              "text": "here",
+              "href": "https://secure.thebiggive.org.uk/projects/view/30149/Toynbee+Hall+Youth+Action/"
+            },
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:%20fundraising@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can also donate by sending a cheque made payable to Toynbee Hall, but this will not be match-funded. Please send any cheques to: Development Team, Toynbee Hall, 52 Old Castle Street, London, E1 7AJ."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

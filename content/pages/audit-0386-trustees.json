@@ -1,0 +1,232 @@
+{
+  "slug": "audit-386-trustees",
+  "route": "/about-us/our-team/trustees/",
+  "title": "Trustees",
+  "intro": "Our Trustees The trustees at Toynbee Hall have ultimate Governance responsibility for the organisation. They have legal responsibility for the charity’s work, guide strategy, support the Senior Management Team and ensure the objectives of Toynbee Hall are realised. All Toynbee Hall trustees are volunteers. Chair Deputy Chair Trustee Trustee Trustee Trustee Trustee Trustee Trustee Trustee… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our Trustees"
+        },
+        {
+          "type": "paragraph",
+          "text": "The trustees at Toynbee Hall have ultimate Governance responsibility for the organisation. They have legal responsibility for the charity’s work, guide strategy, support the Senior Management Team and ensure the objectives of Toynbee Hall are realised. All Toynbee Hall trustees are volunteers."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/03/cropped-Picture7.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Picture7.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Alice is a senior insurance professional, chartered accountant, former Managing Director and former Head of Risk, Resilience & Response for Lloyd’s of London, with experience across financial services and education sectors in the UK and internationally. Alice is both a finance and risk professional and held a number of board positions including Finance Director and Chief Underwriting Officer. Alice regularly sits as panel member to hear School Admission Appeals for both Southwark Education Commission and Wandsworth Borough Council. She has also been a volunteer teacher for 10 years and delivers financial literacy training to primary schools in Tower Hamlets through The Switch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chair"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-Thomas-headshot26-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Untitled-design-2.png"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Thomas has lived close to Toynbee Hall for many years. He is an operational risk manager, with over 25 years’ experience in identifying and managing risks in technology and operations across global organisations, mainly in finance. He has worked for UBS since 2011 and has supported several local nonprofit arts organisations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deputy Chair"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/cropped-cropped-Sam-Thomas-150-x-172.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-cropped-Sam-Thomas-150-x-172.png"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Sam is a senior research fellow at the Institute for Social Policy, Housing and Equalities Research (I-SPHERE) at Heriot-Watt University. In previous roles, he managed major grant funding programmes at the Health Foundation and led policy work for the Making Every Adult Matter coalition, working across the national charities Clinks, Mind, and Homeless Link to address multiple disadvantage."
+        },
+        {
+          "type": "paragraph",
+          "text": "s"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/03/cropped-Picture8.png",
+            "alt": "Yu-Shan Chiu",
+            "caption": "Yu-Shan Chiu"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Yu-Shan is a resident of Tower Hamlets and a social impact consultant at The Social Investment Consultancy. In this capacity, Yu-Shan has supported 30+ clients on impact evaluation, business development, and diversity, equity and inclusion. She focuses on social issues such as poverty, social mobility, racial justice, and arts and culture. Prior to her current role Yu-Shan was a consultant in the Social Innovation department at KPMG."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/cropped-Damola-Olaleye.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Damola-Olaleye.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Damola is a human resources professional committed to helping people become the best version of themselves and helping leaders move the dial in ensuring positive and empowering work environments. She has a breadth of experience in learning and talent management, performance and reward, risk and governance, project planning, HR communications, driving employee engagement. She is an associate member of the Chartered Institute of Personnel Development and volunteers at her local CIPD branch. She is very keen on social justice issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/cropped-Liam-Keogh.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Liam-Keogh.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Liam Keogh is a business leader, entrepreneur, investor, advisor and communications, marketing and PR specialist with a deep connection to East London. He was educated and lives in the area and has always based his businesses in that part of the capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2010 he co-founded a Public Relations and MarComms agency, following a career as a journalist. He has experience across all comms disciplines, from PR, to influencer marketing, social media, copywriting, advertising and brand identity. In 2023 he was named the “Outstanding Professional” of the PR industry by the PRCA and he has also been shortlisted as the “Consultancy Head of the Year” in the PRCA National Awards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since exiting his agency, he now works in education and as a Non-Executive Director, board advisor and consultant for multiple businesses, supporting them fulfil their growth ambitions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-Claire-headshot26-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-cropped-Untitled-design-2.png"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Claire has worked in the Further Education sector in London for 21 years. Since 2016 she has been Group Director HR & Organisational Development, where she has led on EDI initiatives and consultations on pay and reward."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-Trustee-Nicholas.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Trustee-Nicholas.jpg"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Nicholas is an entrepreneur, business owner and industry leader in the UK's manufacturing, watch making and luxury goods sectors. In 2016, he revived Fears Watches, which is one of Britain's oldest and most successful watch makers."
+        },
+        {
+          "type": "paragraph",
+          "text": "He has significant experience in brand building, manufacturing, investment fundraising, and company leadership as well as importing and exporting, which he has used to sell products domestically and internationally."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-Trustee-Luis.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Trustee-Luis.png"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Luis has lived in London for over 20 years and lived in Tower Hamlets for five years."
+        },
+        {
+          "type": "paragraph",
+          "text": "Luis brings over 20 years’ experience in governance, finance and strategy across private, public and charitable organisations. Luis has served on and chaired multi-sector boards, overseeing complex risk, audit and compliance matters and multi-million-pound budgets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Other relent experience includes being President of the Rotary Club of London and member of the Court of a City livery Company."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/05/cropped-Camile-Claros-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Camile Claros"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Camile is a policy professional with experience in research, advocacy and policy influencing within the voluntary and community sector. She previously led the policy workstream at the Lancet Countdown on Health and Climate Change, where she developed organisational strategy, built cross-sector partnerships and strengthened policy impact."
+        },
+        {
+          "type": "paragraph",
+          "text": "With an academic background in Gender Studies and experience advocating alongside First Nations and migrant communities, Camile is now based in Tower Hamlets. She is committed to advancing equity, inclusion and community-led change, aligning closely with Toynbee Hall’s mission and values."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-cropped-Kubi-002-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Kubi (002)"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Kubi brings over twelve years’ experience across analytical, managerial and advisory roles in the energy, financial services and non-profit sectors. Her professional background includes work as a Geophysicist, Multiclient Manager and, most recently, Business Analyst, providing her with a strong foundation in governance, risk management, data-driven decision-making and strategic change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kubi is a long term resident of Tower Hamlets and was previously a Treasurer of her children’s Parent and Teacher’s Association. She has a strong interest in organisations focused on empowerment, sustainability and long-term social impact."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trustee﻿"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "audit-199-new-podcast-series-pandemic-stories",
+  "route": "/18/03/2021/new-podcast-series-pandemic-stories/",
+  "title": "New Podcast Series: Pandemic Stories",
+  "intro": "To coincide with the release of the headline findings report from the Pandemic Stories Peer Research Project, the researchers joined Halima Begum to record a series of conversations about the mental health impact of the pandemic.",
+  "template": "article",
+  "publishedAt": "2021-03-18",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "To coincide with the release of the Pandemic Stories Peer-Research report, the researchers joined Dr Halima Begum to record a series of conversations about the mental health impact of the pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Thursday 18th March, Toynbee Hall, supported by Thrive LDN, released the findings from the Pandemic Stories Peer Research project show that the pandemic has widened pre-existing inequalities.",
+          "links": [
+            {
+              "text": "Thrive LDN",
+              "href": "https://thriveldn.co.uk/"
+            },
+            {
+              "text": "Pandemic Stories Peer Research project show that the pandemic has widened pre-existing inequalities.",
+              "href": "/18/03/2021/new-report-those-hardest-hit-before-the-covid-crisis-have-been-disproportionately-affected/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Beginning in June 2020, interviews were carried out by Toynbee Hall’s trained peer researchers, people who come from the same communities as the interviewees and share their experience of the issues. The interviewees ranged from those aged 18 years to 80 years old, from diverse backgrounds, with three out of four from a Black or other ethnic minority background, and over half with long-term disability."
+        },
+        {
+          "type": "paragraph",
+          "text": "The report highlights how the last twelve months have not only been a health crisis, but have dramatically affected people’s social, economic and family life as well as their mental health and indentifies a range of solutions such as making the £20 uplift to Universal Credit permanent and extending to legacy benefits. The researchers campaigned for this and joined the #KeepTheLifeline campaign with many other organisations over the last few months."
+        },
+        {
+          "type": "paragraph",
+          "text": "To coincide with the launch of the report, peer researchers and guests joined Dr Halima Begum to record a series of conversations about the mental health impact of the pandemic. In the series, each episode looks at one of three key mental health risks identified in the research:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Listen to the Pandemic Stories podcasts"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Episode 1: Shame"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the first episode we discuss how the shame families feel when they cannot cope financially is damaging their sense of self-worth. Halima is joined by Peer Researchers Anwar, Agustina and Jennifer."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Episode 2: Pressure to support others"
+        },
+        {
+          "type": "paragraph",
+          "text": "In episode 2, we discuss how many Londoners are under pressure to support friends and family through the crisis, but how this isn’t a sustainable long-term solution. Halima is joined by Peer Researchers: Angela, Ashrafia, Jennifer and Siraj."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Episode 3: Powerlessness"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this episode, we discuss how the feeling of powerlessness over future finances and employment is driving anxiety in working age people. Halima is joined by Peer Researchers, Kamrul, Laura and Siraj and guests: Professor Mauricio Avendano, Professor of Public Policy and Global Health and Head of the Department of Global Health and Social Medicine Kings College London and Dr Sotiris Vandoros, Reader in Health Economics at King’s Business School, King’s College London."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can also listen on Spotify"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Read the Pandemic Stories Headline Report"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/03/Thrive-ToynbeeHall-Pandemic-Stories-report_Page_1-724x1024.jpg",
+            "alt": "Pandemic Stories Research findings report"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "Uncategorized"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "audit-133-mental-health-awareness-week-the-cost-of-living-crisis-limits-young-peoples-access-to-emotional-support-new-research-from-tower-hamlets-youth-and-toynbee-hall-has-found",
+  "route": "/13/05/2024/mental-health-awareness-week-the-cost-of-living-crisis-limits-young-peoples-access-to-emotional-support-new-research-from-tower-hamlets-youth-and-toynbee-hall-has-found/",
+  "title": "Mental Health Awareness Week: The cost of living crisis limits young people’s access to emotional support new research has found",
+  "intro": "The research from Tower Hamlets youth and Toynbee Hall exposes the impact of the cost-of-living crisis on the emotional wellbeing of young people.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/05/Picture3-1.png",
+    "alt": "Young peer researchers sitting around a table discussing the Emotional Support for Young People peer research project."
+  },
+  "template": "article",
+  "publishedAt": "2024-05-13",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "To mark Mental Health Awareness Week, research conducted by young Tower Hamlets residents in collaboration with Toynbee Hall exposes the impact of the cost-of-living crisis on the emotional wellbeing of young people. The research, facilitated by Toynbee Hall with support from Thrive LDN and funded by the Health Foundation, was conducted by peer researchers aged 16–22 who held interviews and workshops with 70 young people and parents in Tower Hamlets over the past year.",
+          "links": [
+            {
+              "text": "The research",
+              "href": "/research/esyp/"
+            },
+            {
+              "text": "Thrive LDN",
+              "href": "https://thriveldn.co.uk/"
+            },
+            {
+              "text": "Health Foundation",
+              "href": "https://www.health.org.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are some of the key Findings:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Young people in Tower Hamlets are facing increased stress in family relationships",
+            "The cost of living crisis is limiting the time young people can spend with close family and friends",
+            "Anxiety about future life and employment prospects is prevalent among young people",
+            "Young people attribute poor mental health outcomes to wider structural inequalities"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A central theme of the research is the detrimental effect of the cost of living crisis on the quality time young people can spend with their loved ones. Factors such as family members taking on extra shifts, financial constraints limiting leisure activities, and heightened stress levels are hindering meaningful connections."
+        },
+        {
+          "type": "paragraph",
+          "text": "One parent participant said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“I want to be there for them, but with longer work hours, I’m exhausted by the time I get home. It’s a lot of pressure on my mind, and I can’t always provide the support they need.” Similarly, a young participant expressed reluctance to burden their parent: “I think [the cost of living crisis] makes me go to [my mum] less often, because it’s like, if you’re really stressed, I don’t want to add to your stresses.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The toll of the cost of living crisis extends beyond strained family dynamics. Parents highlighted increased worries and emotional exhaustion due to financial struggles, impacting their ability to meet their children’s needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "A parent participant said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“It makes things more fraught, there’s more worries, more concerns. And in struggling to meet those concerns it wears me down emotionally and then I’m less able to meet my needs and their needs. For instance if there’s no food in the house and I’ve got to go to the food bank, I’ve got to find out where that is, make sure I can get to it, take a big bag, which is really difficult for me because I’ve got to consider my mobility, getting there and back and whether I can actually do that.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Moreover, young people feel pressure to seek employment to alleviate financial strain on their families, adding to their own stress and anxiety."
+        },
+        {
+          "type": "paragraph",
+          "text": "One young participant noted:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“Because financially, so my mum’s at work, and my dad is sick, obviously, like he, he works like 10 hours a week. And whenever I have an interview for a job, it’s always the stress of, okay, I need to get this job. Because if I don’t, I won’t be able to help at home. I literally, I feel so useless, I feel like I can’t contribute. When I know that both my parents are sick.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Anxieties about future prospects are prevalent among participants, compounded by witnessing their parents’ struggles. Many fear they will never achieve financial stability or afford basic necessities like housing."
+        },
+        {
+          "type": "paragraph",
+          "text": "One young participant said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“I do struggle with my mental health, because of things like trauma, anxiety and depression. My main anxiety is kind of first of all not being able to complete my degree or failing or something like that. And not being able to land a job.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the majority of interviews, participants underlined that wider structural inequalities were driving poor mental health outcomes and impacting the emotional support they can receive. Examples young people cited include: unequal access to work opportunities; unsocial working hours/demands; unequal access to enrichment opportunities to build skills and wellbeing; inadequate housing; lack of access to health centres/gyms; and neighbourhood factors such as insufficient green space. While the cost of living is compounding these systemic factors, they were already present, and for many participants these continue to have the greatest impact on their families."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read more of the findings from this research and some of the solutions proposed by the young people.",
+          "links": [
+            {
+              "text": "Read more of the findings from this research and some of the solutions proposed by the young people",
+              "href": "/25/04/2024/investigating-young-peoples-emotional-support-needs-and-experiences-in-the-context-of-the-cost-of-living-crisis/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

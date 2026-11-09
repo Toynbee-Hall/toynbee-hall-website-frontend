@@ -1,0 +1,52 @@
+{
+  "slug": "audit-21-celebrating-national-recognition-at-the-credit-strategy-credit-awards-2025",
+  "route": "/03/07/2025/celebrating-national-recognition-at-the-credit-strategy-credit-awards-2025/",
+  "title": "Celebrating National Recognition at the Credit Strategy Credit Awards 2025",
+  "intro": "Last night was a truly special moment for Toynbee Hall’s Debt Free Advice team. We were proud to be shortlisted for not one, but two prestigious national awards at the Credit Strategy Credit Awards 2025: Although we didn’t bring home a trophy this time, being recognised alongside leading organisations such as StepChange Debt Charity, IE… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/07/Image-scaled.jpg",
+    "alt": "Celebrating National Recognition at the Credit Strategy Credit Awards 2025 — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2025-07-03",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Debt Advice Provider of the Year",
+            "Best Use of Technology, for our innovative Video Advice Kiosks and in-house AI assistant, MoneyPennie"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Although we didn’t bring home a trophy this time, being recognised alongside leading organisations such as StepChange Debt Charity, IE Hub, and PayPlan was a significant milestone for us. It’s a powerful reminder of how far we’ve come and the positive impact our service is making."
+        },
+        {
+          "type": "paragraph",
+          "text": "What makes this recognition especially meaningful is that we were the only face-to-face advice service shortlisted in these categories. It’s a testament to the relevance, innovation, and human-centred approach at the heart of our work."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our Video Advice Kiosks and MoneyPennie AI assistant represent the cutting edge of accessible debt advice technology. Combined with the dedication of our Debt Free Advice team, these tools help us reach more people in need—breaking down barriers and offering support where it’s most needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "We want to extend our heartfelt thanks to the incredible team behind this success—Casey, Soomaiya, Eleanor, Kay, Kate—as well as our partners at Ciptex and Twilio.org. Your passion, expertise, and commitment drive this work forward every day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finally, a huge thank you to everyone who has helped shape what we do and where we’re heading next. This recognition is not just about past achievements, but about the journey ahead—continuing to innovate, advocate, and provide vital support to those struggling with debt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Together, we’re making a difference."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

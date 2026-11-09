@@ -1,0 +1,55 @@
+{
+  "slug": "audit-96-journey-of-a-co-production-facilitator-collaborating-with-residents-to-make-a-safer-and-more-connected-borough",
+  "route": "/09/07/2021/journey-of-a-co-production-facilitator-collaborating-with-residents-to-make-a-safer-and-more-connected-borough/",
+  "title": "Journey of a co-production facilitator: Collaborating with residents to make a safer and more connected borough",
+  "intro": "To celebrate Co-Production Week 2021, Research and Policy Intern Hiba Adan reflects on her work with Toynbee Hall peer researchers",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/Community-safety-group-e1661941990599.jpg",
+    "alt": "Community Safety Research Group workshop"
+  },
+  "template": "article",
+  "publishedAt": "2021-07-09",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "To celebrate Co-Production Week 2021, Research and Policy Intern Hiba Adan reflects on her work with Toynbee Hall peer researchers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prior to starting my internship with Toynbee Hall, I was not familiar with the method of co-production. I remember reading the application pack and noting the introduction: “Do you think it is important that people who have experience of a problem are involved in creating the solutions to those issues?” This question resonated within me and I realised I wanted to work with an organisation that amplifies the voices of people who face inequality to decision-makers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Currently, I am working on various projects as part of my internship. However, the project I have spent the most time on is the Making Tower Hamlets Safer project. Since March 2019, Toynbee Hall’s team of peer researchers have explored residents’ concerns around community safety and connection in Tower Hamlets. This project was inspired by previous peer research with older residents, where they found that 1 out of 3 residents aged over 50 identified the need to improve community safety and connection.",
+          "links": [
+            {
+              "text": "Making Tower Hamlets Safer project",
+              "href": "/making-tower-hamlets-safer/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "During the research stage of the project, the community researchers spoke to more than 200 people aged above 18 in Tower Hamlets. They found that residents were very concerned about community safety. Drugs, knife crime and substance misuse were their biggest concerns, and many residents find it difficult to find a sense of connection to their community."
+        },
+        {
+          "type": "paragraph",
+          "text": "Earlier this year, the peer researchers moved into the social action stage of the project, piloting local solutions to make Tower Hamlets safer. So far, we have been working on one large estate in Bethnal Green where one of our peer researchers lives. As a team, we co-produced a plan to reach every resident of this estate. My colleagues and I worked closely with the peer researchers to map out the many different ways residents may prefer or need us to engage with them. Our publicity about the project was translated into community languages, with phone numbers indicating numbers to call depending on what language was needed (I was happy to be on the end of the Somali speaking telephone number!) We pro-actively asked about communication preferences and access needs. We have tried and tested a few different approaches based on what the peer researchers thought would work, drawing on our own experience of being members of the community who haven’t always found “engagement” positive. So far what we have learned is that, above all else, the most effective way of getting people to connect, invest and trust in us is a face-to-face conversation."
+        },
+        {
+          "type": "paragraph",
+          "text": "In order to understand how to improve community safety, we also invited partners to exchange ideas and learn from them. This is also a huge part of the co-production process as it involves the insights and experience from practitioners who may have worked on this issue for years! One of the partners we invited was We Are Spotlight, a creative youth service in Tower Hamlets. Because our group doesn’t have many young people co-producing, we felt it is important to deepen our understanding from young people’s perspective. Our speakers from We Are Spotlight felt our research resonated with a lot of what they saw on the ground working with young people, particularly that the root cause of drug-dealing, knife crime, and substance misuse often has poverty at its root. They also talked about how the youth felt victimised and have lost confidence in the police, to the point where, when a young person is in danger, they do not go to the police. They also said that, in their experience, young people carry a lot of hurt within them. This session helped expand the researchers’ perspectives about what is going on for young people, who are very often blamed for safety issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "In terms of next steps, we are now going into an idea-generation stage with residents, setting up stalls on the estate with fresh fruit, snacks and drinks, to have good conversations about what they would like to see happening to improve safety and support better connection. Watch this space for the next stage of co-production!"
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

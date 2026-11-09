@@ -1,0 +1,49 @@
+{
+  "slug": "audit-287-join-us-on-thursday-27th-to-saturday-29th-june-for-a-festival-of-activities",
+  "route": "/24/06/2019/join-us-on-thursday-27th-to-saturday-29th-june-for-a-festival-of-activities/",
+  "title": "Join us on Thursday 27th to Saturday 29th June for a free festival of activities",
+  "intro": "Come along to Toynbee Hall for an activity-filled three day event to test our new outdoor space. This Thursday-Saturday we will be holding an open event packed with free activities to find out what we should include in a new community garden. As part of the redevelopment of Toynbee Hall, we’re building a community garden… Read more",
+  "template": "article",
+  "publishedAt": "2019-06-24",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Come along to Toynbee Hall for an activity-filled three day event to test our new outdoor space."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Thursday-Saturday we will be holding an open event packed with free activities to find out what we should include in a new community garden."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of the redevelopment of Toynbee Hall, we’re building a community garden with in front of our newly restored historic building. We want to know how to make this a space that everyone can enjoy."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/06/Test-Fest-Flyer-PNG.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "We will have chess, table tennis, gardening, play equipment, a display of plans for the public garden and much more as we look to inform our decision on what to include in the new green space."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please pop along on your lunch break, one afternoon, Saturday morning or whenever suits to help us create a garden that is welcoming to everyone."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Come along from: 9am – 4:30pm on Thursday and Friday 10am – 4pm Saturday"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

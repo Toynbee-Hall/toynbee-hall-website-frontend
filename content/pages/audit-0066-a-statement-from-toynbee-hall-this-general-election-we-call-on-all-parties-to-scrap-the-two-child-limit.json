@@ -1,0 +1,99 @@
+{
+  "slug": "audit-66-a-statement-from-toynbee-hall-this-general-election-we-call-on-all-parties-to-scrap-the-two-child-limit",
+  "route": "/07/06/2024/a-statement-from-toynbee-hall-this-general-election-we-call-on-all-parties-to-scrap-the-two-child-limit/",
+  "title": "A statement from Toynbee Hall: This General Election, we call on all parties to scrap the Two-Child Limit",
+  "intro": "New research further links child poverty to the two-child limit. As a member of the End Child Poverty Coalition, Toynbee Hall supports the All Kids Count campaign to scrap the two-child limit .",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/06/Updated-2CL-infographic-e1717757705105.jpg",
+    "alt": "A statement from Toynbee Hall: This General Election, we call on all parties to scrap the Two-Child Limit — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2024-06-07",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "JULY 2024 UPDATE: A government data release and a new report from the Child Poverty Action Group (CPAG), ‘Things will only get worse‘, has further highlighted the link between child poverty to the two-child limit. As a member of the End Child Poverty Coalition, we once again call on the new government to scrap the two-child limit.",
+          "links": [
+            {
+              "text": "A government data release",
+              "href": "http://UPDATED 11 JULY 2024: government data and a new report from the Child Poverty Action Group further links child poverty to the two-child limit. As a member of the End Child Poverty Coalition, we once again call on the government to scrap the two-child limit."
+            },
+            {
+              "text": "Things will only get worse",
+              "href": "https://cpag.org.uk/news/things-will-only-get-worse-why-two-child-limit-must-go"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "New research further links child poverty to the two-child limit. As a member of the End Child Poverty Coalition, Toynbee Hall supports the All Kids Count campaign to scrap the two-child limit ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has worked alongside communities in East London to tackle poverty and injustice for 140 years. We believe that everyone should have an equal chance to thrive. On that basis, we condemn the two-child limit which punishes children for having siblings by arbitrarily capping benefits for families with more than two children. As a member of the End Child Poverty Coalition along with over 120 organisations, we maintain that child poverty is not inevitable and call on all political parties to set out their plans to tackle child poverty and to scrap the two-child limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "New data from End Child Poverty and The Centre for Research in Social Policy at Loughborough University reveals the strong link between the two-child limit and child poverty, and Tower Hamlets provides an alarming case in point. In addition to ranking 2nd in child poverty nationally, both of Tower Hamlet’s constituencies are in the top-10 list of the highest proportion of kids impacted by the two-child limit (18%).",
+          "links": [
+            {
+              "text": "New data",
+              "href": "https://endchildpoverty.org.uk/child-poverty-2024/"
+            },
+            {
+              "text": "top-10 list",
+              "href": "https://endchildpoverty.org.uk/two_child_limit/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We know from Toynbee Hall’s own research how poverty impacts children and their families. Our Emotional Support for Young People’s Peer Research project revealed the impact the cost-of-living crisis is having on parents and children’s mental health. Young people reported facing increased stress in family relationships and increased limitations on the time that they could spend with family and friends due to financial strains. They attributed poor mental health outcomes that they experienced to wider structural inequalities and expressed deep concerns about how poverty would limit their futures.",
+          "links": [
+            {
+              "text": "Emotional Support for Young People’s Peer Research project",
+              "href": "/13/05/2024/mental-health-awareness-week-the-cost-of-living-crisis-limits-young-peoples-access-to-emotional-support-new-research-from-tower-hamlets-youth-and-toynbee-hall-has-found/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A young person explained that his mother and sister, “…have to work more and they have to work harder just to make enough money. It also affects being comfortable to speak about emotions. Because with cost-of-living crisis it’s kind of always lingering there in the back of your mind, like ‘can I buy this or that, can I do this or that.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Child Poverty Action Group research has shown that child poverty is not inevitable: scrapping the two-child limit would lift 300,000 children out of poverty and reduce the depth of poverty for a further 800,000 children. In this upcoming General Election, we believe that child poverty must be at the top of the agenda for all parties. We call on all parties to commit to:",
+          "links": [
+            {
+              "text": "Child Poverty Action Group research",
+              "href": "https://cpag.org.uk/sites/default/files/2024-02/CPAG_pre-Budget_MP_briefing_0.pdf"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Immediately scrap the two-child limit to benefit payments",
+            "Create a comprehensive roadmap for ending child poverty by focusing on the systemic causes of child poverty, via cross-departmental action and at all levels of government. This must include the monitoring of child poverty levels and setting targets for reduction."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read End Child Poverty’s latest child poverty and two-child limit stats here.",
+          "links": [
+            {
+              "text": "here.",
+              "href": "https://endchildpoverty.org.uk/child-poverty-2024/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

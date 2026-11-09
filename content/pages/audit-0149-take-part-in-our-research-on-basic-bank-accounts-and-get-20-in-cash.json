@@ -1,0 +1,71 @@
+{
+  "slug": "audit-149-take-part-in-our-research-on-basic-bank-accounts-and-get-20-in-cash",
+  "route": "/14/11/2019/take-part-in-our-research-on-basic-bank-accounts-and-get-20-in-cash/",
+  "title": "Take part in our research on Basic Bank Accounts and get £20 in cash",
+  "intro": "If you have a Basic bank account (the bank account with a debit card but no credit card, no overdraft and no interest or charges) then we’d like to speak to you! At Toynbee Hall we’re doing some research to find out about the views of people who have a Basic bank account. We’d like… Read more",
+  "template": "article",
+  "publishedAt": "2019-11-14",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you have a Basic bank account (the bank account with a debit card but no credit card, no overdraft and no interest or charges) then we’d like to speak to you!"
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall we’re doing some research to find out about the views of people who have a Basic bank account."
+        },
+        {
+          "type": "paragraph",
+          "text": "We’d like to speak to you, either in person or over the phone, to hear your views on what’s good or not so good about Basic bank accounts and how they could be improved. There are no wrong answers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everything you say will be totally anonymous and we will never tell anyone that you took part or share your personal information."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Interviews will last one hour, and will take place at Toynbee Hall or over the phone."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you take part we will give you £20 in cash to say thank you."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "To take part, you must:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "be aged 18 or over"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "with one of Barclays, the Co-operative Bank, HSBC, Bank of Scotland, Halifax, Lloyds, Clydesdale Bank, Yorkshire Bank, Nationwide, NatWest, Royal Bank of Scotland, Ulster Bank, Santander, TSB or Virgin Money"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you’d like to take part or to find out more, please contact Jen at research@toynbeehall.org.uk or 07534 266 569."
+        },
+        {
+          "type": "paragraph",
+          "text": "We look forward to hearing from you!"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

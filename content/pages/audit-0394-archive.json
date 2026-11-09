@@ -1,0 +1,571 @@
+{
+  "template": "listing",
+  "slug": "audit-394-archive",
+  "route": "/category/blogs/",
+  "title": "Category: Blogs",
+  "intro": "Browse blogs from Toynbee Hall.",
+  "listingType": "blogs",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "Toynbee Hall’s Response to the 2025 Autumn Statement",
+      "href": "/26/11/2025/toynbee-halls-response-to-the-2025-autumn-statement/",
+      "summary": "The government’s 2025 Autumn Statement offered a recognition of the ongoing cost-of-living crisis and included some positive steps to address it. Yet these sit alongside choices that continue to erode the foundations of a robust social security system capable of responding to that crisis. One genuinely welcome step was the decision to scrap the harmful… Read more",
+      "date": "2025-11-26",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/House-of-Parliament-scaled.jpg",
+        "alt": "Toynbee Hall’s Response to the 2025 Autumn Statement — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Nothing About Us Without Us: A Call to Centre Disabled Young People in Welfare Reform",
+      "href": "/19/11/2025/nothing-about-us-without-us-a-call-to-centre-disabled-young-people-in-welfare-reform/",
+      "summary": "Last week, the government announced the launch of a new independent investigation into “…why increasing numbers of young people are falling out of work or education before their careers have begun—with a particular focus on the impact of mental health conditions and disability.” The Terms of Reference (ToR) for this Independent Report into Young People and Work,… Read more",
+      "date": "2025-11-19",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Disability-Coproduction.png",
+        "alt": "Nothing About Us Without Us: A Call to Centre Disabled Young People in Welfare Reform — Toynbee Hall"
+      }
+    },
+    {
+      "title": "The Keep Britain Working Review: Discovery",
+      "href": "/11/11/2025/the-keep-britain-working-review-discovery/",
+      "summary": "An independent review into the role of employers and government in tackling health-related economic inactivity and creating and maintaining healthy and inclusive workplaces, led by Sir Charlie Mayfield, acknowledges that ill-health and barriers to work contribute to economic inactivity. However, it engages only minimally with the social model of disability. The Review frames economic inactivity… Read more",
+      "date": "2025-11-11",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/11/Disability-Working-Review-LinkedIn.jpg",
+        "alt": "The Keep Britain Working Review: Discovery — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Standing Firm: A Brief History of Black Activism in Tower Hamlets",
+      "href": "/30/10/2025/standing-firm-a-brief-history-of-black-activism-in-tower-hamlets/",
+      "summary": "October marks Black History Month, a time to reflect, remember and act. In Tower Hamlets and East London the story of Black activism is rich, layered and rooted in communities organising for justice, dignity and a place to call home. Early Presence, Hidden Histories Long before the modern era of migration and community organising, African… Read more",
+      "date": "2025-10-30",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/Black-History-Month-Blog.png",
+        "alt": "Standing Firm: A Brief History of Black Activism in Tower Hamlets — Toynbee Hall"
+      }
+    },
+    {
+      "title": "From Research to Real Change: Co-Creating Emotional Support in Tower Hamlets",
+      "href": "/27/08/2025/from-research-to-real-change-co-creating-emotional-support-in-tower-hamlets/",
+      "summary": "In this blog, Mehjabin and Nasrat reflect on their journey through a unique pilot project in Tower Hamlets, one that began with youth-led research into the emotional impact of the cost of living crisis, and grew into a series of collaborative workshops and community-building sessions. Blending lived experience, skill-sharing, and intergenerational dialogue, the project offered… Read more",
+      "date": "2025-08-27",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/08/image-1.png",
+        "alt": "From Research to Real Change: Co-Creating Emotional Support in Tower Hamlets — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Don’t miss the launch of Toynbee Talks The Mind-Body Connection with Anisha Joshi",
+      "href": "/20/08/2025/dont-miss-the-launch-of-toynbee-talks-the-mind-body-connection-with-anisha-joshi/",
+      "summary": "Are you curious about the link between your mind and body? How emotional stress, anxiety, and mental health challenges manifest physically? If so, then you won’t want to miss this unique and insightful speaker session with renowned osteopath and expert Anisha Joshi, hosted at Toynbee Hall. As seen on ITV’s This Morning, Anisha Joshi is… Read more",
+      "date": "2025-08-20",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/08/FX_20231110_01849m-2-scaled.jpg",
+        "alt": "Don’t miss the launch of Toynbee Talks The Mind-Body Connection with Anisha Joshi — Toynbee Hall"
+      }
+    },
+    {
+      "title": "BNPL Regulation Is Welcome – But Lenders Must Do More",
+      "href": "/25/07/2025/bnpl-regulation-is-welcome-but-lenders-must-do-more/",
+      "summary": "“Buy Now, Pay Later has crept into the mainstream – and for many, it’s become a default way to shop. But while it’s pitched as flexible and interest-free, the reality for too many people is missed payments, mounting fees, and unaffordable debt.” The numbers speak for themselves: usage has tripled in just three years, with… Read more",
+      "date": "2025-07-25",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/07/LBC-BNPL.png",
+        "alt": "BNPL Regulation Is Welcome – But Lenders Must Do More — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Why Play Matters: Creating Joyful, Safe Spaces for Children in Tower Hamlets",
+      "href": "/17/07/2025/why-play-matters-creating-joyful-safe-spaces-for-children-in-tower-hamlets/",
+      "summary": "At Toynbee Hall, we believe every child deserves a chance to play, explore, and grow but in Tower Hamlets, nearly half (48%) of children are growing up in poverty. For many families, both time and money are in short supply. That means fewer opportunities for extra-curricular activities, and limited access to safe, outdoor spaces for… Read more",
+      "date": "2025-07-17"
+    },
+    {
+      "title": "A Visit Rooted in Justice: Minister Sarah Sackman KC MP Returns to Toynbee Hall",
+      "href": "/09/07/2025/a-visit-rooted-in-justice-minister-sarah-sackman-kc-mp-returns-to-toynbee-hall/",
+      "summary": "A proud moment for Toynbee Hall as we welcomed Sarah Sackman KC MP, Minister of State for Courts and Legal Services, back to where her legal journey began, our Free Legal Advice Centre. This wasn’t a formal visit with handshakes and speeches. Sarah spent time with the people who make Toynbee Hall what it is:… Read more",
+      "date": "2025-07-09",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/07/Sarah-Sackman.png",
+        "alt": "A Visit Rooted in Justice: Minister Sarah Sackman KC MP Returns to Toynbee Hall — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Celebrating National Recognition at the Credit Strategy Credit Awards 2025",
+      "href": "/03/07/2025/celebrating-national-recognition-at-the-credit-strategy-credit-awards-2025/",
+      "summary": "Last night was a truly special moment for Toynbee Hall’s Debt Free Advice team. We were proud to be shortlisted for not one, but two prestigious national awards at the Credit Strategy Credit Awards 2025: Although we didn’t bring home a trophy this time, being recognised alongside leading organisations such as StepChange Debt Charity, IE… Read more",
+      "date": "2025-07-03",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/07/Image-scaled.jpg",
+        "alt": "Celebrating National Recognition at the Credit Strategy Credit Awards 2025 — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Insights From Financial Support Relationships Workshop at Aston University",
+      "href": "/16/06/2025/insights-from-financial-support-relationships-workshop-at-aston-university/",
+      "summary": "By Kwang Lin Wong On June 2nd, I had the privilege of attending the Workshop on Financial Support Relationships hosted by the Centre for Personal Financial Wellbeing (CPFW) at Aston University. The event brought together academics, advice and financial organisations to explore the dynamics of informal financial support relationships, with a focus on low- and… Read more",
+      "date": "2025-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/finance-7-scaled.jpg",
+        "alt": "Insights From Financial Support Relationships Workshop at Aston University — Toynbee Hall"
+      }
+    },
+    {
+      "title": "UK Spending Review 2025: A Step Forward, but Gaps Remain for Low-Income Communities",
+      "href": "/12/06/2025/uk-spending-review-2025-a-step-forward-but-gaps-remain-for-low-income-communities/",
+      "summary": "Photo by Norbert Levajsics on Unsplash The UK government’s 2025 Spending Review outlines significant investments aimed at addressing pressing societal issues. There are many welcomed steps being put forward in this review but while initiatives like expanding free school meals, increasing social housing, and enhancing winter fuel payments are commendable, critical gaps persist, particularly in support for low-income… Read more",
+      "date": "2025-06-12",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/Housing-1-scaled.jpg",
+        "alt": "UK Spending Review 2025: A Step Forward, but Gaps Remain for Low-Income Communities — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Debt Free Advice Welcomes FCA Executive to Toynbee Hall as Survey Reveals 13 Million Facing Financial Strain",
+      "href": "/16/05/2025/debt-free-advice-welcomes-fca-executive-to-toynbee-hall-as-survey-reveals-13-million-facing-financial-strain/",
+      "summary": "Debt Free Advice welcomed a senior official from the Financial Conduct Authority (FCA) to its flagship advice centre at Toynbee Hall this week, as new national data confirmed the growing scale of financial vulnerability across the UK. Sarah Pritchard, Executive Director for Supervision, Policy and Competition at the FCA, joined Debt Free Advice Managing Director… Read more",
+      "date": "2025-05-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/05/BBC-FCA-1.png",
+        "alt": "Debt Free Advice Welcomes FCA Executive to Toynbee Hall as Survey Reveals 13 Million Facing Financial Strain — Toynbee Hall"
+      }
+    },
+    {
+      "title": "More Brits Are Saving, But Millions Still Live One Crisis Away from Debt",
+      "href": "/30/04/2025/more-brits-are-saving-but-millions-still-live-one-crisis-away-from-debt/",
+      "summary": "New figures from Chase, the consumer banking arm of JPMorgan Chase, show that 69% of adults in the UK have changed their spending habits to try and save more money. Almost half of those surveyed said they’re doing so to build an emergency fund, with others saving for holidays, retirement, or simply to prepare for… Read more",
+      "date": "2025-04-30",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/LBCWebsiteTile.png",
+        "alt": "More Brits Are Saving, But Millions Still Live One Crisis Away from Debt — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Debt Advice Without Borders: A global week in London",
+      "href": "/29/04/2025/debt-advice-without-borders-a-global-week-in-london/",
+      "summary": "Earlier this month, Toynbee Hall was proud to host members of the Global Credit Counselling Alliance (GCCA) for a three-day study visit in London. The event led by our director of advice services Matt Dronfield brought together representatives from credit counselling organisations in South Korea and the United States to exchange ideas, explore innovative practices,… Read more",
+      "date": "2025-04-29",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/Delegates-4-scaled.jpg",
+        "alt": "Debt Advice Without Borders: A global week in London — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Improving wellbeing for people over 50 years old through LinkAge Plus",
+      "href": "/07/04/2025/improving-wellbeing-for-people-over-50-years-old-through-linkage-plus/",
+      "summary": "What is LinkAge Plus? Emily, our Community Partnerships Manager, explains more.",
+      "date": "2025-04-07",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/LinkAge-Plus-actitivity-session-at-Toynbee-Hall-Community-Centre-scaled-e1744019097251.jpg",
+        "alt": "Two older women stretching and dancing in a hall with one man playing the drums."
+      }
+    },
+    {
+      "title": "“An opportunity to learn grow and contribute to meaningful change”",
+      "href": "/07/03/2025/mehjabin-from-tower-hamlets-tells-us-about-her-experience-of-being-a-peer-researcher/",
+      "summary": "Mehjabin from Tower Hamlets writes about her experience as a peer researcher for a Toynbee Hall project about emotional support for young people.",
+      "date": "2025-03-07",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/03/Parents-emotional-support-wall-post-its-2-1-scaled.jpg",
+        "alt": "Young woman putting post its on flip chart paper"
+      }
+    },
+    {
+      "title": "“You do fun stuff and it makes me really happy”",
+      "href": "/03/03/2025/you-do-fun-stuff-and-it-makes-me-really-happy/",
+      "summary": "Rachel Davies is Toynbee Hall’s Play Lead. She tells us what her role involves and the importance of play.",
+      "date": "2025-03-03"
+    },
+    {
+      "title": "Debt collection: the case against Warrants of Control",
+      "href": "/11/02/2025/debt-collection-the-case-against-warrants-of-control/",
+      "summary": "Debt collection should not come at the expense of human dignity.",
+      "date": "2025-02-11",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/Jan-Week-4-pic-2-scaled-e1739266741651.jpg",
+        "alt": "Two women sitting at a desk, one with a laptop talking to the other"
+      }
+    },
+    {
+      "title": "Celebrating 140 Years of Toynbee Hall: a legacy of Empowerment and Community",
+      "href": "/23/12/2024/celebrating-140-years-of-toynbee-hall-a-legacy-of-empowerment-and-community/",
+      "summary": "Toynbee Hall recently marked a momentous milestone, its 140th anniversary. Supporters, beneficiaries and local friends gathered to celebrate and reflect on our enduring mission to break down barriers and empower communities.",
+      "date": "2024-12-23",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/12/63-1Y7A9165-2.jpg",
+        "alt": "Celebrating 140 Years of Toynbee Hall: a legacy of Empowerment and Community — Toynbee Hall"
+      }
+    },
+    {
+      "title": "For London Challenge Poverty Week, we spoke with Hazira, one of Toynbee Hall’s debt advisors about her work and the changing nature of debt",
+      "href": "/17/10/2024/for-london-challenge-poverty-week-we-spoke-with-hazira-one-of-toynbee-halls-debt-advisors-about-her-work-and-the-changing-nature-of-debt/",
+      "summary": "What it’s like to be a debt advisor? When clients come to me for an appointment, they’re very stressed. And within that hour, they’ve come to a stage where they have a bit more control over their finances, and that makes them feel a lot better. And seeing that mental health journey within just one… Read more",
+      "date": "2024-10-17"
+    },
+    {
+      "title": "What we learned on our work experience at Toynbee Hall",
+      "href": "/25/04/2024/what-we-learned-on-our-work-experience-at-toynbee-hall/",
+      "summary": "We had the pleasure of hosting four young adults from Hall Mead School, who spent their work experience with us. Here are some of their reflections.",
+      "date": "2024-04-25",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/Halls-Mead-work-experience-scaled.jpg",
+        "alt": "Students from Hall Mead School after completing their work experience at Toynbee Hall."
+      }
+    },
+    {
+      "title": "Black History Month at Toynbee Hall: Saluting our sisters",
+      "href": "/21/09/2023/black-history-month-at-toynbee-hall-saluting-our-sisters/",
+      "summary": "This Black History Month, we celebrate black women icons who fought against injustice",
+      "date": "2023-09-21",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/09/BHM-Saluting-our-sisters-blog-cover-image.jpg",
+        "alt": "Saluting our sisters: a collage of black women icons."
+      }
+    },
+    {
+      "title": "Deliverance: The story of the 2018 Uber strike and its impact",
+      "href": "/08/08/2023/deliverance-the-story-of-the-2018-uber-strike-and-its-impact/",
+      "summary": "This blog reflects on a recent screening of Maria Andrews’ community-commissioned film ‘Deliverance’ and the subsequent panel discussion on the challenges facing uber drivers. By Daria Koukoleva, Research Intern at Toynbee Hall. Photos from the Deliverance film, courtesy of Maria Andrews. In 2018, Uber riders went on strike. Maria Andrews’ community-commissioned film ‘Deliverance’ covers that… Read more",
+      "date": "2023-08-08",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/08/Screenshot-2023-08-08-at-17.50.43.png",
+        "alt": "Uber drivers holding a banner while on strike"
+      }
+    },
+    {
+      "title": "Nasrat’s reflections on Participatory Action Research into the transition to net zero for low-income consumers",
+      "href": "/16/06/2023/nasrats-reflections-on-participatory-action-research-into-the-transition-to-net-zero-for-low-income-consumers/",
+      "summary": "This speech was delivered as part of Ofgem’s presentation to the Social Research Association annual conference on 15.06.23.",
+      "date": "2023-06-16",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/MicrosoftTeams-image-17-scaled.jpg",
+        "alt": "Nasrat delivers speech at Ofgem’s presentation to the Social Research Association annual conference"
+      }
+    },
+    {
+      "title": "Guest Blog: The role of participation in the production of knowledge",
+      "href": "/17/04/2023/guest-blog-the-role-of-participation-in-the-production-of-knowledge/",
+      "summary": "By Priscila Hernandez, Project Officer on Thrive LDN’s research & evaluation team.",
+      "date": "2023-04-17",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/04/Copy-of-RS-Announcment-Wordpress-feature-image-size-1200-x-628-1.png",
+        "alt": "head shot of author Priscila Hernandez, Project officer on Thrive LDN’s research & evaluation team. Photographed wearing a Venezuelan flag inspired jacket."
+      }
+    },
+    {
+      "title": "The Parent Trap: How childcare costs are just one piece of the puzzle for low-income households",
+      "href": "/15/03/2023/the-parent-trap-how-childcare-costs-are-just-one-piece-of-the-puzzle-for-low-income-households/",
+      "summary": "Following today’s Budget, our Research and Policy team reflect on what else needs to change to support parents into decent work.",
+      "date": "2023-03-15",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/03/Copy-of-RS-Announcment-Wordpress-feature-image-size-1200-x-628.png",
+        "alt": "coloured childrens blocks spelling childcare"
+      }
+    },
+    {
+      "title": "The Big Give Christmas Challenge is live! Double your donation at no extra cost",
+      "href": "/29/11/2022/the-big-give-christmas-challenge-is-live-double-your-donation-at-no-extra-cost/",
+      "summary": "Today we launch our Big Give Christmas Challenge. Donations received between 29 Nov – 6 Dec will automatically be doubled.",
+      "date": "2022-11-29",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/BG-Blog-featured-image.jpg",
+        "alt": "Blue bubble on a yellow background which reads Double Your donation"
+      }
+    },
+    {
+      "title": "Black History Month 2022: Celebrating the change makers of today",
+      "href": "/27/10/2022/black-history-month-2022-celebrating-the-change-makers-of-today/",
+      "summary": "Reflecting on both our organisation’s history as it’s currently recorded, and how we can preserve and honour contributors today.",
+      "date": "2022-10-27"
+    },
+    {
+      "title": "Will it be fair and protect the most vulnerable? Why we’re concerned that September’s mini-budget won’t help those most in need",
+      "href": "/22/09/2022/will-it-be-fair-and-protect-the-most-vulnerable-why-were-concerned-that-septembers-mini-budget-wont-help-those-most-in-need/",
+      "summary": "“This government isn’t for us. Why they want to help people who are comfortable already, I don’t know. It’s always about saving them.” Nasrat, Toynbee Hall Peer Researcher Toynbee Hall’s Research and Policy Peer Research Team reflect on the worsening cost of living crisis and call for fair and targeted policy measures in tomorrow’s mini-budget… Read more",
+      "date": "2022-09-22",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/09/IMG_3232.jpg",
+        "alt": "Peer researchers co-desining more effective policies"
+      }
+    },
+    {
+      "title": "A message from departing Chief Executive Jim Minton",
+      "href": "/26/07/2022/a-message-from-departing-chief-executive-jim-minton/",
+      "summary": "After 5 years Jim is leaving Toynbee Hall to become Chief Executive of the Mayor’s Fund for London and shares some final reflections on his time here.",
+      "date": "2022-07-26",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/07/DSC08041-1-82-compressed.jpg",
+        "alt": "Jim is handed a leaving gift, a painting of Toynbee Hall, by two of our Community Centre members"
+      }
+    },
+    {
+      "title": "3 Things I’ve learned about peer research",
+      "href": "/07/07/2022/3-things-ive-learned-about-peer-research/",
+      "summary": "Dr Xia Lin shares what she has learned about peer research as part of Co-Production Week.",
+      "date": "2022-07-07",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/IMG_0850.jpg",
+        "alt": "Peer Research project"
+      }
+    },
+    {
+      "title": "Toynbee Hall’s response to today’s announcement on the additional Cost of Living support measures",
+      "href": "/26/05/2022/toynbee-halls-response-to-todays-announcement-on-the-additional-cost-of-living-support-measures/",
+      "summary": "Toynbee Hall response to today’s announcement on the additional Cost of Living support measures announced by the Chancellor.",
+      "date": "2022-05-26",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/05/Copy-of-CLPW-Day-4-infograpghic.png",
+        "alt": "Toynbee Hall response to additional cost of living support measures"
+      }
+    },
+    {
+      "title": "Mental Health Awareness Week, 9-15 May 2022: Tackling loneliness",
+      "href": "/12/05/2022/mental-health-awareness-week-9-15-may-2022-tackling-loneliness/",
+      "summary": "Mental Health Awareness Week, hosted by the Mental Health Foundation. Together we can tackle loneliness.",
+      "date": "2022-05-12",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/05/MHAW22-UK-Twitter.jpg",
+        "alt": "Mental Health Awareness Week 2022"
+      }
+    },
+    {
+      "title": "4 Women Who Have Shaped Social Change at Toynbee Hall: Carrie Morrison, Sabera Majid, Edith Ramsey, and Rosetta Reardon",
+      "href": "/28/03/2022/4-women-who-have-shaped-social-change-at-toynbee-hall-carrie-morrison-sabera-majid-edith-ramsey-and-rosetta-reardon/",
+      "summary": "The crucial and pathbreaking work of Toynbee Hall’s founder, Henrietta Barnett is well known. However, some of the stories of other women in Toynbee Hall’s history who have been fundamental in driving positive social change while they worked or volunteered in the East End have not had the same attention. As part of Women’s History… Read more",
+      "date": "2022-03-28",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/03/Playgroup-Toynbee-1994.jpg",
+        "alt": "4 Women Who Have Shaped Social Change at Toynbee Hall: Carrie Morrison, Sabera Majid, Edith Ramsey, and Rosetta Reardon — Toynbee Hall"
+      }
+    },
+    {
+      "title": "VODCAST: Interview with local author and historian John Walker",
+      "href": "/14/03/2022/vodcast-out-of-sight-out-of-mind-the-story-of-one-of-englands-most-notorious-childrens-workhouses/",
+      "summary": "In this Vodcast local historian John Walker speaks to to us about his recently released book Out of Sight, Out of Mind: Abuse, Neglect and Fire in a London Children’s Workhouse, 1854-1907.",
+      "date": "2022-03-14",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/03/Whitechapel-Children-Henrietta-Barnet.jpg",
+        "alt": "A court in Whitechapel and some of its children inhabitants"
+      }
+    },
+    {
+      "title": "Who are the women leading change in our community?",
+      "href": "/08/03/2022/who-are-the-women-leading-change-in-our-community/",
+      "summary": "by Hazira Begum My name is Hazira, and I am a Project Support Worker on Toynbee Hall’s research and policy team. I have got to know Aneita, Paulette and Nasrat over the past year, working together to research and tackle issues like debt, the poverty premium, and community safety. How have women led change in… Read more",
+      "date": "2022-03-08"
+    },
+    {
+      "title": "Connecting with communities and shaping change – sharing learning from New York’s experience",
+      "href": "/07/03/2022/connecting-with-communities-and-shaping-change-sharing-learning-from-new-yorks-experience/",
+      "summary": "By Jim Minton, Chief Executive of Toynbee Hall At the end of February I was lucky enough to be in New York City. To be travelling again felt a real privilege given the times we have been through; and I felt very fortunate indeed to have the luxury of being able to take some time… Read more",
+      "date": "2022-03-07",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/03/NY-University-Settlement-1-1200-x-628.jpg",
+        "alt": "University Settlement in New York"
+      }
+    },
+    {
+      "title": "New blog: More than just education",
+      "href": "/28/02/2022/more-than-just-education/",
+      "summary": "In this blog, peer researchers reflect on on their participatory action research project on adult education in London.",
+      "date": "2022-02-28",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/02/More-than-just-education-feature-image.png",
+        "alt": "More than just education"
+      }
+    },
+    {
+      "title": "Why the Nationality and Borders Bill needs to be challenged",
+      "href": "/01/02/2022/why-the-nationality-and-borders-bill-needs-to-be-challenged/",
+      "summary": "On Saturday 5 February 2022 Toynbee Hall will host a free event for campaigners and others concerned about the Nationality and Borders Bill. Our Chief Executive Jim Minton explains why this is important",
+      "date": "2022-02-01"
+    },
+    {
+      "title": "Bangladesh 50 Essay: How did the independence war of 1971 affect the identity of those in Bangladesh by Niha Miah",
+      "href": "/03/09/2021/bangladesh-50-essay-how-did-the-independence-war-of-1971-affect-the-identity-of-those-in-bangladesh-by-niha-miah/",
+      "summary": "Celebrating Bangladeshi heritage on the 50th anniversary of the Bangladesh war, struggle and subsequent Independence",
+      "date": "2021-09-03",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/08/Niha-Design-005-scaled.jpg",
+        "alt": "Bangladesh 50 Essay"
+      }
+    },
+    {
+      "title": "The Legacy of 1971: how the Bangladesh independence war influenced the anti-racist movement in East London by Ansar Ahmed Ullah",
+      "href": "/02/09/2021/the-legacy-of-1971-how-the-bangladesh-independence-war-influenced-the-anti-racist-movement-in-east-london-by-ansar-ahmed-ullah/",
+      "summary": "Ansar recently collaborated with Toynbee Hall in celebrating Bangladesh’s’ 50 anniversary",
+      "date": "2021-09-02",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/09/Rafique-Ullah-brick-lane-1978.jpg",
+        "alt": "Rafique-Ullah-brick-lane-1978"
+      }
+    },
+    {
+      "title": "Journey of a co-production facilitator: Collaborating with residents to make a safer and more connected borough",
+      "href": "/09/07/2021/journey-of-a-co-production-facilitator-collaborating-with-residents-to-make-a-safer-and-more-connected-borough/",
+      "summary": "To celebrate Co-Production Week 2021, Research and Policy Intern Hiba Adan reflects on her work with Toynbee Hall peer researchers",
+      "date": "2021-07-09",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/05/Community-safety-group-e1661941990599.jpg",
+        "alt": "Community Safety Research Group workshop"
+      }
+    },
+    {
+      "title": "Reflections on When We Speak Half-Term Activism Workshops",
+      "href": "/14/04/2021/reflections-on-when-we-speak-half-term-activism-workshops/",
+      "summary": "A reflective blog on our Activism sessions for young Londoners by Emma Weaver, When We Speak Coach",
+      "date": "2021-04-14",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/04/When-We-Speak-41.png",
+        "alt": "When We Speak Activism Sessions Reflections by Emma Weaver"
+      }
+    },
+    {
+      "title": "Our people – A report on where we are as an organisation",
+      "href": "/05/02/2021/our-people-a-diversity-report-on-where-we-are-as-an-organisation/",
+      "summary": "We have published our first diversity report to highlight where we are and what more needs to be done to offer fairer and more inclusive opportunities",
+      "date": "2021-02-05"
+    },
+    {
+      "title": "“We have a justice gap that excludes many individuals from accessing the legal support they require” Pro Bono Week Volunteer Profile",
+      "href": "/05/11/2020/we-have-a-justice-gap-that-excludes-many-individuals-from-accessing-the-legal-support-they-require-pro-bono-week-volunteer-profile/",
+      "summary": "Aoife O’Reilly provides Pro Bono advice at the Free Legal Advice Center as a Toynbee Hall volunteer. She’s part of the Allen and Overy LLP team who have supported access to justice in East London with FLAC for over a decade. As part of Pro Bono Week she speaks to us about her experiences at… Read more",
+      "date": "2020-11-05",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/AO-PBW.jpg",
+        "alt": "“We have a justice gap that excludes many individuals from accessing the legal support they require” Pro Bono Week Volunteer Profile — Toynbee Hall"
+      }
+    },
+    {
+      "title": "“I believe that support can bring changes to a person’s life” Pro Bono Week Volunteer Profile",
+      "href": "/04/11/2020/i-believe-that-support-can-bring-changes-to-a-persons-life-pro-bono-week-volunteer-profiles/",
+      "summary": "Farhana Chowdhury has been volunteering at several FLAC clinics for over 3 years. She’s been an incredibly valuable and hardworking volunteer over that time, assisting with great sensitivity and expertise on countless cases. Since 1898, Toynbee Hall’s Free Legal Advice Centre has been powered by pro bono volunteers giving up their time to provide free,… Read more",
+      "date": "2020-11-04",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/FC-PBW-d.jpg",
+        "alt": "“I believe that support can bring changes to a person’s life” Pro Bono Week Volunteer Profile — Toynbee Hall"
+      }
+    },
+    {
+      "title": "“We really do make a difference to people’s lives.” Julia Wookey and Adam Fellows, Pro Bono Week Volunteer Profile",
+      "href": "/04/11/2020/we-really-do-make-a-difference-to-peoples-lives-julia-wookey-and-adam-fellows-pro-bono-week-volunteer-profile/",
+      "summary": "Julia Wookey and Adam Fellows from Howard Kennedy share their experience as a Pro Bono volunteers at the Free Legal Advice Centre at Toynbee Hall. They provide advice at FLAC as Toynbee Hall volunteers. Since 1898, Toynbee Hall’s Free Legal Advice Centre has been powered by pro bono volunteers giving up their time to provide… Read more",
+      "date": "2020-11-04",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/11/HK-PBW-III.jpg",
+        "alt": "“We really do make a difference to people’s lives.” Julia Wookey and Adam Fellows, Pro Bono Week Volunteer Profile — Toynbee Hall"
+      }
+    },
+    {
+      "title": "Amplifying Black voices in the legal profession: Jade Bernard",
+      "href": "/30/10/2020/amplifying-black-voices-in-the-legal-profession-jade-bernard/",
+      "summary": "Jade Bernard shares her experiences as a Pro Bono Adviser at our Free Legal Advice Centre and as a Black legal professional A crucial part of our work at Toynbee Hall is providing wider access to justice to the communities we serve to create a fairer and happier society. Our Free Legal Advice Centre (FLAC)… Read more",
+      "date": "2020-10-30",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Jade-Bernard-1.png",
+        "alt": "Jade Bernard - FLAC Pro Bono Adviser"
+      }
+    },
+    {
+      "title": "Amplifying Black voices in the legal profession: Dawn McNish",
+      "href": "/29/10/2020/amplifying-black-voices-in-the-legal-profession-dawn-mcnish/",
+      "summary": "Dawn McNish shares her experiences as a Volunteer Administrator at our Free Legal Advice Centre and as a Black legal professional A crucial part of our work at Toynbee Hall is providing wider access to justice to the communities we serve to create a fairer and happier society. Our Free Legal Advice Centre (FLAC) has… Read more",
+      "date": "2020-10-29",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Dawn-McNish.png",
+        "alt": "Dawn McNish - FLAC Administrator"
+      }
+    },
+    {
+      "title": "Brookemorgan’s Black History Month Tribute",
+      "href": "/29/10/2020/brookemorgans-black-history-month-tribute/",
+      "summary": "When We Speak participant Brookemorgan has created a tribute to celebrate her fantastic mother during Black History Month. Find the incredibly moving poetry/visual piece below.",
+      "date": "2020-10-29"
+    },
+    {
+      "title": "Amplifying Black voices in the legal profession: Winifred Mbieli",
+      "href": "/28/10/2020/amplifying-black-voices-in-the-legal-profession-winifred-mbieli/",
+      "summary": "Winifred Mbieli shares her experiences as a Pro Bono Adviser at our Free Legal Advice Centre and as a Black legal professional A crucial part of our work at Toynbee Hall is providing wider access to justice to the communities we serve to create a fairer and happier society. Our Free Legal Advice Centre (FLAC)… Read more",
+      "date": "2020-10-28",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Winifred-Mbieli.png",
+        "alt": "Winifred Mbiele"
+      }
+    },
+    {
+      "title": "Amplifying Black voices in the legal profession: Janette Plummer",
+      "href": "/26/10/2020/amplifying-black-voices-in-the-legal-profession-janette-plummer/",
+      "summary": "Janette Plummer shares her experiences as a Pro Bono Adviser at our Free Legal Advice Centre and as a Black legal professional A crucial part of our work at Toynbee Hall is providing wider access to justice to the communities we serve to create a fairer and happier society. Our Free Legal Advice Centre (FLAC)… Read more",
+      "date": "2020-10-26",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Janette-Plummer.png",
+        "alt": "Janette Plummer - FLAC Pro Bono Adviser"
+      }
+    },
+    {
+      "title": "Unsung Black Achievers from the 20th and 21st Century",
+      "href": "/23/10/2020/unsung-black-achievers-from-the-20th-and-21st-century/",
+      "summary": "By Adeola Gbakinro, Participant of Toynbee Hall’s youth project, When We Speak and Founder of Uplifting the Next Generation In honour of Black History Month, we remember the forgotten Black activists from our history whose achievements have sadly been undocumented in our own and in so many historical records. We’re working to record and celebrate… Read more",
+      "date": "2020-10-23",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Unsung-Black-achievers-blog-photo-Adeola-Gbakinro.png",
+        "alt": "Photo of Black woman protesting - Usung Black Achievers"
+      }
+    },
+    {
+      "title": "Amplifying Black voices in the legal profession: Eric Moffat",
+      "href": "/21/10/2020/amplifying-black-voices-in-the-legal-profession-eric-moffat/",
+      "summary": "Eric Moffat shares his experiences as a Pro Bono Adviser at our Free Legal Advice Centre and as a Black legal professional A crucial part of our work at Toynbee Hall is providing wider access to justice to the communities we serve to create a fairer and happier society. Our Free Legal Advice Centre (FLAC)… Read more",
+      "date": "2020-10-21",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Eric-Moffat.png",
+        "alt": "Eric Moffat - FLAC Pro Bono Adviser"
+      }
+    },
+    {
+      "title": "Amplifying Black voices in the legal profession: Adaora Echedolu",
+      "href": "/19/10/2020/black-history-month-amplifying-black-voices-in-the-legal-profession-adaora-echedolu/",
+      "summary": "Adaora Echedolu shares her experiences as a Pro Bono Adviser at our Free Legal Advice Centre and as a Black legal professional A crucial part of our work at Toynbee Hall is providing wider access to justice to the communities we serve to create a fairer and happier society. Our Free Legal Advice Centre (FLAC)… Read more",
+      "date": "2020-10-19",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Adaora.png",
+        "alt": "Adaora Echedolu"
+      }
+    },
+    {
+      "title": "Amplifying Black voices in the legal profession: Afia Nicholas",
+      "href": "/15/10/2020/black-history-month-amplifying-black-voices-in-the-legal-profession-afia-nicholas/",
+      "summary": "Afia Nicholas shares her experiences as a Pro Bono Adviser at our Free Legal Advice Centre and as a Black legal professional A crucial part of our work at Toynbee Hall is providing wider access to justice to the communities we serve to create a fairer and happier society. Our Free Legal Advice Centre (FLAC)… Read more",
+      "date": "2020-10-15",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/MicrosoftTeams-image-4-e1603106132112.png",
+        "alt": "Afia Nicholas, Pro Bono Adviser"
+      }
+    },
+    {
+      "title": "London Challenge Poverty Week: Covid 19 and Financial Health",
+      "href": "/13/10/2020/london-challenge-poverty-week-covid-19-and-financial-health/",
+      "summary": "By Jen Durrant, Financial Health Research Manager At Toynbee Hall we believe that it is only by listening to the people affected by a problem that we can truly tackle it, and Covid-19 is no exception. So our excellent team of peer researchers – people from the local community surrounding and served by Toynbee Hall… Read more",
+      "date": "2020-10-13",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/stencil.default2.jpg",
+        "alt": "ATM out of service due to social distancing"
+      }
+    },
+    {
+      "title": "Challenge London Poverty Week: Responding and recovering",
+      "href": "/12/10/2020/challenge-london-poverty-week-responding-and-recovering/",
+      "summary": "By Jim Minton, Chief Executive of Toynbee Hall Each day for the past few months, small groups of local residents have been coming to the gardens at Toynbee Hall to tend and water the small patch of vegetables growing in the flower beds. The arrival of tomatoes, courgettes and figs has felt like something of… Read more",
+      "date": "2020-10-12"
+    },
+    {
+      "title": "Toynbee Hall launches new community-led research: Pandemic Stories",
+      "href": "/26/08/2020/toynbee-hall-launches-new-community-led-research-pandemic-stories/",
+      "summary": "This Participatory Action Research project will aim to understand how the COVID-19 crisis is affecting low income and other disproportionately affected households Toynbee Hall are launching a new action research project today to understand how the COVID-19 crisis is affecting low income and other disproportionately affected households in London, including renters, disabled people and people… Read more",
+      "date": "2020-08-26"
+    }
+  ]
+}

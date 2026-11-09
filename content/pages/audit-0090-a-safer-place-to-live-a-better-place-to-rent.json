@@ -1,0 +1,100 @@
+{
+  "slug": "audit-90-a-safer-place-to-live-a-better-place-to-rent",
+  "route": "/09/03/2020/a-safer-place-to-live-a-better-place-to-rent/",
+  "title": "A Safer Place to Live, A Better Place to Rent",
+  "intro": "Community Researchers share the findings from research projects exploring how Tower Hamlets can be made safer and how renting can be made fairer and outline their strategy for action On Friday 6th March, Community Researchers from two Participatory Action Research (PAR) projects shared their findings on how Tower Hamlets can become a safer and more… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/03/IMG_4988.jpg",
+    "alt": "Young renters group present their research findings at launch event"
+  },
+  "template": "article",
+  "publishedAt": "2020-03-09",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Community Researchers share the findings from research projects exploring how Tower Hamlets can be made safer and how renting can be made fairer and outline their strategy for action"
+        },
+        {
+          "type": "paragraph",
+          "text": "On Friday 6th March, Community Researchers from two Participatory Action Research (PAR) projects shared their findings on how Tower Hamlets can become a safer and more connected place, and how renting can be made better for young people in East London. This was followed by an open discussion into what the strategy for action and next steps should be for the forthcoming year."
+        },
+        {
+          "type": "paragraph",
+          "text": "These subjects were chosen as areas to research as they were what many people told us they were concerned with. Community safety first came up as an issue in Toynbee Hall’s first PAR project which looked into the needs of older people in Tower Hamlets. Young renters emerged as an area of concern when we began to notice the numbers of people under 30 accessing our debt advice service began to increase.",
+          "links": [
+            {
+              "text": "the needs of older people in Tower Hamlets",
+              "href": "/06/09/2018/new-peer-led-research-reveals-the-needs-of-older-people-in-tower-hamlets/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Since March 2019, we have worked with 50 community researchers, 80 organisations and 300 community members to understand the issues and to explore possible solutions. To explore the risks young private renters face in East London, peer researchers worked together with the research and policy team to design the research, conduct and analyse data from surveys and interviews, and host co-design workshops with landlords to develop recommendations to improve the private renting experience for young renters. The peer researchers co-developed this project mainly through 25 group workshops. They completed 80 surveys, 14 interviews and held 5 co-design workshops with 14 East London landlords."
+        },
+        {
+          "type": "paragraph",
+          "text": "At the event in our Lecture Hall, the researchers shared their personal experiences and motivation for taking part in the project before revealing what their research had uncovered. We were also joined by Rachel Blake, Mayor for Planning, Tackling Poverty and Air Quality at Tower Hamlets Council. She emphasised the importance on this method of research and how the council are looking at how they offer more spaces in town centres where they can provide information and advice."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can see the findings from both research projects in these slides:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The challenges of renting in London as a young person"
+        },
+        {
+          "type": "paragraph",
+          "text": "What can be done to help avoid financial hardship, sofa surfing, exploitative informal living arrangements, to ultimately prevent rough sleeping?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Premliminary findings: The research found that young private renters face challenges across the entire renting experience, from finding a home, to making a home, to moving out. The research shows that a number of challenges contribute to a riskier experience of renting faced by young private renters:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The percentage of income they spend on rent makes it difficult to cope with rent increases or slow deposit return.",
+            "Lack of options for affordable housing can force acceptance of inadequate living situations such as overcrowded or poorly maintained properties, or illegal sublets.",
+            "Regular house moves can create extra risk through repeated exposure to periods of financial precarity, and increased chance of encountering poor landlords and letting agents.",
+            "Young private renters often do not know their legal rights, including whether their landlord/agent has met their obligations.",
+            "They lack time and confidence to communicate with landlords and letting agents and to exercise their rights, especially when relationships can be difficult."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Preliminary recommendations: What do young people want to see happening at a local level?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Investment in a co-designed website and app to help renters to get information and support at the right time, and to successfully manage their tenancy.",
+            "Scoping the feasibility and piloting an ethical property management agency model in London to help landlords provide good quality homes for renters who are informed of and supported to exercise their rights as tenants."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "What do young people want to see happening at a national level?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Make it standard practice that renters have a voice in decisions made about the private rented sector: By involving them in the design or adaptation of policy and regulations, they can flag immediate risk and contribute to better solutions based on their experiences of the sector. It is crucial for example, that renters are involved in the co-production of the Renters Reform Bill proposals in order for tenancy reform to genuinely improve the lives of renters.",
+            "Local and national government and independent advice services need to co-design content and communication strategies with young private renters: Creating communication strategies that reach channels trusted by young people would help raise awareness of existing resources. Equally, involving young renters in making sure information is in an accessible wording and format would help them better navigate sources of information.",
+            "The basic principles of how to rent should be part of the national curriculum: Both renters and landlords felt that renters having a basic understanding of how to protect and advocate for themselves before they embark on their first tenancy would help. Students should be educated on the basics of how to rent and informed that free advice is available."
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

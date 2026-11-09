@@ -1,0 +1,38 @@
+{
+  "slug": "audit-308-short-changed-new-report-calls-for-a-bank-account-for-every-young-londoner-2",
+  "route": "/26/01/2018/short-changed-new-report-calls-for-a-bank-account-for-every-young-londoner-2/",
+  "title": "The Treasury Committee publish Toynbee Hall evidence to their inquiry into household finances",
+  "intro": "The Treasury Committee have launched an inquiry into state of UK household balance sheets, including whether households are saving adequately in the current economic environment. It will scrutinise problematic indebtedness, inter-generational issues, lifetime financial planning, and the effectiveness of the market in financing solutions and products to low income households. As a leader in the… Read more",
+  "template": "article",
+  "publishedAt": "2018-01-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "It will scrutinise problematic indebtedness, inter-generational issues, lifetime financial planning, and the effectiveness of the market in financing solutions and products to low income households."
+        },
+        {
+          "type": "paragraph",
+          "text": "As a leader in the UK’s financial inclusion, capability and debt advice sectors, we submitted evidence to the Committee which has been published on their website. We put forward evidence gathered in our own research based on an in depth study of 24 individuals including interviews, focus groups and diarised spending activity, drawn from Toynbee Hall’s Community Money Mentors programme and debt advice client group."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our evidence shows that low income families there appears to be high levels of savings activity, but with less accumulation because the intention is to use the money in the short/medium term."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read our submission to the Treasury Committee’s inquiry into household finances here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/treasury-committee/household-finances-income-saving-and-debt/written/76752.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

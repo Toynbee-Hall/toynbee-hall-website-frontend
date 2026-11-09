@@ -1,0 +1,74 @@
+{
+  "slug": "audit-179-toynbee-hall-joins-the-new-renters-reform-coalition-to-call-on-government-to-end-unfair-evictions",
+  "route": "/16/12/2020/toynbee-hall-joins-the-new-renters-reform-coalition-to-call-on-government-to-end-unfair-evictions/",
+  "title": "Toynbee Hall joins the new Renters Reform Coalition to call on Government to end unfair evictions",
+  "intro": "We join 18 other leading organisations calling for a fairer housing system for private renters.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/12/RRC-Logo-final.png",
+    "alt": "Renters Reform Coalition logo"
+  },
+  "template": "article",
+  "publishedAt": "2020-12-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We join 18 other leading organisations calling for a fairer housing system for private renters."
+        },
+        {
+          "type": "paragraph",
+          "text": "On the anniversary of the Queens’ Speech where the Government announced changes to the rental sector, 19 leading organisations including Toynbee Hall have formed a new Renters Reform Coalition to call on the Government to deliver on their announcement and create a fairer housing system for private renters.",
+          "links": [
+            {
+              "text": "Renters Reform Coalition",
+              "href": "https://rentersreformcoalition.co.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Made up of national housing charities, campaigners, renters unions, advice centres and think tanks, the Renters Reform Coalition is calling on the Government to use the upcoming Renters’ Reform Bill to end section 21 ‘no fault’ evictions, improve the condition of privately rented homes, and create a system within which renters feel empowered to stand up for their rights. The Renters’ Reform Bill is chance to go beyond tenancy reform and change the landscape of renting for the better."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Coalition believes everyone needs a safe, affordable and secure home, where they can live and flourish. But for too many private renters, this is out of reach. Too many people live in insecure, unaffordable, unsafe homes. Over the last 20 years, the number of people renting from a private landlord has doubled. Successive governments have failed to reform the private rented sector and give England’s 11 million private renters a decent place to call home. This needs to change."
+        },
+        {
+          "type": "paragraph",
+          "text": "The pandemic has shone a light on the flaws in the UK’s housing system. In the midst of a public health crisis, thousands of private renters faced mounting debt, eviction, harassment by their landlords, and unsafe homes which put their health at risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has been working with a Young Private Renters Research Group to better understand the experiences renters and landlords in the private rental sector.",
+          "links": [
+            {
+              "text": "Young Private Renters Research Group",
+              "href": "/25/09/2020/young-renters-call-for-increase-in-housing-allowance-to-keep-renters-in-their-homes-during-the-pandemic/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Laura, a member of the group thinks the rental sector needs to change. She said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Coalition will work with Government and others to ensure that the Renters’ Reform Bill redesigns the housing system and ensures all renters have access to a safe, affordable and secure home, where they can live and flourish."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bridget Young, Programme Manager at the Nationwide Foundation, said:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more about the Renters Reform Coalition and sign up for updates"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

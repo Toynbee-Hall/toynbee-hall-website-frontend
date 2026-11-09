@@ -1,0 +1,46 @@
+{
+  "slug": "audit-606-khadofestival",
+  "route": "/whats-on/khadofestival/",
+  "title": "Khado Food & Fun Festival",
+  "intro": "",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/Khado-event-listing-whats-on.jpg",
+    "alt": "Food and Fun festival poster"
+  },
+  "template": "event",
+  "dateLabel": "Saturday 3 June",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "On Saturday 3rd June, bring your friends and family to Toynbee Hall to enjoy delicious recipes and fun activities for all the family."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Admission is free and everyone is welcome, just turn up!"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Saturday 3rd June 12pm – 4pm Toynbee Hall, 28 Commercial Street, E1 6LS"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This is part of a programme of family friendly events taking place over the summer to celebrate the history of Petticoat Lane. Find out more about the High Streets Heritage Action Zone Cultural Programme."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you would like more information or would like to volunteer, please contact Ruby at rubyhaich@gmail.com."
+        }
+      ]
+    }
+  ],
+  "timeLabel": "12pm to 4pm",
+  "venue": "Toynbee Hall, 28 Commercial Street, E1 6LS"
+}

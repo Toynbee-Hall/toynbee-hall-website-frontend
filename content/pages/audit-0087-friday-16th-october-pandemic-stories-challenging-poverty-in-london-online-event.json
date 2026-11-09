@@ -1,0 +1,77 @@
+{
+  "slug": "audit-87-friday-16th-october-pandemic-stories-challenging-poverty-in-london-online-event",
+  "route": "/08/10/2020/friday-16th-october-pandemic-stories-challenging-poverty-in-london-online-event/",
+  "title": "Friday 16th October – Pandemic Stories: Challenging Poverty in London (Online Event)",
+  "intro": "As part of London Challenge Poverty week, Toynbee Hall is hosting an event to discuss early findings and recommendations from our Pandemic Stories research project. Pandemic Stories is a Participatory Action Research Project run by Toynbee Hall investigating the disproportionate impact of the COVID-19 crisis on Londoners who experience systemic disadvantage. It is a collaboration… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/10/Pandemic-Stories-Challenging-Poverty-in-London.jpg",
+    "alt": "Pandemic Stories: Challenging poverty in London"
+  },
+  "template": "article",
+  "publishedAt": "2020-10-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "As part of London Challenge Poverty week, Toynbee Hall is hosting an event to discuss early findings and recommendations from our Pandemic Stories research project."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pandemic Stories is a Participatory Action Research Project run by Toynbee Hall investigating the disproportionate impact of the COVID-19 crisis on Londoners who experience systemic disadvantage. It is a collaboration between the Toynbee Hall research and policy team, Thrive LDN, and Londoners with direct experience of systemic disadvantages such as living on a low income, being a single parent, having a disability, or coming from an ethnic minority background.",
+          "links": [
+            {
+              "text": "Pandemic Stories",
+              "href": "/26/08/2020/toynbee-hall-launches-new-community-led-research-pandemic-stories/"
+            },
+            {
+              "text": "Thrive LDN",
+              "href": "https://thriveldn.co.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We are co-hosting this event with community researchers from the project to discuss key issues around financial health and employment challenges and the role of community support during the crisis for low income and other disproportionately affected Londoners."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Agenda"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:00—10:20 Introduction to Pandemic Stories and learning about our approach to peer research"
+        },
+        {
+          "type": "paragraph",
+          "text": "10:20—11.20 Findings and policy discussion"
+        },
+        {
+          "type": "paragraph",
+          "text": "We will then share early findings about the experiences of low income and other disproportionately affected communities during COVID-19, followed by a discussion about what policy, regulation or systems change would help reduce disproportionate impact in future. The key topics for discussion will be:"
+        },
+        {
+          "type": "paragraph",
+          "text": "– Financial resilience and employment"
+        },
+        {
+          "type": "paragraph",
+          "text": "– The role of community support during the crisis and how to build and sustain strong community networks"
+        },
+        {
+          "type": "paragraph",
+          "text": "11:20—11:30 Voting on proposals and next steps"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sign up to this event"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

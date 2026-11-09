@@ -1,0 +1,265 @@
+{
+  "slug": "audit-400-cityadvice",
+  "route": "/cityadvice/",
+  "title": "City Advice",
+  "intro": "is a free advice service exclusively for people who live in the City of London Square Mile* or live in a City of London estate. *What is the City of London Square Mile? To be able to use this service, you must live in the City of London Square Mile (inside the red… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/01/City-Advice-online-logo-Free-Advice.jpg",
+    "alt": "City Advice — Toynbee Hall"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "*What is the City of London Square Mile?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "To be able to use this service, you must live in the City of London Square Mile (inside the red line on the map) or live in a City of London Corporation Estate."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "We can help with:"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are struggling to understand your benefits entitlement or need help to know how and what to claim, we can help."
+        },
+        {
+          "type": "paragraph",
+          "text": "We can help you with any worries that you have about your housing situation such as deposits, disrepair, homelessness."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you buy goods or services the law protects your rights as a consumer. We can help if you’re treated unfairly or when things go wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "We help with all kinds of debt problems, from credit or store cards to council tax arrears, mortgage problems, court fines or bankruptcy."
+        },
+        {
+          "type": "paragraph",
+          "text": "We can help with work related issues, including redundancy, dismissals and discrimination."
+        },
+        {
+          "type": "paragraph",
+          "text": "We can advise you on your rights and options, this could include the legal options for your finances, children and property."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to get advice"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/by-phone-135-x-135.png",
+            "alt": "mobile phone icon on blue circle",
+            "caption": "by phone 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "phone"
+        },
+        {
+          "type": "paragraph",
+          "text": "Call 0800 808 5853 8am-8pm, 7 days a week"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Video-and-webchat-135-x-135.png",
+            "alt": "web chat icon on blue circle",
+            "caption": "Video and webchat 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "email"
+        },
+        {
+          "type": "paragraph",
+          "text": "Contact us by email at city.advice@toynbeehall.org.uk.",
+          "links": [
+            {
+              "text": "city.advice@toynbeehall.org.uk.",
+              "href": "mailto:city.advice@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/In-person-135-x-135.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "In person 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "in person"
+        },
+        {
+          "type": "paragraph",
+          "text": "Arrange a face-to-face appointment or visit our weekly drop-in sessions (see below)."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Drop-in sessions at Toynbee Hall every Thursday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you would like to speak to an advisor in person, please drop in to the Advice Hub at Toynbee Hall on Thursdays between 10am – 12pm."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Advice Hub at Toynbee Hall 28 Commercial Street"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "E1 6LS"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Help Guides"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Some handy guides to help you get some extra support"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’ve created a series of easy-read education packs to help you understand what support is available and how you can get it. As legislation is subject to frequent change, please contact our service for the most up-to-date and tailored advice on your specific situation."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/How-to-cope-with-the-Cost-of-Living-Crisis-Part-1-thumbnail.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Become a Community Advocate for City Advice"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Help more people benefit from the free, expert advice available to people in the City of London."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Why become an advocate?"
+        },
+        {
+          "type": "paragraph",
+          "text": "We want more people to benefit from our service. We are looking for volunteer advocates to help spread the word in the City of London, so more people are made aware of City Advice and the type of help and advice we can assist with."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a volunteer role for a few hours each month to help promote the service provided by City Advice within the community so more people become aware of how to get the support and advice available. There will also be an opportunity to help support and evaluate the service provided and gain some volunteering experience."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you are interested, please email: city.advice@toynbeehall.org.uk"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Untitled-design-1.png",
+            "alt": "Community Advocates icon",
+            "caption": "Untitled design (1)"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "If you do not live in the City of London Square mile…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Click the link below to find out what Advice Services are available to you"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How we’ve helped others"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some names have been changed to protect privacy"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "I just can’t fault them, they are so helpful, and remain open and welcoming when I come back for advice on different things. It’s a great service. I don’t know where I’d be without it.”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Arthur"
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice client"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "No words of praise would match what we feel you did for us through these hard times. Our baby owes a lot to you born healthy and strong as she is!”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Mrs B"
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice client"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "I am disabled and unable to get to Toynbee Hall very easily – to have the possibility of visiting [City Advice] at one of their outreach centres in the estate that I live was a godsend.”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sahra"
+        },
+        {
+          "type": "paragraph",
+          "text": "City Advice client"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/cropped-COL_LOGO_2COL_BLK_CMYK_HI.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Partnership_and_funded_by-2.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

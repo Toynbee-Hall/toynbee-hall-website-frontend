@@ -1,0 +1,9 @@
+{
+  "slug": "audit-478-members",
+  "route": "/members/",
+  "title": "Members",
+  "intro": "[ultimatemember form_id=930]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

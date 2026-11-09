@@ -1,0 +1,38 @@
+{
+  "template": "listing",
+  "slug": "audit-427-archive",
+  "route": "/event-cat/culture/",
+  "title": "Event Category: Culture",
+  "intro": "Browse culture from Toynbee Hall.",
+  "listingType": "events",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "ELOP LGBT+ Group",
+      "href": "/whats-on/elop-lgbt",
+      "summary": "ELOP are an innovative LGBT+ mental health charity based in East London.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/Untitled-design-8.png",
+        "alt": "ELOP LGBT Group - Every Tuesday"
+      }
+    },
+    {
+      "title": "Shared Reading Group with Dorothy",
+      "href": "/whats-on/reading-group",
+      "summary": "Book lovers! Come and join our friendly group to discuss what we have been reading in an informal setting. Open to all (18+)",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/05/Untitled-design-7.png",
+        "alt": "Book shelf"
+      }
+    },
+    {
+      "title": "Film Club",
+      "href": "/whats-on/film-club",
+      "summary": "Fridays (weekly) 2pm – 4pm Community Centre, 28 Commercial Street, E1 6LS",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/10/cinema-g27362e961_640.jpg",
+        "alt": "Film Club — Toynbee Hall"
+      }
+    }
+  ]
+}

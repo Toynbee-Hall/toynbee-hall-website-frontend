@@ -1,0 +1,73 @@
+{
+  "slug": "audit-381-our-history",
+  "route": "/about-us/our-history/",
+  "title": "Our history",
+  "intro": "Toynbee Hall was created in 1884 by Samuel and Henrietta Barnett. Samuel was a Church of England vicar, and Henrietta was a teacher, philanthropist and social activist. Once married, they established Toynbee Hall in response to a growing realisation that enduring social change would not be achieved through the existing individualised and piecemeal… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall was created in 1884 by Samuel and Henrietta Barnett. Samuel was a Church of England vicar, and Henrietta was a teacher, philanthropist and social activist. Once married, they established Toynbee Hall in response to a growing realisation that enduring social change would not be achieved through the existing individualised and piecemeal approaches. The radical vision was to create a place for future leaders to live and work as volunteers in London’s East End, bringing them face to face with poverty, and giving them the opportunity to develop practical solutions that they could take with them into national life."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many of the individuals that came to Toynbee Hall as young men and women – including Clement Attlee and William Beveridge – went on to bring about radical social change and maintain a lifelong connection with Toynbee Hall. Today, it is as important as ever for Toynbee Hall to continue to identify emerging needs, pilot new responses and persuade local and national leaders to adopt them. We have been a catalyst for social reform in the UK for 140 years, and continue to create new ways to help those who find themselves in poverty today – whatever their age or background. But we can’t do it alone. You can help us continue to support the communities and individuals who need us. Find out more about our 140 year history in a short video.",
+          "links": [
+            {
+              "text": "Find out more about our 140 year history in a short video.",
+              "href": "/23/12/2024/celebrating-140-years-of-toynbee-hall-a-legacy-of-empowerment-and-community"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The John Profumo connection"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Explore our digital archive"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’ve developed a new digital archive site. On this site, you will have 140 years of social history at your fingertips. This site will enable us to share stories from Toynbee Hall’s past, of the influential people who have passed through our doors, and the role of our local community."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/01/cropped-Explore.toynbee-preview-pic-2.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Explore.toynbee-preview-pic-2.png"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Heritage exhibition"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our heritage exhibition is open"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall: A Powerhouse for Social Change tells the stories of social action from the world’s first university settlement."
+        },
+        {
+          "type": "paragraph",
+          "text": "A free exhibition located in our renovated Toynbee Hall building is open to the public, Monday to Friday, 11am – 3pm."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you wish to visit in a group of five or more, please contact events@toynbeehall.org.uk at least three working days before your visit so that we can coordinate safe access to the space."
+        }
+      ]
+    }
+  ]
+}

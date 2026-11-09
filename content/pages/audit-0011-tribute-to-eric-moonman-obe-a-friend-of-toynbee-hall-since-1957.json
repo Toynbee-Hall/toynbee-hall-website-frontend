@@ -1,0 +1,58 @@
+{
+  "slug": "audit-11-tribute-to-eric-moonman-obe-a-friend-of-toynbee-hall-since-1957",
+  "route": "/02/02/2018/tribute-to-eric-moonman-obe-a-friend-of-toynbee-hall-since-1957/",
+  "title": "Tribute to Eric Moonman OBE, a friend of Toynbee Hall since 1957",
+  "intro": "It is with sadness that I came back to work this week after a fortnight’s holiday to learn that Prof. Eric Moonman OBE had passed away on 22 December, aged 88. Prof. Moonman had long been a friend of Toynbee Hall’s, since 1957 when he came to live here as a residential volunteer. He continued to… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/02/Eric_Moonman_blog.jpg",
+    "alt": "Tribute to Eric Moonman OBE, a friend of Toynbee Hall since 1957 — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-02-02",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "It is with sadness that I came back to work this week after a fortnight’s holiday to learn that Prof. Eric Moonman OBE had passed away on 22 December, aged 88. Prof. Moonman had long been a friend of Toynbee Hall’s, since 1957 when he came to live here as a residential volunteer. He continued to actively work with and support Toynbee Hall up until the 1990s when he stepped down as Treasurer.",
+          "links": [
+            {
+              "text": "Prof. Eric Moonman OBE had passed away on 22 December, aged 88",
+              "href": "https://www.thetimes.co.uk/article/eric-moonman-jj027zl3k"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "During the 7 years he lived at Toynbee Hall he was involved in mentoring, chairing Grand (the meeting of the residents) and after he stopped living here he joined the Executive Committee of the British Association of Residential Settlements."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have very few records of life at Toynbee Hall in the 1950s, more of which in my next blog post. But I’m delighted to say that I had the opportunity to go and interview Prof. Moonman in June last year and he shed some light on what it was like here at that time and who some of his fellow residents were. He explained that in the years he lived here, there was a shift away from only letting in Oxbridge-educated graduates, to letting in men from different backgrounds who wanted to get involved in social work. Over the 40 years he was involved with Toynbee Hall, it seems that this opening up of the organisation and bringing a wider mix of people to engage with it and the local community was an important focus for him. Indeed as early as 1958 he and two fellow residents wrote a draft document entitled ‘Residents on Future Policy’ which laid out their ideas for the development of the residential community."
+        },
+        {
+          "type": "paragraph",
+          "text": "This focus also stretched to engaging his own family. When we met, I also took the opportunity to ask about how other members of the Moonman family were involved with Toynbee Hall. His sister Eve Dumbell came on the recommendation of her brother and lived at Toynbee Hall for nearly 20 years, helping run services for local people and is a well-remembered figure in our history. Eric’s son Daniel became briefly involved, carrying out some research for Toynbee Hall in the 1990s."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was a delightful hour in his company and following on from our meeting he kindly found the time to post me a photo for our archive and follow up with a phone call about some further memories. I still had many questions to ask him and was very much looking forward to introducing him to the renovated halls as part of Toynbee Hall’s alumni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our condolences are with his family."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/data/images/Archives/Eric_Moonman_blog.jpg",
+            "alt": "Warden A.E. Morgan and his wife surrounded by residential volunteers",
+            "caption": "Residential volunteers late 1950's"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

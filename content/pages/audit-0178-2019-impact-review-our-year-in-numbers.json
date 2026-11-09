@@ -1,0 +1,100 @@
+{
+  "slug": "audit-178-2019-impact-review-our-year-in-numbers",
+  "route": "/16/12/2019/2019-impact-review-our-year-in-numbers/",
+  "title": "2019 Impact Review – Our year in numbers",
+  "intro": "Each year, we review the impact of our work to measure the numbers of people we’ve helped and see the difference this has made to the lives of individuals and communities. Read our latest Impact Review to see the extent of our work in 2018/19. This has been another significant year for Toynbee Hall, and… Read more",
+  "template": "article",
+  "publishedAt": "2019-12-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Each year, we review the impact of our work to measure the numbers of people we’ve helped and see the difference this has made to the lives of individuals and communities. Read our latest Impact Review to see the extent of our work in 2018/19."
+        },
+        {
+          "type": "paragraph",
+          "text": "This has been another significant year for Toynbee Hall, and for the people and communities we work with. We moved a step closer to the completion of the redevelopment of our historic halls by opening its doors and moving all of our operations back to our original site. We also reached another milestone as we opened our brand new Advice and Wellbeing Centre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reaching this stage of the redevelopment has given us a vital springboard to enable us to meet new challenges and ensure we are best placed to support those who we work with and the people that need us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now we are back home we’ll be working with the community and together set out how we can ensure we best serve the people of East London and further afield."
+        },
+        {
+          "type": "paragraph",
+          "text": "While the redevelopment has been ongoing we have worked tirelessly to ensure that we continue to offer a full range of vital, easy to access services, informed and co-designed by the people that use them."
+        },
+        {
+          "type": "paragraph",
+          "text": "This report will show how our work has made a difference for individuals, communities and beyond."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Here are some of the key stats from last year:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "23,150 people across London with debt and money problems were helped by the Debt Free London Partnership",
+            "£3,220,000 worth of benefits were obtained by for 839 clients with a diagnosis of cancer through our Macmillan Welfare Rights Service",
+            "38 people were prevented from being homeless by the City Advice service which works exclusively in the City of London Square Mile",
+            "237 free social activities for older people were held in our Wellbeing Centre to help tackle loneliness and social isolation",
+            "235% Increase in the number of individuals attending at least one activity",
+            "75% of visitors say that they had made friends at the Wellbeing Centre, and over half see these friends regularly outside of our opening hours",
+            "953 new individuals aged over 50 were helped by the Linkage Plus partnership in Tower Hamlets",
+            "323 people from across London became accredited Money Mentors",
+            "46 people who had graduated from the course, were employed to teach the course since the start of 2018/19",
+            "300 primary school children from our local community took part in our heritage schools projects"
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/12/Thumbnail-image.png",
+            "alt": "2019 Impact Review - Our year in numbers"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Read our 2019 Impact Review"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall Christmas Appeal"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can help us tackle loneliness over the festive season by keeping our doors open and our community connected. A donation to our Christmas Appeal could help individuals come together over Christmas to reduce isolation, build connections and support one another."
+        },
+        {
+          "type": "paragraph",
+          "text": "Just £15 could provide a hot, healthy meal for 3 older people to share."
+        },
+        {
+          "type": "paragraph",
+          "text": "To give, visit: https://www.toynbeehall.org.uk/donate/.",
+          "links": [
+            {
+              "text": "https://www.toynbeehall.org.uk/donate/",
+              "href": "/donate/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Any support will be greatly appreciated in supporting communities to fight loneliness this Christmas."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

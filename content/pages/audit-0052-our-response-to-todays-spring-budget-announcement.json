@@ -1,0 +1,42 @@
+{
+  "slug": "audit-52-our-response-to-todays-spring-budget-announcement",
+  "route": "/06/03/2024/our-response-to-todays-spring-budget-announcement/",
+  "title": "Our response to today’s Spring Budget announcement",
+  "intro": "Read our response to the Chancellor’s Budget announcement on Wednesday 6th March 2024.",
+  "template": "article",
+  "publishedAt": "2024-03-06",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "In the Government’s spring budget, announced today, we welcome the recognition of the negative impact of personal debt and the abolition of administration fees for Debt Relief Orders (DROs). The majority of the customers we support with their debts would be eligible for this vital help with debt, but all too often they simply can’t afford the £90 DRO fee and as a result our advisors spend a long time helping them to apply for a grant or seeking other solutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The extension of the repayment period on budgeting advance loans for Universal Credit claimants is also something that has the potential to help. However, we note that this is due to apply to new advances taken out from December 2024, which is nine months away."
+        },
+        {
+          "type": "paragraph",
+          "text": "A further long-overdue positive step is the end of the Pre-Payment Meter premium, which is something we and others have been calling for. It means that people with prepayment metres, many of whom are living on low incomes, will no longer be charged more for their energy than comparable direct debit customers."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, overall the budget did not address the root causes of why families in communities like Tower Hamlets face debt in the first place: insufficient family incomes, high costs—for example for housing—and resulting poverty. Toynbee Hall is facing an all-time high level of demand for its debt services. At the same time, our research carried out in partnership with the community has exposed the ways that poverty is harming people’s wellbeing every day—whether in terms of the psychological stress on parents and young people of not having enough money cover their daily needs, or living in overcrowded, and unaffordable housing. These, along with countless other daily harms to wellbeing are not going away. The government had an opportunity to use its budget ‘headroom’ to take concrete steps to roll back poverty levels which have ballooned under its watch. Instead, the chancellor chose to tinker in the margins with interventions that avoid the needs of those living in deepest poverty."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’re in need of debt or money advice or any other advice, please visit our Advice Hub to see how we can help.",
+          "links": [
+            {
+              "text": "please visit our Advice Hub",
+              "href": "/free-advice/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

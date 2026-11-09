@@ -1,0 +1,25 @@
+{
+  "template": "listing",
+  "slug": "audit-428-archive",
+  "route": "/event-cat/educational-activity/",
+  "title": "Event Category: educational activity",
+  "intro": "Browse educational activity from Toynbee Hall.",
+  "listingType": "events",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "English Conversation Club",
+      "href": "/whats-on/english-conversation-club",
+      "summary": "Looking to improve your English in a friendly, informal setting? Our English Conversation Club for adults (18+) is a peer-led group where we practice English through weekly themed activities – from discussing food and money to exploring culture and travel. Strengthen your speaking, reading, and writing skills while meeting new people!",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/02/ESOL-class.jpg",
+        "alt": "Three women talking in a room"
+      }
+    },
+    {
+      "title": "IT and Tech Support Drop-in",
+      "href": "/whats-on/it-support",
+      "summary": "A practical drop in session every Wednesday for help with any IT issues and tech support."
+    }
+  ]
+}

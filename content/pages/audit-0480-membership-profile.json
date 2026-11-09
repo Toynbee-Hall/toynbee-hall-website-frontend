@@ -1,0 +1,9 @@
+{
+  "slug": "audit-480-membership-profile",
+  "route": "/membership-login/membership-profile/",
+  "title": "Profile",
+  "intro": "[swpm_profile_form]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

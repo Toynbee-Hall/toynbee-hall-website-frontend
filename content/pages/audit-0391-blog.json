@@ -1,0 +1,9 @@
+{
+  "slug": "audit-391-blog",
+  "route": "/blog/",
+  "title": "Blog",
+  "intro": "",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

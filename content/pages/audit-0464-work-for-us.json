@@ -1,0 +1,47 @@
+{
+  "slug": "audit-464-work-for-us",
+  "route": "/get-involved/work-for-us/",
+  "title": "Join our team",
+  "intro": "Join our team and support our work in the East End of London and beyond. Toynbee Hall embraces diversity and is proud to be an equal opportunity employer. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills; irrespective of race, religion, age, gender, sexual orientation or… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/11/IMG_8872.jpg",
+    "alt": "Battle of cable street event workshop"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Join our team and support our work in the East End of London and beyond. Toynbee Hall embraces diversity and is proud to be an equal opportunity employer. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills; irrespective of race, religion, age, gender, sexual orientation or disability: read more in our Our People report and EDI strategy and action plan.",
+          "links": [
+            {
+              "text": "Our People",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/01/Our-People-report-2024-1.pdf"
+            },
+            {
+              "text": "EDI strategy and action plan",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/01/EDI-Strategy-2025-27.pdf"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Please visit our careers page to see all available opportunities."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why work for us"
+        },
+        {
+          "type": "paragraph",
+          "text": "* 4% employer contribution and minimum 5% employee contribution (Based on Toynbee Hall’s Auto Enrollment process. All eligible employees will be automatically enrolled in the GPP after three months’ service)"
+        }
+      ]
+    }
+  ]
+}

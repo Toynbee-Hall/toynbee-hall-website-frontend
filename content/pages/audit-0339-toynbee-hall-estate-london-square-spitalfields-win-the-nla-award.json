@@ -1,0 +1,48 @@
+{
+  "slug": "audit-339-toynbee-hall-estate-london-square-spitalfields-win-the-nla-award",
+  "route": "/27/11/2020/toynbee-hall-estate-london-square-spitalfields-win-the-nla-award/",
+  "title": "Toynbee Hall Estate & London Square Spitalfields win the NLA Award",
+  "intro": "Our estate won the Mixing Prize for best Mixed-Use Charity Estate Regeneration We are delighted to have won the NLAwards20 Mixing Prize for best Mixed-Use Charity Estate Regeneration. Thank you to NLA London, all our partners and funders and congratulations to P5 Architects, Richard Griffiths Architects and our whole redevelopment team for bringing our ambitions… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/12/NLA-Award.jpg",
+    "alt": "Toynbee Hall wins NLA Award"
+  },
+  "template": "article",
+  "publishedAt": "2020-11-27",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Our estate won the Mixing Prize for best Mixed-Use Charity Estate Regeneration"
+        },
+        {
+          "type": "paragraph",
+          "text": "We are delighted to have won the NLAwards20 Mixing Prize for best Mixed-Use Charity Estate Regeneration.",
+          "links": [
+            {
+              "text": "NLAwards20 Mixing Prize for best Mixed-Use Charity Estate Regeneration",
+              "href": "https://nla.london/videos/toynbee-hall-estate"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you to NLA London, all our partners and funders and congratulations to P5 Architects, Richard Griffiths Architects and our whole redevelopment team for bringing our ambitions to life and creating such a valuable asset for the community. It was an incredible effort over a number of years and we’re very proud to have won this prestigious award."
+        },
+        {
+          "type": "paragraph",
+          "text": "These new spaces have made a huge difference to people in our community during the recent lockdowns. It has provided the facilities that allow people to continue to safe;y socialise, be active and avoid social isolation which can detrimental to both mental and physical wellbeing. We asked Bee, who has taken part in a number of Toynbee Hall projects and has used the spaces often, how important being able to use this site has been for her."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“I look forward to our bubble every Morning knowing that Toynbee Hall has safety measures in place to keep us safe as per government guidelines”. Bee, Community Centre Member"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

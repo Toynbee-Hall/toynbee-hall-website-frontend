@@ -1,0 +1,66 @@
+{
+  "slug": "audit-242-from-pupil-to-teacher-using-new-skills-to-teach-others-good-money-management",
+  "route": "/21/01/2019/from-pupil-to-teacher-using-new-skills-to-teach-others-good-money-management/",
+  "title": "From pupil to teacher – How Money Mentors have begun teaching their own courses",
+  "intro": "Community Money Mentors begin teaching the course they graduated from as new courses get underway",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/c60e6c81-ce7d-41ed-9b12-8c7eb071a907.jpg",
+    "alt": "Community Money Mentors"
+  },
+  "template": "article",
+  "publishedAt": "2019-01-21",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Community Money Mentors begin teaching the course they graduated from to as courses get underway across London."
+        },
+        {
+          "type": "paragraph",
+          "text": "Community Money Mentors is our financial management training course that helps participants gained accredited qualifications and become mentors in their communities. This month, 24 former graduates began work as trained teachers of the course to new groups across London as part of a project called Teach it!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’ve been working with graduates who have been developing an in-depth knowledge of the course, financial management and building confidence and motivation to communicate effectively to groups of people. These tools will give the trainers the opportunity to improve their employment and life prospects."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Building networks of money savvy communities"
+        },
+        {
+          "type": "paragraph",
+          "text": "Last year, the 20,000th person received support from a trained Money Mentor since the programme began in 2012 and this has been made possible by the support of Big Lottery Fund, Nesta, JP Morgan and Columbia Threadneedle . We want to build up even more people’s money skills and knowledge of financial services, to avoid debt and be better able to cope with unexpected costs. As personal finances get tighter these skills will help families become more financially resilient and be better prepared for whatever the future holds."
+        },
+        {
+          "type": "paragraph",
+          "text": "Last year 280 people across London became Community Money Mentors and we saw a 53% increase in the number of mentors who reported planning for expected events like holidays and family celebrations and also unexpected events such as job loss or emergency repairs. Knowledge of financial products such as credit options and energy tariffs, also increased by at least 33%."
+        },
+        {
+          "type": "paragraph",
+          "text": "20 courses are set to be delivered across London by our new trainers. If you would like to find out more about the programme and see how you can get involved, we have more details here.",
+          "links": [
+            {
+              "text": "we have more details here",
+              "href": "/other-projects/learning-programmes/community-money-mentors/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can also read about Jemimah’s experience from being a pupil to a teacher and how her journey which has given her more control over her finances and her life.",
+          "links": [
+            {
+              "text": "read about Jemimah’s experience",
+              "href": "/14/01/2019/jemimahs-story/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

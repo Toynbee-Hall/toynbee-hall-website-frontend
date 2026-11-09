@@ -1,0 +1,50 @@
+{
+  "slug": "audit-31-youth-creative-clinic-ordinary-people-extraordinary-stories",
+  "route": "/04/03/2019/youth-creative-clinic-ordinary-people-extraordinary-stories/",
+  "title": "Ordinary People, Extraordinary Stories Creative Clinic",
+  "intro": "We’re running a free two day Creative Clinic for 16 to 19 year olds",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/02/Ordinary-People-Extraordinary-Stories.png",
+    "alt": "two day free youth Creative Clinic"
+  },
+  "template": "article",
+  "publishedAt": "2019-03-04",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Calling 16 to 19 year old Tower Hamlets residents, come along to the London Metropolitan Archives and Toynbee Hall’s free two day Creative Clinic on Friday 15th and Saturday 16th March."
+        },
+        {
+          "type": "paragraph",
+          "text": "Two days of tapping into extraordinary untold stories. Create new tales in the form of scripts, prose, poetry, lyrics, you choose! We are offering this unique two day skills sharing programme:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Free of charge",
+            "Refreshments provided",
+            "Mentoring support",
+            "Showcase opportunity for Word on the Street Festival 2019"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To find out more and book your place, contact lisa.wilkinson@toynbeehall.org.uk or call 020 7392 2986"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/03/Creative-Clinic-flyer-March-2019-724x1024.jpg",
+            "alt": "Ordinary People, Extraordinary Stories\n\nCalling 16 - year old Tower Hamlets Residents\n\nCome along to LMA & Toynbee Hall's Creative Clinic\n\nFriday 15th and Saturday 16th March 2019 at Toynbee Hall, 28 Commercial Street, London, E1 6LS.\n\nCreate new tales in the form of scripts, prose, poetry, lyrics, you choose!"
+          }
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

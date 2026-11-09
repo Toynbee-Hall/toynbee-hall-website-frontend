@@ -1,0 +1,47 @@
+{
+  "slug": "audit-10-sir-henry-brooke",
+  "route": "/02/02/2018/sir-henry-brooke/",
+  "title": "Sir Henry Brooke",
+  "intro": "We are deeply saddened to have learned of the passing of one of our most passionate supporters, Sir Henry Brooke. We are sad to note the passing of Sir Henry Brooke, a tireless and passionate supporter of legal aid and access to justice. We were proud to count him as a loyal supporter and friend.… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/Sir-Henry-Brooke.jpg",
+    "alt": "Sir Henry Brooke — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-02-02",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are deeply saddened to have learned of the passing of one of our most passionate supporters, Sir Henry Brooke."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are sad to note the passing of Sir Henry Brooke, a tireless and passionate supporter of legal aid and access to justice. We were proud to count him as a loyal supporter and friend."
+        },
+        {
+          "type": "paragraph",
+          "text": "We were very privileged to be able to host Sir Henry Brooke at Toynbee Hall last year, where he visited both our frontline legal advice services and our redevelopment. Always an avid blogger and campaigner, it was an incredible honour to hear his warm and positive words about our vital support on immigration cases, which he covered in his own blog: https://sirhenrybrooke.me/2017/04/26/toynbee-hall-immigration-advice/",
+          "links": [
+            {
+              "text": "https://sirhenrybrooke.me/2017/04/26/toynbee-hall-immigration-advice/",
+              "href": "https://sirhenrybrooke.me/2017/04/26/toynbee-hall-immigration-advice/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall is lucky enough to count itself among scores of charitable projects that Sir Henry Brooke chose to support, both in his vocal campaigning and as a generous philanthropist. He supported our frontline legal work, youth services and our regeneration of our heritage estate over several years, and we will be very proud to publically list his name among our supporters when our historic building opens its doors again this summer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our condolences to all those who knew him; he leaves behind an incredible legacy to all those fighting to ensure that those in the greatest need can receive access to justice."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

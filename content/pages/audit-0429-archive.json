@@ -1,0 +1,20 @@
+{
+  "template": "listing",
+  "slug": "audit-429-archive",
+  "route": "/event-cat/health-promotion/",
+  "title": "Event Category: Health promotion",
+  "intro": "Browse health promotion from Toynbee Hall.",
+  "listingType": "events",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "ELOP LGBT+ Group",
+      "href": "/whats-on/elop-lgbt",
+      "summary": "ELOP are an innovative LGBT+ mental health charity based in East London.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/Untitled-design-8.png",
+        "alt": "ELOP LGBT Group - Every Tuesday"
+      }
+    }
+  ]
+}

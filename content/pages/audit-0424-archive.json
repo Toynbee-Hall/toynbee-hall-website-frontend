@@ -1,0 +1,25 @@
+{
+  "template": "listing",
+  "slug": "audit-424-archive",
+  "route": "/event-cat/advice-and-support/",
+  "title": "Event Category: Advice and support",
+  "intro": "Browse advice and support from Toynbee Hall.",
+  "listingType": "events",
+  "pageSize": 12,
+  "items": [
+    {
+      "title": "IT and Tech Support Drop-in",
+      "href": "/whats-on/it-support",
+      "summary": "A practical drop in session every Wednesday for help with any IT issues and tech support."
+    },
+    {
+      "title": "ELOP LGBT+ Group",
+      "href": "/whats-on/elop-lgbt",
+      "summary": "ELOP are an innovative LGBT+ mental health charity based in East London.",
+      "image": {
+        "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/Untitled-design-8.png",
+        "alt": "ELOP LGBT Group - Every Tuesday"
+      }
+    }
+  ]
+}

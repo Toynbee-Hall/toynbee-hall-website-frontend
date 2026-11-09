@@ -1,0 +1,114 @@
+{
+  "slug": "audit-180-are-you-interested-in-becoming-a-peer-researcher",
+  "route": "/16/12/2022/are-you-interested-in-becoming-a-peer-researcher/",
+  "title": "Are you interested in becoming a peer researcher?",
+  "intro": "We are looking for peer researchers to investigate the impact of the cost-of-living crisis on young people and their emotional support needs.",
+  "template": "article",
+  "publishedAt": "2022-12-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are looking for peer researchers to join us to investigate the impact of the cost-of-living crisis on young people and their emotional support needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "To become a Peer Researcher, you must be 16 – 22 years old and living in Tower Hamlets to apply. No research experience is required. The project will begin in January 2023 and finish in April 2024. You will:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Be part of a team of 10 peer researchers who are also 16 – 22 years old and living in Tower Hamlets.",
+            "Learn about research and help create a research project",
+            "Conduct research about what emotional support young people need from their families",
+            "Develop a campaign and talk to people with power about what needs to change"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You will receive £15 per hour. Hours available to participate will vary and some weeks there will be no participation required at all. We will provide you with a calendar so you understand what hours will be available over the course of the project."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/12/Health-Foundation_peer-researcher-recruitment-flier-724x1024.jpg",
+            "alt": "Health-Foundation_peer-researcher-recruitment-flier"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Support from a professional mental health worker will be available for you during the project, as well as support from the research and policy team."
+        },
+        {
+          "type": "paragraph",
+          "text": "To apply, please complete this form or call (07983462374) to answer the following questions. You can also leave a WhatsApp voice note:",
+          "links": [
+            {
+              "text": "this form",
+              "href": "https://forms.gle/vGn7Rm4NVsuP6pZY7"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Name",
+            "Contact details",
+            "Age",
+            "Resident of Tower Hamlets?",
+            "Do you have any of the following experiences?",
+            "Why you would like to become a peer researcher? (5 lines max)",
+            "Would you be happy to invite friends and/or family to take part in the research? Don’t worry if you don’t feel comfortable with this!",
+            "When are you available to meet most weeks?"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Our decision on who is successful based on the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "We want to recruit young people with a diverse range of experiences.",
+            "We want to recruit young people who are motivated to become peer researchers.",
+            "We want some of the young people who take part to be happy to invite friends or family to take part in the research, though we appreciate this won’t be possible for everyone."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This project is funded by The Health Foundation, and you can read more about it here: https://www.health.org.uk/funding-and-partnerships/programmes/covid-19-and-cost-of-living-impact-on-emotional-support-for-young-londoners. To learn more about the project call Oisin on 07983462374.",
+          "links": [
+            {
+              "text": "https://www.health.org.uk/funding-and-partnerships/programmes/covid-19-and-cost-of-living-impact-on-emotional-support-for-young-londoners",
+              "href": "https://www.health.org.uk/funding-and-partnerships/programmes/covid-19-and-cost-of-living-impact-on-emotional-support-for-young-londoners"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The deadline to apply is 15.01.23 but we will close the call for applications sooner if we have already recruited a team of 10 young people."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find out more about Peer Research at Toynbee Hall.",
+          "links": [
+            {
+              "text": "Find out more about Peer Research at Toynbee Hall.",
+              "href": "/research/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

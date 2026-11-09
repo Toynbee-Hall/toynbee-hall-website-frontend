@@ -1,0 +1,71 @@
+{
+  "slug": "audit-309-short-changed-new-report-calls-for-a-bank-account-for-every-young-londoner-3",
+  "route": "/26/01/2018/short-changed-new-report-calls-for-a-bank-account-for-every-young-londoner-3/",
+  "title": "Our response to End Child Poverty’s latest figures",
+  "intro": "This week, the End Child Poverty coalition released their latest child poverty figures which reveal the shocking truth that in some parts of the UK, more than half of children are living in poverty. In real terms, this means living in households which have an income below 60% of the median household income. Some of… Read more",
+  "template": "article",
+  "publishedAt": "2018-01-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Some of the areas which have seen the most dramatic rise and has the highest percentage of children living in households facing these severe financial difficulties are right here in East London."
+        },
+        {
+          "type": "paragraph",
+          "text": "End Child Poverty’s stats confirm that Tower Hamlets has the highest percentage of children in poverty* of any local authority (53.4%) and Bethnal Green and Bow, the highest of any UK constituency (54.18%), an 11% increase from 2015."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "* have a household income below 60% of median household income after housing costs"
+        },
+        {
+          "type": "paragraph",
+          "text": "This fits in with our own experience – working with people every day within our advice centre, and across our partners – that there are a significant range of challenges that people face. The End Child Poverty report points to the four-year freeze on social security benefits as a major factor in an “emerging child poverty crisis”. This has undoubtedly had an impact but in our experience is just one of many reasons, which combined are ensuring that so many families finances are being squeezed. Welfare cuts, low pay and insecure employment, reliance on expensive private rented housing, debt and limited access to affordable credit and the Poverty Premium (the increased costs imposed on low income families for basic goods and services) are all massively affecting people in Tower Hamlets, and not just their finances, but their health and wellbeing too."
+        },
+        {
+          "type": "paragraph",
+          "text": "The challenge for all of us is how we work together to not only help people find ways to overcome these challenges – but to ensure that everyone has the opportunity to take advantage of the opportunities that this part of London offers. Alongside the real challenges of poverty within Tower Hamlets, there has also been a lot of growth and development. We’ve been part of this area a very long time we know that we’re part of a really creative and vibrant area with an amazing history and a highly aspirational community. There is so much positive work happening here and we want to harness that by listening to our community and working alongside them to co-create practical solutions, tackling some of the real inequalities that are so clear in these new figures."
+        },
+        {
+          "type": "paragraph",
+          "text": "These figures serve as stark reminder that no organisation can tackle this alone. As a priority, we must build strong partnerships and work with the community to give individuals a stronger, clearer voice in how we can deliver projects that will give them the tools and opportunities to break down these barriers. By listening to the community we will learn how we can improve debt advice delivery across our London-wide partnership and through a new community survey, we will know what issues are the most pressing to local people and where we need to focus our efforts in the years ahead.",
+          "links": [
+            {
+              "text": "community survey",
+              "href": "https://www.surveymonkey.co.uk/r/VX82JFP?dm_t=0,0,0,0,0"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "One of the projects we will be developing in 2018 is our Community Money Mentors Programme which works to provide people with the skills not only to improve their own financial health but have the confidence to go out and help others improve theirs. We have seen that this has had a profound impact on the lives of people such as Jo, who was part of our 2017 cohort.",
+          "links": [
+            {
+              "text": "such as Jo",
+              "href": "/jo-community-money-mentors"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We hope you feel as passionately about this as we do and that you will find the opportunity to work alongside us in shaping long term solutions. There are lots of ways you can get involved, by donating anything you can, volunteering or just keeping up to date with our work. It all helps us build a better a future and a stronger community so that we can starting seeing Tower Hamlets in the headlines for all the right reasons."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read the latest figure from End Child Poverty here.",
+          "links": [
+            {
+              "text": "You can read the latest figure from End Child Poverty here",
+              "href": "http://www.endchildpoverty.org.uk/more-than-half-of-children-now-living-in-poverty-in-some-parts-of-the-uk/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

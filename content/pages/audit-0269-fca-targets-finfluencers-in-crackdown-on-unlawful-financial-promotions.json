@@ -1,0 +1,69 @@
+{
+  "slug": "audit-269-fca-targets-finfluencers-in-crackdown-on-unlawful-financial-promotions",
+  "route": "/22/10/2024/fca-targets-finfluencers-in-crackdown-on-unlawful-financial-promotions/",
+  "title": "FCA Targets ‘Finfluencers’ in Crackdown on Unlawful Financial Promotions",
+  "intro": "Recent studies show that over 60% of young adults aged 18-29 follow financial influencers online, with nearly three-quarters trusting their advice.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/10/Finfluencers-scaled.jpg",
+    "alt": "'finfluencer' recording themselves talking in a cafe"
+  },
+  "template": "article",
+  "publishedAt": "2024-10-22",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Recent studies by the Financial Conduct Authority (FCA) show that over 60% of young adults aged 18-29 follow financial influencers online, with nearly three-quarters trusting their advice. This alarming trend highlights the potential scale of consumer risk when unqualified individuals promote financial products, often leading to substantial financial losses."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Financial Conduct Authority (FCA) has launched a targeted crackdown on financial influencers, or “finfluencers,” promoting financial products without proper authorisation. The regulator’s action aims to protect consumers, particularly young people, who are increasingly exposed to risky or misleading financial advice online."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of its enforcement, the FCA has issued 38 alerts on social media accounts suspected of unlawful promotions and interviewed 20 influencers under caution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Steve Smart, Executive Director of Enforcement and Market Oversight at the FCA, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Finfluencers are trusted by the people who follow them, often young and potentially vulnerable individuals. They need to ensure that the products they promote comply with regulations, or they risk putting their followers’ finances in jeopardy.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "At Toynbee Hall we fully support the FCA’s efforts to hold finfluencers accountable and protect consumers. Matt Dronfield, Director of Advice Services emphasised:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our priority is ensuring that individuals receive sound, impartial financial advice from regulated sources. Unregulated financial promotions can cause serious harm, especially to those already struggling with debt. If you’re worried about money or can’t pay your bills, don’t hesitate to seek free, confidential support from trusted services like ours.”"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Worried About Money or Struggling to Pay Your Bills?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you or someone you know is facing financial difficulties, don’t wait until it becomes overwhelming. At Toynbee Hall, we offer free, impartial, and confidential support to help you manage your money and deal with debt. Our advisors are highly trained experts, ensuring that you receive professional and trusted guidance tailored to your situation. Contact us today for advice tailored to your needs:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Call our debt free advisors on 0800 808 5700 – open 8am-8pm, 7 days a week",
+            "Visit our website to find your nearest face-to-face advice centre"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re here to help you regain control of your finances and get back on track."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

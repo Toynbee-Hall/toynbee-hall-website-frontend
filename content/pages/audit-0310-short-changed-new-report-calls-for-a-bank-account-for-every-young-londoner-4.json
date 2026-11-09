@@ -1,0 +1,76 @@
+{
+  "slug": "audit-310-short-changed-new-report-calls-for-a-bank-account-for-every-young-londoner-4",
+  "route": "/26/01/2018/short-changed-new-report-calls-for-a-bank-account-for-every-young-londoner-4/",
+  "title": "Could you change the way 1000’s of Londoners fight debt?",
+  "intro": "Do you know how it feels to be in debt? Do you want to make it easier for other people to escape debt, and to build secure financial futures? If this sounds like you then Toynbee Hall would like to invite you to be a part of the Fairer Finance Panel. The panel will: Let… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/01/img-3.jpeg",
+    "alt": "Could you change the way 1000’s of Londoners fight debt? — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-01-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "If this sounds like you then Toynbee Hall would like to invite you to be a part of the Fairer Finance Panel. The panel will:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Let national organisations know what would have made things better for you.",
+            "Redesign how Toynbee Hall delivers our Debt Advice services – based on the things you say.",
+            "Review the impact of these changes and share our learning with other organisations that deliver debt advice – in order to make getting out of debt easier for everyone."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "What does being on the panel involve? Everyone on the panel would:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Attend and contribute to monthly panel meetings between February & July 2018 or",
+            "Share their thoughts on meeting agenda items with Toynbee Hall over the phone or by email"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Panel members with an interest in contributing further will be supported to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Feedback, test and evaluate work in development",
+            "Present findings of the panel to influencers",
+            "Attend and facilitate Toynbee Hall planning days"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You don’t need any experience of being on a group like this before to join. The Toynbee Hall team will provide all the support you need to get the most out of these meetings and ensure that the panel makes a difference. We will reimburse reasonable expenses incurred in undertaking this role in line with our volunteer policy, and should you choose will keep your contributions to discussions anonymous."
+        },
+        {
+          "type": "paragraph",
+          "text": "Interested? To join, find out more or arrange an informal chat about the panel email elizabeth.archer@toynbeehall.org.uk using the subject line “I’m In”. In the email please include your name, your preferred method of contact (text, phonecall, email, meeting), and how to get in touch, as well as any particular questions you have. I work part time but will get back to you within a week.",
+          "links": [
+            {
+              "text": "elizabeth.archer@toynbeehall.org.uk",
+              "href": "mailto:elizabeth.archer@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "It would be brilliant if you are willing to join us– this is our chance to work together to change the system and change lives – I hope you want to be part of it."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

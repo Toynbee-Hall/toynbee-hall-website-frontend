@@ -1,0 +1,69 @@
+{
+  "slug": "audit-314-bangladesh-50-stories-of-71-honouring-the-memories-experiences-of-local-british-bengali-people",
+  "route": "/26/03/2021/bangladesh-50-stories-of-71-honouring-the-memories-experiences-of-local-british-bengali-people/",
+  "title": "Bangladesh 50: Honouring the memories & experiences of local British Bengali people",
+  "intro": "In honour of the 50th anniversary 1971 Bangladesh War of Independence, Toynbee Hall has developed a year-long programme that brings stories and experiences of Tower Hamlets Bengali communities to the forefront of the anniversary celebrations.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/04/Bengali-Health-Advisory-Service-draft-1.jpg",
+    "alt": "Bengali Health Advisory Service Meeting 1984"
+  },
+  "template": "article",
+  "publishedAt": "2021-03-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "In honour of the 50th anniversary 1971 Bangladesh War of Independence today, Toynbee Hall has developed a year-long programme that brings stories and experiences of Tower Hamlets Bengali communities to the forefront of the anniversary celebrations."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have chosen to centre personal stories and creative expression, placing value on these as knowledge as they offer powerful insights into this time and beyond. To nurture a space where people feel comfortable to share their stories, we are delighted to announce Bengali Poet and Storyteller Shamim Azad has joined the project as our Resident Storyteller."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of the year-long programme we are running a Story Competition, inviting people to submit a story exploring the themes life in 1971, resistance, Story & Musical Performative Walking Tours and monthly conversations series to share and reflect on British Bengali heritage.",
+          "links": [
+            {
+              "text": "Story Competition",
+              "href": "/09/03/2021/bangladesh-50-stories-of-1971-a-story-competition/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Home to one of the largest British Bengali communities in the UK, it is vital that arts, culture and heritage programming reflect this, offering authentic representation of the people living here. However, it is also vital that we acknowledge that the impact and role of the 1971 in shaping life in the East End was significant as Bengali people who migrated here post-war went on to challenge the fascists and hostile environment and leading the anti-racism movement in the area. These two histories and interwoven and deeply connected and should be honoured as such."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shamim reflects that:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“history and heritage make a huge part of our identity and how we view the world. This is why it is important to spotlight our personal stories. Exploring and understanding our past helps us to be more rooted in the present, show us on our way to the future”"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/03/Story-Competition-2021-15-724x1024.png",
+            "alt": "Stories of 71 - Story Competition"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Shamim will work alongside local musician Paul Burgess and Bengali arts organisation Swadhinata Trust to deliver this programme. More details on events and activities will be shared in due course.",
+          "links": [
+            {
+              "text": "Swadhinata Trust",
+              "href": "https://www.swadhinata.org.uk/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

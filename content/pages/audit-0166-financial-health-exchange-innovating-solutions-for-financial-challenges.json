@@ -1,0 +1,54 @@
+{
+  "slug": "audit-166-financial-health-exchange-innovating-solutions-for-financial-challenges",
+  "route": "/16/06/2023/financial-health-exchange-innovating-solutions-for-financial-challenges/",
+  "title": "Financial Health Exchange: Innovating Solutions for Financial Challenges",
+  "intro": "Join Toynbee Hall’s Financial Health Exchange. Explore trends, learn about our innovations, and shape London’s support services future.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/06/FHE-Thumbnail-image.jpg",
+    "alt": "Financial Health Exchange logo over images of events"
+  },
+  "template": "article",
+  "publishedAt": "2023-06-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join Toynbee Hall’s Financial Health Exchange. Explore trends, learn about our innovations, and shape London’s support services future."
+        },
+        {
+          "type": "paragraph",
+          "text": "Join us for an enriching gathering of minds at Toynbee Hall’s Financial Health Exchange. As we navigate the challenges of our time, we are proud to host a forum of over 100 front-line staff from various advice services across London, all united by a common purpose: to uplift the city’s most vulnerable and pioneer the way forward."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our event will bring together the committed teams from Debt Free Advice, City Advice, Macmillian Welfare Benefits Advice, and our Free Legal Advice Clinic which have been empowering individuals and providing guidance on a range of issues such as benefit applications, legal matters, debt, and more. This collective of change-makers has been at the forefront of innovative social support, providing essential lifelines to those who need them most."
+        },
+        {
+          "type": "paragraph",
+          "text": "Together, we will delve into the trends and challenges we are witnessing across all our advice sectors, particularly how the ongoing cost of living crisis and rising energy prices are impacting London’s most vulnerable residents."
+        },
+        {
+          "type": "paragraph",
+          "text": "But it’s not all about the challenges – this event presents a unique opportunity for attendees to gain exclusive insights into our latest developments. Our dedicated staff will be unveiling programme updates and exploring the innovative strategies we’re implementing in response to current challenges. Simultaneously, it offers an invaluable forum for stakeholders, policymakers, and funders to engage with these updates, contribute to the conversation, and align their own strategies with the evolving landscape. This exchange promises to be a stimulating blend of learning, sharing, and shaping the future of financial health services in our community."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Financial Health Exchange is more than just an event – it’s an opportunity to be part of the change. We promise a morning of engaging discussions, inspiring insights, and the chance to contribute to a better future for London’s residents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Don’t miss out on this unique opportunity to stand at the forefront of social change, to learn, share, and shape the future of support services in London."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Book your free tickets via Eventbrite."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

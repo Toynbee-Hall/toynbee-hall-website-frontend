@@ -1,0 +1,69 @@
+{
+  "slug": "audit-227-toynbee-hall-welcomes-initiative-to-fight-food-insecurity-and-poverty-as-london-mayor-announces-free-school-meals-for-all-primary-school-pupils-in-london",
+  "route": "/20/02/2023/toynbee-hall-welcomes-initiative-to-fight-food-insecurity-and-poverty-as-london-mayor-announces-free-school-meals-for-all-primary-school-pupils-in-london/",
+  "title": "Toynbee Hall welcomes initiative to fight food insecurity and poverty, as London Mayor announces free school meals for all primary school pupils in London",
+  "intro": "We welcome London Mayor Sadiq Khan’s announcement of a new scheme to provide free school meals to every primary school pupils.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/02/iStock-538487058.jpg",
+    "alt": "inner lady serving kids in a school cafeteria"
+  },
+  "template": "article",
+  "publishedAt": "2023-02-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We welcome London Mayor Sadiq Khan’s announcement of a new scheme to provide free school meals to every primary school pupils."
+        },
+        {
+          "type": "paragraph",
+          "text": "London Mayor Sadiq Khan has announced a new scheme to provide free school meals to every primary school pupil in the capital for the 2023-2024 academic year. This is a move that we greatly welcome as many Londoners are experiencing extra pressure on their finances due to the impact of the cost of living crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "We welcome the Mayor’s initiative given the recent findings from our free debt advice service, Debt Free Advice. Our service supports over 20,000 people a year with impartial advice, and we have seen a 50% increase in the number of inquiries in January 2023 compared to January 2022.",
+          "links": [
+            {
+              "text": "Debt Free Advice",
+              "href": "https://debtfreeadvice.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The research from Debt Free Advice also shows that in January 2023, we have seen a 47.4% and 44.4% increase in people coming to the service with gas and electric arrears, respectively, compared to the same month last year. Additionally, 27% of new cases to our service are on pre-payment meters. Shockingly, our advisors have reported that 22% of new cases this year are in need of a food bank."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield, Managing Director of Debt Free Advice at Toynbee Hall, praised the Mayor’s initiative, saying,"
+        },
+        {
+          "type": "paragraph",
+          "text": "This initiative will provide a lifeline to families in London as they struggle to stay afloat during the cost of living crisis, creating one less challenge when it comes to keeping children fed and putting more money into parents’ pockets to pay for other essentials."
+        },
+        {
+          "type": "paragraph",
+          "text": "Universal free school meals also protects dignity for children. We know from our work on ‘poverty-proofing’ the school day in Tower Hamlets that universal free school meals protect children from the stigma of poverty, which can have crushing effects on self-esteem."
+        },
+        {
+          "type": "paragraph",
+          "text": "We support the National Education Union’s campaign for Free School Meals for All. We believe that free school meals need to be available to all primary school children in the UK and urge you to do so too. You can join the campaign here.",
+          "links": [
+            {
+              "text": "You can join the campaign here",
+              "href": "https://freeschoolmealsforall.org.uk/take-action"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These statistics highlight the urgent need for more support for families and children across London who are struggling to make ends meet. We believe that no child in London should go hungry. We stand in solidarity with the Mayor and call on the Government to do more to support those who are most in need in our communities."
+        }
+      ]
+    }
+  ],
+  "category": "Uncategorized"
+}

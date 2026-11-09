@@ -1,0 +1,36 @@
+{
+  "slug": "audit-32-ashurst-runners-raise-over-3000-to-help-families-access-justice-at-the-free-legal-advice-centre",
+  "route": "/04/04/2022/ashurst-runners-raise-over-3000-to-help-families-access-justice-at-the-free-legal-advice-centre/",
+  "title": "Ashurst Runners Raise Over £3,000 to help families access justice at the Free Legal Advice Centre",
+  "intro": "On Sunday 3rd April, 10 runners from Ashurst LLP ran the London Landmarks Half Marathon for Toynbee Hall raising over £3,000 for vital legal support that helps families and households exercise their rights and protect their incomes and security. Racing through Westminster and the City of London, the runners completed 13.1 miles in glorious sunshine… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/04/IMG_20220403_090356-1414x1080-1.jpg",
+    "alt": "Ashurst runners group photo"
+  },
+  "template": "article",
+  "publishedAt": "2022-04-04",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Racing through Westminster and the City of London, the runners completed 13.1 miles in glorious sunshine after a month of fundraising and promoting Toynbee Hall’s Free Legal Advice Centre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ashurst have worked with Toynbee Hall for many years to provide access to justice and legal support to people in the local area. Many of the runners have direct experience of the power of the service, volunteering in their free time during weekends and evenings to help people exercise their rights and take action."
+        },
+        {
+          "type": "paragraph",
+          "text": "The vital, on-the-spot legal support that the Free Legal Advice Centre provides is absolutely pivotal in ensuring people can protect their wellbeing, security and finances. During the Covid-19 and the cost of living crisis the service has continued to see unprecedented levels of demand."
+        },
+        {
+          "type": "paragraph",
+          "text": "A huge thank you to all the volunteers and runners at Ashurst who work with us to create a fairer, happier London by working with and supporting our Free Legal Advice Centre."
+        }
+      ]
+    }
+  ],
+  "category": "Uncategorized"
+}

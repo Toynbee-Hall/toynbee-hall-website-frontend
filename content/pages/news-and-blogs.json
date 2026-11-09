@@ -1,27 +1,291 @@
 {
-  "slug": "news-and-blogs",
-  "title": "News and blogs",
-  "intro": "Read the latest news, views and stories from Toynbee Hall and the communities we work alongside.",
+  "slug": "audit-484-news-and-blogs",
+  "route": "/news-and-blogs/",
+  "title": "News and Blogs",
+  "intro": "Read the latest news, stories and perspectives from Toynbee Hall.",
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "What this Budget must deliver for a stronger social safety net",
-      "paragraphs": [
-        "Katie Taylor, Director of Policy, Research & Communities, considers how the Budget can strengthen the social safety net. Published 27 October 2026."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Latest News and Blogs"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/11/Screenshot-2026-11-05-105453-1024x875.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Worried about money this Christmas?"
+        },
+        {
+          "type": "paragraph",
+          "text": "As London’s Christmas lights begin to go on, many people are already worrying about how they’ll afford the weeks ahead. For some of the people supported by Toynbee Hall, making[…]"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/iStock-679555844-1024x652.jpg",
+            "alt": "Council housing blocks contrasted with modern high-rise flats in the background in East London"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What this Budget must deliver for a stronger social safety net"
+        },
+        {
+          "type": "paragraph",
+          "text": "By Katie Taylor, Director of Policy, Research & Communities 27 October 2026 As the Chancellor prepares to deliver the Budget, this is an opportunity to set out what it must[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "https://www.toynbeehall.org.uk/27/10/2026/what-this-budget-must-deliver-for-a-stronger-social-safety-net/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/08/Generated-image-1.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall shortlisted for national technology award for Video Advice Kiosks"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has been shortlisted for Best Use of Technology at the UKCCF Awards 2026. The nomination recognises the development and deployment of our Video Advice Kiosks, which connect people[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/05/08/2026/toynbee-hall-shortlisted-for-national-technology-award-for-video-advice-kiosks/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/IMG_9101-1024x768.jpeg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What can the UK and South Korea learn from each other about helping people in debt?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What can the UK and South Korea learn from each other about supporting people in debt? That was the question at the heart of a recent visit to London and[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/27/07/2026/what-can-the-uk-and-south-korea-learn-from-each-other-about-helping-people-in-debt/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/SCP02819-1-1-1024x575.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Five national award nominations for Toynbee Hall and its Debt Free Advice partnership"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall and the Debt Free Advice partnership have been shortlisted for five national charity awards, recognising our approach to tackling poverty and financial insecurity through advice, community programmes, research, innovation and partnership. […] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/16/07/2026/five-national-award-nominations-for-toynbee-hall-and-its-debt-free-advice-partnership/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-7M4A8357-scaled-1-1024x508.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall announces Board leadership transition"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has announced a planned transition in the leadership of its Board of Trustees, with Alice Gac appointed Chair of Trustees and Thomas Nowacki appointed Deputy Chair, following the[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/16/07/2026/toynbee-hall-announces-board-leadership-transition/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/1-1024x683.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "20 Years of Changing Lives Through Debt Advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has celebrated 20 years of leading Debt Free Advice, marking two decades of helping more than 500,000 Londoners overcome financial challenges and build greater financial security. More than[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/01/07/2026/toynbee-hall-celebrates-20-years-of-debt-free-advice-supporting-more-than-500000-londoners/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/07/DFA-awards-WP-1024x576.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Debt Free Advice partnership led by Toynbee Hall wins national innovation award for improving debt advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free Advice, led by Toynbee Hall, has won a national award for technology designed to help advisers spend more time supporting people facing debt and financial difficulty. The Innovation[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/01/07/2026/debt-free-advice-partnership-led-by-toynbee-hall-wins-national-innovation-award-for-improving-debt-advice/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/06/GB-News-2.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Bringing the Reality of Debt Into the National Conversation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Recently, our Director of Advice Services and Incoming Interim Chief Executive, Matt Dronfield, spoke to a national audience on GB News to highlight debt, financial hardship and how important it can be to access advice services. […] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/19/06/2026/bringing-the-reality-of-debt-into-the-national-conversation/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/LinkAge-Plus-actitivity-session-at-Toynbee-Hall-Community-Centre-scaled-e1744019097251-1024x508.jpg",
+            "alt": "Two older women stretching and dancing in a hall with one man playing the drums."
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Celebrating 20 years of LinkAge Plus"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall is marking 20 years of our LinkAge Plus programme, celebrating two decades of supporting older people across Tower Hamlets to stay connected, active and part of their communities.[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/18/06/2026/celebrating-20-years-of-linkage-plus/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/06/Matt-headshot-1.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall appoints Matt Dronfield as Interim Chief Executive"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has appointed Matt Dronfield as Interim Chief Executive for an 18-month period, as the organisation prepares for its next strategic chapter. The appointment follows a competitive recruitment process[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/03/06/2026/toynbee-hall-appoints-matt-dronfield-as-interim-chief-executive/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/05/toa-heftiba-nrSzRUWqmoI-unsplash-1024x683.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Renters’ rights have changed: what this means for you"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Renters’ Rights Act has introduced major changes to private renting in England. From 1st May 2026 new rules apply to the vast majority of private sector tenancies, strengthening tenants’ rights and increasing rental stability. The Act arguably contains the most significant[…] Read the story",
+          "links": [
+            {
+              "text": "Read the story",
+              "href": "/19/05/2026/renters-rights-have-changed-what-this-means-for-you/"
+            }
+          ]
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Toynbee Hall shortlisted for national technology award",
-      "paragraphs": [
-        "The nomination for Best Use of Technology at the UKCCF Awards 2026 recognises the development and deployment of Video Advice Kiosks."
-      ]
-    },
-    {
-      "type": "richText",
-      "heading": "Learning across borders on debt advice",
-      "paragraphs": [
-        "A recent visit to London explored what the UK and South Korea can learn from each other about supporting people in debt."
+      "type": "linkList",
+      "heading": "Browse the archives",
+      "items": [
+        {
+          "label": "All news",
+          "href": "/category/news/"
+        },
+        {
+          "label": "All blogs",
+          "href": "/category/blogs/"
+        }
       ]
     }
   ]

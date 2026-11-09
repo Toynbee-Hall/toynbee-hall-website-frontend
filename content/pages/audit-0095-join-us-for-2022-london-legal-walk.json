@@ -1,0 +1,69 @@
+{
+  "slug": "audit-95-join-us-for-2022-london-legal-walk",
+  "route": "/09/06/2022/join-us-for-2022-london-legal-walk/",
+  "title": "Join us for 2022 London Legal Walk",
+  "intro": "On Tuesday 28th June, we are taking part in the London Legal Support Trust’s 10k London Legal Walk in support of frontline free legal advice services.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/06/London-Legal-Walk-image.jpg",
+    "alt": "London Legal Walk 2022"
+  },
+  "template": "article",
+  "publishedAt": "2022-06-09",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "On Tuesday 28th June, we are taking part in the London Legal Support Trust’s 10k London Legal Walk in support of frontline free legal advice services."
+        },
+        {
+          "type": "paragraph",
+          "text": "We all live under the same legal system. But if we don’t know what our rights are, and how to secure them then we don’t all have access to justice."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the longest running free legal advice centre in the world, we know that the protections of the law are experienced differently depending on who you are and what resources you have. Its not fair, and thats why for the last 124 years weve been offering free legal advice to people who otherwise couldnt afford it in order that everyone gets access to justice."
+        },
+        {
+          "type": "paragraph",
+          "text": "And we are needed more than ever. Last year we helped nearly 900 people with free, impartial legal advice and over a thousand more used our ‘Know Your Rights‘ resources to self advocate for their rights. And this year many more people need our help, to secure appropriate housing, to be treated with dignity at work, in the immigration system and to keep their families safe.",
+          "links": [
+            {
+              "text": "Know Your Rights",
+              "href": "/know-your-rights/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As need is growing, funding for services like ours are reducing which is why the London Legal Walk is so important: without the money raised by walkers we would struggle to continue."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are walking with the Lord Chief Justice and thousands of lawyers to raise funds for the Toynbee Hall Free Legal Advice Centre. We invite you to walk with us, raise money or support us with a donation to ensure we ensure everyone has access to justice."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Join Team Toynbee Hall and walk with us"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you want to join our team on the walk, please contact Georgia to register. Or if you would rather sponsor our walkers, you can donate to our Free Legal Advice Centre here."
+        },
+        {
+          "type": "paragraph",
+          "text": "On the walk you will get to enjoy some of the best sights our city has to offer. The walk is 2-3 hours in total, before ending with a big street party outside of the Royal Courts of Justice with street food vendors, fire jugglers, musicians and a complimentary drink"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you for your support."
+        }
+      ]
+    }
+  ],
+  "category": "Uncategorized"
+}

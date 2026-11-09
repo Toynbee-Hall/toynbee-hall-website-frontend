@@ -1,0 +1,70 @@
+{
+  "slug": "audit-284-toynbee-hall-and-herbert-smith-freehills-announce-new-collaboration-to-expand-housing-legal-support-in-east-london",
+  "route": "/24/01/2024/toynbee-hall-and-herbert-smith-freehills-announce-new-collaboration-to-expand-housing-legal-support-in-east-london/",
+  "title": "Toynbee Hall and Herbert Smith Freehills Announce New Collaboration to Expand Housing Legal Support in East London",
+  "intro": "The new housing clinic will take place on Wednesday evenings at the Advice Hub at Toynbee Hall.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/MD-and-HSF-announcment-group-photo-scaled.jpg",
+    "alt": "Toynbee Hall and Herbert Smith Freehills group photo"
+  },
+  "template": "article",
+  "publishedAt": "2024-01-24",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall, home to the world’s oldest continuously running free legal advice service, is proud to announce a new collaboration with Herbert Smith Freehills. This collaboration introduces an additional housing clinic, providing critical legal support for individuals facing housing issues in East London.",
+          "links": [
+            {
+              "text": "Herbert Smith Freehills",
+              "href": "https://www.herbertsmithfreehills.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield, Director of Advice Services at Toynbee Hall, said,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall has a storied history of fighting for justice and providing indispensable support to those in need. Our collaboration with Herbert Smith Freehills marks a significant expansion of our services, allowing us to offer four additional in-person appointments per week at our Advice Hub. This initiative will focus on aiding individuals with private or social housing issues, a need that is more pressing than ever.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Georgia Nickson, Pro Bono Associate at Herbert Smith Freehills, said,"
+        },
+        {
+          "type": "paragraph",
+          "text": "We are delighted to be collaborating with Toynbee Hall to provide much needed free housing law advice. As London’s housing crisis shows no signs of abating, we are committed to providing impactful pro bono and to facilitate access to justice, in order to provide our local community with the legal support they deserve.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the past year, Toynbee Hall’s Advice Hub has helped over 13,000 clients access both legal and financial support, leaving Londoners over £9.5 million better off. This partnership will help even more Londoners access free legal housing advice. Housing problems alone made up 33% of Toynbee Hall’s cases last year. Find out more about the impact our services in our latest impact report.",
+          "links": [
+            {
+              "text": "latest impact report",
+              "href": "/about-us/our-impact/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The need for free legal advice is increasing. Since 2013, legal aid provision has dropped by 35% leaving only 1 in 4 people eligible for free legal support. This new partnership between Toynbee Hall and Herbert Smith Freehills is not only a response to these challenges but also a testament to our shared commitment to social justice. Together, we will make a substantial difference in the lives of those facing housing issues in East London."
+        },
+        {
+          "type": "paragraph",
+          "text": "The housing clinic will take place on Wednesday evenings at the Advice Hub at Toynbee Hall, providing a convenient and accessible opportunity for people to access the help they need. For more information about our free housing advice and other advice services offered by Toynbee Hall, click here.",
+          "links": [
+            {
+              "text": "click here",
+              "href": "/advice."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

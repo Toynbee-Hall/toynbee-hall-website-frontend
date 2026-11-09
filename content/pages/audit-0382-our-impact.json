@@ -1,0 +1,219 @@
+{
+  "slug": "audit-382-our-impact",
+  "route": "/about-us/our-impact/",
+  "title": "Our impact",
+  "intro": "OUR LATEST IMPACT REPORT Building a fairer future Impact Report 2024-25Read our 2024-25 Impact Report Advice In 2024-25, Toynbee Hall has substantially impacted the lives of tens of thousands of people in the local community. people supported by the Advice hub at toynbee hall People across london helped with their debt and money… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/EWYP.jpg",
+    "alt": "Our impact — Toynbee Hall"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "OUR LATEST IMPACT REPORT"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Building a fairer future"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Impact Report 2024-25"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/02/A-Impact-Website.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "4538_ToynbeeHall_ImpactReport_V2 (1) (1)_Page_01"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Advice"
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2024-25, Toynbee Hall has substantially impacted the lives of tens of thousands of people in the local community."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/toynebee-8-scaled.jpg",
+            "alt": "Advice client receives advice in the Toynbee Hall advice centre",
+            "caption": "toynebee-8"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/toynebee-6-scaled.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "toynebee-6"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "* based on annual income for ongoing payment and any one-off payments"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Most common debt types"
+        },
+        {
+          "type": "paragraph",
+          "text": "Water Bills"
+        },
+        {
+          "type": "paragraph",
+          "text": "Council Tax"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rent arrears"
+        },
+        {
+          "type": "paragraph",
+          "text": "“I was so surprised by how quick the process was. I couldn’t believe how much she [debt advisor] and Debt Free Advice have helped me. I still can’t believe it.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "“The help we received was truly outstanding, and we are incredibly grateful for the brilliant services provided. Thank you again!”"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Community"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/07/IMG_5977-scaled.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "IMG_5977"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/cropped-cropped-cropped-WhatsApp-Image-2024-09-18-at-12.15.49-1-2-scaled-1.jpeg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "WhatsApp Image 2024-09-18 at 12.15.49 (1) (2)"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Past reports"
+        },
+        {
+          "type": "paragraph",
+          "text": "Download past Impact Reports to find out more about the scale and impact of our work in the East End and beyond in recent years."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-Screenshot-2026-03-13-111906.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2023-2024"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/cropped-4538_ToynbeeHall_ImpactReport_V2-1-1_Page_01-scaled-e1705406798457.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2022-23"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/06/Front-cover-thumbnail-image.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2020-21"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/Website-thumbnail-scaled.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2019"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/cropped-Front-cover-image.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2018"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/cropped-2017-IR-thumbnail-2.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2017"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/cropped-2016-IR-thumbnail-2.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2016"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sign up to our e-newsletter"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

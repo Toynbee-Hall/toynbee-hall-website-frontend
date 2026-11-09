@@ -1,0 +1,84 @@
+{
+  "slug": "audit-76-we-are-delighted-to-announce-the-appointment-of-rebecca-sycamore-as-our-new-permanent-chief-executive",
+  "route": "/08/03/2023/we-are-delighted-to-announce-the-appointment-of-rebecca-sycamore-as-our-new-permanent-chief-executive/",
+  "title": "We are delighted to announce the appointment of Rebecca Sycamore as our new permanent Chief Executive",
+  "intro": "Rebecca becomes the organisation’s first permanent female Chief Executive since we were founded in 1884.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/03/RS-Announcment-Wordpress-feature-image-size-1200-x-628-1.png",
+    "alt": "Rebecca Sycamore alongside quote"
+  },
+  "template": "article",
+  "publishedAt": "2023-03-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Rebecca is the organisation’s first permanent female Chief Executive since we were founded in 1884."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are delighted to announce the appointment of Rebecca Sycamore as our new permanent Chief Executive, succeeding Interim Chief Executive Alex Botha, after a recruitment process last year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rebecca brings a wealth of experience in the not-for-profit sector. She was previously Executive Director of Strategy and Development at leading homelessness charity St. Mungo’s and has also held positions at Crisis and Homeless Link."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rebecca joins the organisation at a time when local communities are feeling the impact of the cost-of-living crisis, which is compounding pre-existing challenges people face every day."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Joining Toynbee Hall, Rebecca said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Commenting on Rebecca’s appointment, Stephen Burns, Chair of Toynbee Hall said;"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Women’s History Month Event – Thursday 30th March"
+        },
+        {
+          "type": "paragraph",
+          "text": "We announce Rebecca’s appointment on International Women’s Day, as Rebecca becomes Toynbee Hall’s first permanent female Chief Executive."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/03/7M4A8112-1024x683.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "This announcement also coincides with Women’s History Month. To celebrate, we will be hosting an event on Thursday 30th March to explore the rich history of Toynbee Hall’s commitment to women’s equality and examine the challenges that remain."
+        },
+        {
+          "type": "paragraph",
+          "text": "This event, ‘Empowering Women: Strategies for a More Equitable Society’, will be one of the first opportunities to meet Rebecca and she will be joined by Polly Toynbee (Guardian Columnist), Muna Yassin MBE (CEO of Fair Money Advice), Sarah Michael (Pro Bono Lawyer of Allen & Overy) and more guest speakers to be announced."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tickets are priced at £10 to attend in person or £5 to attend online plus a booking fee and all funds raised will go towards supporting the Women’s Only Free Legal Advice Clinic on Saturdays. This important service provides free legal advice and support to women who may not otherwise have access to legal representation.",
+          "links": [
+            {
+              "text": "Free Legal Advice Clinic",
+              "href": "/free-advice/legal-advice/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Find out more and book your tickets now"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

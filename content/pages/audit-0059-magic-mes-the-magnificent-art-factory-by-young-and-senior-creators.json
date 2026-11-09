@@ -1,0 +1,61 @@
+{
+  "slug": "audit-59-magic-mes-the-magnificent-art-factory-by-young-and-senior-creators",
+  "route": "/06/12/2019/magic-mes-the-magnificent-art-factory-by-young-and-senior-creators/",
+  "title": "Magic Me’s The Magnificent Art Factory by Young and Senior Creators",
+  "intro": "Year 4 pupils from Christ Church Primary School and older people from Toynbee Hall’s Wellbeing Centre showcased their artwork created in collaboration. On Thursday 5th December Year 4 pupils from Christ Church Primary School and older people from Toynbee Hall’s Wellbeing Centre showcased The Magnificent Art Factory that they had co-created to relatives and visitors… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/12/20191205_154321-scaled.jpg",
+    "alt": "Magic Me's The Magnificent Art Factory"
+  },
+  "template": "article",
+  "publishedAt": "2019-12-06",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Year 4 pupils from Christ Church Primary School and older people from Toynbee Hall’s Wellbeing Centre showcased their artwork created in collaboration."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Thursday 5th December Year 4 pupils from Christ Church Primary School and older people from Toynbee Hall’s Wellbeing Centre showcased The Magnificent Art Factory that they had co-created to relatives and visitors at an exhibition at the Brick Lane based Primary School."
+        },
+        {
+          "type": "paragraph",
+          "text": "Magic Me is an inter-generational arts charity bringing generations and communities through creative projects. At Toynbee Hall, we bring together people from East London to build stronger and more secure communities. This inter-generational project bridges the gap between local children and older people through creative activities and brings our community closer together."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the last 10 weeks, Magic Me brought together Year 4 pupils and Older People older people that attend Toynbee Hall’s Wellbeing Centre to create artwork together through a series of workshops."
+        },
+        {
+          "type": "paragraph",
+          "text": "Working with artists Ben Connors and Shepherd Manyika the group used different art forms and techniques to create characters and sculptures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Together they found shared values and interests and decided what characteristics our characters might have. First using illustration, then in clay, they learnt how to move between 2D and 3D artworks and how you can create stories through sculpture. They were inspired by pagodas, totems and other stackable structures."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/12/ELCUgw_W4AAX0fS-1024x768.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“It was lovely to visit Christ Church Primary School and see the artworks the students have been making with people from the local community around Toynbee Hall. Thanks to the great team at Magic Me Arts for bringing everyone together so creatively.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jim Minton, Chief Executive at Toynbee Hall"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

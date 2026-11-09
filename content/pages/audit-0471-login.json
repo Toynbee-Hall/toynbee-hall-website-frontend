@@ -1,0 +1,9 @@
+{
+  "slug": "audit-471-login",
+  "route": "/login/",
+  "title": "Login",
+  "intro": "[ultimatemember form_id=928]",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

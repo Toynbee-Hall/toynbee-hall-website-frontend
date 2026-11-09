@@ -1,0 +1,95 @@
+{
+  "slug": "audit-305-introducing-our-new-east-end-influencers-and-their-first-blog-post-the-5-lunch-challenge",
+  "route": "/25/09/2018/introducing-our-new-east-end-influencers-and-their-first-blog-post-the-5-lunch-challenge/",
+  "title": "Introducing the new East End Influencers and their first blog post – The £5 Lunch Challenge",
+  "intro": "Over the summer we asked local people to share their experiences of East London, challenge assumptions and be part of our fight for a fairer London, by becoming East End Influencers. The Influencers will be asked to blog, vlog and create a range of online content for Toynbee Hall that reflects all aspects of life… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/09/stencil.default.jpg",
+    "alt": "Introducing the new East End Influencers and their first blog post – The £5 Lunch Challenge — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-09-25",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "The Influencers will be asked to blog, vlog and create a range of online content for Toynbee Hall that reflects all aspects of life in East London as well as some of the challenges in the area."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first blogs are based on a challenge we set the Influencers on their initial training. We gave them £5 each and told them to go and get themselves some lunch. At first, this seemed very straight forward as £5 should be more than enough for lunch, but as this rapidly changing area is seeing a host of cafes, and eateries of all kinds are pop up all around us, this seemingly generous lunch budget suddenly doesn’t quite get you as far as you might think and illustrates a growing concern for many about the costs of living."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read their blogs to see how they got on and what this revealed about the area in the links below, but first meet our Influencers:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Meet the Influencers:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/09/Samira-Johnson-300x259.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Samira Johnson"
+        },
+        {
+          "type": "paragraph",
+          "text": "I am Samira Johnson – a fun loving, family orientated, creative young lady who has lived in Tower Hamlets for the past 26 years. I love living in East London in the most dynamic, creative and vibrant borough. I am a Financial Educator / Customer Service Assistant and soon to be a Community Money Mentor. I love learning new things, helping others to enrich their lives, and improving my skills and mindset."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What do you care about?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I am very passionate about my community, especially promoting all the things you can do – particularly on a budget. I love walking and there is so much to discover in our outdoor spaces. Due to the nature of what I do, I care about helping people with money management and financial education. I like to engage with people across different ages and ethnic groups. I try my best to stay fit and active. Helping our youth by finding ways to keep them inspired and raise their aspirations is another area that I care about."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "What stuff will you blog about?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I will blog about money management tips, how to enjoy and explore the beauty of the borough without spending a lot of cash, opportunities for our youth in the borough and beyond. I am self employed – which comes with a lot of exciting moments and life lessons. I hope to shine a light on my journey from time to time."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Alexandra Mitrica"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/09/Alexandra-Mitrica-300x199.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "I am a new yoga teacher, having switched from a 10 year stint in consultancy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Originally from Bucharest (Romania), I moved to London almost 5 years ago and been living in East London for half of the time (the other half spent in Haringey)."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m passionate about nature, built-in heritage, yoga, cinema and music."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "audit-608-peopleshistoryofpetticoatlane",
+  "route": "/whats-on/peopleshistoryofpetticoatlane/",
+  "title": "Celebration: The People’s History of Petticoat Lane",
+  "intro": "Get ready to celebrate the history of Petticoat Lane programme with an unforgettable in-person event.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/11/The-Peoples-History-of-Petticoat-Lane.jpg",
+    "alt": "Celebrating the History of Petticoat Lane"
+  },
+  "template": "event",
+  "dateLabel": "Monday, 4 December 2023",
+  "venue": "Toynbee Hall, 28 Commercial Street, London, E1 6LS",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Monday, 4 December 2023"
+        },
+        {
+          "type": "paragraph",
+          "text": "17:30"
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall, 28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Petticoat Lane is special because of working class and migrant communities. From the Huguenots in the 14th Century, through to the Bangladeshi communities of today, the area has consistently formed a space of refuge and welcome."
+        },
+        {
+          "type": "paragraph",
+          "text": "The People’s History of Petticoat Lane project, is part of a Historic England managed High Streets Heritage Action Zone project, celebrating, preserving, and highlighting the uniqueness of this area."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall, in partnership with Tower Hamlets Council, and other local art and culture partners has supported a programme of community-led cultural activities and events. As part of this programme, a community decision-making group made up of local stallholders, businesses, creatives and residents collectively designed, curated and delivered a vibrant cultural programme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Join us to celebrate the achievements of the local community in delivering this programme."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Share food with us, and hear about the process and achievements of local residents and commissioned artists",
+            "Enjoy the final performance of commissioned group AdLibretto as they perform ‘Petticoat Lane: The Musical’"
+          ]
+        }
+      ]
+    }
+  ],
+  "timeLabel": "17:30"
+}

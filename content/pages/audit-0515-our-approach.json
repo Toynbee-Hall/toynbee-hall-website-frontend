@@ -1,0 +1,326 @@
+{
+  "slug": "audit-515-our-approach",
+  "route": "/research/our-approach/",
+  "title": "Our Approach",
+  "intro": "Our Research Toynbee Hall was established in 1884 with a radical vision that the people shaping policy should understand poverty not from a distance, but through direct experience of life in London’s East End. From the beginning our work has been rooted in the simple truth that solutions are strongest when they are shaped by… Read more",
+  "image": {
+    "src": "/images/live-site/research.jpg",
+    "alt": "Attendees listening to a speaker at a Toynbee Hall research event"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall was established in 1884 with a radical vision that the people shaping policy should understand poverty not from a distance, but through direct experience of life in London’s East End. From the beginning our work has been rooted in the simple truth that solutions are strongest when they are shaped by the people who live that reality every day. Since 2017 we have been expanding on that original vision with our participatory action research (PAR) approach that takes co-production a step further than most. PAR is a form of peer research; in other words research where people are not treated as mere subjects, but are the leaders of it. We produce truly insightful findings by involving people with lived experience from the very beginning at the design stage, who can uncover the right questions to ask. This means the people whose lives are most affected by policy are the ones choosing the focus, gathering the evidence, and shaping the solutions. We are able to do this with the support of around 90 trained peer researchers and over 200 experts by experience. Our research does more than describe problems. It shifts power. Our work provides a platform for marginalised voices to influence thinking and policy-making both locally and nationally based on lived experience, to create long-term solutions to the systemic challenges people face."
+        },
+        {
+          "type": "paragraph",
+          "text": "We involve the community in our research from the beginning and value everyone’s knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "We work to make meaningful changes with the research we do, in line with the data collected and community priorities."
+        },
+        {
+          "type": "paragraph",
+          "text": "We produce high-quality research to give us and others a deep insight into the topic at hand."
+        },
+        {
+          "type": "paragraph",
+          "text": "We strongly believe that PAR leads to better research, stronger civic engagement, and positive social change. PAR is also an opportunity to engage and share power in a trauma-informed way with marginalised groups that have historically been deemed “hard-to-reach”; we have found our approach means more confidence from peer researchers to engage with difficult conversations with power holders and trust that the process will lead to change."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our Research Areas"
+        },
+        {
+          "type": "paragraph",
+          "text": "Across all our projects we have a focus on low-income and marginalised communities, targeting our work towards those who would benefit the most from policy change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone has the financial security they need to live a good life."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example Project: ﻿More than just education",
+          "links": [
+            {
+              "text": "﻿More than just education",
+              "href": "/research/more-than-just-education"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone has equal access to participate within society."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example Project: Freedom: Access to Cash in the UK",
+          "links": [
+            {
+              "text": "Freedom: Access to Cash in the UK",
+              "href": "/research/access-to-cash"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone has high quality housing and a good environment to live in."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example Project: Net Zero Transition for Low-income Consumers",
+          "links": [
+            {
+              "text": "Net Zero Transition for Low-income Consumers",
+              "href": "/net-zero"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone has access to services and support to lead a healthy life."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example Project: Emotional Support for Young People",
+          "links": [
+            {
+              "text": "Emotional Support for Young People",
+              "href": "/research/emotional-support-for-young-people"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Current Projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of our current projects for 2026 include:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/cropped-cropped-Website-thumbnail-scaled-e1755181761492-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Website thumbnail"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Coproducing Universal Credit Disability Benefits"
+        },
+        {
+          "type": "paragraph",
+          "text": "A PAR project with Disabled people across England and Wales to explore changes to Universal Credit’s health element. Peer researchers will co-design the study, gather insights, and develop practical recommendations to influence policy and protect living standards."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/cropped-iStock-679555844.jpg",
+            "alt": "Council housing blocks contrasted with modern high-rise flats in the background in East London",
+            "caption": "Council housing blocks contrasted with modern high-rise flats"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Reshaping Temporary Accommodation for Young Disabled People"
+        },
+        {
+          "type": "paragraph",
+          "text": "Young disabled people in North-East London leading research to transform temporary accommodation. In partnership with Disability Rights UK and funded by Trust for London, we’re building knowledge, power and solutions to challenge an unjust housing system."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/03/cropped-Parents-emotional-support-wall-3-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Parents emotional support wall 3"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Codesigning Emotional Wellbeing Activities for Young People and their Families"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drawing from the findings of our Emotional Support for Young People PAR project, we have been trialling a new co-designed approach to building emotional relations between young people and their families."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Who we’ve worked with"
+        },
+        {
+          "type": "paragraph",
+          "text": "We partner with regulators, local government, charities, universities and other organisations on various research and evaluation projects. We also provide consultancy and training for participatory methodologies. Some of the organisations we’ve worked with include:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/6.png",
+            "alt": "University of Surrey Logo",
+            "caption": "University of Surrey Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/07/GLA-logo-carousel.png",
+            "alt": "Greater London Authority",
+            "caption": "GLA logo carousel"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/1.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Disability Rights UK Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/7.png",
+            "alt": "Ofgem Logo",
+            "caption": "Ofgem Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/10.png",
+            "alt": "Money and Mental Health Policy Institute Logo",
+            "caption": "Money and Mental Health Policy Institute Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/2.png",
+            "alt": "Thrive LDN Logo",
+            "caption": "Thrive LDN Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/London-Borough-of-Tower-Hamlets-Carousel.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "London Borough of Tower Hamlets - Carousel"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/4.png",
+            "alt": "Queen Mary, University of London Logo",
+            "caption": "Queen Mary, University of London Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/8.png",
+            "alt": "Renters Reform Coalition Logo",
+            "caption": "Renters Reform Coalition Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/5.png",
+            "alt": "Fair by Design Logo",
+            "caption": "Fair by Design Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/3.png",
+            "alt": "Switchback Logo",
+            "caption": "Switchback Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/9.png",
+            "alt": "London Housing Panel Logo",
+            "caption": "London Housing Panel Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/01/Untitled-design.png",
+            "alt": "Save the Children UK Logo",
+            "caption": "Save the Children UK Logo"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/07/HealthFDN-logo-carausel.png",
+            "alt": "The Health Foundation",
+            "caption": "HealthFDN logo carausel"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Reflections from our Peer Researchers"
+        },
+        {
+          "type": "paragraph",
+          "text": "There was never a point where we were told we have to do something. It was always what can we do to make it better. If something didn’t work, we would have an actual discussion.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "At this early stage being able to steer the focus of the project and make the decisions as a group – as well as seeing how this shaped the next stages of the project – really encouraged us and built our confidence as a group that we were being listened to and could affect things.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "As the project progressed, we increasingly built confidence that we could affect things, and that feeling really sticks with you and is empowering."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

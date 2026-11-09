@@ -1,0 +1,37 @@
+{
+  "slug": "audit-368-activities-against-isolation-a-new-online-community-centre",
+  "route": "/30/03/2020/activities-against-isolation-a-new-online-community-centre/",
+  "title": "Activities Against Isolation: A new online community centre",
+  "intro": "We’ve a launched a new online community centre for anyone who is worried they’ll be lonely or bored during isolation. After having to stop all our face-to-face activities in our Community Centre, we’ve a launched a new online community centre for anyone who is worried they’ll be lonely or bored during isolation. We’ll put on… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/04/Header-image.jpg",
+    "alt": "Activities against Isolation: an online community centre"
+  },
+  "template": "article",
+  "publishedAt": "2020-03-30",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We’ve a launched a new online community centre for anyone who is worried they’ll be lonely or bored during isolation."
+        },
+        {
+          "type": "paragraph",
+          "text": "After having to stop all our face-to-face activities in our Community Centre, we’ve a launched a new online community centre for anyone who is worried they’ll be lonely or bored during isolation. We’ll put on activities, share ideas to keep us entertained, and we want you to do the same. Use this space to chat with your neighbours, have some fun and help each other out. Just because we’re in isolation doesn’t mean we have to be lonely."
+        },
+        {
+          "type": "paragraph",
+          "text": "A big part of what we do is through our community centre, which has a programme of more than 20 activities a week for free for the community. In order to keep people safe and observe advice about social distancing we’ve had to close our physical centre for now. So this is our virtual community centre – We’ll pop up a regular timetable in the next couple of days – containing things like opportunities to chat with your local community, online video classes sharing things as diverse as cooking, kids activities, and yoga."
+        },
+        {
+          "type": "paragraph",
+          "text": "Take a look at our schedule and join our online community."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

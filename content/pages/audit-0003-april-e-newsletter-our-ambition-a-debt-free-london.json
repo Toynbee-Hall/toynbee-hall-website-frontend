@@ -1,0 +1,25 @@
+{
+  "slug": "audit-3-april-e-newsletter-our-ambition-a-debt-free-london",
+  "route": "/01/05/2019/april-e-newsletter-our-ambition-a-debt-free-london/",
+  "title": "April E-Newsletter – Our ambition: a debt free London",
+  "intro": "Sign up to our monthly e-newsletter:",
+  "template": "article",
+  "publishedAt": "2019-05-01",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sign up to our monthly e-newsletter:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

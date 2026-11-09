@@ -1,0 +1,91 @@
+{
+  "slug": "audit-83-proms-at-home-proms-at-st-judes-announce-free-online-festival-of-music-art-and-literture-starting-saturday-13th-june",
+  "route": "/08/06/2020/proms-at-home-proms-at-st-judes-announce-free-online-festival-of-music-art-and-literture-starting-saturday-13th-june/",
+  "title": "Proms at Home: Proms at St Jude’s announce free online music and literary festival starting Saturday 13th June.",
+  "intro": "This year’s music and literary festival will be online and will raise funds for Toynbee Hall and North London Hospice. Despite lockdown, Proms at St Jude’s Festival of Music and Arts, a long-standing supporter of Toynbee Hall, have announced Proms at Home this year. They will be delivering a programme of performances online starting on… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/06/Proms-at-Home.jpg",
+    "alt": "Proms at home"
+  },
+  "template": "article",
+  "publishedAt": "2020-06-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This year’s music and literary festival will be online and will raise funds for Toynbee Hall and North London Hospice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Despite lockdown, Proms at St Jude’s Festival of Music and Arts, a long-standing supporter of Toynbee Hall, have announced Proms at Home this year. They will be delivering a programme of performances online starting on 13 June – all free.",
+          "links": [
+            {
+              "text": "Proms at Home",
+              "href": "https://www.promsatstjudes.org.uk/2020/daily-events.php"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Download the programme here.",
+          "links": [
+            {
+              "text": "the programme here",
+              "href": "https://www.1st-impression.org/wp-content/uploads/2020/06/Proms-at-Home-2020-Programme-linked.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Proms audiences have been generous supporters of Toynbee Hall’s youth projects for 19 years, raising a staggering £645,000 in that time. This support has helped young people in the East End to improve their educational attainment and employment prospects, and drive positive change in their communities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of the usual festival, this year they’re opening the doors virtually to a wonderful array of music, literature, family events and even heritage walks that you can take part in safely. All these are unique to Proms and can of course be reached from anywhere in the world.",
+          "links": [
+            {
+              "text": "music",
+              "href": "https://www.promsatstjudes.org.uk/music-events.php"
+            },
+            {
+              "text": "literature",
+              "href": "https://www.promsatstjudes.org.uk/litfest-events.php"
+            },
+            {
+              "text": "family events",
+              "href": "https://www.promsatstjudes.org.uk/kids-events.php"
+            },
+            {
+              "text": "heritage walks",
+              "href": "https://www.promsatstjudes.org.uk/walks-events.php"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch the personal welcome from Proms Founder and Trustee Susie Gregson, filmed in Hampstead Garden Suburb."
+        },
+        {
+          "type": "paragraph",
+          "text": "All tickets are free. To book, click on the Book Tickets & What’s On button above, or click on the event title in the programme. You need only one ticket per screen for each event. To take part, you will just need to click on the links we’ll send you."
+        },
+        {
+          "type": "paragraph",
+          "text": "We would love to raise funds again this year for our wonderful partner charities Toynbee Hall and North London Hospice. So please consider clicking on our virtual donation bucket."
+        },
+        {
+          "type": "paragraph",
+          "text": "The musical programme includes:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• A violin and piano recital by Braimah and Konya Kanneh-Mason • Aurora Orchestra with Dame Sarah Connolly and Andrew Staples performing Song of the Earth and conductor Nicholas Collon giving a pre-concert talk • Jeremy Sassoon presenting the music of the greatest ever singer-pianists"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

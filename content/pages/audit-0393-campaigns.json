@@ -1,0 +1,9 @@
+{
+  "slug": "audit-393-campaigns",
+  "route": "/campaigns/",
+  "title": "Campaigns",
+  "intro": "",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": []
+}

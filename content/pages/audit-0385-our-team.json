@@ -1,0 +1,128 @@
+{
+  "slug": "audit-385-our-team",
+  "route": "/about-us/our-team/",
+  "title": "Our team",
+  "intro": "Our People report 2026 Read our latest diversity report to highlight where we are as an organisation, and our EDI strategy, about what more needs to be done to offer fairer and more inclusive opportunities. Read the report Senior Management Team Matt Dronfield Interim Chief Executive Elizabeth Stevenson Head of Fundraising and Communications David French… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our People report 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read our latest diversity report to highlight where we are as an organisation, and our EDI strategy, about what more needs to be done to offer fairer and more inclusive opportunities.",
+          "links": [
+            {
+              "text": "EDI strategy",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/01/EDI-Strategy-2025-27.pdf"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/09/cropped-Screenshot-2026-09-23-142505.png",
+            "alt": "Our People Report front cover",
+            "caption": "Our People Report V4 1"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Senior Management Team"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/cropped-Matt-D.jpg",
+            "alt": "Matt Dronfield, DFL",
+            "caption": "cropped-Matt-D.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Matt Dronfield"
+        },
+        {
+          "type": "paragraph",
+          "text": "Interim Chief Executive"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-Lizzie-headshot26-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Lizzie-headshot26"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Elizabeth Stevenson"
+        },
+        {
+          "type": "paragraph",
+          "text": "Head of Fundraising and Communications"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-3-1-e1758716453602.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "3"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "David French"
+        },
+        {
+          "type": "paragraph",
+          "text": "Director of Finance & Operations"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/08/cropped-Stephanie-Headshot.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-Stephanie-Headshot.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Stephanie Ebohon"
+        },
+        {
+          "type": "paragraph",
+          "text": "Head of People & Culture"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/cropped-Katie-headshot26-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Katie-headshot26"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Katie Taylor"
+        },
+        {
+          "type": "paragraph",
+          "text": "Director of Policy, Research and Communities"
+        }
+      ]
+    }
+  ]
+}

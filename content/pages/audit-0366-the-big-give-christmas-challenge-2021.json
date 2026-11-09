@@ -1,0 +1,91 @@
+{
+  "slug": "audit-366-the-big-give-christmas-challenge-2021",
+  "route": "/29/11/2021/the-big-give-christmas-challenge-2021/",
+  "title": "The Big Give Christmas Challenge 2021",
+  "intro": "Double your donation and help us raise £25,000 for young people this Christmas!",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/11/Pupil-Power-MASTER.png",
+    "alt": "The Big Give Christmas Challenge 2021 — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2021-11-29",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Double your donation and help us raise £25,000 for young people this Christmas!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Between 30 Nov – 7 Dec 2021 Toynbee Hall are taking part in the Big Give Christmas Challenge and aim to £25,000 to support young change makers tackle the issues that matter to them and their peers.",
+          "links": [
+            {
+              "text": "the Big Give Christmas Challenge",
+              "href": "https://donate.thebiggive.org.uk/campaign/a056900001v4qQGAAY"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "All week, all donations to our theBigGive.co.uk campaign will automatically be doubled thanks to the help of the fantastic people at Proms at St Jude’s and the Big Give’s partner, The Childhood Trust. So, give what you can before midday on Tuesday 7th December and have double the impact!",
+          "links": [
+            {
+              "text": "theBigGive.co.uk",
+              "href": "https://donate.thebiggive.org.uk/campaign/a056900001v4qQGAAY"
+            },
+            {
+              "text": "Proms at St Jude’s",
+              "href": "https://www.promsatstjudes.org.uk/"
+            },
+            {
+              "text": "The Childhood Trust",
+              "href": "http://www.childhoodtrust.org.uk/"
+            },
+            {
+              "text": "have double the impact",
+              "href": "https://donate.thebiggive.org.uk/campaign/a056900001v4qQGAAY"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "All funds raised in our campaign will go to support our work cultivating young change makers as part of When We Speak, Toynbee Hall’s flagship youth programme that supports amplify the power found in the lived experiences of young people to shape and bring about change in their communities.",
+          "links": [
+            {
+              "text": "When We Speak",
+              "href": "/when-we-speak/#the-programme"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In the last year, When We Speak has provided mentoring, training, specialised coaching, youth led spaces and funding opportunities that have enabled 9 young change makers deliver their own social action project. In 2022, they want to do even more to help powerful young people speak up and out!"
+        },
+        {
+          "type": "paragraph",
+          "text": "To double you donation to help more inspirational young people become catalysts for real change visit our Big Give Cultivating Young Change Makers page before Tuesday midday.",
+          "links": [
+            {
+              "text": "Big Give Cultivating Young Change Makers",
+              "href": "https://donate.thebiggive.org.uk/campaign/a056900001v4qQGAAY"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For more information on how to donate during the Challenge please contact us at fundraising@toynbeehall.org.uk.",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.org.uk",
+              "href": "mailto:%20fundraising@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

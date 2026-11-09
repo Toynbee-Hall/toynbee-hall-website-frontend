@@ -1,0 +1,101 @@
+{
+  "slug": "audit-286-a-statement-on-the-renters-reform-bill",
+  "route": "/24/04/2024/a-statement-on-the-renters-reform-bill/",
+  "title": "A Statement from the Renters Reform Coalition on the Renters (Reform) Bill",
+  "intro": "At Toynbee Hall, we share the Renters Reform Coalition’s view that the Renter’s (Reform) Bill completely fails to do what it says on the tin.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/iStock-679555844.jpg",
+    "alt": "Council housing blocks contrasted with modern high-rise flats in the background in East London"
+  },
+  "template": "article",
+  "publishedAt": "2024-04-24",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall and Renters Reform Coalition members will not accept this Renters (Reform) Bill."
+        },
+        {
+          "type": "paragraph",
+          "text": "In its current form, the Renters (Reform) Bill will be a failure."
+        },
+        {
+          "type": "paragraph",
+          "text": "The 2019 Conservative Manifesto promised a ‘better deal for renters’ and the government’s White Paper promised a private rented sector “with affordability, security and quality at its heart.” We have been clear from the outset that the Renters (Reform) Bill would have no chance of achieving these aims without significant changes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unfortunately, as groups representing and working alongside private tenants in England, our concerns have not been taken seriously. It is revealing that ministers have met with lobbyists for landlords and estate agents twice as often as they have met groups representing renters1."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of engaging with us, the bill has been watered down again and again by the government, with several rounds of damaging concessions to backbench MPs that have fundamentally weakened it. The amendments tabled recently by the government are just the final straw."
+        },
+        {
+          "type": "paragraph",
+          "text": "The result of all the government’s backtracking is that we have now have a bill that abolishes section 21 in name only – there is no guarantee it would ever fully abolish section 21, and even then the new tenancy system set to replace it will be little better. This legislation is intended to give the impression of improving conditions for renters, but in fact it preserves the central power imbalance at the root of why renting in England is in crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "That crisis summarised: tenants face constant insecurity, with more than a quarter of all private renters having lived in three or more private rented homes in the previous five years2, and average tenancy lengths well below other European countries. Poor conditions are also rife, with 22% of privately renting households reporting avoiding making complaints for fear of being evicted3. This fear is not unfounded, with a shocking 46% of those who complain about conditions receiving a section 21 notice within 6 months4. Meanwhile, a lack of affordability is plaguing renters, with large numbers of households on low incomes being charged rents they cannot afford, without access to alternative housing options. The result is record numbers of people being made homeless, and an increasingly untenable financial strain on local authorities due to the number of households trapped in temporary accommodation."
+        },
+        {
+          "type": "paragraph",
+          "text": "To the renters we represent and work alongside we say: in its current form this bill isn’t the change we have been promised, the change that might start to tackle this crisis in private renting."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is not too late to fix it. We are calling on ministers to immediately table amendments that enact our proposals."
+        },
+        {
+          "type": "paragraph",
+          "text": "If we do not see a change in this government’s approach, it will fall to whoever forms the next government to introduce the change that renters demand and so desperately need."
+        },
+        {
+          "type": "paragraph",
+          "text": "The RRC sets out the following conditions to give our full support for a package of rental reforms:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Reversing the concessions to the Bill made to backbench MPs which see the end of section 21 delayed indefinitely, trapping tenants into tenancy for 6 months, and reviewing selective licensing to reduce the burden on landlords.",
+            "Giving tenants 4 months’ notice when they are evicted, rather than 2 months’ notice proposed at present (and which is the same as the status quo for section 21 evictions).",
+            "Protecting renters from eviction under the new landlord circumstances grounds for the first two years of a tenancy, rather than the 6 months proposed which offers no improvement on the status quo.",
+            "Implementing strong safeguards to prevent unscrupulous landlords abusing the new grounds for eviction, which risk being used in essentially the same way as section 21 notices.",
+            "Giving courts maximum discretion to identify if there are good reasons why an eviction should not take place.",
+            "Limiting in-tenancy rent increases at the lowest of either inflation or wage growth, to prevent unaffordable rent increases being no-fault ‘economic’ evictions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "References: 1. https://www.politicshome.com/news/article/ministers-met-landlords-twice-often-tenants-groups-renters-reform-bill 2. https://england.shelter.org.uk/media/press_release/every_seven_minutes_a_private_renter_is_served_a_no-fault_eviction 3. https://www.gov.uk/government/statistics/english-housing-survey-2021-to-2022-headline-report/english-housing-survey-2021-to-2022-headline-report 4. https://www.theguardian.com/money/2018/aug/23/uk-rent-groups-deliver-petition-calling-for-ban-on-unfair-evictions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Join the campaign: https://rentersreformcoalition.co.uk/join-the-campaign.",
+          "links": [
+            {
+              "text": "https://rentersreformcoalition.co.uk/join-the-campaign",
+              "href": "https://rentersreformcoalition.co.uk/join-the-campaign"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Read our young renters peer research on the challenges of private renting in London: https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/Young-Private-Renters-Report_v4-_DEC_21.pdf",
+          "links": [
+            {
+              "text": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/Young-Private-Renters-Report_v4-_DEC_21.pdf",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/12/Young-Private-Renters-Report_v4-_DEC_21.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

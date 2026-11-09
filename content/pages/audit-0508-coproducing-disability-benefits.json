@@ -1,0 +1,149 @@
+{
+  "slug": "audit-508-coproducing-disability-benefits",
+  "route": "/research/coproducing-disability-benefits/",
+  "title": "Coproducing Universal Credit Disability Benefits",
+  "intro": "Co-producing Universal Credit Disability Benefits MP Briefing on Universal Credit MP Briefing on PIP Early Day Motion on PIP Participatory action research (PAR) to protect Disabled people in a changing systemDisabled people struggle with disproportionate costs and increased barriers to education and employment. Recent research commissioned by the DWP in response to the cost of living… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/Website-thumbnail-scaled-e1755181761492.jpg",
+    "alt": "Coproducing Universal Credit Disability Benefits — Toynbee Hall"
+  },
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Co-producing Universal Credit Disability Benefits"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MP Briefing on Universal Credit"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MP Briefing on PIP"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Early Day Motion on PIP"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Participatory action research (PAR) to protect Disabled people in a changing system"
+        },
+        {
+          "type": "paragraph",
+          "text": "Disabled people struggle with disproportionate costs and increased barriers to education and employment. Recent research commissioned by the DWP in response to the cost of living crisis showed 52% of respondents said they could no longer afford to buy everything that they needed for their impairment, condition, or access needs. With the changes to Universal Credit made by the Universal Credit bill, and the government aiming to abolish the Work Capability Assessment and make PIP daily living the sole gateway to this support, many Disabled risk losing even more vital income.",
+          "links": [
+            {
+              "text": "Recent research commissioned by the DWP",
+              "href": "https://www.gov.uk/government/publications/the-impact-of-the-rising-cost-of-living-on-disabled-people-in-the-uk/the-impact-of-the-rising-cost-of-living-on-disabled-people-in-the-uk"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/06/cropped-Housing-1-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Housing 1"
+          }
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2022/11/cropped-Website-thumbnail-scaled-e1755181761492-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Website thumbnail"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Using participatory action research (PAR) we will be working in conjunction with Disabled people and DPOs to research and respond to proposed changes to disability benefits over the course of 15 months. Together, we will look at how these changes could affect people who currently get the health element of Universal Credit because they have ‘Limited Capability for Work and Work-Related Activity’ (LCWRA), as well as Disabled people in the future. Peer researchers with lived experience will co-design the study, interview and run workshops with Disabled participants across England and Wales, analyse the findings, and develop practical recommendations. The results will be used to influence legislation, policy guidance, and public debate to ensure reforms protect Disabled people’s living standards."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What’s different about this research?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Peer researchers will from the very start help set the agenda, design the research, analyse the findings, and lead our campaigning efforts, speaking directly to MPs, media and the wider public."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Led by Lived Experience"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re working with paid Disabled peer researchers with direct experience of Universal Credit, as equal partners throughout the project. We are also creating a steering group including DPOs and the project is run by Disabled members of staff."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Rooted in the Social Model"
+        },
+        {
+          "type": "paragraph",
+          "text": "We use the term Disabled in line with the social model of disability. The Social Model of Disability was developed by Disabled people and describes people as being disabled by barriers in society, not by our impairment or difference. If modern life was set up in a way that was accessible for Disabled people then we would not be excluded or restricted."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Action-Oriented"
+        },
+        {
+          "type": "paragraph",
+          "text": "This research will lead to campaigning, advocacy, and policy engagement at regional, and national levels. We want to challenge the government’s narative around Disabled people and Universal Credit."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Support us for this project"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this project our Disabled peer researchers and staff will be working together as equal partners. We are recruiting paid peer researchers and steering group members to join the project. If you or your organisation want to be involved in shaping our research and advocacy, please contact research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Find out more about our other research projects"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you’d like to learn more about our work, and how you can collaborate with us, please email research@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "research@toynbeehall.org.uk",
+              "href": "mailto:research@toynbeehall.org.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Subscribe to our monthly e-newsletter and keep up to date with our latest research"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the fields below:"
+        }
+      ]
+    }
+  ]
+}

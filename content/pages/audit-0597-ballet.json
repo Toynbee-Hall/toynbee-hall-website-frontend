@@ -1,0 +1,60 @@
+{
+  "slug": "audit-597-ballet",
+  "route": "/whats-on/ballet/",
+  "title": "English National Ballet (Over 50s)",
+  "intro": "ENB is on a break until after the Summer.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/toynebee-83.jpg",
+    "alt": "Ballet class in the Toynbee Hall Community Centre"
+  },
+  "template": "event",
+  "dateLabel": "Thursdays",
+  "timeLabel": "10:15am – 11:15am",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "This is a LinkAge Plus activity for people aged 50+.",
+          "links": [
+            {
+              "text": "LinkAge Plus",
+              "href": "/linkage-plus/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Come join us on Thursdays at 10:15am for an hour of gentle yet active ballet, aimed at loosening and stretching painful muscles, reducing chronic pain, decreasing stress, and improving circulation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thursdays (weekly) 10:15am – 11:15am"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spaces are limited and are allocated on a first come, first serve basis. Please arrive on time, entry will not be allowed 10 minutes after the class has begun for health and safety reasons."
+        },
+        {
+          "type": "paragraph",
+          "text": "For further information:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: 07943 277512 or 0203 856 9721"
+        },
+        {
+          "type": "paragraph",
+          "text": "Email: Linkageplus@toynbeehall.org.uk",
+          "links": [
+            {
+              "text": "Linkageplus@toynbeehall.org.uk",
+              "href": "mailto:Linkageplus@toynbeehall.org.uk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "audit-228-debt-free-advice-and-the-financial-conduct-authority-team-up-to-protect-londoners-from-loan-fee-fraud",
+  "route": "/20/02/2024/debt-free-advice-and-the-financial-conduct-authority-team-up-to-protect-londoners-from-loan-fee-fraud/",
+  "title": "Debt Free Advice and the Financial Conduct Authority Team Up to Protect Londoners from Loan Fee Fraud",
+  "intro": "Financial scams are on the rise as the cost-of-living crisis is exerting increasing pressure on people’s finances. The Financial Conduct Authority (FCA) has reported hundreds of cases of loan fee fraud a year, with victims losing on average £255. To combat this, we have partnered with them on a London-wide mail out campaign in February… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/02/Shutterstock-hand-pen-paper-scaled.jpg",
+    "alt": "Someone's hand holding a pen and a bank card."
+  },
+  "template": "article",
+  "publishedAt": "2024-02-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Financial scams are on the rise as the cost-of-living crisis is exerting increasing pressure on people’s finances. The Financial Conduct Authority (FCA) has reported hundreds of cases of loan fee fraud a year, with victims losing on average £255. To combat this, we have partnered with them on a London-wide mail out campaign in February 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are writing to more than 50,000 households across London to warn them on the surge of loan fee fraud. We are encouraging them to do the 3-step check to protect themselves from scams:"
+        },
+        {
+          "type": "paragraph",
+          "text": "• If you are cold called or emailed, it could be a scam. • Or if you’re asked to pay an upfront fee, it could be a scam. • Or if you’re asked to pay quickly or unusually, it could be a scam."
+        },
+        {
+          "type": "paragraph",
+          "text": "The campaign also promotes Debt Free Advice’s support for individuals experiencing financial concerns, such as loan arrears, utility bills, council tax and credit card debts. Our expert advisors provide free, independent advice and will help individuals to resolve their debts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matt Dronfield, Director of Advice Services at Toynbee Hall, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Therese Chambers, Executive Director of Enforcement and Market Oversight at the FCA, said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Consumers can check the information on the FCA’s Loan Fee Fraud website, and the name of the firm on the FCA Register, before applying for a loan. This will help identify any firms that are actively trying to scam consumers and to flag the signs to look out for to avoid becoming a victim of loan fee fraud.",
+          "links": [
+            {
+              "text": "FCA’s Loan Fee Fraud",
+              "href": "https://www.fca.org.uk/consumers/loan-fee-fraud"
+            },
+            {
+              "text": "FCA Register",
+              "href": "https://www.fca.org.uk/consumers/warning-list-unauthorised-firms"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Debt Free Advice can be reached 7 days a week from 8am to 8pm. Call or send a WhatsApp message to 0800 808 5694 or go online to debtfreeadvice.com/lookingforaloan.",
+          "links": [
+            {
+              "text": "debtfreeadvice.com/lookingforaloan",
+              "href": "https://debtfreeadvice.com/lookingforaloan"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

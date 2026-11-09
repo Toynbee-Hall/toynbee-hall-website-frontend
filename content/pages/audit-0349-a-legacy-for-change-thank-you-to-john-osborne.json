@@ -1,0 +1,60 @@
+{
+  "slug": "audit-349-a-legacy-for-change-thank-you-to-john-osborne",
+  "route": "/28/08/2019/a-legacy-for-change-thank-you-to-john-osborne/",
+  "title": "A legacy for change: thank you to John Osborne",
+  "intro": "A long-term supporter of Toynbee Hall has left his mark on our work by leaving a generous gift in his will. John Osborne, who gave donations to Toynbee Hall for more than 30 years of his life, left Toynbee Hall an unrestricted gift of 2% of his estate – a remarkable contribution towards a future… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/08/OPEN-HOUSE-at-Toynbee-Hall-by-Jeremy-Freedman-2013_68.jpg",
+    "alt": "A legacy for change: thank you to John Osborne — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2019-08-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "A long-term supporter of Toynbee Hall has left his mark on our work by leaving a generous gift in his will. John Osborne, who gave donations to Toynbee Hall for more than 30 years of his life, left Toynbee Hall an unrestricted gift of 2% of his estate – a remarkable contribution towards a future without poverty."
+        },
+        {
+          "type": "paragraph",
+          "text": "This incredibly generous legacy will enable us to make our future projects as impactful as possible – by allowing us to innovate more and expand the reach of our services to those most in need."
+        },
+        {
+          "type": "paragraph",
+          "text": "John learned about Toynbee Hall through his studies and became particularly interested in supporting work empowering young people. The generosity of John’s gift will support our new youth programme, Young Excellence, as it launches in late 2019."
+        },
+        {
+          "type": "paragraph",
+          "text": "The project, designed and led by young people aged 11 to 18, will involve bringing together young people from youth clubs, faith groups and young carer organisations from across Tower Hamlets to design projects to bring about change for their peers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thanks to John’s generosity, this project will be pivotal in giving young people the confidence, skills and and resources to bring their ideas and projects to life – from improving access to mental health support for young people, to campaigning on the issues that matter to them. Thank you John."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would like to consider giving a legacy like John’s, you can read more about how to make a gift for a future without poverty here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "/get-involved/fundraise/leave-a-gift-in-your-will/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "From 3rd-10th December 2019, Toynbee Hall will be taking part in the Big Give Christmas Challenge raising funds for our youth work. If you would like to support us and have your donation doubled, be sure to check out our giving page in December.",
+          "links": [
+            {
+              "text": "our giving page",
+              "href": "https://secure.thebiggive.org.uk/charity/view/4004/toynbee-hall"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

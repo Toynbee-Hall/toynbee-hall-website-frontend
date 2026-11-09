@@ -1,0 +1,214 @@
+{
+  "slug": "audit-415-debt-advice",
+  "route": "/debt-advice/",
+  "title": "Debt Advice",
+  "intro": "Debt and money advice you can trust Our advisors are available in person or via phone, WhatsApp and video chat. Call 0800 808 5700 or go to www.debtfreeadvice.com We can help you with… Rent arrears Council tax Utility bills Credit cards Loans How to access our advice In person We have advice hubs across London.… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Debt and money advice you can trust"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Our advisors are available in person or via phone, WhatsApp and video chat. Call 0800 808 5700 or go to www.debtfreeadvice.com"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "We can help you with…"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Rent-arrears-135-x-135.png",
+            "alt": "Rent arrears icon on orange circle",
+            "caption": "Rent arrears 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Rent arrears"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Council-tax-135-x-135.png",
+            "alt": "Tax bill icon on orange circle",
+            "caption": "Council tax 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Council tax"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Utilities-135-x-135.png",
+            "alt": "electric and water icon on orange circle",
+            "caption": "Utilities 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Utility bills"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Credit-card-135-x-135.png",
+            "alt": "Credit cards icon on orange circle",
+            "caption": "Credit card 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Credit cards"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/loan-135-x-135.png",
+            "alt": "hand and percentage icon on orange background",
+            "caption": "loan 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Loans"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to access our advice"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/In-person-135-x-135.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "In person 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "In person"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have advice hubs across London. Find your nearest Debt Free Advice Centre here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "https://debtfreeadvice.com/find-advice"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/by-phone-135-x-135.png",
+            "alt": "mobile phone icon on blue circle",
+            "caption": "by phone 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "By phone"
+        },
+        {
+          "type": "paragraph",
+          "text": "Give us a call on freephone 0800 808 5700, or use our form to request a callback."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Video-and-webchat-135-x-135.png",
+            "alt": "web chat icon on blue circle",
+            "caption": "Video and webchat 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "via video or webchat"
+        },
+        {
+          "type": "paragraph",
+          "text": "Need to speak to an Advisor face-to-face but can’t make it to one of our centres? Use our new Video Advice service.",
+          "links": [
+            {
+              "text": "Use our new Video Advice service",
+              "href": "https://debtfreeadvice.com/video"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/WhatsApp-135-x-135.png",
+            "alt": "whatsapp icon on blue circle",
+            "caption": "WhatsApp 135 x 135"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "on WhatsApp"
+        },
+        {
+          "type": "paragraph",
+          "text": "Can’t talk? No problem! Use WhatsApp to drop us a message us on 0800 808 5700."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our advice is always free and confidential"
+        },
+        {
+          "type": "paragraph",
+          "text": "We regularly ask those that have received our advice to rate us publicly on Feefo, one of the world’s biggest review websites, and we’re delighted to be rated as excellent!"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Contact us"
+        },
+        {
+          "type": "paragraph",
+          "text": "Do you need help with something else? Please complete our form and find out how we can help."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Name (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Email (required)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your Message"
+        }
+      ]
+    }
+  ]
+}

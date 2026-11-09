@@ -1,0 +1,20 @@
+{
+  "slug": "audit-506-complete-our-survey",
+  "route": "/research/complete-our-survey/",
+  "title": "Complete our survey",
+  "intro": "",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Complete our survey"
+        }
+      ]
+    }
+  ]
+}

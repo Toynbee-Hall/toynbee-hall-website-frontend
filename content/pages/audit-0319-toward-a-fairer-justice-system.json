@@ -1,0 +1,77 @@
+{
+  "slug": "audit-319-toward-a-fairer-justice-system",
+  "route": "/26/07/2019/toward-a-fairer-justice-system/",
+  "title": "Toward a Fairer Legal System",
+  "intro": "With Richard Lomax, Free Legal Advice Centre (FLAC) Volunteer In the first of a series of video entries about how to create a fairer legal system for all, Richard Lomax, a long-term volunteer at Toynbee Hall’s FLAC and former Crown Prosecutor, shares his ideas for radical legal reform with Jasmine Ashley, FLAC Manager. Richard presents… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/07/Toward-a-fairer-justice-systemt-Richard-Lomax.png",
+    "alt": "Toward a fairer justice systemt - Richard Lomax"
+  },
+  "template": "article",
+  "publishedAt": "2019-07-26",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "With Richard Lomax, Free Legal Advice Centre (FLAC) Volunteer"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the first of a series of video entries about how to create a fairer legal system for all, Richard Lomax, a long-term volunteer at Toynbee Hall’s FLAC and former Crown Prosecutor, shares his ideas for radical legal reform with Jasmine Ashley, FLAC Manager."
+        },
+        {
+          "type": "paragraph",
+          "text": "Richard presents his personal view that a National Legal System should replace legal aid, and calls for a shift from our adversarial court system to an inquisitorial one. You can hear Richard speak on the subject in the video below and also read his paper on the issue.",
+          "links": [
+            {
+              "text": "his paper",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/07/Reforming-Justice-3.6.19.pdf"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In February 2019, the Ministry of Justice released its Legal Support Action Plan, which lays out how it will deliver ‘quicker and easier access to legal support services’. Amongst a raft of other recommendations, it commits to a review of legal aid eligibility by summer 2020. The Ministry also proposes to explore the role that ‘legal support hubs’ could play in providing early legal advice, and the development of bespoke support for litigants in person."
+        },
+        {
+          "type": "paragraph",
+          "text": "But are the recommendations enough or are more far-reaching changes needed? It’s clear that in its current form, the legal system is struggling to provide fair access to justice to ordinary citizens in fundamental ways. This is certainly our experience: at Toynbee Hall’s Free Legal Advice Centre, demand for casework has doubled in the last year, with almost the same increase in demand for representation. And more and more services are having to reduce their hours, narrow the criteria for who can access help, or even close completely due to reductions in funding. Just last week, the long established Lambeth Law Centre in South London was forced to close due to a lack of resources."
+        },
+        {
+          "type": "paragraph",
+          "text": "Given that the Ministry of Justice’s budget has been cut by more than a third since 2010, none of this will be a surprise. Cuts to legal aid have been equally severe, shrinking the funds available for legal support by 37% between 2010 and 2018. As a result, many defendants are left unable to afford legal support but ineligible for legal aid, leaving them unrepresented in areas such as debt, housing, immigration, family law and welfare benefits."
+        },
+        {
+          "type": "paragraph",
+          "text": "According to Jasmine Ashley who manages the Free Legal Advice Centre at Toynbee Hall, ‘people who come to us are now required to take more ownership of their legal matters, by actively progressing their matters and educating themselves as much as possible on law and procedure. But many struggle to navigate through our complex legal system and this often leaves them vulnerable and distressed.’ Whilst we can see the benefits of people gaining more knowledge about their rights under the law, the room for error can have serious consequences when their means of income or home is at risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "For Richard Briden, a Welfare Rights Advisor at Toynbee Hall working predominantly with people facing severe long term health issues, ‘the biggest impact has been that people undergoing treatment for a serious health condition have difficulty accessing advice at all, as many advice services were previously reliant on the funding they received through legal aid’. He also comments that cuts to legal aid have meant that people with a cancer diagnosis often now need to pay to obtain independent medical reports to challenge their Work Capability Assessments, or to go without."
+        },
+        {
+          "type": "paragraph",
+          "text": "So there are some urgent and pressing issues that need better solutions: these would almost certainly include reversing some of the cuts in funding. But even without this, there is a need for more creative and joined up thinking across the system. As one example, there is a real need for strategic thinking about the provision of wider wrap around support for people seeking legal and other advice. It seems obvious – and is certainly our experience, and that of many other advice and legal services – that the need for legal advice and support is almost inevitably the result of the daily struggles people face with a range of barriers that keep them in poverty: poor housing; low wages or reduced benefits; health and wellbeing issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the coming months, we will be seeking to explore these issues, asking a variety of voices to share their thinking about what we as providers can do – and crucially how we need to government and the wider legal system to respond. We’ll also be making room for discussion of more far reaching ideas for reform, a re-imagined legal system that might lead to better outcomes for more people, particularly those with the fewest resources."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "We are publishing this series of video blogs to create debate. The views expressed within the film and in any related papers are those of the contributor and do not represent the views of Toynbee Hall."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Do you or your organisation want to join the debate? Get in touch to join the discussion and share your work, as we lead up to a panel event on access to justice later this year."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

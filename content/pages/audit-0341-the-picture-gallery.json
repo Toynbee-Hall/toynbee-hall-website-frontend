@@ -1,0 +1,36 @@
+{
+  "slug": "audit-341-the-picture-gallery",
+  "route": "/28/02/2018/the-picture-gallery/",
+  "title": "Regeneration Photo Blog – The Picture Gallery",
+  "intro": "By Keith Greenough and Eleanor Sier. Today I met with Eleanor Sier, Heritage Learning and Participation Manager at Toynbee Hall. We took a tour of the new ‘Picture Gallery’ which is located between the old hall and the new extension at the rear. The gallery is a wonderfully light and airy space with glass paneling… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/1-Toynbee-Hall-20-Feb-2018-_new-website.jpg",
+    "alt": "Regeneration Photo Blog – The Picture Gallery — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-02-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Today I met with Eleanor Sier, Heritage Learning and Participation Manager at Toynbee Hall. We took a tour of the new ‘Picture Gallery’ which is located between the old hall and the new extension at the rear. The gallery is a wonderfully light and airy space with glass paneling running along its high ceiling. Alongside is the new community learning space. This will be a lovely place to work with its high ceilings and lots of light streaming in from large windows."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elsewhere work is progressing at a pace. Kitchen and bathroom fittings are being installed along with lighting and flooring. Outside, the scaffolding has been removed from the hall and zinc cladding now adorns the gable roofs at the rear. The steel framework for the new building at the front has been erected. It’s really amazing to see how much progress has been made!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Eleanor shared with me her hopes for the new spaces and her excitment as they near completion:"
+        },
+        {
+          "type": "quote",
+          "quote": "It is really exciting to see these spaces finally taking shape. Before we know it, our residential volunteers will be moving in and we will all be in here running events celebrating Toynbee Hall’s heritage. This corridor will be used to display our community-curated exhibitions focusing on the stories of individuals who have been involved with Toynbee Hall. I really hope it will result in research into and celebration of some of the figures who have been forgotten about or are more hidden in the organisation’s history, such as Rosetta Reardon, who worked and lived at Toynbee Hall for over 50 years but whose work is almost completely unrecorded in the organisation’s archives.”"
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

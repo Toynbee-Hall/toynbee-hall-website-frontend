@@ -1,0 +1,86 @@
+{
+  "slug": "audit-86-fighting-britains-poverty",
+  "route": "/08/10/2018/fighting-britains-poverty/",
+  "title": "Channel 4 News highlight our fight against Britain’s poverty",
+  "intro": "Watch the Channel 4 News report on Toynbee Hall here Channel 4 News: The fight against Britain’s poverty This weekend Channel 4 News aired a report about the newly renovated Toynbee Hall and our fight against Britain’s poverty. We’ve been at the forefront of the battle against poverty for more than a century. We’ve helped… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/10/Channel-4-news-screen-shot.png",
+    "alt": "Channel 4 News highlight our fight against Britain’s poverty — Toynbee Hall"
+  },
+  "template": "article",
+  "publishedAt": "2018-10-08",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Watch the Channel 4 News report on Toynbee Hall here"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Channel 4 News: The fight against Britain’s poverty"
+        },
+        {
+          "type": "paragraph",
+          "text": "This weekend Channel 4 News aired a report about the newly renovated Toynbee Hall and our fight against Britain’s poverty."
+        },
+        {
+          "type": "paragraph",
+          "text": "We’ve been at the forefront of the battle against poverty for more than a century. We’ve helped to pioneer social reform in here London’s East End and beyond."
+        },
+        {
+          "type": "paragraph",
+          "text": "And with a recent report finding more than one in ten people in the UK live in persistent poverty – our work has never been more crucial. Our Victorian building which inspired national institutions like the Citizens Advice Bureau and the Worker’s Educational Association has just re-opened after extensive renovation. Jane Dodge from Channel 4 News came down to see it."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Independent: Toynbee Hall inspired Beveridge and introduced Lenin to muffins – but it is not a place of the past"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/08/Barnett_and_Residents_1888_-_web_edit-300x171.jpg",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "This month, we were also the subject of a long read featured on The Independent’s new online service, Independent Minds. This comprehensive article goes on a thorough journey through our history set against the current backdrop of modern day Britain."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "You can read The Independent’s feature here (registration required)"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall: A Powerhouse for Social Change"
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of the renovation of our historic building, we’ve also installed a permanent, free history exhibition, Toynbee Hall: A Powerhouse for Social Change, tells the stories of reform in the East End and the history of Toynbee Hall, the world’s first university settlement. As a result, we hope to inspire the next generation of social activists to drive change in their communities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Last month, we held a reopening event which celebrated the organisation returning to its historic home. We were joined by Archbishop of York, Dr John Sentamu, Deputy Mayor for Social Integration, Matthew Ryder, Rushanara Ali MP and Head of HLF London, Stuart Hobley."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read more about our reopening event.",
+          "links": [
+            {
+              "text": "Read more about our reopening event.",
+              "href": "/24/09/2018/celebrating-the-reopening-of-our-historic-home/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

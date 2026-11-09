@@ -1,0 +1,295 @@
+{
+  "slug": "audit-434-christmas-party-hire-festive-dining-london",
+  "route": "/events/christmas-party-hire-festive-dining-london/",
+  "title": "Christmas Parties & Festive Dining",
+  "intro": "Host Your Christmas Dinner at Toynbee Hall﻿ Historic London Venue for Christmas Parties & Festive Dining Celebrate the festive season at Toynbee Hall – a beautifully restored heritage venue in the heart of East London, just minutes away from Aldgate East Underground Station. Whether you’re planning a Christmas dinner, lunch, or festive party, our elegant… Read more",
+  "template": "standard",
+  "layout": "full-width",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Host Your Christmas Dinner at Toynbee Hall﻿"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Historic London Venue for Christmas Parties & Festive Dining"
+        },
+        {
+          "type": "paragraph",
+          "text": "Celebrate the festive season at Toynbee Hall – a beautifully restored heritage venue in the heart of East London, just minutes away from Aldgate East Underground Station. Whether you’re planning a Christmas dinner, lunch, or festive party, our elegant spaces provide the perfect setting for a memorable event."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Take a 3D virtual tour of our venue﻿"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Enjoy a festive feast at Toynbee Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Whether you’re planning an office Christmas party, festive lunch, or three-course Christmas dinner, Toynbee Hall provides one of East London’s most memorable settings for seasonal celebrations. Enjoy a carefully crafted menu of traditional favourites and contemporary twists, served in the stunning surroundings of our historic venue – perfect for bringing people together over great food, warm conversation, and a touch of Christmas magic."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Our packages"
+        },
+        {
+          "type": "paragraph",
+          "text": "Select one of our set packages or use the enquiry form to share your specific requirements."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/12.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "12"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CANAPES & BUBBLES"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kick off the season with a relaxed and sociable celebration. Enjoy a selection of handcrafted festive canapés paired with sparkling bubbles – perfect for team drinks, client gatherings, or a light Christmas party in one of our elegant spaces."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "From £25pp"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plus VAT"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/10.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "10"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHRISTMAS DINNER"
+        },
+        {
+          "type": "paragraph",
+          "text": "For something more traditional, indulge in our classic three-course Christmas dinner. Enjoy a festive menu of seasonal favourites, served in the timeless surroundings of Toynbee Hall – ideal for sit-down celebrations or corporate Christmas lunches."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "From £30pp"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plus VAT"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Optional extras"
+        },
+        {
+          "type": "paragraph",
+          "text": "Make your Christmas celebration truly special with our range of add-ons and extra touches"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/4-e1761662883678.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "4"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FESTIVE DECOR"
+        },
+        {
+          "type": "paragraph",
+          "text": "Add seasonal touches to bring the Christmas spirit to your event"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/7-e1761662980260.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "7"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MUSIC"
+        },
+        {
+          "type": "paragraph",
+          "text": "Set the mood with curated playlists or live entertainment"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/11-e1761663013152.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "11"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EXCLUSIVE USE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Enjoy the venue entirely to yourselves for a private celebration"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/18-e1761663375336.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "18"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "THEMING"
+        },
+        {
+          "type": "paragraph",
+          "text": "Personalise your event with a theme or bespoke styling"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/10/22-e1761663548229.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "22"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LATE LICENSE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Keep the festivities going with extended hours and drinks service"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Want to see the festive menu options?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Request the full menu for christmas dinners and festive dining using the button below"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Frequently asked questions"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WHAT IS THE CAPACITY FOR CHRISTMAS PARTIES?"
+        },
+        {
+          "type": "paragraph",
+          "text": "We charge per person, and can cater for up to 250 people"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CAN YOU PROVIDE CATERING?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes we have in-house caterers that provide a range of catering options"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CAN WE BRING OUR OWN ENTERTAINMENT?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes, but it has to be pre-approved with correct licenses."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DO YOU OFFER CHARITY OR NON-PROFIT RATES?"
+        },
+        {
+          "type": "paragraph",
+          "text": "We do! Send us an enquiry to get a quote for your christmas party"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CAN WE BRING IN OUR OWN ALCOHOL?"
+        },
+        {
+          "type": "paragraph",
+          "text": "No, all alcoholic drinks will be supplied by our in-house caterers"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DO YOU HAVE GLUTEN FREE AND VEGAN OPTIONS?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes we cater to all dietary requirements! Please enquire today"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Enquire now to get a quote for your christmas party or festive lunch"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please complete the form and we’ll get back to you as soon as we can. Alternatively, you can call us on 020 7392 2920 to discuss your requirements."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Contact us"
+        },
+        {
+          "type": "paragraph",
+          "text": "28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "paragraph",
+          "text": "020 7392 2920",
+          "links": [
+            {
+              "text": "020 7392 2920",
+              "href": "tel:02073922920"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

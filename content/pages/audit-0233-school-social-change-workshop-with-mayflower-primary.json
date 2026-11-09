@@ -1,0 +1,43 @@
+{
+  "slug": "audit-233-school-social-change-workshop-with-mayflower-primary",
+  "route": "/20/06/2019/school-social-change-workshop-with-mayflower-primary/",
+  "title": "Social Change Workshop with Mayflower Primary School",
+  "intro": "Last week, we had the pleasure of welcoming children from Mayflower Primary School to Toynbee Hall for a Social Change workshop, having learnt about our history and the Matchgirls Strike of 1888 in a puppetry session delivered by our Resident Storyteller. The children were given a tour of our newly restored historic building to learn… Read more",
+  "template": "article",
+  "publishedAt": "2019-06-20",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Last week, we had the pleasure of welcoming children from Mayflower Primary School to Toynbee Hall for a Social Change workshop, having learnt about our history and the Matchgirls Strike of 1888 in a puppetry session delivered by our Resident Storyteller."
+        },
+        {
+          "type": "paragraph",
+          "text": "The children were given a tour of our newly restored historic building to learn about our past, our current work and about some of the individuals that feature in our historical exhibition. This is part of our heritage inspired learning programme, which aims to inspire the next generation of social reformers."
+        },
+        {
+          "type": "paragraph",
+          "text": "At school, the children had been learning about local social history, in particular looking at the Matchgirls Strike in 1888 – a series of strikes and industrial action by the women and teenage girls working at the Bryant & May match factory in Bow. This was supported by nineteenth century residents at Toynbee Hall who sent letters to the The Times newspaper in support of improved rights for the workers."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was part of some wider work looking at six key children’s rights: to be safe, to be heard, to be healthy, to play, to learn and to be the best you can be. The pupils looked at how children back in 1888 would not have had these rights, and were forced into the workhouse where they experienced many health problems. The children collaborated with our Resident Volunteer Storyteller Sinead O’Brien to make a short film about the strikes using hand-made puppets."
+        },
+        {
+          "type": "paragraph",
+          "text": "This follows another project, Our Mark, which worked with Year 4 Children from Canon Barnett Primary to create original art at Toynbee Hall celebrating children’s rights.",
+          "links": [
+            {
+              "text": "Our Mark",
+              "href": "/30/11/2018/our-mark-artwork-by-canon-barnett-primary-school-pupils-becomes-part-of-our-historic-building/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

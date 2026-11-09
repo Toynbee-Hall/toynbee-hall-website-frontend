@@ -1,27 +1,353 @@
 {
-  "slug": "linkage-plus",
+  "slug": "audit-470-linkage-plus",
+  "route": "/linkage-plus/",
   "title": "LinkAge Plus",
-  "intro": "A programme of classes, activities and workshops for people aged 50 and over who live in Tower Hamlets.",
+  "intro": "Community activities for over 50’s We are delighted to be celebrating 20 years of LinkAge Plus CLICK HERE TO FIND OUT MORE If you’re over 50 and live in Tower Hamlets, then LinkAge Plus is for you LinkAge Plus is a programme of classes, activities and workshops for people aged 50 and over… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2018/06/IMG_2431-e1545050350639.jpg",
+    "alt": "Two ladies smiling at older people's day event"
+  },
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "Activities and support",
-      "paragraphs": [
-        "Join gentle exercise, yoga, line dancing, tai chi, social activities, singing, arts and crafts, healthy living workshops, digital support and community celebrations. Most sessions are free or low-cost."
-      ]
-    },
-    {
-      "type": "richText",
-      "heading": "Five community hubs",
-      "paragraphs": [
-        "Activities are hosted at Toynbee Hall Community Centre, Sundial Centre, Age UK East London, Sonali Gardens and Neighbours in Poplar. Check the current timetable before visiting."
-      ]
-    },
-    {
-      "type": "richText",
-      "heading": "Toynbee Hall Community Centre",
-      "paragraphs": [
-        "28 Commercial Street, London E1 6LS. Call 0203 856 9721 or email linkageplus@toynbeehall.org.uk. Many activities are drop-in. Professionals can contact the team about referring someone."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "LinkAge Plus: Community activities for over 50’s"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "We are delighted to be celebrating 20 years of LinkAge Plus"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "If you’re over 50 and live in Tower Hamlets, then LinkAge Plus is for you"
+        },
+        {
+          "type": "paragraph",
+          "text": "LinkAge Plus is a programme of classes, activities and workshops for people aged 50 and over in Tower Hamlets. It offers friendly, accessible sessions including gentle exercise, social activities, wellbeing workshops and practical support, helping older people stay active, connected and independent. LinkAge Plus sessions take place across five community hubs in the London Borough of Tower Hamlets and is co-funded by Tower Hamlets Council and the North East London Integrated Care Board."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/cropped-cropped-toynebee-6-web-1.jpg",
+            "alt": "two women helping each other in a Linkage Plus sewing class",
+            "caption": "cropped-cropped-toynebee-6-web-1.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "We run weekly classes and activities"
+        },
+        {
+          "type": "paragraph",
+          "text": "Whether you want to stay active, try something new, or meet new friends, LinkAge Plus is here to support you. Our sessions help you build skills, boost confidence, keep moving, stay connected, and add structure to your week. Most activities are free or low-cost, including:"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/47-e1765816955936.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "47"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FITNESS & PHYSICAL ACTIVITY CLASSES"
+        },
+        {
+          "type": "paragraph",
+          "text": "Including yoga, line dancing, seated exercise, tai chi, english national ballet"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/48-e1765816995120.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "48"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SOCIAL & LEARNING ACTIVITIES"
+        },
+        {
+          "type": "paragraph",
+          "text": "Including Bingo, Singing, Darts, Pool, Arts & Crafts"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/49-e1765817038288.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "49"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HEALTHY LIVING WORKSHOPS"
+        },
+        {
+          "type": "paragraph",
+          "text": "on topics like diabetes, diet & nutrition, falls prevention"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/50-e1765817086150.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "50"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IT & DIGITAL SUPPORT SESSIONS"
+        },
+        {
+          "type": "paragraph",
+          "text": "For help with computer use, form completion and more"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/51-e1765817159313.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "51"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CELEBRATIONS & COMMUNITY GATHERINGS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Including Christmas, Eid gatherings, and other events throughout the year"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/53-e1765817198481.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "53"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELP TO ACCESS SUPPORT SERVICES"
+        },
+        {
+          "type": "paragraph",
+          "text": "on a wide range of topics including Blue Badges and Benefits Applications"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Join in at one of our five community hubs"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have five locations across the city of London that run LinkAge Plus Activities. Find details of these hubs below along with their respective timetables."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/Bow-West-scaled.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "Bow West"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Project Name"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Linkage Plus Hubs"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/09/cropped-7M4A8357-scaled-1.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "7M4A8357"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall Community Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "Community Centre,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Learn more",
+          "links": [
+            {
+              "text": "Learn more",
+              "href": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/cropped-Sundial.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sundial Centre"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sundial Centre,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Learn more",
+          "links": [
+            {
+              "text": "Learn more",
+              "href": "https://www.peabody.org.uk/your-community/community-centres/sundial-centre"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/ageuk.png",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "ageuk"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Age UK East London"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 Merchant Street,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Learn more",
+          "links": [
+            {
+              "text": "Learn more",
+              "href": "https://merchantsthub.co.uk"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/cropped-87490.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "cropped-87490.jpg"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Sonali Gardens"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sonali Gardens,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Learn more",
+          "links": [
+            {
+              "text": "Learn more",
+              "href": "https://sthildas.org.uk/linkage-plus-tower-hamlets"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/12/variant.jpg",
+            "alt": "Photograph from Toynbee Hall",
+            "caption": "variant"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Neighbours in Poplar"
+        },
+        {
+          "type": "paragraph",
+          "text": "St Matthias Community Centre,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Learn more",
+          "links": [
+            {
+              "text": "Learn more",
+              "href": "https://www.neighboursinpoplar.com"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Whether you’re 50, 70, or 90 – LinkAge Plus has something for everyone!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most of our sessions are drop-in. Simply check the timetable below and come along to our Community Centre for the activity you’d like to join."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall Community Centre, 28 Commercial Street, London, E1 6LS"
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2025/04/LinkAge-Plus-actitivity-session-at-Toynbee-Hall-Community-Centre-scaled-e1744019097251.jpg",
+            "alt": "Two older women stretching and dancing in a hall with one man playing the drums.",
+            "caption": "LinkAge Plus actitivity session at Toynbee Hall Community Centre"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Looking to refer someone?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are a working professional, you can refer someone who is over 50 to LinkAge Plus to access the activities we offer. Please use the below document for guidance, and click the button below to complete the form"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Linkage Plus Referrals Guidance Document"
+        }
       ]
     }
   ]

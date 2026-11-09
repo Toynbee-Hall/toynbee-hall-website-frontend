@@ -1,0 +1,58 @@
+{
+  "slug": "audit-243-jemimahs-story",
+  "route": "/21/01/2019/jemimahs-story/",
+  "title": "Jemimah’s Story",
+  "intro": "Jemimah started as a participant on our Community Money Mentors course and now, she’s teaching it.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/IMG_2657-web.jpg",
+    "alt": "Graduates from a Money Mentors Course"
+  },
+  "template": "article",
+  "publishedAt": "2019-01-21",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Jemimah was one of our Community Money Mentors who joined our money management course when her financial future had become unclear. Since graduating from the course, she has become a trained teacher who is now delivering the course."
+        },
+        {
+          "type": "paragraph",
+          "text": "This month, 24 former graduates began work as trained teachers of the course to new groups across London. They have developed an in-depth knowledge of the course, financial management and are building the confidence and motivation to communicate effectively to groups of people. These tools will give the trainers the opportunity to improve their employment and life prospects."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“I started out as a Money Mentor at a point in my life when my financial future had become unclear. I went from being employed full-time to being made redundant and losing my job. As a parent to two young children this was particularly worrying and the financial strain effected my health. On Toynbee Hall’s Money Mentors course I learnt basic money management skills, budgeting, supermarket tricks, and how to do an income and expenditure calculation, which greatly improved my confidence and gave me the ability to better control not only my finances but my life too. Money Mentors gave me the passion to share my knowledge with family and friends and help them improve their own situations. Since successfully completing the Money Mentors course I have gone on to do advice work with charities in my local community and achieved a qualification in Information, Advice or Guidance. Then this summer, Toynbee Hall gave me the opportunity to train to become a Money Mentor trainer myself."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Toynbee Hall has given me an amazing chance; independence, confidence, resources and the ability to teach Money Mentors. This is a brilliant project, well invested in changing the future of the local community and helping those that need the support and help most. It’s helping them to help themselves and extend that help to the wider community too!”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Find our more about the Community Money Mentors Programme.",
+          "links": [
+            {
+              "text": "Find our more about the Community Money Mentors Programme.",
+              "href": "/other-projects/learning-programmes/community-money-mentors/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Jemimah is one of thousands of people we worked with last year who has helped make their community in East London a fairer place. To find out the full extent of our work and it’s impact, read our 2018 Impact Review.",
+          "links": [
+            {
+              "text": "2018 Impact Review",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/01/TH_IMPACT_REVIEW_2018_Low-res-digital-version-for-website.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

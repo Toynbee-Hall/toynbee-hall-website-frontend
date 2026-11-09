@@ -1,0 +1,77 @@
+{
+  "slug": "audit-15-the-big-give-christmas-challenge-2020-raising-funds-for-toynbee-halls-youth-programmes",
+  "route": "/02/12/2020/the-big-give-christmas-challenge-2020-raising-funds-for-toynbee-halls-youth-programmes/",
+  "title": "The Big Give Christmas Challenge 2020: raising funds for Toynbee Hall’s youth programmes",
+  "intro": "This week Toynbee Hall is aiming to raise £22,000 through The Big Give Christmas Challenge 2020 to support our work with young people in East London. The Big Give Christmas Challenge is a match-funding challenge where any donation towards our youth project between 1st December and 8th December will be DOUBLED at no extra cost… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2020/06/Zareen-1.jpeg",
+    "alt": "Young people participating in When We Speak"
+  },
+  "template": "article",
+  "publishedAt": "2020-12-02",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "This week Toynbee Hall is aiming to raise £22,000 through The Big Give Christmas Challenge 2020 to support our work with young people in East London."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Big Give Christmas Challenge is a match-funding challenge where any donation towards our youth project between 1st December and 8th December will be DOUBLED at no extra cost to you thanks to support from the Childhood Trust and Proms at St Jude’s.",
+          "links": [
+            {
+              "text": "The Big Give Christmas Challenge",
+              "href": "https://donate.thebiggive.org.uk/campaign/a051r00001ef9XPAAY"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "One donation, double the impact. We are aiming to raise £22,000 towards our Cultivating Young Change Makers project. This project supports young people in East London to make a difference in their community and tackle the issues they care about. Through providing skills training, networking and mentoring, we equip young people with the tools they need to become the next generation of change makers. We will build young people’s confidence to be change makers in their communities – from supporting them to work with peers on social action projects, to building their leadership skills and capacity to influence local decision-making."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can read more about the amazing young people we have worked with this year here.",
+          "links": [
+            {
+              "text": "here",
+              "href": "/young-activists/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Could you help us empower even more young change makers this year?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would like to have your gift doubled before midday on 8th December, please visit our Big Give Christmas Challenge campaign page, and follow the simple instructions to donate:",
+          "links": [
+            {
+              "text": "Big Give Christmas Challenge campaign page",
+              "href": "https://donate.thebiggive.org.uk/campaign/a051r00001ef9XPAAY"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "https://donate.thebiggive.org.uk/campaign/a051r00001ef9XPAAY",
+          "links": [
+            {
+              "text": "https://donate.thebiggive.org.uk/campaign/a051r00001ef9XPAAY",
+              "href": "https://donate.thebiggive.org.uk/campaign/a051r00001ef9XPAAY"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall Big Give Christmas Challenge 2020"
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

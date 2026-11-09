@@ -1,0 +1,71 @@
+{
+  "slug": "audit-300-what-we-learned-on-our-work-experience-at-toynbee-hall",
+  "route": "/25/04/2024/what-we-learned-on-our-work-experience-at-toynbee-hall/",
+  "title": "What we learned on our work experience at Toynbee Hall",
+  "intro": "We had the pleasure of hosting four young adults from Hall Mead School, who spent their work experience with us. Here are some of their reflections.",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/04/Halls-Mead-work-experience-scaled.jpg",
+    "alt": "Students from Hall Mead School after completing their work experience at Toynbee Hall."
+  },
+  "template": "article",
+  "publishedAt": "2024-04-25",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Last week we had the pleasure of hosting four young adults from Hall Mead School, who spent their work experience with us. Here are some of their reflections."
+        },
+        {
+          "type": "paragraph",
+          "text": "Last week, Toynbee Hall had the pleasure of hosting four talented students; Samuel, Harry, Yasmin and Louis from Hall Mead School for their work experience. Their work experience week enabled us to present the diverse departments of Toynbee Hall, with a specific emphasis on hands-on education within the charity sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the week, each student took part in a range of Toynbee Hall’s departments from finance, marketing, events planning and operations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yasmin collaborated with our data insight team. Her task during the week was to evaluate data for future Toynbee Hall initiatives."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was a rewarding experience to blend creative and analytical skills while refining my proficiency in data analysis and Excel.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Louis had the chance to closely work with the finance department at Toynbee Hall, shadowing team members and acquiring financial insights and advice. Reflecting on his experience, Louis said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "It’s been an enriching experience observing the dedicated staff and financial experts, who are always ready to offer guidance and support, especially during challenging tasks.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Harry displayed a strong enthusiasm for the events department at Toynbee Hall. He actively assisted the events team in preparing the venue’s rooms for the various organisations renting the space. Expressing his fascination, he remarked about the richness of “the history of Toynbee Hall and how much they do to help people.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Samuel was part of a team that hosted and guided a podcast focused on promoting financial literacy. “With the help of Yasmin we set up the place and asked one of the Money Coaches questions about what he does. We found out about credit and how it is important to have a good credit score” said Samuel. This provided an insight into the work of our advice services, mainly Debt Free Advice, a coalition of debt advice charities, led by Toynbee Hall.",
+          "links": [
+            {
+              "text": "Debt Free Advice",
+              "href": "https://debtfreeadvice.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Our work experience programme provided valuable professional development and also demonstrated the importance of community engagement and social responsibility to the students."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone at Toynbee Hall would like to extend their appreciation to the four exceptional students for their invaluable contributions during their work experience. It was truly a pleasure to have them with us, and we extend our gratitude for their dedication and hard work."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

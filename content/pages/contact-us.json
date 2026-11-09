@@ -1,35 +1,138 @@
 {
-  "slug": "contact-us",
+  "slug": "audit-410-contact-us",
+  "route": "/contact-us/",
   "title": "Contact us",
-  "intro": "Get in touch with Toynbee Hall and we’ll help direct your enquiry to the right team.",
+  "intro": "Find contact details for Toynbee Hall and the teams that can help.",
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "Visit or write to us",
-      "paragraphs": [
-        "Toynbee Hall, 28 Commercial Street, London, E1 6LS."
+      "type": "contactRoutes",
+      "heading": "Get in touch",
+      "contacts": [
+        {
+          "name": "General enquiries",
+          "address": "28 Commercial Street, London, E1 6LS",
+          "phone": "020 7247 6943",
+          "email": "info@toynbeehall.org.uk",
+          "link": {
+            "label": "How to find us",
+            "href": "/how-to-find-us/"
+          }
+        },
+        {
+          "name": "Venue hire and events",
+          "phone": "020 7392 2920",
+          "email": "events@toynbeehall.org.uk",
+          "link": {
+            "label": "Explore venue hire",
+            "href": "/events/"
+          }
+        }
       ]
     },
     {
-      "type": "richText",
+      "type": "contactRoutes",
       "heading": "Advice services",
-      "paragraphs": [
-        "For general advice enquiries, call 0800 808 5701 or email advice@toynbeehall.org.uk. For housing or employment legal advice, email flac@toynbeehall.org.uk."
+      "contacts": [
+        {
+          "name": "Tower Hamlets benefits advice",
+          "phone": "0800 808 5701",
+          "email": "advice@toynbeehall.org.uk",
+          "link": {
+            "label": "Benefits advice",
+            "href": "/benefits/"
+          }
+        },
+        {
+          "name": "Debt Free Advice",
+          "phone": "0800 808 5700",
+          "link": {
+            "label": "Debt and money advice",
+            "href": "/debt-and-money/"
+          }
+        },
+        {
+          "name": "Free Legal Advice Centre",
+          "email": "flac@toynbeehall.org.uk",
+          "phone": "0800 808 5701"
+        },
+        {
+          "name": "City Advice",
+          "email": "city.advice@toynbeehall.org.uk",
+          "phone": "0800 808 5853",
+          "link": {
+            "label": "City Advice",
+            "href": "/city-advice/"
+          }
+        },
+        {
+          "name": "Macmillan Benefits Advice",
+          "email": "macmillanad@toynbeehall.org.uk",
+          "phone": "020 7392 2958",
+          "link": {
+            "label": "Macmillan Benefits Advice",
+            "href": "/macmillan-benefits-advice/"
+          }
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Venue hire",
-      "paragraphs": [
-        "Call 020 7392 2920 or email events@toynbeehall.org.uk to discuss venue availability and event enquiries."
+      "type": "contactRoutes",
+      "heading": "Other teams",
+      "contacts": [
+        {
+          "name": "Community Centre",
+          "email": "community@toynbeehall.org.uk",
+          "link": {
+            "label": "What’s on",
+            "href": "/whats-on/"
+          }
+        },
+        {
+          "name": "LinkAge Plus",
+          "email": "linkageplus@toynbeehall.org.uk",
+          "phone": "020 3856 9721"
+        },
+        {
+          "name": "Research, policy and data",
+          "email": "research@toynbeehall.org.uk"
+        },
+        {
+          "name": "Heritage enquiries and tours",
+          "email": "events@toynbeehall.org.uk"
+        },
+        {
+          "name": "Press and communications",
+          "email": "communications@toynbeehall.org.uk"
+        },
+        {
+          "name": "Fundraising",
+          "email": "fundraising@toynbeehall.org.uk",
+          "phone": "020 7392 2949"
+        },
+        {
+          "name": "HR and recruitment",
+          "email": "application@toynbeehall.org.uk"
+        },
+        {
+          "name": "Finance",
+          "email": "finance@toynbeehall.org.uk",
+          "description": "For a payment query, please contact the team you worked with directly."
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Research",
+      "type": "infoPanel",
+      "heading": "Not sure who to contact?",
       "paragraphs": [
-        "For research enquiries, partnerships or opportunities to take part, email research@toynbeehall.org.uk."
-      ]
+        "Use the contact form to tell us how we can help."
+      ],
+      "link": {
+        "label": "Open the contact form",
+        "href": "https://www.toynbeehall.org.uk/contact-us/"
+      }
     }
-  ]
+  ],
+  "pageCta": null
 }

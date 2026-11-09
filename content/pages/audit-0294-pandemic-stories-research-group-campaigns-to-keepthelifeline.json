@@ -1,0 +1,116 @@
+{
+  "slug": "audit-294-pandemic-stories-research-group-campaigns-to-keepthelifeline",
+  "route": "/25/02/2021/pandemic-stories-research-group-campaigns-to-keepthelifeline/",
+  "title": "Pandemic Stories research group campaigns to #KeepTheLifeline",
+  "intro": "The Pandemic Stories Peer Research Group add their voices to the growing calls to keep the £20 uplift to Universal Credit and extend it to legacy benefits. Since June 2020, Toynbee Hall and Thrive LDN have been supporting Londoners to investigate the impact of the COVID-19 crisis on their financial health and wellbeing. The group… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/Pressure-to-support-others-Agustina21.png",
+    "alt": "Keep the Lifeline Campaign image"
+  },
+  "template": "article",
+  "publishedAt": "2021-02-25",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "The Pandemic Stories Peer Research Group add their voices to the growing calls to keep the £20 uplift to Universal Credit and extend it to legacy benefits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since June 2020, Toynbee Hall and Thrive LDN have been supporting Londoners to investigate the impact of the COVID-19 crisis on their financial health and wellbeing. The group called the project ‘Pandemic Stories’.",
+          "links": [
+            {
+              "text": "Thrive LDN",
+              "href": "https://thriveldn.co.uk/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Pandemic Stories researchers interviewed 50 people they knew had been significantly affected because of their ethnic background, age, disability or income-level prior to the crisis. As a group, they considered the findings together, and reached a consensus on what would help their communities weather this crisis most.",
+          "links": [
+            {
+              "text": "Pandemic Stories",
+              "href": "/?s=Pandemic+Stories"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "They believe a minimum income guarantee is the best option long term to make sure no one falls through the cracks, and to avoid a mental health crisis amongst badly impacted communities but the first step is to keep the £20 increase to Universal Credit and Working Tax Credits due to be removed in April, and to extend it to legacy benefits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many organisations have been making the case the keep the uplift in order to keep families afloat while uncertainty around incomes continues, unemployement is set to peak and other support schemes slowly phase out. The final action of the Pandemic Stories group is to share the stories of the friends, families and neighbours they spoke to and support the #KeepTheLifeline campaign."
+        },
+        {
+          "type": "paragraph",
+          "text": "This week ahead of the budget on March 3rd where the Government will make a decision on whether to keep the uplift, we have been sharing quotes from the people who were interviewed and look at three key risks to mental health of not keeping the uplift;"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Powerlessness over future finances & employment is driving anxiety in working age people. People need financial security to manage their mental health and they feel they have no control and powerless as they look to the future. Financial support is vital for loosening the grip that poverty has on people moving forward, and for ensuring that they don’t have to live without essentials."
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/Powerlessness-Anwar_1-1024x576.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The shame families feel when they cannot cope financially is damaging their sense of self-worth Many Londoners we spoke to were being pulled into financial crisis. They spoke of the damage to their self-worth that their money difficulties caused them – especially men. Food banks and emergency grants have been vital during the crisis, but low-income Londoners have told us that relying on these resources damages their self-worth."
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/Shame-Agustina_21-1024x576.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Many Londoners are under pressure as they support friends and family through the crisis, but this isn’t a sustainable long term solution. Many Londoners are under pressure to support friends and family through the crisis, but this isn’t a sustainable long term solution. Keeping the £20 uplift and extending it to disability benefits will take the pressure off communities."
+          ]
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2021/02/Pressure-to-support-others-Augustina-1-1024x576.png",
+            "alt": "Photograph from Toynbee Hall"
+          }
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Add your voice"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you want to add your voice to the growing calls to keep the lifeline, join the conversation online. Use the hashtag #KeepTheLifeline to show your support and call on the Government to keep the uplift and extend to legacy benefits."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can head our to our Twitter account and share the quotes above from people in the community about how their mental health is being impacted by the financial crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are also recording a podcast with the researchers to make the case for the uplift and why it should be extended to legacy benefits. You will be able to listen and share this as soon as it’s available."
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}

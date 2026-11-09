@@ -1,0 +1,103 @@
+{
+  "slug": "audit-176-london-challenge-poverty-week-housing-and-health",
+  "route": "/16/10/2019/london-challenge-poverty-week-housing-and-health/",
+  "title": "London Challenge Poverty Week: Housing and Health",
+  "intro": "For London Challenge Poverty week, we’re providing a platform for a range of people to share their experiences and give their perspectives on poverty, and on how we could make London fairer for everyone. Throughout the week we will be sharing the views of people in Tower Hamlets who are facing different challenges, and sharing… Read more",
+  "image": {
+    "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/10/London-flat-block-estate.jpg",
+    "alt": "London Challenge Poverty Housing and Health"
+  },
+  "template": "article",
+  "publishedAt": "2019-10-16",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "For London Challenge Poverty week, we’re providing a platform for a range of people to share their experiences and give their perspectives on poverty, and on how we could make London fairer for everyone."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Throughout the week we will be sharing the views of people in Tower Hamlets who are facing different challenges, and sharing their views on employment support, the social security system, health, housing and the experience of children and families."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "People on low incomes face huge barriers – but they also have ideas and solutions for how things could – and should – be made better. We hope you enjoy hearing from them and will give your backing for their ideas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everyone should have a good home that provides security, safety and stability. Too often people are forced to live in unaffordable homes that aren’t fit to live in. People need quality, affordable housing that meets their needs."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Stacey"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“They moved me from the three bedroom maisonette that I’d been in for 38 years, into a tiny one-bedroom. The floor’s uneven, the electrics are all dodgy, the plumbing system means I have dirty water in my bathroom. It’s been going on for six years and they’ve not done anything to correct it since I’ve been there. I’ve had about two cookers blowout, I’ve had four mobile phones overheat, I’ve had a fat fryer blow up and I’ve had a TV stop working.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "If Stacey had a magic wand, she says she’d go back to living in the house she was moved from six years ago, in a part of the East End of London that felt like home."
+        },
+        {
+          "type": "paragraph",
+          "text": "But her social housing provider moved her to a smaller house once her children left. She describes how her neighbour deals drugs and she doesn’t feel safe."
+        },
+        {
+          "type": "paragraph",
+          "text": "The flat isn’t fit for purpose, but no matter how much she fights for major repairs to be done, her housing provider either can’t or won’t fix the problems with the property. Her physical health had worsened, but the stress of being trapped with no way of improving her situation has had an equally negative impact on her."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "“It’s literally been like, was one thing after another, after another. I was like, who’d I turn to, where do I go, because I’m being hit with brick wall… I didn’t have nowhere to go in the end and I just felt lost and helpless.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Stacey’s flat is making her ill. It’s too expensive to repair, but with so little alternative housing available, changing to a better home will be extremely difficult."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stacey is calling for more local, safe housing that is genuinely affordable, so people aren’t faced with the choice between staying in accommodation that makes them ill, or homelessness."
+        },
+        {
+          "type": "paragraph",
+          "text": "*All names have been changed to maintain confidentiality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toynbee Hall is currently working with young and older people to support them to find ways of improving their experience of housing in east London, including working with private and social landlords. Read more about this work.",
+          "links": [
+            {
+              "text": "Read more about this work.",
+              "href": "/other-projects/research/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "There’s a range of events taking place this week where people across the capital are coming together to push for action on poverty, including at our ‘Designing principles together: Co-producing solutions to poverty’ event on Friday. Find out more.",
+          "links": [
+            {
+              "text": "Find out more.",
+              "href": "https://www.eventbrite.co.uk/o/toynbee-hall-17664779902"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "If you or anyone you know is struggling with any problems such as debt and money, housing or employment, we can help. Visit our advice pages for more details."
+        }
+      ]
+    }
+  ],
+  "category": "Blogs"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "audit-348-london-legal-walk-2021",
+  "route": "/28/07/2021/london-legal-walk-2021/",
+  "title": "London Legal Walk 2021",
+  "intro": "London Legal Walk: Monday 18th October 2021 Team Toynbee Hall are walking 10Km in the London Legal Walk to ensure people in Tower Hamlets can have access to justice. In the last year, our Free Legal Advice Centre (FLAC) has continued to support those who need us most in our community through our online advice… Read more",
+  "template": "article",
+  "publishedAt": "2021-07-28",
+  "blocks": [
+    {
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "Team Toynbee Hall are walking 10Km in the London Legal Walk to ensure people in Tower Hamlets can have access to justice.",
+          "links": [
+            {
+              "text": "London Legal Walk",
+              "href": "https://londonlegalsupporttrust.org.uk/our-events/london-legal-walk-2021/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In the last year, our Free Legal Advice Centre (FLAC) has continued to support those who need us most in our community through our online advice sessions; whether that’s families facing eviction, women at risk of domestic violence, or isolated older people struggling to navigate a complex legal system. Through our support, 753 people have accessed advice on more than 1000 legal issues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Join us for the London Legal Walk on 18th October to ensure more people can have access to justice."
+        },
+        {
+          "type": "paragraph",
+          "text": "E-mail fundraising@toynbeehall.org.uk to join Team Toynbee Hall.",
+          "links": [
+            {
+              "text": "fundraising@toynbeehall.",
+              "href": "mailto:fundraiasing@toynbeehall.org.uk(opens in a new tab)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "category": "News"
+}
