@@ -10,7 +10,7 @@
 - Use the established Outfit typography, palette, spacing, and responsive patterns.
 - Use CSS variables from `app/styles.css`; do not introduce unrelated colors or typefaces.
 - Follow the contrast, focus, image alt-text, and touch-target guidance in the style guide.
-- Use the approved logo at `public/brand/toynbee-hall-core-logo.png` without editing its proportions or colors.
+- Use the approved orange badge at `public/brand/toynbee-hall-orange-badge.png` without editing its proportions or colors.
 - Treat `/style-guide/` as the visual reference for colors, type samples, and component patterns.
 
 ## When adding a component

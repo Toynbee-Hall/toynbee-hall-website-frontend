@@ -4,7 +4,7 @@ export type Link = { label: string; href: string };
 export type Media = { src: string; alt: string; caption?: string; credit?: string };
 export type TintTheme = 'orange' | 'jade' | 'blue' | 'yellow';
 
-export type RichTextBlock = { type: 'richText'; heading?: string; paragraphs: string[] };
+export type RichTextBlock = { type: 'richText'; heading?: string; headingAccent?: string; paragraphs: string[] };
 export type LongFormBlock = {
   type: 'longForm';
   sections: Array<
@@ -16,28 +16,36 @@ export type LongFormBlock = {
   >;
 };
 export type LinkListBlock = { type: 'linkList'; heading?: string; items: { label: string; href: string; description?: string }[] };
-export type QuoteBlock = { type: 'quote'; quote: string; attribution?: string; image?: Media };
+export type QuoteBlock = { type: 'quote'; variant?: 'editorial'; quote: string; attribution?: string; image?: Media };
 export type CalloutBlock = { type: 'callout'; heading: string; body: string; link?: Link };
 export type HeroBlock = { type: 'hero'; variant?: 'full-bleed'; eyebrow?: string; headingLines: string[]; body?: string; image?: Media; link?: Link; secondaryLink?: Link };
 export type CardGridBlock = {
-  type: 'cardGrid'; id?: string; eyebrow?: string; heading?: string; numbered?: boolean;
-  items: { title: string; description: string; href: string; linkLabel?: string; theme?: TintTheme; image?: Media; meta?: string }[];
+  type: 'cardGrid'; variant?: 'pathways'; id?: string; eyebrow?: string; heading?: string; headingAccent?: string; intro?: string; numbered?: boolean;
+  columns?: 2 | 3; imageStyle?: 'icon';
+  items: { title: string; description?: string; href?: string; linkLabel?: string; theme?: TintTheme; image?: Media; meta?: string }[];
+};
+export type SplitBannerBlock = {
+  type: 'splitBanner'; eyebrow?: string; heading: string; body?: string; image: Media;
+  imagePosition?: 'left' | 'right'; link?: Link;
 };
 export type StatementBlock = { type: 'statement'; eyebrow?: string; heading: string; paragraphs?: string[]; link?: Link };
 export type NewsListBlock = {
-  type: 'newsList'; eyebrow?: string; heading: string; allLink?: Link; readLabel: string;
+  type: 'newsList'; variant?: 'editorial'; eyebrow?: string; heading: string; headingAccent?: string; allLink?: Link; readLabel: string;
   items: { title: string; href: string; summary: string; image: Media; category?: string; date?: string; byline?: string; theme?: 'orange' }[];
 };
-export type ImageTextBlock = { type: 'imageText'; eyebrow?: string; heading: string; paragraphs: string[]; images: Media[]; imagePosition?: 'left' | 'right'; link?: Link };
+export type ImageTextBlock = {
+  type: 'imageText'; variant?: 'editorial'; eyebrow?: string; heading: string; headingAccent?: string;
+  paragraphs: string[]; images: Media[]; imagePosition?: 'left' | 'right'; link?: Link;
+};
 export type NewsletterSignupBlock = {
   type: 'newsletterSignup'; eyebrow?: string; heading: string; paragraphs: string[];
   privacy?: { text: string; link: Link }; instructions?: string;
   fields: { name: string; label: string; type: 'email' | 'text'; required?: boolean; autoComplete?: string }[];
-  submitLabel: string; action?: string;
+  submitLabel: string; action?: string; fallbackLink?: Link;
 };
 export type EnquiryFormBlock = {
   type: 'enquiryForm'; eyebrow?: string; heading: string; intro?: string; action?: string;
-  submitLabel: string; privacy?: Link;
+  submitLabel: string; privacy?: Link; fallbackLink?: Link;
   fields: Array<{ name: string; label: string; type: 'text' | 'email' | 'tel' | 'textarea' | 'select' | 'checkbox'; required?: boolean; options?: string[]; hint?: string }>;
 };
 export type LogoGridBlock = { type: 'logoGrid'; label: string; heading?: string; logos: Media[] };
@@ -47,8 +55,8 @@ export type ImpactStatsBlock = {
   stats: { value: string; label: string; detail?: string; source?: Link }[];
 };
 export type StepsBlock = {
-  type: 'steps'; eyebrow?: string; heading: string; intro?: string;
-  steps: { title: string; body: string; link?: Link; time?: string }[];
+  type: 'steps'; variant?: 'connected'; eyebrow?: string; heading: string; intro?: string;
+  steps: { title: string; body: string; icon?: string; link?: Link; time?: string }[];
 };
 export type InfoPanelBlock = {
   type: 'infoPanel'; theme?: 'blue' | 'orange' | 'jade'; heading: string;
@@ -62,7 +70,7 @@ export type ScheduleBlock = {
   type: 'schedule'; heading: string; intro?: string; updated?: string;
   rows: { day: string; time: string; activity: string; audience?: string; location?: string; booking?: Link }[];
 };
-export type Resource = { title: string; href: string; summary?: string; format?: string; fileSize?: string; date?: string };
+export type Resource = { title: string; href: string; summary?: string; format?: string; fileSize?: string; date?: string; cover?: Media };
 export type ResourceListBlock = { type: 'resourceList'; heading: string; intro?: string; resources: Resource[] };
 export type AccordionBlock = { type: 'accordion'; heading?: string; items: { title: string; body: string; paragraphs?: string[]; links?: Link[] }[] };
 export type DonationAppealBlock = {
@@ -79,7 +87,7 @@ export type ContentBlock =
   | CardGridBlock | StatementBlock | NewsListBlock | ImageTextBlock | NewsletterSignupBlock
   | LogoGridBlock | EnquiryFormBlock | GalleryBlock | ImpactStatsBlock | StepsBlock | InfoPanelBlock
   | ContactRoutesBlock | ScheduleBlock | ResourceListBlock | AccordionBlock
-  | DonationAppealBlock | RelatedContentBlock;
+  | DonationAppealBlock | RelatedContentBlock | SplitBannerBlock;
 
 export type StandardPageContent = {
   template?: 'standard'; slug: string; route?: string; aliases?: string[]; title: string; intro: string;

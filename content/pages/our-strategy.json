@@ -1,21 +1,185 @@
 {
   "slug": "our-strategy",
+  "route": "/about-us/our-strategy/",
   "title": "Our strategy",
-  "intro": "We work towards a fairer future with an end to poverty, injustice and inequality.",
+  "intro": "Our 2023–2026 strategy sets out how we work with local people and partners to tackle poverty and injustice.",
+  "template": "standard",
+  "layout": "full-width",
   "blocks": [
     {
-      "type": "richText",
-      "heading": "Our mission",
-      "paragraphs": [
-        "We address poverty and injustice through advice and support, influence systemic change, shift power to people and communities affected by injustice, and collaborate to build fairer systems."
+      "type": "longForm",
+      "sections": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why we need a strategy"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Toynbee Hall first opened its doors in 1884, the need for help and support in the area outside those doors was greater than almost anywhere else in the UK. 140 years later, and the community in which we work remains one of the most unequal in the UK, with 48% of children in Tower Hamlets living in poverty. This is amidst increasing levels of destitution across the UK, with 3.8 million people experiencing destitution in 2022, including around one million children.",
+          "links": [
+            {
+              "text": "48% of children in Tower Hamlets living in poverty",
+              "href": "https://trustforlondon.org.uk/data/boroughs/tower-hamlets-poverty-and-inequality-indicators?tab=living-standards"
+            },
+            {
+              "text": "3.8 million people experiencing destitution in 2022",
+              "href": "https://www.jrf.org.uk/deep-poverty-and-destitution/destitution-in-the-uk-2023"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Facing these facts can generate a sense of despair and of outrage. But it can also galvanize action and commitment to make change happen. The Toynbee Hall story is one of pioneering new solutions to poverty and injustice, from developing adult education and free legal advice in the 1880s to innovating on debt advice and financial inclusion in the 1990s. Over our history, we have combined research with service development and with campaigning. We know that change is possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the time for new solutions. However, the solutions we seek for today and tomorrow cannot be developed by Toynbee Hall alone. Instead, they must be built in collaboration with other organisations, and with those who have lived experience of the issues. They must also have a recognition of the disproportionate impact of poverty and injustice on minority communities, women, carers and people with disabilities."
+        },
+        {
+          "type": "image",
+          "image": {
+            "src": "/images/live-site/strategy-workshop.jpg",
+            "alt": "People adding notes to a large illustrated sheet during a workshop"
+          }
+        }
       ]
     },
     {
-      "type": "richText",
-      "heading": "Change starts close to home",
-      "paragraphs": [
-        "We want a thriving local community where people have the resources they need, their voices are heard and they can feel optimistic about the future. We also aim to be a fair, empowering employer and an effective partner."
+      "type": "cardGrid",
+      "heading": "Our ambitions to the end of",
+      "headingAccent": "2026",
+      "columns": 2,
+      "numbered": true,
+      "items": [
+        {
+          "title": "Improve economic security",
+          "description": "Improve economic security for those affected by poverty, debt, low pay, insecure employment and housing. We will do this through direct support and through work to bring about system change.",
+          "theme": "orange"
+        },
+        {
+          "title": "Help our local community thrive",
+          "description": "Help our local community thrive – increasing emotional wellbeing, optimism, economic security in key groups. We will also focus on how we come together despite differences and celebrating.",
+          "theme": "orange"
+        },
+        {
+          "title": "Collaborate for social change",
+          "description": "Collaborate to drive social change in a way that gives a platform to the ideas and solutions of people with lived experience.",
+          "theme": "orange"
+        },
+        {
+          "title": "Address systemic inequality",
+          "description": "Ensure that addressing systemic inequality and racial discrimination is a priority across our work and our organisation.",
+          "theme": "orange"
+        }
       ]
+    },
+    {
+      "type": "cardGrid",
+      "heading": "Our priorities to deliver the",
+      "headingAccent": "strategic plan",
+      "columns": 3,
+      "numbered": true,
+      "intro": "We have identified key organisational priorities which will enable us to implement our strategy and milestones and measures to accompany them. These are underpinning elements of our work that need attention over the next three years.",
+      "items": [
+        {
+          "title": "Share our vision and values",
+          "description": "Communicate a shared vision and set of values for Toynbee Hall so that everyone knows how their role helps us achieve our vision and we join up our activities and areas of focus.",
+          "theme": "yellow"
+        },
+        {
+          "title": "Influence social change",
+          "description": "Set out our priorities for influencing social change and build on our participant research approach to influence change in structures, systems, and policies.",
+          "theme": "yellow"
+        },
+        {
+          "title": "Deepen community involvement",
+          "description": "Grow our engagement with the community around us so that there is greater involvement in Toynbee Hall in a way that promotes inclusion and shifts power.",
+          "theme": "yellow"
+        },
+        {
+          "title": "Build partnerships and learn together",
+          "description": "Set out our approach to collaboration, partnership, and learning, so that we can work collaboratively to build a thriving community, understand Toynbee Hall’s contribution to that goal, and recognise and respect the strengths and expertise of others.",
+          "theme": "yellow"
+        },
+        {
+          "title": "Strengthen our finances",
+          "description": "Develop a financial strategy to cover overheads and generate small annual surplus sufficient to replenish our free reserves, without leaving us unable to deliver to charitable purpose.",
+          "theme": "yellow"
+        },
+        {
+          "title": "Advance equity and anti-racism",
+          "description": "Embed our approach to diversity, inclusion, equity; commit to becoming an anti-racist organisation and ensure we are addressing systemic racism and discrimination across our work and our organisation.",
+          "theme": "yellow"
+        }
+      ]
+    },
+    {
+      "type": "resourceList",
+      "heading": "Read our Strategic Plan",
+      "intro": "This strategy is an evolution of our work over the last few years and a recognition of the challenges we and other charities face. It draws from consultation and discussion, as well as the thinking of current and previous colleagues. It also involves the ideas of some of the people who use our services and our peer researchers.",
+      "resources": [
+        {
+          "title": "Strategic Plan 2023–2026",
+          "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/Strategic-plan-2023-2026-V4.pdf",
+          "format": "PDF",
+          "cover": {
+            "src": "/images/live-site/strategy-plan-cover.png",
+            "alt": "Cover of the Toynbee Hall Strategic Plan 2023–2026"
+          }
+        }
+      ]
+    },
+    {
+      "type": "newsletterSignup",
+      "heading": "Subscribe to our e-newsletter",
+      "paragraphs": [
+        "Subscribe to our quarterly e-newsletter to stay up to date with our work."
+      ],
+      "privacy": {
+        "text": "Toynbee Hall needs the contact information you provide to contact you with the latest news, events and updates. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, you can read our",
+        "link": {
+          "label": "data protection policy here.",
+          "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/Data-Protection-Policy-v3.0.pdf"
+        }
+      },
+      "instructions": "Please complete the fields below:",
+      "fields": [
+        {
+          "name": "email",
+          "label": "Your email address",
+          "type": "email",
+          "required": true,
+          "autoComplete": "email"
+        },
+        {
+          "name": "firstName",
+          "label": "First name",
+          "type": "text",
+          "required": true,
+          "autoComplete": "given-name"
+        },
+        {
+          "name": "lastName",
+          "label": "Last name",
+          "type": "text",
+          "required": true,
+          "autoComplete": "family-name"
+        }
+      ],
+      "submitLabel": "Subscribe",
+      "fallbackLink": {
+        "label": "Subscribe on the live site",
+        "href": "https://www.toynbeehall.org.uk/about-us/our-strategy/"
+      }
     }
-  ]
+  ],
+  "aliases": [
+    "/our-strategy/"
+  ],
+  "image": {
+    "src": "/images/live-site/about-strategy.jpg",
+    "alt": "Two people working together on a colourful craft project"
+  },
+  "pageCta": null
 }

@@ -1,20 +1,30 @@
 # Toynbee Hall Website Style Guide
 
-**Digital application of the 2024 brand guidelines and October campaign direction**
+**Digital application of the 2024 brand guidelines and recent Toynbee Hall design references**
 
 ## Purpose and reference hierarchy
 
-This guide translates the supplied Toynbee Hall Brand Guidelines 2024 into a practical website system. The October campaign image is treated as a newer editorial direction for story-led content: vivid orange fields, prominent real photography, confident white headlines and organic corner decoration. It does not replace the official logo or the core brand rules.
+This guide translates the supplied Toynbee Hall Brand Guidelines 2024 into a website design system. The recent announcement and presentation designs inform the editorial variants. Use the approved orange badge for public pages.
+
+## Editorial design direction
+
+- Start with white or a warm orange tint and leave space around headings and photographs. Use deep slate for editorial headings and keep Outfit at weight 500 or lighter.
+- Use the short orange rule under section headings. On white, a short phrase at the end of a large heading can use logo orange alongside deep slate. Use dark text for smaller copy and on warm tints.
+- Pair a short headline with one contextual photograph in the editorial photo feature. Let the white background curve into the edge nearest the copy to echo the circular badge. On phones, the curve cuts into the bottom of the image.
+- Use circular line icons on pale tints for a short process. Jade can connect the steps on wide layouts. Keep the labels and reading order clear when steps stack.
+- Give a short, attributed quote room to breathe. Use the orange rule and quotation mark as decoration around deep slate text.
+
+See live examples at `/style-guide/#editorial` and block guidance at `/content-block-inventory/#editorial`.
 
 ## Brand colors
 
 | Token | Hex | Web use |
 |---|---|---|
-| Orange | `#F16E00` | Primary accent, calls to action, editorial features |
-| Deep slate | `#1F2933` | Softer high-contrast text on orange, jade and pale surfaces |
+| Orange | `#F16E00` | Primary brand colour for navigation accents, actions and editorial features |
+| Deep slate | `#1F2933` | Editorial headings and high-contrast text on jade and pale surfaces |
 | Grey | `#636466` | Body copy on white, secondary text |
 | Navy | `#175984` | Strong headings, links, dark information panels |
-| Jade | `#20A790` | Supporting accent and community highlights |
+| Jade | `#20A790` | Supporting accent, community highlights and decorative process lines |
 | Light blue | `#96B4DE` | Supporting panels and illustration accents |
 | Yellow | `#EEB736` | Small highlights and status accents |
 | Black / white | `#000000` / `#FFFFFF` | Core brand colors; black is not used for interface copy |
@@ -27,13 +37,13 @@ Use the brand colors at full strength for accents and approved tints for larger 
 |---|---|---|
 | White | Grey or deep slate | Body and long-form copy |
 | Navy | White | Strong, accessible feature panel |
-| Orange | Deep slate | Body copy, labels and button text (4.9:1) |
-| Orange | White | Large type only (18pt / 24px or larger) |
+| White | Orange | Accent words in headings at 24px or larger (3.01:1) |
+| Orange | White | Primary buttons and solid orange sections (3.01:1) |
 | Jade | Deep slate | Body copy and labels (4.9:1) |
 | Jade | White | Large type only (18pt / 24px or larger) |
 | Light blue / yellow | Deep slate | Text and labels |
 
-For website controls, aim for WCAG AA contrast: 4.5:1 for normal text and 3:1 for large text. Do not place small white text over orange or jade.
+Use white on solid logo orange and deep slate on jade and pale tints. White on logo orange meets the 3:1 contrast target for large text and falls below the 4.5:1 target for smaller text.
 
 ## Typography
 
@@ -51,26 +61,33 @@ Keep paragraphs left-aligned, use medium weight sparingly for emphasis, and avoi
 
 ## Logo
 
-Use the supplied core Toynbee Hall lockup without changing its colors, proportions or composition. Keep it on a white background, preserve clear space at least the height of the “T” in TOYNBEE, and never recreate it as text or a standalone initial. The campaign’s “team Toynbee” wordmark belongs to that campaign treatment and is not a replacement site logo.
+Use the supplied orange Toynbee Hall badge at `public/brand/toynbee-hall-orange-badge.png`. Display it on white with clear space around the whole badge. Preserve its colours, proportions and composition. The decorative tree watermark is separate from the site logo.
 
 ## Layout and reusable patterns
 
-- **Header:** white, generous spacing, approved core logo, clear primary navigation and a visible donate action.
-- **Hero:** large statement, short supporting copy and a clear next action. Use a real contextual image when it strengthens the story.
-- **Primary action:** orange with deep slate text; maintain a clear focus state and generous hit area.
-- **Story feature:** orange surface, large real photo, large white headline, concise deep slate body copy. Keep white text to the headline scale. Use this pattern for news and campaign storytelling.
+- **Header** places the orange badge on the left and search and quick links above the right-aligned navigation. Chevrons mark desktop dropdowns, which open on hover and keyboard focus. A menu button reveals the main navigation on smaller screens.
+- **Homepage hero:** full-width contextual photo with a faint orange gradient behind the white heading, a clear next action and an orange rule. The mobile gradient sits behind copy at the bottom of the photo.
+- **Standard page header:** every standard page, full-width or with a sidebar, uses a framed photo overlapping the orange title panel, with the faded logo mark on the pale backdrop.
+- **Split banner (in-page block):** half orange panel with a white headline, deep-slate label and body, and a cropped logo watermark, beside a contextual photo. Use it further down a page to introduce a section or highlight one action.
+- **Article, event, resource and listing headers** use logo orange with white headings and deep-slate eyebrows, metadata and supporting copy.
+- **Primary action** uses logo orange with white text, a clear focus state and a generous hit area.
+- **Story feature** pairs an orange surface with a contextual photo, a white headline, deep-slate supporting copy and a white action button. The homepage leads its news section with this treatment.
 - **Service cards:** white or pale brand tints, navy headings, short descriptions and consistent link treatment.
-- **Long-form content:** white background, grey/deep slate body copy, navy headings, clear subheads and short paragraphs.
+- **Homepage pathways** use solid deep slate with white copy and logo orange for the lead route.
+- **Long-form content** uses a white background, deep slate section headings, navy subheadings and grey body copy.
 - **Information feature:** navy background with white text for high-contrast calls to action or key facts.
-- **Footer:** white background, approved logo, grouped links and clear charity/legal details.
+- **Mission statement** uses logo orange with white copy and an optional white action.
+- **Footer:** white background, orange badge, grouped links and clear charity/legal details.
 
-Use a content width up to 1240px, 32px desktop and 20px mobile gutters, 88px desktop and 64px mobile section spacing, and 14px card gaps. Collapse grids cleanly to one column on narrow screens.
+Use a content width up to 1240px, with 32px desktop and 20px mobile gutters. Align headings, prose and grids to the same left edge. Keep supporting panels on the right of the reading column on desktop and stack them below the content on mobile. Give callouts and cards their own inner padding. The service card grid uses an 18px desktop gap and adapts on narrow screens.
 
 ## Photography and illustration
 
 Choose real people in real situations, with natural light and a warm, hopeful, respectful tone. Keep people prominent and include Toynbee Hall or local context where possible. Write meaningful alt text that describes the informative image; use empty alt text for purely decorative images. Use approved illustration assets only. The October image’s organic leaf motifs may guide placement and mood, but should not be redrawn as unofficial brand artwork.
 
 The supplied Rushanara Ali visit photograph is used as the orange editorial story example in the style guide, and can be used in a `newsList` item with `"theme": "orange"`. The flat poster itself should not be used as a page image because its text would not be selectable or accessible.
+
+Use a mix of relevant images from Toynbee Hall’s live site and its own photo collection. Store selected photos locally for reliable loading. Standard banners use the page image when supplied, then a section photo or the courtyard fallback. Keep descriptive captions where useful and display photography credit where required. Treat the faded banner mark and icons beside descriptive titles as decorative.
 
 ## Accessibility and interaction
 
@@ -87,6 +104,4 @@ Treat each page as an ordered collection of typed content sections. Reusable pat
 
 Suggested CMS block types: hero, rich text, service-card grid, story feature, news list, statistics, quote, callout, image with caption, and venue feature. Each block should define its text, links, media, alt text, optional theme token and display order.
 
-## Applied in this project
-
-The current pass replaces the unrelated green/serif styling with brand colors and Outfit typography; applies accessible orange, navy and pale-tint treatments; uses the approved logo asset; and adds the October visit as structured homepage news content. The style tokens live in `content/design-tokens.json`. This is a foundation for further page-by-page refinement and later CMS implementation.
+The local `/style-guide/` page shows the three banner styles, typography, palette and layout guidance. The `/content-block-inventory/` page renders examples with the same components as the main site and links to each page template.

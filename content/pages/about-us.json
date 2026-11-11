@@ -14,6 +14,16 @@
           "text": "We provide vital advice and support, working in partnership to tackle unfairness and ensure everyone has an equal chance to thrive."
         },
         {
+          "type": "paragraph",
+          "text": "Read the 2024–25 impact report (PDF)",
+          "links": [
+            {
+              "text": "Read the 2024–25 impact report (PDF)",
+              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/02/FINAL-VERSION_Impact-Report-2024-2025.pdf"
+            }
+          ]
+        },
+        {
           "type": "image",
           "image": {
             "src": "/images/home/toynbee-hall-courtyard.jpg",
@@ -30,8 +40,8 @@
         {
           "type": "image",
           "image": {
-            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/cropped-toynebee-8-scaled-1.jpg",
-            "alt": "Advice client receives advice in the Toynbee Hall advice centre"
+            "src": "/images/live-site/about-advice.jpg",
+            "alt": "A client receiving advice at the Toynbee Hall Advice Centre"
           }
         },
         {
@@ -77,182 +87,195 @@
             "Being a good employer, where people are treated fairly, feel engaged and empowered, and work together to achieve our shared vision.",
             "Acknowledging the role Toynbee Hall has played in civic society while recognising that our role now is to shift power, to be an effective partner, and to amplify voices that are less likely to be heard."
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "cardGrid",
+      "heading": "Our",
+      "headingAccent": "values",
+      "columns": 3,
+      "imageStyle": "icon",
+      "items": [
         {
-          "type": "heading",
-          "level": 2,
-          "text": "Our Values"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "are to be:"
-        },
-        {
-          "type": "image",
+          "title": "Inclusive",
+          "description": "open-minded, transparent, convening and collaborative; seeking fresh and alternate perspectives",
           "image": {
-            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/inclusive.png",
-            "alt": "Photograph from Toynbee Hall"
-          }
+            "src": "/images/live-site/value-inclusive.png",
+            "alt": ""
+          },
+          "theme": "orange"
         },
         {
-          "type": "heading",
-          "level": 3,
-          "text": "Inclusive"
-        },
-        {
-          "type": "paragraph",
-          "text": "open-minded, transparent, convening and collaborative; seeking fresh and alternate perspectives"
-        },
-        {
-          "type": "image",
+          "title": "Courageous",
+          "description": "principled, ambitious and acting with integrity",
           "image": {
-            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/Couragous-web.png",
-            "alt": "Photograph from Toynbee Hall"
-          }
+            "src": "/images/live-site/value-courageous.png",
+            "alt": ""
+          },
+          "theme": "orange"
         },
         {
-          "type": "heading",
-          "level": 3,
-          "text": "Courageous"
-        },
-        {
-          "type": "paragraph",
-          "text": "principled, ambitious and acting with integrity"
-        },
-        {
-          "type": "image",
+          "title": "Empowering",
+          "description": "shifting power, sharing our knowledge, enabling people to take action for themselves",
           "image": {
-            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/Empowering-web.png",
-            "alt": "Photograph from Toynbee Hall"
-          }
-        },
+            "src": "/images/live-site/value-empowering.png",
+            "alt": ""
+          },
+          "theme": "orange"
+        }
+      ]
+    },
+    {
+      "type": "cardGrid",
+      "heading": "Explore",
+      "headingAccent": "Toynbee Hall",
+      "columns": 3,
+      "items": [
         {
-          "type": "heading",
-          "level": 3,
-          "text": "Empowering"
-        },
-        {
-          "type": "paragraph",
-          "text": "shifting power, sharing our knowledge, enabling people to take action for themselves"
-        },
-        {
-          "type": "image",
+          "title": "Our strategy",
+          "href": "/about-us/our-strategy/",
           "image": {
-            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/cropped-cropped-toynebee-6-web-1.jpg",
-            "alt": "Photograph from Toynbee Hall"
-          }
+            "src": "/images/live-site/about-strategy.jpg",
+            "alt": "Two people working together on a colourful craft project"
+          },
+          "linkLabel": "Read more"
         },
         {
-          "type": "heading",
-          "level": 3,
-          "text": "Our strategy"
-        },
-        {
-          "type": "image",
+          "title": "How we work with local people",
+          "href": "/about-us/how-we-work/",
           "image": {
-            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2019/12/cropped-cropped-cropped-IMG_4504.jpg",
-            "alt": "Photograph from Toynbee Hall"
-          }
+            "src": "/images/live-site/about-local-people.jpg",
+            "alt": "Participants in a group discussion around a table"
+          },
+          "linkLabel": "Read more"
         },
         {
-          "type": "heading",
-          "level": 3,
-          "text": "How we work with local people"
-        },
-        {
-          "type": "image",
+          "title": "Our Community Centre",
+          "href": "/community-services/",
           "image": {
             "src": "/images/live-site/community.jpg",
             "alt": "Community Centre participants holding up colourful artwork"
-          }
+          },
+          "linkLabel": "Read more"
         },
         {
-          "type": "heading",
-          "level": 3,
-          "text": "Our Community Centre"
-        },
-        {
-          "type": "image",
+          "title": "Our history",
+          "href": "/about-us/our-history/",
           "image": {
             "src": "/images/live-site/history.jpg",
             "alt": "Archival photograph of Bangladeshi community leaders meeting around a table"
-          }
+          },
+          "linkLabel": "Read more"
         },
         {
-          "type": "heading",
-          "level": 3,
-          "text": "Our history"
-        },
-        {
-          "type": "image",
+          "title": "Our impact",
+          "href": "/about-us/our-impact/",
           "image": {
-            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2023/12/cropped-toynebee-117-scaled-1.jpg",
-            "alt": "Photograph from Toynbee Hall"
-          }
+            "src": "/images/live-site/about-impact.jpg",
+            "alt": "People taking part in a group activity at Toynbee Hall"
+          },
+          "linkLabel": "Read more"
         },
         {
-          "type": "heading",
-          "level": 3,
-          "text": "Our impact"
-        },
-        {
-          "type": "image",
+          "title": "Our team",
+          "href": "/about-us/our-team/",
           "image": {
-            "src": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/01/cropped-P1044086.jpg",
-            "alt": "Photograph from Toynbee Hall"
-          }
+            "src": "/images/live-site/about-team.jpg",
+            "alt": "A group gathered in the courtyard outside Toynbee Hall"
+          },
+          "linkLabel": "Read more"
+        }
+      ]
+    },
+    {
+      "type": "resourceList",
+      "heading": "Read our annual report",
+      "resources": [
+        {
+          "title": "Toynbee Hall 2024–25 Annual Report and Accounts",
+          "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/03/Toynbee-Hall-Annual-accounts-2024-2025.pdf",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "type": "newsletterSignup",
+      "heading": "Subscribe to our e-newsletter",
+      "paragraphs": [
+        "Subscribe to our quarterly e-newsletter to stay up to date with our work."
+      ],
+      "privacy": {
+        "text": "Toynbee Hall needs the contact information you provide to contact you with the latest news, events and updates. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, you can read our",
+        "link": {
+          "label": "data protection policy here.",
+          "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/Data-Protection-Policy-v3.0.pdf"
+        }
+      },
+      "instructions": "Please complete the fields below:",
+      "fields": [
+        {
+          "name": "email",
+          "label": "Your email address",
+          "type": "email",
+          "required": true,
+          "autoComplete": "email"
         },
         {
-          "type": "heading",
-          "level": 3,
-          "text": "Our team"
+          "name": "firstName",
+          "label": "First name",
+          "type": "text",
+          "required": true,
+          "autoComplete": "given-name"
         },
         {
-          "type": "heading",
-          "level": 2,
-          "text": "Join us! Subscribe to our quarterly e-newsletter to stay up to date with our work"
+          "name": "lastName",
+          "label": "Last name",
+          "type": "text",
+          "required": true,
+          "autoComplete": "family-name"
+        }
+      ],
+      "submitLabel": "Subscribe",
+      "fallbackLink": {
+        "label": "Subscribe on the live site",
+        "href": "https://www.toynbeehall.org.uk/about-us/"
+      }
+    },
+    {
+      "type": "enquiryForm",
+      "heading": "Contact us",
+      "intro": "If you’re unsure who to contact, send a message through the live form and the team can point you in the right direction.",
+      "submitLabel": "Send message",
+      "fallbackLink": {
+        "label": "Open the live contact form",
+        "href": "https://www.toynbeehall.org.uk/contact-us/"
+      },
+      "fields": [
+        {
+          "name": "name",
+          "label": "Your name",
+          "type": "text",
+          "required": true
         },
         {
-          "type": "paragraph",
-          "text": "Toynbee Hall needs the contact information you provide to contact you about with the latest news, events and updates. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, you can read our data protection policy here.",
-          "links": [
-            {
-              "text": "data protection policy here",
-              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2024/09/Data-Protection-Policy-v3.0.pdf"
-            }
-          ]
+          "name": "email",
+          "label": "Your email",
+          "type": "email",
+          "required": true
         },
         {
-          "type": "paragraph",
-          "text": "Please complete the fields below:"
+          "name": "subject",
+          "label": "Subject",
+          "type": "text"
         },
         {
-          "type": "heading",
-          "level": 2,
-          "text": "Contact us"
-        },
-        {
-          "type": "paragraph",
-          "text": "Can’t find what you’re looking for? Drop us a message and we’ll point you in the right direction."
-        },
-        {
-          "type": "paragraph",
-          "text": "Your Name (required)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Your Email (required)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Subject"
-        },
-        {
-          "type": "paragraph",
-          "text": "Your Message"
+          "name": "message",
+          "label": "Your message",
+          "type": "textarea"
         }
       ]
     }
-  ]
+  ],
+  "pageCta": null
 }

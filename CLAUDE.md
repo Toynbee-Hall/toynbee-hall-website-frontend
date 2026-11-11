@@ -20,7 +20,7 @@
 - Use the deep-slate text color (`#1F2933`, from the design tokens) for interface and supporting copy, including text on orange and jade surfaces. Do not use black for interface text. White text on orange or jade is reserved for large headlines as specified in the style guide.
 - Use CSS variables from `app/styles.css`; do not introduce unrelated colors, typefaces, or spacing values.
 - Follow the contrast, visible keyboard focus, image alt-text, and minimum 44px touch-target guidance in the style guide.
-- Use the approved logo at `public/brand/toynbee-hall-core-logo.png` without editing its proportions or colors.
+- Use the approved orange badge at `public/brand/toynbee-hall-orange-badge.png` without editing its proportions or colors.
 
 ## When adding a component
 - First check whether an existing component can support the pattern.

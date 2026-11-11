@@ -5,7 +5,11 @@
     "Hall"
   ],
   "strapline": "Working with communities in the East End since 1884",
-  "donateLabel": "Donate",
+  "headerLinks": [
+    { "label": "Donate", "href": "/donate/", "primary": true },
+    { "label": "Work with us", "href": "/corporate-partnerships/" },
+    { "label": "Contact us", "href": "/contact-us/" }
+  ],
   "footer": {
     "summary": "Working with communities in the East End since 1884.",
     "address": [
@@ -97,7 +101,7 @@
   "shared": {
     "skipLink": "Skip to content",
     "searchLabel": "Search",
-    "menuLabel": "Open navigation",
+    "menuLabel": "Navigation menu",
     "pageEyebrow": "Toynbee Hall · East London",
     "exploreHeading": "Explore",
     "exploreLinks": [

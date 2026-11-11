@@ -1,15 +1,27 @@
+import { inventoryExamples } from '../content/inventory-examples';
+import ContentBlockRenderer from './ContentBlockRenderer';
+import PageBanner from './PageBanner';
+
 const groups = [
+  { id: 'editorial', number: '00', title: 'Use the editorial variants', intro: 'Bring in orange rules, open space and circular details when a story, process or quote needs more emphasis.', blocks: [
+    { title: 'Editorial photo feature', use: 'Pair a photograph with a curve inspired by the badge, a short heading with an orange accent, and one action.', kind: 'editorialImage' },
+    { title: 'Connected steps', use: 'Show a short sequence with circular line icons. Use the numbered process for longer instructions.', kind: 'connectedSteps' },
+    { title: 'Editorial quote', use: 'Give a short excerpt room to stand on its own, with an orange rule and a clear attribution.', kind: 'editorialQuote' },
+  ]},
   { id: 'orient', number: '01', title: 'Help people find their way', intro: 'Start with a clear welcome, then give visitors useful routes into services and information.', blocks: [
     { title: 'Hero / page introduction', use: 'A concise introduction with a clear next step.', kind: 'hero' },
     { title: 'Audience pathways', use: 'Help people choose the service, programme or support route that fits.', kind: 'pathways' },
+    { title: 'Homepage pathways', use: 'Use deep slate and logo orange with white copy for a prominent set of routes.', kind: 'homepagePathways' },
     { title: 'Image and text feature', use: 'Explain a service or programme alongside contextual photography.', kind: 'image' },
+    { title: 'Split banner', use: 'Break up a longer page with a half-orange, half-photograph feature and one action.', kind: 'splitBanner' },
     { title: 'Image with caption / gallery', use: 'Show a photograph on its own or as part of a curated image sequence.', kind: 'captionedImage' },
     { title: 'Card collection', use: 'Show related services, spaces, people or links as a consistent set.', kind: 'cards' },
+    { title: 'Values cards', use: 'Use compact icons and short descriptions for a group that needs no onward links.', kind: 'values' },
   ]},
   { id: 'evidence', number: '02', title: 'Show the work and its impact', intro: 'Bring evidence, lived experience and editorial stories together with care and context.', blocks: [
     { title: 'Impact statistics', use: 'Make a small number of sourced outcomes easy to understand.', kind: 'stats' },
-    { title: 'Story or campaign feature', use: 'Give one important story a strong editorial moment.', kind: 'story' },
-    { title: 'News, story or event listing', use: 'Help visitors scan current updates and choose what to read.', kind: 'listing' },
+    { title: 'Mission statement', use: 'Use a logo-orange section with white copy for a key statement and a single onward action.', kind: 'statement' },
+    { title: 'Featured story and news cards', use: 'Pair the lead photo with a solid orange editorial panel. Use action buttons for stories and the full archive.', kind: 'listing' },
     { title: 'Quote / testimonial', use: 'Share a participant, volunteer, supporter or partner voice.', kind: 'quote' },
   ]},
   { id: 'explain', number: '03', title: 'Explain clearly', intro: 'Support longer pages with readable content, useful detail and obvious next steps.', blocks: [
@@ -22,52 +34,53 @@ const groups = [
   ]},
   { id: 'resources', number: '04', title: 'Make activities and resources usable', intro: 'Present schedules, spaces and publications in formats people can navigate.', blocks: [
     { title: 'Schedule / timetable', use: 'Show what is happening, when, where and who can join.', kind: 'schedule' },
-    { title: 'Venue space and gallery', use: 'Compare event spaces and show practical details before an enquiry.', kind: 'venue' },
+    { title: 'Partner and funder logos', use: 'Show organisations in a consistent grid with descriptive alt text.', kind: 'logos' },
     { title: 'Download / resource list', use: 'Help people identify reports, policies and advice resources.', kind: 'downloads' },
     { title: 'Related content / next steps', use: 'Offer a small set of relevant onward links at the end of a page.', kind: 'related' },
+    { title: 'Link list', use: 'Provide direct routes when a list is more useful than a card grid.', kind: 'links' },
   ]},
   { id: 'take-action', number: '05', title: 'Invite people to take action', intro: 'Make supporter and enquiry journeys clear, trustworthy and accessible.', blocks: [
     { title: 'Donation or fundraising appeal', use: 'Explain what support makes possible and how to take part.', kind: 'donate' },
-    { title: 'Newsletter signup / enquiry form', use: 'Set expectations, collect only what is needed and show clear form feedback.', kind: 'form' },
+    { title: 'Newsletter signup', use: 'Explain what subscribers will receive. This is a preview of the form.', kind: 'newsletter' },
+    { title: 'Enquiry form', use: 'Use labelled fields and connect a submission destination. The advice and contact pages link to their live forms.', kind: 'form' },
   ]},
 ];
 
+const wideExamples = new Set(['editorialImage', 'connectedSteps', 'editorialQuote', 'hero', 'pathways', 'homepagePathways', 'image', 'splitBanner', 'captionedImage', 'cards', 'values', 'statement', 'listing', 'contact', 'schedule', 'logos', 'newsletter']);
+const standaloneBlocks = new Set(['hero', 'statement', 'imageText', 'newsList', 'newsletterSignup']);
+
 function Preview({ kind }: { kind: string }) {
-  switch (kind) {
-    case 'hero': return <div className="inventory-hero"><div className="inventory-hero-copy"><span className="inventory-label">Advice and support</span><strong>Help to make your next step</strong><p>Free, expert advice for people across East London.</p><span className="inventory-button">Find the right advice ↗</span></div><img src="/images/staff/cityhall-community-conversation.jpg" alt="A community member speaking with another attendee at an event."/></div>;
-    case 'pathways': return <div className="inventory-mini-grid"><b>Debt and money <i>↗</i></b><b>Housing advice <i>↗</i></b><b>Community activities <i>↗</i></b></div>;
-    case 'image': return <div className="inventory-image-text"><figure className="inventory-photo"><img src="/images/staff/cityhall-community-conversation.jpg" alt="A community member speaking with another attendee at an event."/></figure><div><b>Support shaped around you</b><p>Practical support, alongside people and communities.</p><span>Explore our work ↗</span></div></div>;
-    case 'captionedImage': return <figure className="inventory-standalone-photo"><img src="/images/staff/dfa-awards-community-dinner.jpg" alt="Guests share a conversation around a table during a Toynbee Hall event."/><figcaption>Community members and colleagues come together at a Toynbee Hall event.</figcaption></figure>;
-    case 'cards': return <div className="inventory-photo-cards"><article><img src="/images/staff/dfa-awards-community-dinner.jpg" alt="Guests talking together around a dinner table at an event."/><b>Community events</b><small>People coming together</small></article><article><img src="/images/staff/cityhall-event-portrait.jpg" alt="Two event attendees posing together in front of a branded backdrop."/><b>Our people</b><small>Stories from our community</small></article></div>;
-    case 'stats': return <div className="inventory-stats"><b>140+<small>years in the East End</small></b><b>3<small>connected areas of work</small></b><b>2024–25<small>reporting period</small></b></div>;
-    case 'story': return <div className="inventory-story"><img src="/images/staff/dfa-awards-community-dinner.jpg" alt="Guests share a conversation around a dinner table at a Toynbee Hall event."/><div><span className="inventory-label">Our community</span><b>Local voices help shape a fairer future</b><p>Stories and action, led by the experiences of local people.</p></div></div>;
-    case 'listing': return <div className="inventory-listing"><b>Latest from Toynbee Hall</b><article><img src="/images/staff/cityhall-community-conversation.jpg" alt="Attendees talking at a community event."/><span>NEWS · Our community <strong>Community voices shape our work</strong></span></article><article><img src="/images/staff/dfa-awards-recognition.jpg" alt="Two attendees share a moment at an awards event."/><span>EVENT · Advice and support <strong>DFA Awards 2023</strong></span></article></div>;
-    case 'quote': return <blockquote className="inventory-quote">“Add an approved quote from a participant, volunteer or supporter.”<small>Attribution and context should be agreed before publication.</small></blockquote>;
-    case 'rich': return <div className="inventory-rich"><b>How we work with local people</b><p>We listen, work together and use lived experience to shape practical support and lasting change.</p><a href="#explain">Read about our approach ↗</a></div>;
-    case 'steps': return <ol className="inventory-steps"><li><b>Get in touch</b><span>Tell us what support you need.</span></li><li><b>We’ll talk it through</b><span>We’ll help identify the right next step.</span></li><li><b>Get advice</b><span>Receive clear guidance from our team.</span></li></ol>;
-    case 'eligibility': return <div className="inventory-info"><b>Who this service is for</b><p>Free support for eligible Tower Hamlets residents. If this service cannot help, we’ll signpost you to another organisation.</p></div>;
-    case 'callout': return <div className="inventory-callout"><b>Need advice?</b><p>Talk to our team about the support available.</p><span>Contact the advice team ↗</span></div>;
-    case 'contact': return <div className="inventory-contact"><b>Advice services</b><span>Call <strong>0800 808 5701</strong></span><span>Email <strong>advice@toynbeehall.org.uk</strong></span><span>Open daily · 8am–8pm</span></div>;
-    case 'accordion': return <div className="inventory-accordion"><b>What should I bring to my appointment? <span>+</span></b><p>Bring any letters or information related to your question.</p></div>;
-    case 'schedule': return <div className="inventory-schedule"><div><b>Monday</b><span>11:00 · Community art group</span></div><div><b>Wednesday</b><span>10:30 · Shared reading</span></div><div><b>Friday</b><span>14:00 · Seated exercise</span></div></div>;
-    case 'venue': return <div className="inventory-venue"><figure className="inventory-photo"><img src="/images/staff/dfa-awards-community-dinner.jpg" alt="Guests seated around a dinner table in a historic event room."/></figure><div><b>Historic event space</b><span>Capacity · Facilities · Access</span><strong>Ask about availability ↗</strong></div></div>;
-    case 'downloads': return <div className="inventory-downloads"><b>Research and reports</b><span>Impact report 2024–25 <small>PDF · 2.4 MB</small></span><span>Our strategy <small>PDF · 1.1 MB</small></span></div>;
-    case 'related': return <div className="inventory-related"><span>Related</span><b>Find out about our community work ↗</b><b>See what’s on this month ↗</b></div>;
-    case 'donate': return <div className="inventory-donate"><b>Help build a fairer East London</b><p>Your support helps people access advice, connection and opportunity.</p><span>Support Toynbee Hall ↗</span></div>;
-    case 'newsletter': return <div className="inventory-form"><label>Email address</label><div><span>you@example.com</span><b>Sign up ↗</b></div><small>We’ll send news and updates. You can unsubscribe at any time.</small></div>;
-    default: return <div className="inventory-form"><label>Your enquiry</label><div><span>Tell us how we can help</span></div><b className="inventory-form-submit">Send enquiry ↗</b></div>;
-  }
+  const block = inventoryExamples[kind];
+  if (!block) return null;
+
+  return <div className={standaloneBlocks.has(block.type) ? 'inventory-preview' : 'inventory-preview page-article'}>
+    <ContentBlockRenderer block={block} heroHeadingLevel={3}/>
+  </div>;
 }
 
 export default function ContentBlockInventory() {
   return <div className="block-inventory">
-    <header className="guide-hero"><div className="wrap"><p className="eyebrow">Page building blocks</p><h1>Content block<br/><em>inventory</em></h1><p>A visual library of the reusable patterns Toynbee Hall pages can be built from. Each block supports a different visitor need and follows the Toynbee Hall style guide.</p></div></header>
-    <section className="inventory-intro wrap"><p className="eyebrow">A flexible toolkit</p><h2>One design system.<br/>Many kinds of content.</h2><p>Combine these blocks to build service pages, community pages, articles, research resources, venue pages and more. Choose only the blocks that help people understand the subject or take their next step.</p><a className="text-link" href="/style-guide/">Review the website style guide <b>↗</b></a></section>
+    <PageBanner slug="community-centre" title="Content block inventory" intro="A visual reference for the reusable blocks and templates used across Toynbee Hall’s website." variant="frame" eyebrow="Page building blocks"/>
+    <section className="inventory-intro wrap">
+      <p className="eyebrow">Page templates</p><h2>Start with the page layout</h2>
+      <p>These examples use the same renderer as the main site. Pick a template first, then use the blocks below to build the page.</p>
+      <ul className="inventory-template-links">
+        <li><a href="/">Homepage</a><span>Full-width photograph, visitor pathways and an editorial venue feature.</span></li>
+        <li><a href="/free-advice/">Full-width standard page</a><span>Orange watermark banner and full-width card groups.</span></li>
+        <li><a href="/about-us/our-strategy/">Strategy subpage</a><span>Full-width template with numbered ambition and priority cards, a report download and a newsletter block.</span></li>
+        <li><a href="/housing/">Standard page with a sidebar</a><span>Framed photograph and a left-aligned reading column.</span></li>
+        <li><a href="/category/news/">News listing</a><span>Orange heading, search, cards and pagination.</span></li>
+        <li><a href="/05/08/2026/toynbee-hall-shortlisted-for-national-technology-award-for-video-advice-kiosks/">Article</a><span>Headline, metadata, lead image and body copy.</span></li>
+        <li><a href="/whats-on/film-club/">Event</a><span>Orange banner with event information and a separate details panel.</span></li>
+        <li><a href="/research-library/more-than-just-education/">Resource</a><span>Orange banner with publication information and a download section.</span></li>
+      </ul>
+      <a className="text-link" href="/style-guide/#banners">Compare the banner styles <b aria-hidden="true">↗</b></a>
+    </section>
     <nav className="inventory-index" aria-label="Content block categories"><div className="wrap">{groups.map(group=><a key={group.id} href={`#${group.id}`}><span>{group.number}</span>{group.title}<b>↓</b></a>)}</div></nav>
     {groups.map(group=><section className="inventory-group wrap" id={group.id} key={group.id}>
-      <div className="inventory-group-heading"><span>{group.number}</span><div><p className="eyebrow">Block collection</p><h2>{group.title}</h2><p>{group.intro}</p></div></div>
-      <div className="inventory-block-grid">{group.blocks.map((block,index)=><article className="inventory-block" key={block.title}>
-        <div className="inventory-block-title"><span>{String(index+1).padStart(2,'0')}</span><div><h3>{block.title}</h3><p>{block.use}</p></div></div>
+      <div className="inventory-group-heading"><div><p className="eyebrow">{group.number} / Block collection</p><h2>{group.title}</h2><p>{group.intro}</p></div></div>
+      <div className="inventory-block-grid">{group.blocks.map((block,index)=><article className={`inventory-block${wideExamples.has(block.kind) ? ' inventory-block-wide' : ''}`} key={block.title} aria-label={block.title}>
+        <div className="inventory-block-title"><p className="eyebrow">Example {String(index + 1).padStart(2, '0')}</p><p className="inventory-block-label">{block.title}</p><p>{block.use}</p></div>
         <Preview kind={block.kind}/>
       </article>)}</div>
     </section>)}

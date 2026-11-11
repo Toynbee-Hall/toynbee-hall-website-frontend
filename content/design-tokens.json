@@ -30,7 +30,7 @@
   "accessibility": {
     "bodyOnWhite": "#636466 or #1F2933",
     "textOnNavy": "#FFFFFF",
-    "textOnOrange": "#1F2933 for body; #FFFFFF only for large headlines",
+    "textOnOrange": "#FFFFFF on solid orange. Contrast is 3.01:1 and meets the large-text target.",
     "textOnLightBlue": "#1F2933",
     "textOnJade": "#1F2933 for body; #FFFFFF only for large headlines",
     "maximumInterfaceWeight": 500,
@@ -55,9 +55,11 @@
     "altTextRequired": true
   },
   "logo": {
-    "approvedAsset": "/brand/toynbee-hall-core-logo.png",
+    "approvedAsset": "/brand/toynbee-hall-orange-badge.png",
+    "width": 936,
+    "height": 937,
     "background": "White only",
     "preserveLockup": true,
-    "minimumClearSpace": "Height of the T in TOYNBEE"
+    "minimumClearSpace": "Keep clear space around the whole badge"
   }
 }

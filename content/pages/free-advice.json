@@ -85,7 +85,8 @@
     },
     {
       "type": "cardGrid",
-      "heading": "How to get advice",
+      "heading": "How to get",
+      "headingAccent": "advice",
       "items": [
         {
           "title": "Send us an email",
@@ -165,6 +166,7 @@
     },
     {
       "type": "quote",
+      "variant": "editorial",
       "quote": "When I received a letter from the County Court about my utility debt, I was really stressed. Debt Free Advice helped to reduce the charge from £2,000 to £800. We also came to an arrangement to pay back the rest of the debt in an affordable monthly chunk. This gave me a massive relief. I want people to know that there’s help out there, however hard you think it is.”"
     },
     {

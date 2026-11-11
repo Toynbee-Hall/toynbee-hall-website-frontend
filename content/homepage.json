@@ -12,8 +12,10 @@
     },
     {
       "type": "cardGrid",
+      "variant": "pathways",
       "id": "looking-for",
-      "heading": "I am looking for…",
+      "heading": "I am",
+      "headingAccent": "looking for…",
       "numbered": true,
       "items": [
         {
@@ -25,20 +27,17 @@
         {
           "title": "Community activities",
           "description": "Free, inclusive community activities and events",
-          "href": "/whats-on/",
-          "theme": "jade"
+          "href": "/whats-on/"
         },
         {
           "title": "Research and policy",
           "description": "Community-led research and campaigns for change",
-          "href": "/research/",
-          "theme": "blue"
+          "href": "/research/"
         },
         {
           "title": "Venue hire and office space",
           "description": "Use our historic buildings for your events",
-          "href": "/events/",
-          "theme": "yellow"
+          "href": "/events/"
         }
       ]
     },
@@ -54,12 +53,15 @@
     },
     {
       "type": "newsList",
-      "heading": "Latest news and blogs",
+      "variant": "editorial",
+      "heading": "Latest news and",
+      "headingAccent": "blogs",
       "allLink": { "label": "All news and blogs", "href": "/news-and-blogs/" },
       "readLabel": "Read more",
       "items": [
         {
           "date": "27 October 2026",
+          "theme": "orange",
           "title": "What this Budget must deliver for a stronger social safety net",
           "byline": "By Katie Taylor, Director of Policy, Research & Communities",
           "summary": "As the Chancellor prepares to deliver the Budget, this is an opportunity to set out what it must deliver to build a fairer and more effective social safety net, drawing on the experiences and expertise of the people we work alongside at Toynbee Hall.",
@@ -93,8 +95,11 @@
     },
     {
       "type": "imageText",
+      "variant": "editorial",
       "eyebrow": "Venue Hire London",
-      "heading": "Hire our venue",
+      "heading": "Hire our",
+      "headingAccent": "venue",
+      "imagePosition": "right",
       "paragraphs": [
         "Our Grade II listed building in East London is now available to hire for a range of private and corporate events including conferences, seminars, receptions or training sessions, weddings and celebrations. Our historic building has been a hub for social action since 1884 and could be the perfect venue for your event.",
         "Depending on the size and scope of your event, we offer five halls for hire. We can also provide additional services such as event production and catering, so you can rest assured we’ll take care of everything. Book our halls for your next event."
@@ -103,10 +108,6 @@
         {
           "src": "/images/home/venue-ashbee-hall.jpg",
           "alt": "Ashbee Hall, with a long wooden table on a parquet floor beneath tall leaded windows."
-        },
-        {
-          "src": "/images/home/venue-lecture-hall.jpg",
-          "alt": "The wood-panelled Lecture Hall, with leaded windows either side of a fireplace."
         }
       ],
       "link": { "label": "More about our venue", "href": "/events/" }

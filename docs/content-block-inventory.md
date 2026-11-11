@@ -17,7 +17,7 @@ Use a small number of page templates composed from these blocks:
 - **Venue page:** venue overview, space cards, facilities/access information, image gallery, testimonials, and enquiry CTA/form.
 - **Contact or enquiry page:** contact routes grouped by purpose, location details, and a suitable enquiry form where needed.
 
-The shared header, navigation, footer, cookie controls and page-level title/intro are site structure, rather than repeatable body blocks.
+The shared header, navigation, footer and standard page banners are part of the template. Standard pages use the framed photograph banner for both full-width and sidebar layouts. The half-orange, half-photograph banner is available further down a page as the `splitBanner` block. Main content aligns to the left gutter; supporting information sits to the right on desktop and stacks below on mobile.
 
 ## Reusable blocks
 
@@ -27,7 +27,7 @@ The shared header, navigation, footer, cookie controls and page-level title/intr
 
 **Content:** eyebrow or category, heading, short introduction, optional primary and secondary links, optional contextual image or video poster, image alt text, optional caption.
 
-**Variants:** text-led; split text and image; image-led story; campaign/action hero. Keep the orange story treatment consistent with the guide: large white headline only, deep-slate supporting copy, real photography. Do not use white small text on orange.
+**Variants:** The homepage sets `"variant": "full-bleed"` on its `hero` block for a full-width photo with a localised orange gradient behind the white heading. Standard page introductions use the shared `PageBanner` and their template selects the layout. See the visual examples at `/style-guide/#banners`.
 
 ### 2. Audience pathway / service card grid
 
@@ -37,17 +37,23 @@ The shared header, navigation, footer, cookie controls and page-level title/intr
 
 **Layout inspiration:** Girls Who Code’s clear program pathways and Second Harvest’s three immediate routes into support, volunteering and partnership. Keep Toynbee cards on white or approved pale tints with navy headings and consistent link treatment.
 
+The homepage uses `"variant": "pathways"` for solid deep slate cards with white copy. Set a card’s `theme` to `"orange"` to highlight that route in logo orange.
+
 ### 3. Image-and-text feature
 
 **Use for:** Explaining a service, programme, historic venue or community project.
 
-**Content:** heading, concise copy, image and alt text, optional caption, CTA. Support image-left and image-right placement as a layout option, not a new visual style.
+**Content:** heading, concise copy, image and alt text, optional caption and action. The image can sit to either side.
+
+**Editorial variant:** use `"variant": "editorial"` with one contextual photo and short copy. A smooth white curve cuts into the photo at the edge nearest the copy. Check that the subject remains visible at narrow widths.
+
+The image-and-text, card grid, news list and rich text blocks support an optional `headingAccent` at the end of the heading. Use it for a short phrase in a large heading on white. The shared section heading adds an orange rule beneath the text.
 
 ### 4. Image with caption / gallery
 
 **Use for:** A single documentary image, a project photo sequence, event photography or venue imagery.
 
-**Content:** one or more images, meaningful alt text for each informative image, optional caption and photographer credit. Galleries should keep images in an editorial order and provide keyboard-accessible controls if interactive.
+**Content:** one or more images with meaningful alt text, an optional descriptive caption and credit where required. Use varied photos from Toynbee Hall’s live site and photo collection. Galleries should keep images in an editorial order and provide keyboard-accessible controls if interactive.
 
 ### 5. Impact statistics
 
@@ -61,7 +67,7 @@ The shared header, navigation, footer, cookie controls and page-level title/intr
 
 **Use for:** A featured news item, campaign, participant story or fundraising appeal.
 
-**Content:** category, large headline, short summary, real contextual image and alt text, optional date, CTA. May use the style guide’s orange editorial surface with large white headline and deep-slate supporting copy.
+**Content:** category, large headline, short summary, real contextual image and alt text, optional date, CTA. Use white text on the solid orange editorial surface.
 
 ### 7. Card collection / related links
 
@@ -81,7 +87,7 @@ The shared header, navigation, footer, cookie controls and page-level title/intr
 
 **Content:** quote text, named or appropriately anonymous attribution, role/context, optional portrait and alt text.
 
-**Presentation:** use the existing blue-tint quote treatment with jade accent. Do not imply endorsement or identify someone without approved content.
+**Presentation:** use the blue-tint treatment for a supporting testimonial. Set `"variant": "editorial"` for a short pull quote with an orange rule and decorative opening quotation mark. Enter the quote as plain text, with attribution in its own field. Use approved content and attribution.
 
 ### 10. Rich text / long-form article
 
@@ -95,7 +101,7 @@ The shared header, navigation, footer, cookie controls and page-level title/intr
 
 **Content:** section heading and intro; ordered steps with number, short title, description, optional contact/action, and optional time expectation.
 
-**Layout inspiration:** the progressive, numbered housing advice process on Toynbee Hall’s live site. Steps should remain understandable when stacked on mobile.
+**Presentation:** use the numbered layout for detailed instructions. Set `"variant": "connected"` for a short sequence of two or three steps. Each step can use an optional decorative `icon` image path. A circular number fills in when no icon is supplied. Steps stack on narrow layouts.
 
 ### 12. Eligibility, scope and important information
 
@@ -127,7 +133,7 @@ The shared header, navigation, footer, cookie controls and page-level title/intr
 
 **Content:** date range or “updated” date; days/times; activity; intended audience or age group; location; booking requirement and contact.
 
-**Presentation:** use a semantic, accessible table on wide screens and a clearly labelled stacked schedule on mobile. Provide an accessible HTML version even if a downloadable timetable is also offered.
+**Presentation:** use a semantic table. On narrow screens the table scrolls within its own container and stays within the page gutter. Link to the published timetable when structured schedule content is unavailable.
 
 ### 16. Venue / facility card and gallery
 
@@ -194,26 +200,27 @@ Where relevant, blocks should use structured fields rather than custom markup:
 
 | Block `type` | Inventory pattern | Notes |
 |---|---|---|
-| `hero` | 1. Hero / page introduction | Image-led hero; the last heading line is highlighted in orange. |
-| `cardGrid` | 2. Audience pathway / service card grid | Optional `id` for in-page links, numbering and approved tint `theme` per card. |
-| `imageText` | 3. Image-and-text feature | One or two images, image left or right. |
-| `statement` | Information feature (navy) | Mission or key statement with optional action. |
-| `newsList` | 6/8. Story feature and news listing | First item is featured; `"theme": "orange"` gives the editorial story card. |
-| `quote` | 9. Quote / testimonial | |
+| `hero` | 1. Hero / page introduction | The homepage uses `"variant": "full-bleed"` for white text over a photo gradient. |
+| `cardGrid` | 2. Audience pathway / service card grid | Optional intro, in-page `id`, numbering and approved tint `theme` per card. Set `columns` to 2 or 3 for an explicit desktop arrangement and `imageStyle: "icon"` for compact graphics. Values and strategy cards can omit links. |
+| `imageText` | 3. Image-and-text feature | Image left or right. Optional `editorial` variant and `headingAccent`. |
+| `splitBanner` | Split banner (orange and photograph) | Half orange panel with a white heading, deep-slate label and body, logo watermark and an optional white action, beside a photo. Set `imagePosition` to `"left"` to swap sides. |
+| `statement` | Mission statement (logo orange) | White copy and an optional white action. |
+| `newsList` | 6/8. Story feature and news listing | Use `"variant": "editorial"` for a full-width lead story and action buttons. Set the lead item’s `theme` to `"orange"` for the orange panel. |
+| `quote` | 9. Quote / testimonial | Optional `editorial` variant for pull quotes. |
 | `richText` | 10. Rich text | |
 | `callout` | 13. Callout / action panel | |
 | `linkList` | 7/21. Related links | |
-| `newsletterSignup` | 20. Newsletter signup | Labelled fields and privacy notice. Without an `action` the form does not submit, so it is not production-ready yet. |
-| `enquiryForm` | 20. Newsletter signup / enquiry form | Labelled text, email, phone, select, checkbox and textarea fields; connect an approved action before launch. |
+| `newsletterSignup` | 20. Newsletter signup | Labelled fields and privacy notice. Use an approved `action` or a `fallbackLink` to the live form. |
+| `enquiryForm` | 20. Enquiry form | Labelled text, email, phone, select, checkbox and textarea fields. When only a `fallbackLink` is supplied, the local fields are read-only and the link opens the live form. |
 | `logoGrid` | Funder and partner logos | `label` names the section when there is no visible heading. |
 | `longForm` | 10. Rich text / long-form article | Ordered headings, paragraphs with inline links, lists, images and pull quotes. |
 | `imageGallery` | 4/16. Image with caption / venue gallery | Responsive image grid; every image includes alt text, optional caption and credit. |
 | `impactStats` | 5. Impact statistics | Values include a label and optional context/source link. |
-| `steps` | 11. Numbered process | Ordered steps with optional time expectation and action. |
+| `steps` | 11. Numbered process | Optional `connected` variant and decorative `icon` per step. |
 | `infoPanel` | 12. Eligibility and important information | Blue, orange or jade tint; text remains explicit and understandable without color. |
 | `contactRoutes` | 14. Contact details / contact routes | Clickable email and phone routes, address and opening hours. |
 | `schedule` | 15. Schedule / timetable | Semantic table that scrolls horizontally on small screens. |
-| `resourceList` | 17. Download / report / resource list | File format, size and publication date are optional structured metadata. |
+| `resourceList` | 17. Download / report / resource list | Optional cover image, file format, size and publication date. |
 | `accordion` | 18. Accordion / expandable detail | Native `<details>` and `<summary>` disclosure controls. |
 | `donationAppeal` | 19. Donation or fundraising appeal | Impact copy and primary/secondary links; payment remains with the donation provider. |
 | `relatedContent` | 21. Related content / next steps | Curated related links with optional image and summary. |
@@ -223,6 +230,8 @@ Where relevant, blocks should use structured fields rather than custom markup:
 The project provides standard pages with default/full-width layout options, article pages, event pages, resource pages, and listing pages with news, blog, event, resource or category variants. The root homepage keeps its dedicated composition. Template records and blocks are defined in `content/types.ts`, validated by `content/schemas/page.schema.json`, rendered through `components/ContentPageTemplate.tsx` and the focused template components, and styled in `app/styles.css`.
 
 The homepage (`content/homepage.json`) and standard pages (`content/pages/*.json`) share reusable blocks. Extend the content types, JSON schema and renderer together whenever a new block pattern is introduced.
+
+The visual inventory at `/content-block-inventory/` uses `ContentBlockRenderer` for its examples. It draws from existing page data and focused examples in `content/inventory-examples.ts`. The template links show each pattern in a complete page, and the form specimens are previews.
 
 ## Inspiration notes
 

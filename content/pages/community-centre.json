@@ -5,7 +5,8 @@
   "blocks": [
     {
       "type": "richText",
-      "heading": "A space for the community",
+      "heading": "A space for the",
+      "headingAccent": "community",
       "paragraphs": [
         "The centre hosts advice services, LinkAge Plus activities, workshops, community events and opportunities to meet and learn."
       ]
