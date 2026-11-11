@@ -40,3 +40,6 @@ coverage/
 
 # Misc
 *.log
+
+# Server-only secrets (staging basic-auth password file)
+nginx-auth/
