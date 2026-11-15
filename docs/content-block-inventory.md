@@ -203,7 +203,7 @@ Where relevant, blocks should use structured fields rather than custom markup:
 | `hero` | 1. Hero / page introduction | The homepage uses `"variant": "full-bleed"` for white text over a photo gradient. |
 | `cardGrid` | 2. Audience pathway / service card grid | Optional intro, in-page `id`, numbering and approved tint `theme` per card. Set `columns` to 2 or 3 for an explicit desktop arrangement and `imageStyle: "icon"` for compact graphics. Values and strategy cards can omit links. |
 | `imageText` | 3. Image-and-text feature | Image left or right. Optional `editorial` variant and `headingAccent`. |
-| `splitBanner` | Split banner (orange and photograph) | Half orange panel with a white heading, deep-slate label and body, logo watermark and an optional white action, beside a photo. Set `imagePosition` to `"left"` to swap sides. |
+| `splitBanner` | Split banner (orange and photograph) | Half orange panel with a white heading, deep-slate label and body, logo watermark and an optional white action, beside a photo. Set `"theme": "navy"` for a navy panel with white copy (used for the heritage introduction). Set `imagePosition` to `"left"` to swap sides. |
 | `statement` | Mission statement (logo orange) | White copy and an optional white action. |
 | `newsList` | 6/8. Story feature and news listing | Use `"variant": "editorial"` for a full-width lead story and action buttons. Set the lead item’s `theme` to `"orange"` for the orange panel. |
 | `quote` | 9. Quote / testimonial | Optional `editorial` variant for pull quotes. |
@@ -222,6 +222,7 @@ Where relevant, blocks should use structured fields rather than custom markup:
 | `schedule` | 15. Schedule / timetable | Semantic table that scrolls horizontally on small screens. |
 | `resourceList` | 17. Download / report / resource list | Optional cover image, file format, size and publication date. |
 | `accordion` | 18. Accordion / expandable detail | Native `<details>` and `<summary>` disclosure controls. |
+| `timeline` | History timeline | Milestones on a horizontal rail that people can swipe, scroll or step through with previous/next buttons, a year selector or the arrow, Home and End keys. Each item has a `date` (with an optional machine-readable `dateTime`), `title`, `body` and optional `image`; add a `link` to the full chronology. Rendered by `components/Timeline.tsx`; without JavaScript it remains a scrollable list. |
 | `donationAppeal` | 19. Donation or fundraising appeal | Impact copy and primary/secondary links; payment remains with the donation provider. |
 | `relatedContent` | 21. Related content / next steps | Curated related links with optional image and summary. |
 

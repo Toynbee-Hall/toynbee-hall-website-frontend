@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react';
 import type { ContentBlock, Link, LongFormBlock, Media } from '../content/types';
+import Timeline from './Timeline';
 
 const slugify = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const arrowFor = (href: string) => href.startsWith('#') ? '↓' : '↗';
@@ -187,7 +188,7 @@ export default function ContentBlockRenderer({ block, heroHeadingLevel = 1 }: { 
         })}</ul></section>;
     }
     case 'splitBanner':
-      return <section className={`split-banner banner-layout banner-layout-watermark${block.imagePosition === 'left' ? ' split-banner-image-left' : ''}`}>
+      return <section className={`split-banner banner-layout banner-layout-watermark${block.imagePosition === 'left' ? ' split-banner-image-left' : ''}${block.theme === 'navy' ? ' split-banner-navy' : ''}`}>
         <div className="banner-layout-copy">
           {block.eyebrow && <p className="banner-layout-label">{block.eyebrow}</p>}
           <h2>{block.heading}</h2>
@@ -300,6 +301,8 @@ export default function ContentBlockRenderer({ block, heroHeadingLevel = 1 }: { 
       return <section className="content-block accordion-block">{block.heading && <h2>{block.heading}</h2>}{block.items.map((item, i) => <details key={`${item.title}-${i}`}><summary>{item.title}</summary><div className="accordion-content"><p>{item.body}</p>{item.paragraphs?.map((p, j) => <p key={j}>{p}</p>)}{item.links && <ul>{item.links.map(link => <li key={link.href}><a href={link.href}>{link.label}</a></li>)}</ul>}</div></details>)}</section>;
     case 'donationAppeal':
       return <section className="content-block donation-appeal"><div>{block.eyebrow && <p className="eyebrow">{block.eyebrow}</p>}<h2>{block.heading}</h2><p>{block.body}</p>{block.impact && <p className="donation-impact">{block.impact}</p>}<div className="donation-actions"><ActionLink link={block.primaryLink}/>{block.secondaryLink && <a className="text-link" href={block.secondaryLink.href}>{block.secondaryLink.label} <b aria-hidden="true">↗</b></a>}</div></div></section>;
+    case 'timeline':
+      return <Timeline block={block} className="content-block" headingClassName="section-title" eyebrowClassName="eyebrow" linkClassName="text-link"/>;
     case 'relatedContent':
       return <section className="content-block related-content">{block.heading && <h2>{block.heading}</h2>}<ul>{block.items.map((item, i) => <li key={`${item.href}-${i}`}><article>{item.image && <MediaFigure image={item.image} className="related-image"/>}<div>{item.type && <p className="eyebrow">{item.type}</p>}<h3><a href={item.href}>{item.title}</a></h3>{item.summary && <p>{item.summary}</p>}<a className="text-link" href={item.href}>Read more <b aria-hidden="true">↗</b></a></div></article></li>)}</ul></section>;
   }

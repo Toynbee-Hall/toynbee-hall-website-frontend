@@ -1,0 +1,135 @@
+{
+  "blocks": [
+    {
+      "type": "splitBanner",
+      "eyebrow": "History and heritage",
+      "heading": "A place for social change",
+      "body": "From opening its doors in Whitechapel in 1884 to providing free legal advice, discover the people and ideas that shaped Toynbee Hall.",
+      "image": {
+        "src": "/images/heritage/toynbee-hall-buildings-archive.jpg",
+        "alt": "Archive photograph of Toynbee Hall’s ivy-covered Victorian buildings, with tall chimneys and gables, around the courtyard."
+      },
+      "imagePosition": "right",
+      "theme": "navy",
+      "link": { "label": "Explore the timeline", "href": "#history-timeline" }
+    },
+    {
+      "type": "timeline",
+      "id": "history-timeline",
+      "heading": "Milestones",
+      "intro": "Swipe sideways or select a year to explore.",
+      "link": {
+        "label": "View the full chronology",
+        "href": "https://explore.toynbeehall.org.uk/explore/the-history-of-toynbee-hall-a-timeline/"
+      },
+      "items": [
+        {
+          "date": "1884",
+          "dateTime": "1884",
+          "title": "Toynbee Hall opens",
+          "body": "Henrietta and Samuel Barnett open a university settlement in Whitechapel, where volunteers live and work alongside local people.",
+          "image": {
+            "src": "/images/heritage/toynbee-hall-opens-1884.jpg",
+            "alt": "Engraving of Toynbee Hall’s gabled Victorian building, with tall chimneys and leaded windows."
+          }
+        },
+        {
+          "date": "1889",
+          "dateTime": "1889",
+          "title": "The Travellers’ Club",
+          "body": "Language lessons and lectures prepare club members for overseas trips. For many, it’s their first time abroad.",
+          "image": {
+            "src": "/images/heritage/travellers-club-1889.jpg",
+            "alt": "Members of the Toynbee Travellers’ Club, in Victorian hats and long skirts, sitting together on a lawn."
+          }
+        },
+        {
+          "date": "1898",
+          "dateTime": "1898",
+          "title": "Free legal advice begins",
+          "body": "The Poor Man’s Lawyer service gives East End residents access to legal help they could otherwise struggle to afford.",
+          "image": {
+            "src": "/images/heritage/poor-mans-lawyer-advice.jpg",
+            "alt": "An adviser at his desk talking with a man seated beside him at Toynbee Hall."
+          }
+        },
+        {
+          "date": "1901",
+          "dateTime": "1901",
+          "title": "Whitechapel Gallery opens",
+          "body": "The Barnetts’ local exhibitions grow into a permanent gallery, bringing art to more people in East London.",
+          "image": {
+            "src": "/images/heritage/whitechapel-gallery-1901.jpg",
+            "alt": "Illustration of the Whitechapel Art Gallery’s arched entrance and twin towers, with a horse and cart in the street outside."
+          }
+        },
+        {
+          "date": "1939",
+          "dateTime": "1939",
+          "title": "Advice in wartime",
+          "body": "Toynbee Hall hosts one of the first Citizens Advice Bureaux, where residents and volunteers help people with wartime problems.",
+          "image": {
+            "src": "/images/heritage/wartime-volunteers-1939.jpg",
+            "alt": "Warden J. J. Mallon leaning over volunteers as they sort wartime food coupons at long tables in the Lecture Hall."
+          }
+        },
+        {
+          "date": "2016–20",
+          "title": "The historic halls are restored",
+          "body": "A major restoration renews the Victorian halls and helps make the history of Toynbee Hall available through a digital archive.",
+          "image": {
+            "src": "/images/home/venue-ashbee-hall.jpg",
+            "alt": "Ashbee Hall, with a long wooden table on a parquet floor beneath tall leaded windows."
+          }
+        },
+        {
+          "date": "2024",
+          "dateTime": "2024",
+          "title": "140 years in the East End",
+          "body": "Toynbee Hall marks its anniversary with an Open House programme that invites the public inside its Victorian halls.",
+          "image": {
+            "src": "/images/home/toynbee-hall-courtyard.jpg",
+            "alt": "Toynbee Hall’s Victorian red-brick building and courtyard garden in East London."
+          }
+        }
+      ]
+    },
+    {
+      "type": "cardGrid",
+      "heading": "Explore our heritage",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Meet the Barnetts",
+          "description": "The couple who founded Toynbee Hall.",
+          "href": "https://explore.toynbeehall.org.uk/collection/henrietta-and-samuel-barnett/",
+          "linkLabel": "Explore",
+          "image": {
+            "src": "/images/heritage/henrietta-and-samuel-barnett.jpg",
+            "alt": "Portrait photograph of Henrietta Barnett, seated, with Samuel Barnett standing beside her."
+          }
+        },
+        {
+          "title": "The buildings",
+          "description": "How the Commercial Street site changed over time.",
+          "href": "https://explore.toynbeehall.org.uk/stories/the-buildings-of-toynbee-hall/",
+          "linkLabel": "Explore",
+          "image": {
+            "src": "/images/heritage/old-library-before-the-blitz.jpg",
+            "alt": "Toynbee Hall’s ivy-covered old library, with a turret and arched doorways, before it was destroyed in the Blitz."
+          }
+        },
+        {
+          "title": "From the archive",
+          "description": "Explore photographs and records from the collection.",
+          "href": "https://explore.toynbeehall.org.uk/explore/",
+          "linkLabel": "Explore",
+          "image": {
+            "src": "/images/live-site/history.jpg",
+            "alt": "Archival photograph of Bangladeshi community leaders meeting around a table"
+          }
+        }
+      ]
+    }
+  ]
+}

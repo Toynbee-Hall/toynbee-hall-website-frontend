@@ -26,12 +26,12 @@ export type CardGridBlock = {
 };
 export type SplitBannerBlock = {
   type: 'splitBanner'; eyebrow?: string; heading: string; body?: string; image: Media;
-  imagePosition?: 'left' | 'right'; link?: Link;
+  imagePosition?: 'left' | 'right'; theme?: 'orange' | 'navy'; link?: Link;
 };
 export type StatementBlock = { type: 'statement'; eyebrow?: string; heading: string; paragraphs?: string[]; link?: Link };
 export type NewsListBlock = {
   type: 'newsList'; variant?: 'editorial'; eyebrow?: string; heading: string; headingAccent?: string; allLink?: Link; readLabel: string;
-  items: { title: string; href: string; summary: string; image: Media; category?: string; date?: string; byline?: string; theme?: 'orange' }[];
+  items: { title: string; href: string; summary: string; image: Media; category?: string; date?: string; byline?: string; theme?: 'orange' | 'blue' }[];
 };
 export type ImageTextBlock = {
   type: 'imageText'; variant?: 'editorial'; eyebrow?: string; heading: string; headingAccent?: string;
@@ -77,6 +77,11 @@ export type DonationAppealBlock = {
   type: 'donationAppeal'; eyebrow?: string; heading: string; body: string; impact?: string;
   primaryLink: Link; secondaryLink?: Link;
 };
+/** Milestones on a horizontal, swipeable timeline. `dateTime` is a machine-readable year for single dates. */
+export type TimelineBlock = {
+  type: 'timeline'; id?: string; eyebrow?: string; heading: string; intro?: string; link?: Link;
+  items: { date: string; dateTime?: string; title: string; body: string; image?: Media }[];
+};
 export type RelatedContentBlock = {
   type: 'relatedContent'; heading?: string;
   items: { title: string; href: string; summary?: string; image?: Media; type?: string }[];
@@ -87,7 +92,7 @@ export type ContentBlock =
   | CardGridBlock | StatementBlock | NewsListBlock | ImageTextBlock | NewsletterSignupBlock
   | LogoGridBlock | EnquiryFormBlock | GalleryBlock | ImpactStatsBlock | StepsBlock | InfoPanelBlock
   | ContactRoutesBlock | ScheduleBlock | ResourceListBlock | AccordionBlock
-  | DonationAppealBlock | RelatedContentBlock | SplitBannerBlock;
+  | DonationAppealBlock | RelatedContentBlock | SplitBannerBlock | TimelineBlock;
 
 export type StandardPageContent = {
   template?: 'standard'; slug: string; route?: string; aliases?: string[]; title: string; intro: string;

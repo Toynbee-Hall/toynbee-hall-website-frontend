@@ -17,27 +17,32 @@
       "heading": "I am",
       "headingAccent": "looking for…",
       "numbered": true,
+      "imageStyle": "icon",
       "items": [
         {
           "title": "Advice",
           "description": "Free, expert debt and legal advice and help with benefit applications",
           "href": "/free-advice/",
-          "theme": "orange"
+          "theme": "blue",
+          "image": { "src": "/images/pathway-icons/advice.svg", "alt": "" }
         },
         {
           "title": "Community activities",
           "description": "Free, inclusive community activities and events",
-          "href": "/whats-on/"
+          "href": "/whats-on/",
+          "image": { "src": "/images/pathway-icons/community.svg", "alt": "" }
         },
         {
           "title": "Research and policy",
           "description": "Community-led research and campaigns for change",
-          "href": "/research/"
+          "href": "/research/",
+          "image": { "src": "/images/pathway-icons/research.svg", "alt": "" }
         },
         {
           "title": "Venue hire and office space",
           "description": "Use our historic buildings for your events",
-          "href": "/events/"
+          "href": "/events/",
+          "image": { "src": "/images/pathway-icons/venue.svg", "alt": "" }
         }
       ]
     },
@@ -52,6 +57,22 @@
       "link": { "label": "About us", "href": "/about-us/" }
     },
     {
+      "type": "splitBanner",
+      "eyebrow": "History and heritage",
+      "heading": "A place for social change",
+      "body": "From opening its doors in Whitechapel in 1884 to providing free legal advice, discover the people and ideas that shaped Toynbee Hall.",
+      "image": {
+        "src": "/images/heritage/toynbee-hall-buildings-archive.jpg",
+        "alt": "Archive photograph of Toynbee Hall’s ivy-covered Victorian buildings, with tall chimneys and gables, around the courtyard."
+      },
+      "imagePosition": "right",
+      "theme": "navy",
+      "link": {
+        "label": "Explore the timeline",
+        "href": "https://explore.toynbeehall.org.uk/explore/the-history-of-toynbee-hall-a-timeline/"
+      }
+    },
+    {
       "type": "newsList",
       "variant": "editorial",
       "heading": "Latest news and",
@@ -60,8 +81,28 @@
       "readLabel": "Read more",
       "items": [
         {
+          "date": "6 November 2026",
+          "theme": "blue",
+          "title": "Pro Bono Week 2026: Celebrating a legacy of access to justice",
+          "summary": "As Pro Bono Week marks its 25th anniversary, Toynbee Hall reflects on the history of free legal advice and its own commitment to making justice accessible to everyone.",
+          "href": "https://www.toynbeehall.org.uk/09/11/2026/pro-bono-week-2026-celebrating-a-legacy-of-access-to-justice/",
+          "image": {
+            "src": "/images/home/news-pro-bono-week-2026.png",
+            "alt": "Victorian engraving of Toynbee Hall, with people walking in the street outside."
+          }
+        },
+        {
+          "date": "5 November 2026",
+          "title": "Worried about money this Christmas?",
+          "summary": "As London’s Christmas lights begin to go on, many people are already worrying about how they’ll afford the weeks ahead. For some of the people supported by Toynbee Hall, making ends meet means juggling two or three jobs alongside caring responsibilities, and still struggling to cover the bills.",
+          "href": "https://www.toynbeehall.org.uk/05/11/2026/worried-about-money-this-christmas/",
+          "image": {
+            "src": "/images/home/news-worried-about-money-christmas.png",
+            "alt": "Two men smiling in front of BBC Broadcasting House, with the BBC Radio London and Toynbee Hall logos and the words Talk Money Week."
+          }
+        },
+        {
           "date": "27 October 2026",
-          "theme": "orange",
           "title": "What this Budget must deliver for a stronger social safety net",
           "byline": "By Katie Taylor, Director of Policy, Research & Communities",
           "summary": "As the Chancellor prepares to deliver the Budget, this is an opportunity to set out what it must deliver to build a fairer and more effective social safety net, drawing on the experiences and expertise of the people we work alongside at Toynbee Hall.",
@@ -79,16 +120,6 @@
           "image": {
             "src": "/images/home/news-ukccf-awards-shortlist.png",
             "alt": "UKCCF Awards 2026 ‘Shortlisted’ graphic with a glass award trophy."
-          }
-        },
-        {
-          "date": "27 July 2026",
-          "title": "What can the UK and South Korea learn from each other about helping people in debt?",
-          "summary": "What can the UK and South Korea learn from each other about supporting people in debt? That was the question at the heart of a recent visit to London and Manchester by Dr Eun-Kyung Kim, the newly appointed Chair of South Korea’s Credit Counseling & Recovery Service (CCRS), and colleagues from across the organisation.",
-          "href": "https://www.toynbeehall.org.uk/27/07/2026/what-can-the-uk-and-south-korea-learn-from-each-other-about-helping-people-in-debt/",
-          "image": {
-            "src": "/images/home/news-south-korea-ccrs-visit.jpg",
-            "alt": "Four visitors from South Korea’s Credit Counseling & Recovery Service stand together in the Toynbee Hall courtyard."
           }
         }
       ]

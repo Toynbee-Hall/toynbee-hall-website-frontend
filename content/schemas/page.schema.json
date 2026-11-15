@@ -251,7 +251,10 @@
               "type": "string"
             },
             "columns": {
-              "enum": [2, 3]
+              "enum": [
+                2,
+                3
+              ]
             },
             "imageStyle": {
               "const": "icon"
@@ -298,6 +301,66 @@
           "required": [
             "type",
             "heading",
+            "items"
+          ],
+          "properties": {
+            "type": {
+              "const": "timeline"
+            },
+            "id": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9-]*$"
+            },
+            "eyebrow": {
+              "type": "string"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "intro": {
+              "type": "string"
+            },
+            "link": {
+              "$ref": "#/$defs/link"
+            },
+            "items": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "required": [
+                  "date",
+                  "title",
+                  "body"
+                ],
+                "properties": {
+                  "date": {
+                    "type": "string"
+                  },
+                  "dateTime": {
+                    "type": "string"
+                  },
+                  "title": {
+                    "type": "string"
+                  },
+                  "body": {
+                    "type": "string"
+                  },
+                  "image": {
+                    "$ref": "#/$defs/media"
+                  }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "type",
+            "heading",
             "image"
           ],
           "properties": {
@@ -324,6 +387,12 @@
             },
             "link": {
               "$ref": "#/$defs/link"
+            },
+            "theme": {
+              "enum": [
+                "orange",
+                "navy"
+              ]
             }
           },
           "additionalProperties": false
@@ -420,7 +489,10 @@
                     "type": "string"
                   },
                   "theme": {
-                    "const": "orange"
+                    "enum": [
+                      "orange",
+                      "blue"
+                    ]
                   }
                 },
                 "additionalProperties": false

@@ -65,7 +65,7 @@ Use the supplied orange Toynbee Hall badge at `public/brand/toynbee-hall-orange-
 
 ## Layout and reusable patterns
 
-- **Header** places the orange badge on the left and search and quick links above the right-aligned navigation. Chevrons mark desktop dropdowns, which open on hover and keyboard focus. A menu button reveals the main navigation on smaller screens.
+- **Header** places the orange badge on the left, with navy quick links, a navy Donate button and search above the right-aligned navy navigation. Quick links show a short orange rule on hover. Orange chevrons mark desktop dropdowns, which open on hover and keyboard focus, with an orange underline on the open section. Dropdowns are white panels with an orange top rule and grey cell lines; links highlight in the light blue tint with an orange edge. On screens 900px and narrower, a labelled Menu button opens a panel where each section expands on its own in a light blue tint, and Work with us and Contact us move into the panel. Escape closes it.
 - **Homepage hero:** full-width contextual photo with a faint orange gradient behind the white heading, a clear next action and an orange rule. The mobile gradient sits behind copy at the bottom of the photo.
 - **Standard page header:** every standard page, full-width or with a sidebar, uses a framed photo overlapping the orange title panel, with the faded logo mark on the pale backdrop.
 - **Split banner (in-page block):** half orange panel with a white headline, deep-slate label and body, and a cropped logo watermark, beside a contextual photo. Use it further down a page to introduce a section or highlight one action.
@@ -77,7 +77,7 @@ Use the supplied orange Toynbee Hall badge at `public/brand/toynbee-hall-orange-
 - **Long-form content** uses a white background, deep slate section headings, navy subheadings and grey body copy.
 - **Information feature:** navy background with white text for high-contrast calls to action or key facts.
 - **Mission statement** uses logo orange with white copy and an optional white action.
-- **Footer:** white background, orange badge, grouped links and clear charity/legal details.
+- **Footer:** white background, orange badge, grouped links and clear charity/legal details. The support callout sits on the light blue tint (`--blue-tint`).
 
 Use a content width up to 1240px, with 32px desktop and 20px mobile gutters. Align headings, prose and grids to the same left edge. Keep supporting panels on the right of the reading column on desktop and stack them below the content on mobile. Give callouts and cards their own inner padding. The service card grid uses an 18px desktop gap and adapts on narrow screens.
 
