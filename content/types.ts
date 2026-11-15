@@ -120,5 +120,10 @@ export type ListingPageContent = {
   items: Array<{ title: string; href: string; summary?: string; image?: Media; category?: string; date?: string; author?: string; location?: string; format?: string }>;
   blocks?: ContentBlock[];
 };
-export type PageContent = StandardPageContent | ArticlePageContent | EventPageContent | ResourcePageContent | ListingPageContent;
+/** A page built only from the brand inventory blocks, with the brand page banner (see /brand-content-block-inventory/) */
+export type BrandPageContent = {
+  template: 'brand'; slug: string; route?: string; aliases?: string[]; title: string; intro: string;
+  eyebrow?: string; image: Media; blocks: ContentBlock[];
+};
+export type PageContent = BrandPageContent | StandardPageContent | ArticlePageContent | EventPageContent | ResourcePageContent | ListingPageContent;
 export type HomePageContent = { blocks: ContentBlock[] };

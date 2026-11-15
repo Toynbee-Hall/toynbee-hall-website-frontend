@@ -418,20 +418,29 @@
   :is(.bi-gallery-count-1, .bi-gallery-count-2) .bi-figure:nth-child(n) { grid-column: 1 / -1; grid-row: span 2; }
 }
 
-/* Homepage: the same blocks as the inventory, stacked in the page width */
-.bi-home { padding-bottom: clamp(48px, 7vw, 88px); }
-.bi-home-section { padding-top: clamp(48px, 7vw, 88px); }
-.bi-home-section:first-child { padding-top: clamp(32px, 5vw, 56px); }
-.bi-home-cardGrid .bi-block, .bi-home-section [id] { scroll-margin-top: 24px; }
-.bi-home-logoGrid { padding-top: clamp(40px, 5vw, 64px); }
+/* Homepage and brand pages: the same blocks as the inventory, stacked in the page width */
+:is(.bi-home, .bi-brand-page) { padding-bottom: clamp(48px, 7vw, 88px); }
+.bi-section { padding-top: clamp(48px, 7vw, 88px); }
+.bi-section:first-child { padding-top: clamp(32px, 5vw, 56px); }
+.bi-section-cardGrid .bi-block, .bi-section [id] { scroll-margin-top: 24px; }
+.bi-section-logoGrid { padding-top: clamp(40px, 5vw, 64px); }
 /* Full-window blocks: backgrounds reach the window edges, content aligns with .bi-wrap */
-.bi-home { --bi-inset: max(var(--bi-gutter), calc((100% - var(--bi-width)) / 2)); }
-.bi-home-hero:first-child { padding-top: 0; }
-.bi-home-hero .bi-cover { min-height: clamp(420px, 48vw, 720px); }
-.bi-home-hero .bi-cover-copy { padding: clamp(32px, 5vw, 72px) var(--bi-inset); }
-.bi-home-newsletterSignup .bi-form-section { padding: clamp(40px, 6vw, 72px) var(--bi-inset); }
+:is(.bi-home, .bi-brand-page) { --bi-inset: max(var(--bi-gutter), calc((100% - var(--bi-width)) / 2)); }
+.bi-section-hero:first-child { padding-top: 0; }
+.bi-section-hero .bi-cover { min-height: clamp(420px, 48vw, 720px); }
+.bi-section-hero .bi-cover-copy { padding: clamp(32px, 5vw, 72px) var(--bi-inset); }
+.bi-section-newsletterSignup .bi-form-section { padding: clamp(40px, 6vw, 72px) var(--bi-inset); }
 /* Venue feature framed in a grey cell line, as in the inventory examples */
-.bi-home-imageText > .bi-feature { padding: clamp(16px, 3vw, 32px); border: 1px solid var(--bi-cell-line); }
+.bi-section-imageText > .bi-feature { padding: clamp(16px, 3vw, 32px); border: 1px solid var(--bi-cell-line); }
+
+/* Brand page template: the page banner runs the full window width, with its content in the page width */
+.bi-section-pageBanner:first-child { padding-top: 0; }
+.bi-section-pageBanner .bi-page-banner { padding: clamp(24px, 3vw, 40px) calc(var(--bi-inset) + clamp(42px, 6vw, 76px)) clamp(30px, 4vw, 48px) var(--bi-inset); }
+.bi-section-pageBanner .bi-page-banner-copy { min-height: clamp(300px, 28vw, 400px); }
+@media (max-width: 900px) {
+  .bi-section-pageBanner .bi-page-banner { padding: 12px var(--bi-gutter) 20px; }
+  .bi-section-pageBanner .bi-page-banner-copy { min-height: 0; }
+}
 
 /* Timeline: the shared styles in app/styles.css, set in the brand palette with Outfit Medium dates and titles */
 .bi .bi-timeline .timeline-intro { color: var(--bi-grey); font-size: 20px; }

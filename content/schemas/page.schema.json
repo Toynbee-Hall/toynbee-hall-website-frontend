@@ -4,6 +4,9 @@
   "title": "Toynbee Hall page content",
   "oneOf": [
     {
+      "$ref": "#/$defs/brandPage"
+    },
+    {
       "$ref": "#/$defs/standardPage"
     },
     {
@@ -1408,6 +1411,51 @@
         },
         "format": {
           "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "brandPage": {
+      "description": "A page built only from the brand inventory blocks, opening with the brand page banner.",
+      "type": "object",
+      "required": [
+        "template",
+        "slug",
+        "title",
+        "intro",
+        "image",
+        "blocks"
+      ],
+      "properties": {
+        "template": {
+          "const": "brand"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "route": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "title": {
+          "type": "string"
+        },
+        "intro": {
+          "type": "string"
+        },
+        "eyebrow": {
+          "type": "string"
+        },
+        "image": {
+          "$ref": "#/$defs/media"
+        },
+        "blocks": {
+          "$ref": "#/$defs/contentBlocks"
         }
       },
       "additionalProperties": false

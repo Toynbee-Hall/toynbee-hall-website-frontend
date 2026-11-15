@@ -69,4 +69,22 @@ This page intentionally departs from `CLAUDE.md` and `docs/website-style-guide.m
 
 ## Homepage
 
-On the `brand-guidelines-inventory` branch, the homepage (`app/page.tsx`) renders `content/homepage.json` through `BrandBlockRenderer`, with the same styles and font as this page. The content is unchanged. Each block sits in a `.bi-home-section` inside the page width, except the hero and the newsletter signup, whose backgrounds run the full window width with content aligned to the page width. The navy heritage introduction banner sits above the latest news; its button opens the full chronology on the Explore Toynbee Hall site. The venue feature is framed in a grey cell line, as in the inventory examples. and the first hero heading renders as the page `h1` (`pageTitle` prop). The Outfit font for both routes is defined in `app/brand-font.ts`.
+On the `brand-guidelines-inventory` branch, the homepage (`app/page.tsx`) renders `content/homepage.json` through `BrandBlockRenderer`, with the same styles and font as this page. The content is unchanged. Each block sits in a `.bi-section` inside the page width, except the hero and the newsletter signup, whose backgrounds run the full window width with content aligned to the page width. The navy heritage introduction banner sits above the latest news; its button opens the full chronology on the Explore Toynbee Hall site. The venue feature is framed in a grey cell line, as in the inventory examples, and the first hero heading renders as the page `h1` (`pageTitle` prop). The Outfit font for both routes is defined in `app/brand-font.ts`.
+
+## Brand page template
+
+Pages with `"template": "brand"` render through `components/BrandPageTemplate.tsx`. Each one opens with the brand page banner (title, intro and a required `image`, with an optional `eyebrow`), followed by the page's blocks rendered by `BrandBlockRenderer`. The banner's tint runs the full window width. Blocks sit in `.bi-section` wrappers, which are shared with the homepage. The newsletter signup also runs full width. Brand pages have no sidebar and no closing page call to action.
+
+`/about-us/` (`content/pages/about-us.json`) uses it, with the same live-site wording and links, in this order:
+
+1. Page banner with the courtyard photograph
+2. Mission statement, introducing "Our vision" and linking to the impact report
+3. Two-photo gallery
+4. Rich text for "Our mission"
+5. Values cards
+6. Card collection for "Explore Toynbee Hall"
+7. Download list for the annual report
+8. Newsletter signup
+9. Enquiry form
+
+The values block also feeds the inventory's values example.

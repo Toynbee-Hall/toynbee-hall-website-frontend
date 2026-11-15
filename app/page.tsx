@@ -17,7 +17,7 @@ export default function Home() {
     <>
       <SiteHeader/>
       <main id="main" className={`bi bi-home ${brandFont.variable}`}>
-        {data.blocks.map((block, index) => <div className={`bi-home-section bi-home-${block.type}${fullWindow.has(block.type) ? '' : ' bi-wrap'}`} key={`${block.type}-${index}`}>
+        {data.blocks.map((block, index) => <div className={`bi-section bi-section-${block.type}${fullWindow.has(block.type) ? '' : ' bi-wrap'}`} key={`${block.type}-${index}`}>
           <BrandBlockRenderer block={block} pageTitle={index === 0}/>
         </div>)}
       </main>

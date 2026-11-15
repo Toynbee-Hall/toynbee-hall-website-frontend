@@ -3,61 +3,44 @@
   "route": "/about-us/",
   "title": "About us",
   "intro": "Based in the East End of London since 1884, Toynbee Hall is a charity working alongside people facing poverty, injustice, and inequality to build a fairer East London.",
-  "template": "standard",
-  "layout": "full-width",
+  "template": "brand",
+  "image": {
+    "src": "/images/home/toynbee-hall-courtyard.jpg",
+    "alt": "Toynbee Hall’s historic brick building viewed from the courtyard"
+  },
   "blocks": [
+    {
+      "type": "statement",
+      "eyebrow": "Our vision",
+      "heading": "A fairer future with an end to poverty, injustice and inequality.",
+      "paragraphs": [
+        "We provide vital advice and support, working in partnership to tackle unfairness and ensure everyone has an equal chance to thrive."
+      ],
+      "link": {
+        "label": "Read the 2024–25 impact report (PDF)",
+        "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/02/FINAL-VERSION_Impact-Report-2024-2025.pdf"
+      }
+    },
+    {
+      "type": "imageGallery",
+      "images": [
+        {
+          "src": "/images/live-site/community-group.jpg",
+          "alt": "People making artwork together around a table"
+        },
+        {
+          "src": "/images/live-site/about-advice.jpg",
+          "alt": "A client receiving advice at the Toynbee Hall Advice Centre"
+        }
+      ]
+    },
     {
       "type": "longForm",
       "sections": [
         {
-          "type": "paragraph",
-          "text": "We provide vital advice and support, working in partnership to tackle unfairness and ensure everyone has an equal chance to thrive."
-        },
-        {
-          "type": "paragraph",
-          "text": "Read the 2024–25 impact report (PDF)",
-          "links": [
-            {
-              "text": "Read the 2024–25 impact report (PDF)",
-              "href": "https://www.toynbeehall.org.uk/wp-content/uploads/2026/02/FINAL-VERSION_Impact-Report-2024-2025.pdf"
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "image": {
-            "src": "/images/home/toynbee-hall-courtyard.jpg",
-            "alt": "Toynbee Hall’s historic brick building viewed from the courtyard"
-          }
-        },
-        {
-          "type": "image",
-          "image": {
-            "src": "/images/live-site/community-group.jpg",
-            "alt": "People making artwork together around a table"
-          }
-        },
-        {
-          "type": "image",
-          "image": {
-            "src": "/images/live-site/about-advice.jpg",
-            "alt": "A client receiving advice at the Toynbee Hall Advice Centre"
-          }
-        },
-        {
           "type": "heading",
           "level": 2,
-          "text": "Our vision"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "A fairer future with an end to poverty, injustice and inequality."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Our Mission"
+          "text": "Our mission"
         },
         {
           "type": "heading",
@@ -70,9 +53,12 @@
           "items": [
             "Addressing poverty and injustice through advice and support and influencing systemic change.",
             "Shifting power to people and communities affected by injustice and inequality.",
-            "Collaborating to end poverty and build fairer systems and institutions.",
-            "What we want to see in the world starts with our community and our organisation."
+            "Collaborating to end poverty and build fairer systems and institutions."
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "What we want to see in the world starts with our community and our organisation."
         },
         {
           "type": "heading",
@@ -276,6 +262,5 @@
         }
       ]
     }
-  ],
-  "pageCta": null
+  ]
 }
