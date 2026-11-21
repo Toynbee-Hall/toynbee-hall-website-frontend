@@ -13,6 +13,7 @@
     {
       "type": "cardGrid",
       "variant": "pathways",
+      "align": "center",
       "id": "looking-for",
       "heading": "I am",
       "headingAccent": "looking for…",
@@ -65,8 +66,8 @@
         "src": "/images/heritage/toynbee-hall-buildings-archive.jpg",
         "alt": "Archive photograph of Toynbee Hall’s ivy-covered Victorian buildings, with tall chimneys and gables, around the courtyard."
       },
-      "imagePosition": "right",
-      "theme": "navy",
+      "imagePosition": "left",
+      "theme": "yellow",
       "link": {
         "label": "Explore the timeline",
         "href": "https://explore.toynbeehall.org.uk/explore/the-history-of-toynbee-hall-a-timeline/"

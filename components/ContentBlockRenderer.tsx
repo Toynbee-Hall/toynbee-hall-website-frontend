@@ -161,6 +161,15 @@ export default function ContentBlockRenderer({ block, heroHeadingLevel = 1 }: { 
       return <section className="content-block link-list">{block.heading && <h2>{block.heading}</h2>}<ul>{block.items.map(item => <li key={item.href}><a href={item.href}>{item.label}</a>{item.description && <p>{item.description}</p>}</li>)}</ul></section>;
     case 'quote':
       return <figure className={`content-block quote-block${block.variant === 'editorial' ? ' quote-editorial' : ''}`}>{block.image && <img className="quote-image" src={block.image.src} alt={block.image.alt}/>}<blockquote>{block.variant === 'editorial' && <span className="quote-mark" aria-hidden="true">“</span>}{block.quote}</blockquote>{block.attribution && <figcaption>{block.attribution}</figcaption>}</figure>;
+    case 'quoteGrid':
+      return <section className="content-block quote-grid" id={block.id}>
+        {(block.eyebrow || block.heading || block.intro) && <div className="quote-grid-head">{block.eyebrow && <p className="eyebrow">{block.eyebrow}</p>}{block.heading && <h2>{block.heading}</h2>}{block.intro && <p>{block.intro}</p>}</div>}
+        <ul className="quote-grid-list">{block.items.map((item, i) => <li key={`${item.name}-${i}`}><figure>
+          <span className="quote-mark" aria-hidden="true">“</span>
+          <blockquote>{item.quote}</blockquote>
+          <figcaption>{item.image && <img className="quote-image" src={item.image.src} alt={item.image.alt}/>}<span><b>{item.name}</b>{item.detail && <span>{item.detail}</span>}</span></figcaption>
+        </figure></li>)}</ul>
+      </section>;
     case 'callout':
       return <aside className="content-block callout-block"><h2>{block.heading}</h2><p>{block.body}</p>{block.link && <ActionLink link={block.link}/>}</aside>;
     case 'hero': {

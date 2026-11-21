@@ -32,6 +32,7 @@
 **Layout motifs.**
 
 - Page banner (Collection 1, from Help and Advice at `/free-advice/`): a white headline, label and summary in an orange panel, beside a photograph on an orange tint, offset by an 8px navy block shadow. It is rendered by `BrandPageBanner` in `components/BrandBlockRenderer.tsx`, because it is page furniture, not a content block. The site version's logo-device watermark and the dash before the label are left out.
+- Client quotes (`quoteGrid`): light blue tint cards with a 4px orange top rule, an orange opening quotation mark, grey 18px quote text, and the name in navy SemiBold after a short orange rule. Three across on desktop, one per row below 900px.
 - Section headings in a single colour, orange. A heading accent is joined to the heading, not set in a second colour.
 - Mission statement: a white section, with an orange headline, grey text and a navy button. Solid orange was too bold and bright at this size.
 - News: the lead story in a landscape card (photo beside the copy). With `"theme": "blue"`, as on the homepage, it uses the same pale blue tint, navy title and grey text as the other cards; otherwise it is navy with white text, with the other stories in a row of three light blue cards underneath. Each card has a photo, a small date, a large title, a three-line summary and a link. Tablets show two cards per row; phones show one.
@@ -65,15 +66,15 @@ This page intentionally departs from `CLAUDE.md` and `docs/website-style-guide.m
 
 **Links.** Links inside running text keep an underline, which accessibility requires. Standalone links use a short orange rule instead.
 
-**Shared elements.** The shared site header and footer appear on this page. The header has been restyled site-wide to match it: navy type, orange underlines and rules, light blue highlights, grey cell lines and no star device.
+**Shared elements.** The shared site header and footer appear on this page. The header has been restyled site-wide to match it: navy type, orange underlines and rules, light blue highlights, grey cell lines and no star device. On desktop a light grey rule separates the quick links from the main sections.
 
 ## Homepage
 
-On the `brand-guidelines-inventory` branch, the homepage (`app/page.tsx`) renders `content/homepage.json` through `BrandBlockRenderer`, with the same styles and font as this page. The content is unchanged. Each block sits in a `.bi-section` inside the page width, except the hero and the newsletter signup, whose backgrounds run the full window width with content aligned to the page width. The navy heritage introduction banner sits above the latest news; its button opens the full chronology on the Explore Toynbee Hall site. The venue feature is framed in a grey cell line, as in the inventory examples, and the first hero heading renders as the page `h1` (`pageTitle` prop). The Outfit font for both routes is defined in `app/brand-font.ts`.
+On the `brand-guidelines-inventory` branch, the homepage (`app/page.tsx`) renders `content/homepage.json` through `BrandBlockRenderer`, with the same styles and font as this page. The content is unchanged. Each block sits in a `.bi-section` inside the page width, except the hero, the split banner and the newsletter signup, whose backgrounds run the full window width with content aligned to the page width. On desktop the split banner's panel runs to the window edge. Its photograph runs past the page content's edge, up to a wider 1680px banner width (`--split-max`), and fades slowly towards the window edge, so on wide screens the banner still reads as full window width. On smaller screens the photograph sits above the panel without the fade. The heritage introduction banner sits above the latest news with its photograph on the left (`"imagePosition": "left"`) and a yellow tint panel (`"theme": "yellow"`), inside a full-width yellow tint band so the photograph fades into the tint rather than the white page; its button opens the full chronology on the Explore Toynbee Hall site. The venue feature is framed in a grey cell line, as in the inventory examples, and the first hero heading renders as the page `h1` (`pageTitle` prop). The Outfit font for both routes is defined in `app/brand-font.ts`. To vary the rhythm down the page, the pathway heading (`"align": "center"`), mission statement and partner label are centred, and sections below the hero rise gently into view on scroll using CSS scroll-driven animation, skipped when the visitor prefers reduced motion or the browser lacks support.
 
 ## Brand page template
 
-Pages with `"template": "brand"` render through `components/BrandPageTemplate.tsx`. Each one opens with the brand page banner (title, intro and a required `image`, with an optional `eyebrow`), followed by the page's blocks rendered by `BrandBlockRenderer`. The banner's tint runs the full window width. Blocks sit in `.bi-section` wrappers, which are shared with the homepage. The newsletter signup also runs full width. Brand pages have no sidebar and no closing page call to action.
+Pages with `"template": "brand"` render through `components/BrandPageTemplate.tsx`. Each one opens with the brand page banner (title, intro and a required `image`, with an optional `eyebrow`), followed by the page's blocks rendered by `BrandBlockRenderer`. The banner's tint runs the full window width. Blocks sit in `.bi-section` wrappers, which are shared with the homepage. The newsletter signup also runs full width. Brand pages have no sidebar and no closing page call to action. The page banner always keeps its text on the left, where visitors look first, with the photograph on the right. As on the homepage, the mission statement is centred, blocks with `"align": "center"` centre their headings (About us: values and Explore Toynbee Hall; Help and Advice: the service cards, client quotes and the closing callout), and sections rise into view on scroll.
 
 `/about-us/` (`content/pages/about-us.json`) uses it, with the same live-site wording and links, in this order:
 
@@ -82,9 +83,24 @@ Pages with `"template": "brand"` render through `components/BrandPageTemplate.ts
 3. Two-photo gallery
 4. Rich text for "Our mission"
 5. Values cards
-6. Card collection for "Explore Toynbee Hall"
-7. Download list for the annual report
-8. Newsletter signup
-9. Enquiry form
+6. Timeline of all 58 events from the Explore Toynbee Hall timeline (1874–2014), in date order. 53 have archive photographs: eight in `public/images/heritage/` and 45 in `public/images/heritage/timeline/`, copied from the Explore Toynbee Hall site build (`toynbee-eleventy/_site/assets`), with alt text written for each. Five are text only: 1911 Attlee has no image on Explore; the 1928 Amelia Earhart and 1967 Gatehouse photos carry Getty Images and Alamy watermarks; and the 1939 Citizens Advice and 2014 Heritage Lottery Fund images are logos, which the landscape crop would cut off. Link labels for videos and booklets that the cards cannot show were left out.
+7. Heritage stories cards, the same as the inventory example
+8. Card collection for "Explore Toynbee Hall"
+9. Download list for the annual report
+10. Newsletter signup
+11. Enquiry form
 
 The values block also feeds the inventory's values example.
+
+`/free-advice/` (`content/pages/free-advice.json`) also uses the brand template. Its blocks are, in order:
+
+1. Audience pathways cards, with the advice icons
+2. Orange eligibility panel for City of London residents
+3. "How to get advice" cards
+4. Link list
+5. Client quotes for "Our advice is always free and confidential"
+6. Light blue callout to contact the advice team
+
+Its first card grid, info panel, link list and client quotes feed the inventory examples, so keep them in that order. The plain quote example uses the second client quote.
+
+Rich text paragraphs and list items are 18px.

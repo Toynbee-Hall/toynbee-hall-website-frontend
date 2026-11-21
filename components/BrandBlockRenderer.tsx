@@ -96,7 +96,7 @@ export default function BrandBlockRenderer({ block, pageTitle = false }: { block
       const pathways = block.variant === 'pathways';
       const count = block.items.length;
       const columns = block.columns ?? (count === 5 ? 5 : count % 3 === 0 ? 3 : count === 4 ? 4 : 2);
-      return <section className={`bi-block${pathways ? ' bi-block-pathways' : ''}`} id={block.id}>
+      return <section className={`bi-block${pathways ? ' bi-block-pathways' : ''}${block.align === 'center' ? ' bi-block-centred' : ''}`} id={block.id}>
         {(block.eyebrow || block.heading || block.intro) && <div className="bi-block-head">{block.eyebrow && <Label>{block.eyebrow}</Label>}{block.heading && <Heading heading={block.heading} accent={block.headingAccent}/>}{block.intro && <p className="bi-lead">{block.intro}</p>}</div>}
         <ul className={`bi-cards bi-cols-${columns}${pathways ? ' bi-cards-pathways' : ''}`}>{block.items.map((card, i) => {
           /* Homepage pathways: a navy lead card (any card with a theme), then white cards with an orange top rule */
@@ -115,7 +115,7 @@ export default function BrandBlockRenderer({ block, pageTitle = false }: { block
     }
 
     case 'splitBanner':
-      return <section className={`bi-split${block.imagePosition === 'left' ? ' bi-split-image-left' : ''}${block.theme === 'navy' ? ' bi-split-navy' : ''}`}>
+      return <section className={`bi-split${block.imagePosition === 'left' ? ' bi-split-image-left' : ''}${block.theme === 'navy' ? ' bi-split-navy' : block.theme === 'yellow' ? ' bi-split-yellow' : ''}`}>
         <div className="bi-split-copy">
           {block.eyebrow && <Label>{block.eyebrow}</Label>}
           <h2>{block.heading}</h2>
@@ -179,6 +179,18 @@ export default function BrandBlockRenderer({ block, pageTitle = false }: { block
         ? <figure className="bi-quote-band"><blockquote>{block.quote}</blockquote>{block.attribution && <figcaption>{block.attribution}</figcaption>}</figure>
         : <figure className="bi-quote"><span className="bi-rule" aria-hidden="true"/><blockquote>{block.quote}</blockquote>{block.attribution && <figcaption>{block.attribution}</figcaption>}</figure>;
 
+    case 'quoteGrid':
+      return <section className={`bi-block${block.align === 'center' ? ' bi-block-centred' : ''}`} id={block.id}>
+        {(block.eyebrow || block.heading || block.intro) && <div className="bi-block-head">{block.eyebrow && <Label>{block.eyebrow}</Label>}{block.heading && <Heading heading={block.heading}/>}{block.intro && <p className="bi-lead">{block.intro}</p>}</div>}
+        <ul className={`bi-quote-grid bi-cols-${Math.min(block.items.length, 3)}`}>{block.items.map((item, i) => <li key={`${item.name}-${i}`}><figure className="bi-quote-card">
+          <blockquote>{item.quote}</blockquote>
+          <figcaption>
+            {item.image && <img src={item.image.src} alt={item.image.alt} width="48" height="48" loading="lazy"/>}
+            <span><span className="bi-quote-name">{item.name}</span>{item.detail && <span className="bi-quote-detail">{item.detail}</span>}</span>
+          </figcaption>
+        </figure></li>)}</ul>
+      </section>;
+
     case 'richText':
       return <section className="bi-block bi-prose">{block.heading && <Heading heading={block.heading} accent={block.headingAccent}/>}{block.paragraphs.map((p, i) => <p key={i}>{p}</p>)}</section>;
 
@@ -216,7 +228,7 @@ export default function BrandBlockRenderer({ block, pageTitle = false }: { block
       </aside>;
 
     case 'callout':
-      return <aside className="bi-panel bi-tint-blue bi-callout">
+      return <aside className={`bi-panel bi-tint-blue bi-callout${block.align === 'center' ? ' bi-callout-centred' : ''}`}>
         <h2>{block.heading}</h2>
         <p>{block.body}</p>
         {block.link && <div className="bi-actions"><Button link={block.link}/></div>}

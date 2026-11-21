@@ -79,6 +79,7 @@
     {
       "type": "cardGrid",
       "heading": "Our",
+      "align": "center",
       "headingAccent": "values",
       "columns": 3,
       "imageStyle": "icon",
@@ -113,8 +114,619 @@
       ]
     },
     {
+      "type": "timeline",
+      "id": "our-history",
+      "eyebrow": "Our history",
+      "heading": "The history of Toynbee Hall",
+      "intro": "Since 1884, Toynbee Hall has been a catalyst for social change and has worked on the frontline in the struggle against poverty. Swipe sideways or select a year to explore.",
+      "link": {
+        "label": "View the timeline on Explore Toynbee Hall",
+        "href": "https://explore.toynbeehall.org.uk/explore/the-history-of-toynbee-hall-a-timeline/"
+      },
+      "items": [
+        {
+          "date": "1874",
+          "dateTime": "1874",
+          "title": "The Barnetts",
+          "body": "Canon Samuel Barnett and his wife Henrietta first came to the East End in 1872 to the poverty stricken parish of St Jude's. Along with friends from Oxford University, the Barnetts went on to establish the first university settlement house, Toynbee Hall, in Whitechapel. Toynbee Hall was named after fellow social reformer and friend of the Barnetts, Arnold Toynbee, who before his death in 1883 inspired them with his work with London's poor.",
+          "image": {
+            "src": "/images/heritage/henrietta-and-samuel-barnett.jpg",
+            "alt": "Portrait photograph of Henrietta Barnett, seated, with Samuel Barnett standing beside her."
+          }
+        },
+        {
+          "date": "1884",
+          "dateTime": "1884",
+          "title": "Toynbee Hall opens",
+          "body": "Henrietta and Samuel Barnett opened the doors of Toynbee Hall on 24th December 1884. Their radical vision was to create a centre for social reform and research where students of Oxford and Cambridge could come to live and work as volunteers in London's East End. They would experience first hand the effects of poverty and would learn how to develop the practical solutions that would actively improve the lives of those living in the slums of Whitechapel.",
+          "image": {
+            "src": "/images/heritage/toynbee-hall-opens-1884.jpg",
+            "alt": "Engraving of Toynbee Hall’s gabled Victorian building, with tall chimneys and leaded windows."
+          }
+        },
+        {
+          "date": "1888",
+          "dateTime": "1888",
+          "title": "A Growing Settlement Movement",
+          "body": "Toynbee Hall and the other English settlement houses quickly inspired an international movement. After visiting Toynbee Hall, progressive reformers Jane Addams and Eileen Starr returned to Chicago to set up Hull House, modelled on Toynbee Hall. Such settlements sprang up across the United States, Europe and even in Japan. Later Toynbee Hall played host to meetings of the International Federation of Settlements, where representatives came together to further the work of the settlement movement.",
+          "image": {
+            "src": "/images/heritage/timeline/1888-jane-addams.jpg",
+            "alt": "Portrait of Jane Addams seated at a desk, pen in hand, in a dark high-collared dress."
+          }
+        },
+        {
+          "date": "1889",
+          "dateTime": "1889",
+          "title": "The Toynbee Travellers’ Club",
+          "body": "Overseas expeditions were seen as a way of furthering the cultural education of residents and students. In 1887 the first 'Toynbee pilgrims' visited Belgium, and the Travellers' Club was created in 1889. Many of the group members had never been abroad before. They attended lectures and language lessons before making their trips. One group member, Thomas Oakey, a Spitalfields basket maker went on to become the first Professor of Italian at Cambridge University.",
+          "image": {
+            "src": "/images/heritage/travellers-club-1889.jpg",
+            "alt": "Members of the Toynbee Travellers’ Club, in Victorian hats and long skirts, sitting together on a lawn."
+          }
+        },
+        {
+          "date": "1890",
+          "dateTime": "1890",
+          "title": "Early Smoking Room Debate",
+          "body": "Smoking Room Debates were held in the Lecture Hall at Toynbee Hall and were an important part of life there for over 20 years. Every Tuesday, residents, speakers and local people would gather to debate the issues of the day. This fulfilled part of the vision for Toynbee Hall to become a space which brought people together across class lines, encouraging free thinking and fostering mutual understanding.",
+          "image": {
+            "src": "/images/heritage/timeline/1890-smoking-room-debate.jpg",
+            "alt": "A packed audience of men in caps and suits sitting in rows in the Lecture Hall for a Smoking Room Debate."
+          }
+        },
+        {
+          "date": "1898",
+          "dateTime": "1898",
+          "title": "The Poor Man’s Lawyer Service",
+          "body": "The Poor Man's Lawyer service is one of the most successful projects in Toynbee Hall's history. G.O Roos was the first of many lawyers to work with the scheme, where the poor of the East End could seek legal assistance that they would otherwise not be able to afford. At the time most users of the service were Polish or Russian immigrants who spoke little English. Set up by Dr. A. E Western, the tradition of free legal advice continues at Toynbee Hall today. This is an image from the 1970s.",
+          "image": {
+            "src": "/images/heritage/poor-mans-lawyer-advice.jpg",
+            "alt": "An adviser at his desk talking with a man seated beside him at Toynbee Hall."
+          }
+        },
+        {
+          "date": "1900",
+          "dateTime": "1900",
+          "title": "The Toynbee Hall buildings",
+          "body": "Modelled on an Oxford or Cambridge College, the buildings of Toynbee Hall included the Lecture Hall and Ashbee Hall with accommodation on the upper floors, two further 'college' buildings; Balliol and Wadham which were named after their Oxford counterparts, a theatre, library and warden's lodge. The lodge, Balliol and Wadham were all destroyed during the London Blitz in the Second World War, and were replaced by Attlee House in 1963 and Sunley House in 1974.",
+          "image": {
+            "src": "/images/heritage/toynbee-hall-buildings-archive.jpg",
+            "alt": "Archive photograph of Toynbee Hall’s ivy-covered Victorian buildings, with tall chimneys and gables, around the courtyard."
+          }
+        },
+        {
+          "date": "1901",
+          "dateTime": "1901",
+          "title": "The Whitechapel Gallery",
+          "body": "The Whitechapel Gallery was founded in 1901 by the Barnetts. It was opened by Lord Rosebery and 206,000 people visited the first exhibition. The gallery grew from smaller exhibitions organised by the Barnetts who firmly believed in the good of bringing art to the people of East London. Samuel Barnett declared that \"even the lowest people of London\" could \"appreciate the highest art\".",
+          "image": {
+            "src": "/images/heritage/whitechapel-gallery-1901.jpg",
+            "alt": "Illustration of the Whitechapel Art Gallery’s arched entrance and twin towers, with a horse and cart in the street outside."
+          }
+        },
+        {
+          "date": "1902",
+          "dateTime": "1902",
+          "title": "Lenin visits Toynbee Hall",
+          "body": "In 1902 Liberal MP John Morely led a smoking debate on foreign policy at Toynbee Hall. An eye witness described how Morely was met with a diatribe from a 'a shabbily dressed' young man called Richter, who demanded that he 'look at the impoverishment' around him rather than espousing the foreign policy talk of all capitalist nations. Several days later Richter was invited back to Toynbee Hall for tea. As it turned out, 'Richter' was actually Vladimir Lenin, the Russian revolutionary.",
+          "image": {
+            "src": "/images/heritage/timeline/1902-lenin.jpg",
+            "alt": "Vladimir Lenin in a flat cap, smiling and holding a black and white cat."
+          }
+        },
+        {
+          "date": "1903",
+          "dateTime": "1903",
+          "title": "The Workers Education Association (W E A)",
+          "body": "The education of working people had always been at the heart of Toynbee Hall's vision. Samuel Barnett's 'University Extension' lectures were extremely popular in the late 1880s, and led to a pioneering course of tutorials run by Albert Mansbridge. In 1903 Mansbridge, alongside R.H Tawney, founded the Workers Educational Association. The W.E.A remains the UK’s largest voluntary-sector provider of adult education and was directly influenced by Toynbee Hall.",
+          "image": {
+            "src": "/images/heritage/timeline/1903-workers-educational-association.jpg",
+            "alt": "A large group of men in suits posed in rows behind a sign reading W.E.A."
+          }
+        },
+        {
+          "date": "1904",
+          "dateTime": "1904",
+          "title": "William Beveridge at Toynbee Hall, 1903–5",
+          "body": "William Beveridge was appointed Sub-Warden of Toynbee Hall in 1904. He claimed he wished to go to Toynbee Hall as he viewed 'Social problems in a scientific way.' He saw the settlement houses as a base to gather the information necessary to remedy them. His time at Toynbee Hall made him see unemployment as the great social evil, to see the damage caused by the Poor Laws and to see the state as the only means to effectively guide social action.",
+          "image": {
+            "src": "/images/heritage/timeline/1904-william-beveridge.jpg",
+            "alt": "Studio portrait of a young William Beveridge in profile, wearing a high collar and dark suit."
+          }
+        },
+        {
+          "date": "1904",
+          "dateTime": "1904",
+          "title": "Richard H. Tawney at Toynbee Hall",
+          "body": "This image shows a group of Toynbee Hall residents circa 1903-5 on the steps of the Lecture Hall. In the middle sits Samuel Barnett, William Beverage on the right and beside him stands R.H Tawney. A friend of William Beverage, Tawney became an influential economic historian and social critic as well as life long supporter of adult education. Tawney was involved in a number of projects whilst at Toynbee Hall, but probably most significant was his role in the Workers Education Association.",
+          "image": {
+            "src": "/images/heritage/timeline/1904-residents-on-the-lecture-hall-steps.jpg",
+            "alt": "Toynbee Hall residents posed on the steps of the ivy-covered Lecture Hall entrance, with Samuel Barnett seated in the middle."
+          }
+        },
+        {
+          "date": "1907",
+          "dateTime": "1907",
+          "title": "William Beveridge – The Beveridge Report",
+          "body": "After leaving Toynbee Hall, Beveridge famously went on to compile the Report on Social Insurance and Allied Services, published in 1942. The Beveridge Report is considered the blueprint for the post-war Welfare State in Britain and can seen to have its roots in Beverage's time at Toynbee Hall.",
+          "image": {
+            "src": "/images/heritage/timeline/1907-william-beveridge.jpg",
+            "alt": "Studio portrait of a young William Beveridge in profile, wearing a high collar and dark suit."
+          }
+        },
+        {
+          "date": "1908",
+          "dateTime": "1908",
+          "title": "Scouts at Toynbee Hall",
+          "body": "This image is of the first scout troop at Toynbee Hall, the 1st Stepney Troop led by Dr. T.S, Lukis. Robert Baden - Powell, founder of the Scouts, favoured the Settlement House as a place to train 'difficult' boys, and selected the Toynbee Hall troop for the Earls Court Rally of 1909. In 1913 the first Jewish scout troop was also set up at Toynbee Hall, and scouting continued here for many years. Francis Wane, another former resident established the 'National Peace Scouts' in 1910.",
+          "image": {
+            "src": "/images/heritage/timeline/1908-woodpigeon-scout-patrol.jpg",
+            "alt": "Scouts in wide-brimmed hats carrying a log on poles across the courtyard, above a handwritten caption: Woodpigeon Patrol at Toynbee, Nov 1908."
+          }
+        },
+        {
+          "date": "1911",
+          "dateTime": "1911",
+          "title": "Clement Attlee at Toynbee Hall",
+          "body": "From 1906 Clement Attlee volunteered at Haileybury House, a club for working-class boys in Stepney. Whilst in the East End Attlee became a resident at Toynbee Hall, and it was here his politics swung to the left, leading him to join the Independent Labour Party. Life at Toynbee Hall educated Attlee about the social conditions of the poor and went on to influence his time as Prime Minister. He served as secretary at Toynbee Hall in 1909 and in1945 was appointed President."
+        },
+        {
+          "date": "1914",
+          "dateTime": "1914",
+          "title": "Toynbee Hall during WWI",
+          "body": "The First World War was a time of great upheaval at Toynbee Hall. As numbers of residents dwindled it was decided that the settlement would temporarily move to Poplar. During this time Toynbee Hall's buildings were used as a recruitment and educational centre for the war effort. This image shows Toynbee Hall in use as a production centre for leather goods - army cadets would make their own artillery belts and learn basic leather skills before going to the war.",
+          "image": {
+            "src": "/images/heritage/timeline/1914-leatherwork-in-wartime.jpg",
+            "alt": "Rows of young cadets at long workbenches in a hall, working on leather goods."
+          }
+        },
+        {
+          "date": "1918",
+          "dateTime": "1918",
+          "title": "The Fallen of Toynbee Hall",
+          "body": "This plaque commemorates the 13 residents of Toynbee Hall who were killed during WWI. These include T.S Lukis, Scout Master at Toynbee Hall who led the eldest of his troop to the war recruitment office. When Lukis was himself killed at Neuve Chappelle in 1915 it was two of Toynbee's Hall's former scouts who removed his body from the battlefield. N.G.Chamberlain, cousin of British Prime Minister Neville Chamberlain, is also commemorated here.",
+          "image": {
+            "src": "/images/heritage/timeline/1918-memorial-to-the-fallen.jpg",
+            "alt": "Memorial listing the residents of Toynbee Hall who died in the Great War, 1914–18, with their dates."
+          }
+        },
+        {
+          "date": "1926",
+          "dateTime": "1926",
+          "title": "The General Strike",
+          "body": "During the nine day General Strike of 1926 Toynbee Hall backed the actions of the Trade Union's Congress (TUC) and acted to support strikers and their families. Dockers, transport workers and railway workers assembled at Toynbee Hall daily to collect their strike pay, whilst in the afternoons concerts were held for the men and their wives. According to the annual report from that time, such concerts were \"a powerful influence in the preservation of local good humour\".",
+          "image": {
+            "src": "/images/heritage/timeline/1926-general-strike-annual-report.jpg",
+            "alt": "Page from the annual report headed Toynbee Hall and the General Strike, by the Warden."
+          }
+        },
+        {
+          "date": "1926",
+          "dateTime": "1926",
+          "title": "The Girls Dinner Club",
+          "body": "The Girls Dinner club was a service run exclusively for young women. At a time when women earned less than ten shillings a week it provided a place where women working locally could access a cheap midday meal in a safe environment. After eating the girls could talk, knit or even sing. They were also encouraged to return two evenings a week for singing and dancing.",
+          "image": {
+            "src": "/images/heritage/timeline/1926-young-women-at-work.jpg",
+            "alt": "Young women in work aprons seated at machines in a workshop lined with shelves."
+          }
+        },
+        {
+          "date": "1928",
+          "dateTime": "1928",
+          "title": "Amelia Earhart visits Toynbee Hall",
+          "body": "Although better known as the first female pilot to fly across the Atlantic, Amelia Earhart was also a pioneering social worker. Before her flying career she worked at Denison House, a settlement in Boston, Massachusetts that was modelled on Toynbee Hall. This image shows her visiting Toynbee Hall after her flight, shaking hands with an elderly Henrietta Barnett and cheered on on by Boy Scouts."
+        },
+        {
+          "date": "1932",
+          "dateTime": "1932",
+          "title": "Mural in the Lecture Hall",
+          "body": "On this day in 1932, Sir Philip Sassoon formally unveiled artist Archibald Ziegler's murals in the Lecture Hall in Toynbee Hall. Ziegler born in Plaistow in 1903 worked as a ship’s galley boy on an expedition to the Arctic, then as an engineer, before attending the Royal Academy Schools and winning a scholarship to the Royal College of Art. His first big commission was this mural and as a former student at Toynbee Halls National Extension College he agreed to paint on house painters wages .",
+          "image": {
+            "src": "/images/heritage/timeline/1932-mural-in-the-lecture-hall.jpg",
+            "alt": "An artist on a tall ladder painting a mural above the fireplace between two leaded windows in the Lecture Hall."
+          }
+        },
+        {
+          "date": "1934",
+          "dateTime": "1934",
+          "title": "The Prince of Wales",
+          "body": "This image shows Edward, Prince of Wales, visiting the boys club at Toynbee Hall. A friend of Toynbee Hall Warden J.J Mallon, HRH took a great interest in Toynbee Hall and visited on more than one occasion often going incognito to meet the local community.",
+          "image": {
+            "src": "/images/heritage/timeline/1934-prince-of-wales.jpg",
+            "alt": "Edward, Prince of Wales, smiling among a crowd of young people at the boys’ club."
+          }
+        },
+        {
+          "date": "1938",
+          "dateTime": "1938",
+          "title": "King George VI and Queen Elizabeth, the Queen Mother",
+          "body": "This image shows a young King George VI with his wife Queen Elizabeth, the present Queen's mother, visiting Toynbee Hall. The royal couple often visited the East End, famously during the war.",
+          "image": {
+            "src": "/images/heritage/timeline/1938-king-george-vi-and-queen-elizabeth.jpg",
+            "alt": "King George VI and Queen Elizabeth walking past saluting scout leaders during a visit to Toynbee Hall."
+          }
+        },
+        {
+          "date": "1938",
+          "dateTime": "1938",
+          "title": "Juvenile Court",
+          "body": "The Stepney Juvenile Court was held in this wood-panelled room at Toynbee Hall. The use of Juvenile Courts was considered a progressive movement which allowed tribunals involving children to be held in a more informal and less intimidating environment than a police court. Toynbee Hall was one of the first eight Juvenile Courts established, with Warden J.J Mallon appointed as one of the Justices. When not in use the room was used for classes.",
+          "image": {
+            "src": "/images/heritage/timeline/1938-juvenile-court.jpg",
+            "alt": "The empty wood-panelled Juvenile Court room, with double doors and a clock on the far wall."
+          }
+        },
+        {
+          "date": "1939",
+          "dateTime": "1939",
+          "title": "Toynbee Hall before WWII",
+          "body": "This image shows the old library as it stood before being destroyed in the Blitz.",
+          "image": {
+            "src": "/images/heritage/old-library-before-the-blitz.jpg",
+            "alt": "Toynbee Hall’s ivy-covered old library, with a turret and arched doorways, before it was destroyed in the Blitz."
+          }
+        },
+        {
+          "date": "1939",
+          "dateTime": "1939",
+          "title": "The Citizens Advice Bureau",
+          "body": "Toynbee Hall housed one of the first 200 Citizens Advice Bureau's (CAB). Set up during the war, the CAB was intended to advise people about the difficulties and tragedies of wartime. Run by residents and volunteers, at its peak the Toynbee Hall CAB had over 50,000 clients. Today the CAB is a national charity that continues to help and advise ordinary people."
+        },
+        {
+          "date": "1939",
+          "dateTime": "1939",
+          "title": "Clive Gardiner Murals",
+          "body": "Clive Gardiner paints beautiful murals on the walls of the Toynbee Hall Theatre. Gardiner was an influential British designer, best known for his iconic poster designs for the London Underground from the 1920s to the 1950s. He was the brother of Stella Mallon, the Warden's wife.",
+          "image": {
+            "src": "/images/heritage/timeline/1939-clive-gardiner-murals.jpg",
+            "alt": "The Toynbee Hall Theatre auditorium, with red curtains on the stage and murals on the walls either side."
+          }
+        },
+        {
+          "date": "1939",
+          "dateTime": "1939",
+          "title": "Toynbee Hall’s War Service",
+          "body": "During the war Toynbee Hall assisted the Ministry of Food in sorting and distributing ration books and food coupons in the area. Led by J.J Mallon, warden of Toynbee Hall (1919–54) wartime advisor to the Ministry of Food, This image shows Mallon with volunteers sorting through food coupons in the Lecture Hall. Toynbee Hall also helped to organise food, entertainment and goods for those using public air-raid shelters and received Jewish refugee children from the Kindertransport.",
+          "image": {
+            "src": "/images/heritage/wartime-volunteers-1939.jpg",
+            "alt": "Warden J. J. Mallon leaning over volunteers as they sort wartime food coupons at long tables in the Lecture Hall."
+          }
+        },
+        {
+          "date": "1941",
+          "dateTime": "1941",
+          "title": "Toynbee Hall during the Blitz",
+          "body": "As war broke out for the second time Toynbee Hall could not escape the nightly air assults on the City of London. On October 21st, 1940, Toynbee Hall was hit directly by German bombs, killing two. In March 1941 a bomb narrowly missed the building, instead destroying the adjacent school. Then, on May 10th 1941, Toynbee was hit once again. The library, warden's lodge and archives as well as several bedrooms were all destroyed. Because of this, today's archive is missing many early documents.",
+          "image": {
+            "src": "/images/heritage/timeline/1941-blitz-damage.jpg",
+            "alt": "Rubble in the courtyard beside damaged Toynbee Hall buildings after the bombing in 1941."
+          }
+        },
+        {
+          "date": "1942",
+          "dateTime": "1942",
+          "title": "War damage",
+          "body": "This image shows the war damage to the wardens lodge, which sat on the upper floors.",
+          "image": {
+            "src": "/images/heritage/timeline/1942-war-damage.jpg",
+            "alt": "Bomb-damaged building front with empty, burnt-out window openings above the street."
+          }
+        },
+        {
+          "date": "1944",
+          "dateTime": "1944",
+          "title": "Wartime ballets",
+          "body": "During the intense bombing of London the number of classes at Toynbee Hall dwindled. However, a number of evening classes flourished. Theadore Wassilief, known as 'Maestro', was a former dancer in the Russian Ballet who along with Alice Lascelles founded a new School of Ballet at Toynbee Hall that gave classes four nights a week and put on a number of performances. Toynbee Hall's wartime motto was 'There will be classes for all that need them'",
+          "image": {
+            "src": "/images/heritage/timeline/1944-wartime-ballet.jpg",
+            "alt": "Dancers in tiered ball gowns posing on stage with tennis rackets."
+          }
+        },
+        {
+          "date": "1946",
+          "dateTime": "1946",
+          "title": "Constable’s Music and Movement",
+          "body": "This image shows a demonstration of a Basic Movement class at Toynbee Hall. Basic Movement, or Music and Movement, were styles of dance based exercise founded by Theodore Constable and pioneered at Toynbee Hall. Allowing men, women and children to exercise together, it became very popular and formed part of the national curriculum.",
+          "image": {
+            "src": "/images/heritage/timeline/1946-music-and-movement.jpg",
+            "alt": "Three dancers demonstrating a Basic Movement pose on stage, their shadow cast large on the wall behind."
+          }
+        },
+        {
+          "date": "1950",
+          "dateTime": "1950",
+          "title": "Ballet classes",
+          "body": "This image shows a Ballet Class in the Youth Court building at Toynbee Hall during the 1950s.",
+          "image": {
+            "src": "/images/heritage/timeline/1950-ballet-class.jpg",
+            "alt": "Girls in dresses copying their teacher’s arm positions in a ballet class."
+          }
+        },
+        {
+          "date": "1950",
+          "dateTime": "1950",
+          "title": "Attlee with the Scouts",
+          "body": "Clement Attlee returns to Toynbee Hall as Prime Minister to be greeted by the 1st and 2nd Stepney Boys Scout Troops.",
+          "image": {
+            "src": "/images/heritage/timeline/1950-attlee-with-the-scouts.jpg",
+            "alt": "Clement Attlee greeting a circle of scouts in the courtyard, with buildings and spectators behind."
+          }
+        },
+        {
+          "date": "1950",
+          "dateTime": "1950",
+          "title": "Children’s Christmas party",
+          "body": "This image shows a children's Christmas party of Scouts and Brownies at Toynbee Hall in the 1950's. Toynbee Hall has always been a centre for groups and events for local children.",
+          "image": {
+            "src": "/images/heritage/timeline/1950-childrens-christmas-party.jpg",
+            "alt": "Children in paper party hats, some in scout neckerchiefs, crowded together at a Christmas party."
+          }
+        },
+        {
+          "date": "1955",
+          "dateTime": "1955",
+          "title": "Looking forward",
+          "body": "The post-war period found those at Toynbee Hall pre-occupied with the question of what the function of the Settlement ought to be within the context of the 'affluent society' brought by the post-war boom and new Welfare State. The answer seemed settled upon by Professor Tawney, who proclaimed that what was now needed by those who had 'won economic freedom' was 'beauty and joy'. To fulfil this task a renewed focus was given to Arts and Drama, including the opening of the purpose built Theatre.",
+          "image": {
+            "src": "/images/heritage/timeline/1955-atomic-pattern-fabric.jpg",
+            "alt": "A 1950s fabric pattern of atoms and stars in turquoise, yellow and pink on a beige background."
+          }
+        },
+        {
+          "date": "1956",
+          "dateTime": "1956",
+          "title": "Women’s Music Class and Ashbee Piano",
+          "body": "This image shows a women's music lesson at Toynbee Hall. If you look closely you can see that the 'keyboards' are drawn onto the table. Notice the actual piano decorated by Charles Ashbee a former residential volunteer (1887-189) leading member of the Arts and Crafts ,it ws given to Toynbee Hall by his widow Janet and subsequently sold to the Cheltenham Museum.",
+          "image": {
+            "src": "/images/heritage/timeline/1956-womens-music-class.jpg",
+            "alt": "A teacher at a blackboard leading a music lesson for women seated at long tables, with a piano to the left."
+          }
+        },
+        {
+          "date": "1963",
+          "dateTime": "1963",
+          "title": "Jewish Life at Toynbee Hall",
+          "body": "Spitalfields historically had a large Jewish population, becoming a centre for Jewish immigrant communities in the 1830s. Jewish people were very involved with Toynbee Hall life from the start. The Friends of Yiddish Literary Club based at Toynbee Hall was the longest running club of its kind, closing only in 2000 after 75 years. The area is now far more associated with the Bangladeshi community but maintains its character as a dynamic and vibrant centre for immigrant communities.",
+          "image": {
+            "src": "/images/heritage/timeline/1963-jewish-life.jpg",
+            "alt": "Two older men, one smiling with arms folded, the other reading a newspaper."
+          }
+        },
+        {
+          "date": "1964",
+          "dateTime": "1964",
+          "title": "John Profumo joins Toynbee Hall",
+          "body": "Sometime in 1963 John 'Jack' Profumo began to volunteer at Toynbee Hall. He became involved in fundraising and helped to establish such significant groups as the Child Poverty Action Group. Profumo was made Chairman of Toynbee Hall in 1982 and President in 1992.",
+          "image": {
+            "src": "/images/heritage/timeline/1964-john-profumo.jpg",
+            "alt": "Portrait of John Profumo smiling, in a suit and patterned tie."
+          }
+        },
+        {
+          "date": "1965",
+          "dateTime": "1965",
+          "title": "The Children’s Theatre present ‘Worlds Apart’",
+          "body": "One of the most exciting post-war projects at Toynbee Hall was Britain's first children's theatre, set up in 1946. A dedicated theatre was built during 1938 and was part of JJ Mallon's plans to accommodate additional facilities at Toynbee Hall. The photograph shows a children's production of 'Worlds Apart' on stage. TH was also the venue for the inaugural production of The National Youth Theatre's 'Henry V', which was attended by Sir Ralph Richardson. The theatre is now run by Arts Admin.",
+          "image": {
+            "src": "/images/heritage/timeline/1965-worlds-apart.jpg",
+            "alt": "Three girls in long white dresses and crowns on stage, facing a figure in a tall star-patterned cloak and crown."
+          }
+        },
+        {
+          "date": "1967",
+          "dateTime": "1967",
+          "title": "The Gatehouse opens",
+          "body": "The Gatehouse was built to replace the old Warden's lodge, and under the supervision of Franciscan Monk, Brother Owen, was also used to house 'Junior Residents', young people arriving in London who it was felt would benefit from living in a supportive community. The first clod of soil in opening the Gatehouse was turned by the Prime Minister,Harold Wilson (pictured), and was officially opened by Dr Ramsey, the Archbishop of Canterbury, in 1967."
+        },
+        {
+          "date": "1971",
+          "dateTime": "1971",
+          "title": "Children’s Country Holiday Fund",
+          "body": "This image shows children about to go away with the Children's Country Holiday Fund. The CCHF was set up in 1884 to provide \"Fresh air for ailing London children\" (Annual Report 1884). It provided city children with breaks in the countryside, enjoying fresh air and freedom. The fund grew out of experiments conducted by the Barnetts, particularly Henrietta, and from 1903 involved R.H Tawney. It operated from Toynbee Hall for many years and is now based in West Sussex renamed CCHF, All About Kids.",
+          "image": {
+            "src": "/images/heritage/timeline/1971-childrens-country-holiday-fund.jpg",
+            "alt": "Two boys with a suitcase, wearing name labels, setting off on a Children’s Country Holiday Fund trip."
+          }
+        },
+        {
+          "date": "1973",
+          "dateTime": "1973",
+          "title": "The Queen opens Attlee House",
+          "body": "Attlee House ceremonially opened by Her Majesty The Queen in 1973, on the site of the old Library.",
+          "image": {
+            "src": "/images/heritage/timeline/1973-queen-opens-attlee-house.jpg",
+            "alt": "The Queen standing beside a flower-lined Attlee House sign as a speaker addresses the opening."
+          }
+        },
+        {
+          "date": "1976",
+          "dateTime": "1976",
+          "title": "Sunley House opens",
+          "body": "Sunley house is built on the site of an old tenement block, and included 18 flats for older people as well as housing what was then called the 'Special Families Centre for the Mentally Handicapped'. It was opened by the Queen Mother in 1976.",
+          "image": {
+            "src": "/images/heritage/timeline/1976-sunley-house-opening.jpg",
+            "alt": "John Profumo, Valerie Hobson and the Queen Mother smiling together at the opening of Sunley House."
+          }
+        },
+        {
+          "date": "1982",
+          "dateTime": "1982",
+          "title": "The founding of the Stepney Children’s Fund",
+          "body": "In 1982 Bob Le Vaillant, Deputy Warden and Head of Services for Children & Families at Toynbee Hall, founded the Stepney Children’s Fund. The SCF organised outdoor holidays for London children and young people with special needs and provided a variety of youth clubs and support Scouts and Guides groups in the Borough.",
+          "image": {
+            "src": "/images/heritage/timeline/1982-stepney-childrens-fund.jpg",
+            "alt": "Bob Le Vaillant smiling in a blue Stepney Children’s Fund sweatshirt, beside a young child."
+          }
+        },
+        {
+          "date": "1983",
+          "dateTime": "1983",
+          "title": "Bangladeshi life at Toynbee Hall",
+          "body": "This image shows a Bangladeshi children's group at Toynbee Hall in the '80's. From the '60s the surrounding area became home to a thriving Bangladeshi community. This community became a central part of life at Toynbee Hall, The Surma Elders Club based at Toynbee Hall is one of the oldest services for Bangladeshi older people in the UK. Opening in 1983, many of its first users were part of the first generation of Bangladeshi immigrants that came to the area after 1947.",
+          "image": {
+            "src": "/images/heritage/timeline/1983-bangladeshi-childrens-group.jpg",
+            "alt": "A large group of Bangladeshi children standing together outside Toynbee Hall."
+          }
+        },
+        {
+          "date": "1985",
+          "dateTime": "1985",
+          "title": "Prince Charles at Toynbee Hall",
+          "body": "Prince Charles visited Toynbee Hall during its centenary year, this image shows him being greeted by a Bangladeshi scout troop leader. During his visit the Prince of Wales unveiled a commemorative plaque, and visited the new Flower & Dean estate, part of the Toynbee Hall Housing Association.",
+          "image": {
+            "src": "/images/heritage/timeline/1985-prince-charles.jpg",
+            "alt": "Prince Charles, wearing a flower garland, greeting a Bangladeshi scout troop leader and local women."
+          }
+        },
+        {
+          "date": "1992",
+          "dateTime": "1992",
+          "title": "A visit from HRH Princess Diana",
+          "body": "HRH Princess Diana visited the Welfare Centre which was supported by the former Tory Minister John Profumo. Here she is pictured dancing with a local pensioner.",
+          "image": {
+            "src": "/images/heritage/timeline/1992-princess-diana.jpg",
+            "alt": "Princess Diana dancing with an older man at the Welfare Centre."
+          }
+        },
+        {
+          "date": "1996",
+          "dateTime": "1996",
+          "title": "Children reading the Qur’an at Toynbee Hall",
+          "body": "This image shows local Muslim children learning from the Qur'an at Toynbee Hall.",
+          "image": {
+            "src": "/images/heritage/timeline/1996-children-reading-the-quran.jpg",
+            "alt": "Children at a table reading the Qur’an, a girl in a white headscarf in the foreground."
+          }
+        },
+        {
+          "date": "1999",
+          "dateTime": "1999",
+          "title": "Tony Blair at Toynbee Hall",
+          "body": "Many senior politicians and all serving Prime Ministers (excluding Gordon Brown) have visited Toynbee Hall over the years. Pictured here is the then Prime Minister Tony Blair with John Profumo.",
+          "image": {
+            "src": "/images/heritage/timeline/1999-tony-blair-and-john-profumo.jpg",
+            "alt": "Tony Blair greeting John Profumo in the Toynbee Hall courtyard."
+          }
+        },
+        {
+          "date": "1999",
+          "dateTime": "1999",
+          "title": "An evening with Lord Attenborough at Toynbee Hall",
+          "body": "Toynbee Hall has had many high profile champions over the years. Pictured here is a visit from the late Sir Richard Attenborough, the legendary actor and director.",
+          "image": {
+            "src": "/images/heritage/timeline/1999-evening-with-lord-attenborough.jpg",
+            "alt": "Lord Attenborough seated at a dinner table with guests, above a ticket for 60 Years in the Movies: An Evening with Lord Attenborough."
+          }
+        },
+        {
+          "date": "2002",
+          "dateTime": "2002",
+          "title": "Older people’s services",
+          "body": "This image shows a sculpture class for older service users in the Wellbeing Centre. Toynbee Hall has long provided services to older people in East London, including social activities such as lunch clubs, classes and day trips as well as advice and support. Until recently a number of older people also lived on the Toynbee Hall site.",
+          "image": {
+            "src": "/images/heritage/timeline/2002-sculpture-class.jpg",
+            "alt": "An older woman smiling beside the clay heads she has sculpted, with another class member working behind her."
+          }
+        },
+        {
+          "date": "2004",
+          "dateTime": "2004",
+          "title": "Polly Toynbee",
+          "body": "This image shows journalist and broadcaster Polly Toynbee visiting an open day at Toynbee Hall. Polly is the great niece of Arnold Toynbee, Toynbee Hall's namesake, and is an Ambassador for Toynbee Hall.",
+          "image": {
+            "src": "/images/heritage/timeline/2004-polly-toynbee.jpg",
+            "alt": "Polly Toynbee standing in front of a Toynbee Hall exhibition stand at an open day."
+          }
+        },
+        {
+          "date": "2011",
+          "dateTime": "2011",
+          "title": "Residential Volunteers",
+          "body": "This image shows the current Chief Executive, Graham Fisher, with the last group of residential volunteers housed at Toynbee Hall. It is hoped that following the upcoming regeneration project at Toynbee Hall, it will once again offer accommodation to its volunteers, continuing the tradition of Toynbee Hall, as a true settlement house as envisioned by the Barnetts.",
+          "image": {
+            "src": "/images/heritage/timeline/2011-residential-volunteers.jpg",
+            "alt": "A group of residential volunteers posed in front of the Lecture Hall’s arched doorway."
+          }
+        },
+        {
+          "date": "2013",
+          "dateTime": "2013",
+          "title": "The Money Mentors Programme",
+          "body": "This image shows the graduation ceremony of 49 local women who were the first participnts of the Money Mentors programme. This project is part of the Financially Inclusive Tower Hamlets initiative led by Toynbee Hall which aims to put financial confidence at the heart of Tower Hamlets. Money Mentors learn money management skills, are taught about financial products, use the internet to find the best deals and share their new skills in the community.",
+          "image": {
+            "src": "/images/heritage/timeline/2013-money-mentors-graduation.jpg",
+            "alt": "A large group of women holding certificates at the Money Mentors graduation ceremony."
+          }
+        },
+        {
+          "date": "2014",
+          "dateTime": "2014",
+          "title": "Eileen, her father and Attlee",
+          "body": "Eileen is a weekly visitor to Toynbee Hall's Wellbeing Centre. She is holding a picture from 1905 showing Clement Attlee's boys club at Toynbee Hall. When Eileen was shown this picture by our archivist she recognised the little boy on the far Left on the front row as her father. She also has a letter written by Attlee to her mother on the occasion of her father's death. Eileen has lived the east end for her entire life, as have her children and grandchildren.",
+          "image": {
+            "src": "/images/heritage/timeline/2014-eileen-with-her-fathers-photograph.jpg",
+            "alt": "Eileen holding a 1905 photograph of Clement Attlee’s boys’ club, in which she recognised her father."
+          }
+        },
+        {
+          "date": "2014",
+          "dateTime": "2014",
+          "title": "Toynbee Hall celebrate £1.7 million HLF grant",
+          "body": "In October 2014, Toynbee Hall announced that they were awarded a £1.7m grant from the Heritage Lottery Fund (HLF) towards the regeneration of the Toynbee Hall estate. The HLF awards grants to sustain and transform national heritage. This grant provided the opportunity to fund the regeneration, conserve its heritage and further develop frontline services to help even more people."
+        },
+        {
+          "date": "2014",
+          "dateTime": "2014",
+          "title": "Jon Snow at the 130th Anniversary ‘Smoking Room Debate’",
+          "body": "We commemorated the 130th anniversary with a 'Smoking Room Debate'. These debates were once a key part of life at Toynbee Hall. Chaired by broadcaster and journalist Jon Snow, the anniversary debate pictured here, dealt with the question 'Social Inequality, 1884 - 2014: How much has changed?'. The evening was a great success, with over 100 attendees.",
+          "image": {
+            "src": "/images/heritage/timeline/2014-anniversary-smoking-room-debate.jpg",
+            "alt": "Jon Snow addressing a seated audience in a wood-panelled hall at the 130th anniversary debate."
+          }
+        }
+      ]
+    },
+    {
+      "type": "cardGrid",
+      "heading": "Explore our heritage",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Meet the Barnetts",
+          "description": "The couple who founded Toynbee Hall.",
+          "href": "https://explore.toynbeehall.org.uk/collection/henrietta-and-samuel-barnett/",
+          "linkLabel": "Explore",
+          "image": {
+            "src": "/images/heritage/henrietta-and-samuel-barnett.jpg",
+            "alt": "Portrait photograph of Henrietta Barnett, seated, with Samuel Barnett standing beside her."
+          }
+        },
+        {
+          "title": "The buildings",
+          "description": "How the Commercial Street site changed over time.",
+          "href": "https://explore.toynbeehall.org.uk/stories/the-buildings-of-toynbee-hall/",
+          "linkLabel": "Explore",
+          "image": {
+            "src": "/images/heritage/old-library-before-the-blitz.jpg",
+            "alt": "Toynbee Hall’s ivy-covered old library, with a turret and arched doorways, before it was destroyed in the Blitz."
+          }
+        },
+        {
+          "title": "From the archive",
+          "description": "Explore photographs and records from the collection.",
+          "href": "https://explore.toynbeehall.org.uk/explore/",
+          "linkLabel": "Explore",
+          "image": {
+            "src": "/images/live-site/history.jpg",
+            "alt": "Archival photograph of Bangladeshi community leaders meeting around a table"
+          }
+        }
+      ]
+    },
+    {
       "type": "cardGrid",
       "heading": "Explore",
+      "align": "center",
       "headingAccent": "Toynbee Hall",
       "columns": 3,
       "items": [

@@ -24,7 +24,10 @@ export default function Timeline({ block, className = '', headingClassName = '',
   const baseId = block.id ?? `timeline-${slugify(block.heading)}`;
   const headingId = `${baseId}-heading`;
   const count = block.items.length;
+  /* One year button per distinct date, pointing to that date's first milestone, so long timelines with repeated years stay short */
+  const dates = block.items.reduce<{ date: string; first: number }[]>((list, item, i) => list.some(entry => entry.date === item.date) ? list : [...list, { date: item.date, first: i }], []);
   const [current, setCurrent] = useState(0);
+  const currentDate = dates.findIndex(entry => entry.date === block.items[current]?.date);
   const track = useRef<HTMLOListElement>(null);
   const years = useRef<HTMLDivElement>(null);
   const navigating = useRef(false);
@@ -49,13 +52,13 @@ export default function Timeline({ block, className = '', headingClassName = '',
   /* Keep the chosen year visible in the year rail without scrolling the page */
   useEffect(() => {
     const rail = years.current;
-    const button = rail?.children[current] as HTMLElement | undefined;
+    const button = rail?.children[currentDate] as HTMLElement | undefined;
     if (!rail || !button) return;
     const start = button.offsetLeft - rail.offsetLeft;
     if (start < rail.scrollLeft || start + button.offsetWidth > rail.scrollLeft + rail.clientWidth) {
       rail.scrollTo({ left: start - (rail.clientWidth - button.offsetWidth) / 2 });
     }
-  }, [current]);
+  }, [currentDate]);
 
   /* Follow the card nearest the start of the rail when someone swipes or scrolls */
   const syncToScroll = useCallback(() => {
@@ -94,8 +97,8 @@ export default function Timeline({ block, className = '', headingClassName = '',
       </div>
     </div>
 
-    <div className="timeline-years" ref={years} role="group" aria-label="Choose a milestone">
-      {block.items.map((item, i) => <button type="button" key={`${item.date}-${i}`} aria-pressed={i === current} aria-controls={`${baseId}-track`} onClick={() => goTo(i)}>{item.date}</button>)}
+    <div className="timeline-years" ref={years} role="group" aria-label="Choose a year">
+      {dates.map(({ date, first }) => <button type="button" key={date} aria-pressed={block.items[current]?.date === date} aria-controls={`${baseId}-track`} onClick={() => goTo(first)}>{date}</button>)}
     </div>
 
     <ol className="timeline-track" id={`${baseId}-track`} ref={track} tabIndex={0} aria-label={`${block.heading}: use the arrow keys to move between milestones`} onScroll={onScroll} onKeyDown={onKeyDown}>

@@ -12,6 +12,7 @@ const adviceBlocks = advice.blocks as ContentBlock[];
 const hero = home.find(block => block.type === 'hero');
 const newsletter = home.find(block => block.type === 'newsletterSignup');
 const venue = home.find(block => block.type === 'imageText');
+const clientQuotes = adviceBlocks.find(block => block.type === 'quoteGrid');
 
 export const editorialExamples = {
   editorialImage: {
@@ -94,7 +95,8 @@ export const inventoryExamples: Record<string, ContentBlock | undefined> = {
     ],
   },
   listing: home.find(block => block.type === 'newsList'),
-  quote: adviceBlocks.find(block => block.type === 'quote' && !block.variant),
+  quote: clientQuotes?.type === 'quoteGrid' ? { type: 'quote', quote: clientQuotes.items[1].quote, attribution: clientQuotes.items[1].name } : undefined,
+  quotes: clientQuotes,
   rich: (housing.blocks as ContentBlock[]).find(block => block.type === 'richText'),
   steps: {
     type: 'steps',

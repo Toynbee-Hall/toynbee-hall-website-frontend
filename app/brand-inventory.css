@@ -53,7 +53,7 @@
 :where(.bi) a:hover { color: var(--bi-black); }
 .bi :is(a, button, input, select, textarea, summary):focus-visible { outline: 3px solid var(--bi-navy); outline-offset: 3px; }
 .bi :is(.bi-solid-navy, .bi-quote-band, .bi-appeal, .bi-type-band, .bi-split-navy .bi-split-copy) :is(a, button):focus-visible { outline-color: var(--bi-white); }
-.bi :is(.bi-solid-orange, .bi-split:not(.bi-split-navy) .bi-split-copy) :is(a, button):focus-visible { outline-color: var(--bi-black); }
+.bi :is(.bi-solid-orange, .bi-split:not(.bi-split-navy, .bi-split-yellow) .bi-split-copy) :is(a, button):focus-visible { outline-color: var(--bi-black); }
 
 .bi-wrap { width: min(var(--bi-width), calc(100% - 2 * var(--bi-gutter))); margin-inline: auto; }
 .bi-nowrap { white-space: nowrap; }
@@ -217,6 +217,10 @@
 .bi-split-navy .bi-split-copy { background: var(--bi-navy); }
 .bi .bi-split-navy .bi-button-navy { background: var(--bi-white); color: var(--bi-navy); }
 .bi .bi-split-navy .bi-button-navy:hover { background: var(--bi-blue-tint); color: var(--bi-navy); }
+/* Yellow tint panel: navy label and heading, grey body copy and the standard navy button */
+.bi-split-yellow .bi-split-copy { background: var(--bi-yellow-tint); }
+.bi-split-yellow .bi-split-copy :is(.bi-label, h2) { color: var(--bi-navy); }
+.bi-split-yellow .bi-split-copy > p:not(.bi-label) { color: var(--bi-grey); }
 
 /* Page banner: the standard page header, as on /free-advice/ */
 .bi-page-banner { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); align-items: stretch; padding: 24px clamp(42px, 6vw, 76px) 30px 24px; background: var(--bi-orange-tint); }
@@ -284,8 +288,21 @@
 .bi-quote-band { padding: clamp(24px, 4vw, 48px); background: var(--bi-navy); }
 .bi-quote-band blockquote { max-width: 30ch; color: var(--bi-white); font-size: clamp(28px, 3.6vw, 44px); line-height: 1.15; }
 .bi-quote-band figcaption { color: var(--bi-white); }
+/* Quote grid: client quotes on light blue tint cards with an orange top rule; names sit underneath, after a short orange rule */
+.bi-quote-grid { display: grid; gap: 16px; margin-top: 16px; list-style: none; }
+.bi-quote-card { display: flex; flex-direction: column; height: 100%; padding: clamp(20px, 2.4vw, 32px); border-top: 4px solid var(--bi-orange); background: var(--bi-blue-tint); }
+.bi-quote-card blockquote { flex: 1; color: var(--bi-grey); font-size: 18px; line-height: 1.5; }
+.bi-quote-card blockquote::before { display: block; margin-bottom: 8px; color: var(--bi-orange); font-size: 64px; font-weight: var(--bi-heading-weight); line-height: .6; content: '“'; }
+.bi-quote-card figcaption { display: flex; align-items: center; gap: 12px; margin-top: 24px; }
+.bi-quote-card figcaption::before { flex: 0 0 24px; align-self: flex-start; height: 2px; margin-top: 10px; background: var(--bi-orange); content: ''; }
+.bi-quote-card figcaption:has(img)::before { display: none; }
+.bi-quote-card figcaption img { width: 48px; height: 48px; border-radius: 50%; object-fit: cover; }
+.bi-quote-card figcaption > span { display: grid; gap: 2px; }
+.bi-quote-name { color: var(--bi-navy); font-weight: 600; }
+.bi-quote-detail { color: var(--bi-grey); font-size: 14px; }
 
 .bi-prose { max-width: 70ch; }
+.bi-prose :is(p, li) { font-size: 18px; line-height: 1.5; }
 .bi-prose h3 { margin: 24px 0 8px; }
 .bi-prose :is(ul, ol) { margin-block: 12px; padding-left: 1.2em; }
 .bi-prose li + li { margin-top: 6px; }
@@ -393,6 +410,7 @@
   .bi-index { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .bi-split-image-left .bi-split-media, .bi-feature-image-right .bi-feature-media { order: 0; }
   .bi-split-media { order: -1; }
+  .bi-quote-grid { grid-template-columns: minmax(0, 1fr); }
   .bi-page-banner { grid-template-columns: minmax(0, 1fr); padding: 12px 12px 20px; }
   .bi-page-banner-copy { padding: 26px 22px 42px; }
   .bi-page-banner-media { width: calc(100% - 26px); margin: -20px 13px 0; }
@@ -430,6 +448,54 @@
 .bi-section-hero .bi-cover { min-height: clamp(420px, 48vw, 720px); }
 .bi-section-hero .bi-cover-copy { padding: clamp(32px, 5vw, 72px) var(--bi-inset); }
 .bi-section-newsletterSignup .bi-form-section { padding: clamp(40px, 6vw, 72px) var(--bi-inset); }
+/* Split banner on the homepage and brand pages: the panel runs to the window edge with its copy aligned to the page width.
+   The photograph runs past the page content's edge, up to a wider banner max width (--split-max), and fades slowly
+   into the white page, so on wide screens the banner still reads as full window width. Container units measure the
+   window-wide section, because padding percentages would use the half-width grid cell. */
+.bi-section-splitBanner { container-type: inline-size; }
+.bi-section-splitBanner .bi-split {
+  --split-max: 1680px;
+  --split-inset: max(var(--bi-gutter), calc((100cqw - var(--bi-width)) / 2));
+  --split-outer: max(0px, calc((100cqw - var(--split-max)) / 2));
+  width: calc(100cqw - var(--split-outer));
+  grid-template-columns: calc(var(--split-inset) + (100cqw - 2 * var(--split-inset)) / 2) minmax(0, 1fr);
+  min-height: clamp(380px, 34vw, 520px);
+}
+.bi-section-splitBanner .bi-split-image-left { grid-template-columns: minmax(0, 1fr) calc(var(--split-inset) + (100cqw - 2 * var(--split-inset)) / 2); margin-left: var(--split-outer); }
+.bi-section-splitBanner .bi-split-copy { padding-inline: var(--split-inset) clamp(32px, 5vw, 72px); }
+.bi-section-splitBanner .bi-split-image-left .bi-split-copy { padding-inline: clamp(32px, 5vw, 72px) var(--split-inset); }
+@media (min-width: 901px) {
+  .bi-section-splitBanner .bi-split-media { -webkit-mask-image: linear-gradient(to right, #000 40%, transparent 100%); mask-image: linear-gradient(to right, #000 40%, transparent 100%); }
+  .bi-section-splitBanner .bi-split-image-left .bi-split-media { -webkit-mask-image: linear-gradient(to left, #000 40%, transparent 100%); mask-image: linear-gradient(to left, #000 40%, transparent 100%); }
+}
+@media (max-width: 900px) {
+  .bi-section-splitBanner .bi-split, .bi-section-splitBanner .bi-split-image-left { width: auto; min-height: 0; margin-left: 0; grid-template-columns: minmax(0, 1fr); }
+  .bi-section-splitBanner .bi-split-copy, .bi-section-splitBanner .bi-split-image-left .bi-split-copy { padding: 32px var(--split-inset) 40px; }
+}
+
+/* Page rhythm on the homepage and brand pages. Blocks with "align": "center" centre their heading (callouts centre
+   everything); the mission statement and the homepage partner label are always centred. On the homepage the navy
+   history banner swaps sides (photograph left, set in the data) inside a full-width band in the panel colour, so the
+   photograph fades into the panel colour rather than the white page. */
+.bi-block-centred > .bi-block-head { text-align: center; }
+.bi-block-centred > .bi-block-head .bi-lead { margin-inline: auto; }
+.bi-block-centred > .bi-cards { margin-top: 24px; }
+.bi-callout-centred { margin-inline: auto; text-align: center; }
+.bi-callout-centred .bi-actions { justify-content: center; }
+:is(.bi-home, .bi-brand-page) .bi-statement { text-align: center; }
+:is(.bi-home, .bi-brand-page) .bi-statement > :is(h2, p) { margin-inline: auto; }
+:is(.bi-home, .bi-brand-page) .bi-statement .bi-actions { justify-content: center; }
+.bi-home .bi-section-logoGrid .bi-label { text-align: center; }
+.bi-home .bi-section-splitBanner:has(.bi-split-navy, .bi-split-yellow) { margin-top: clamp(48px, 7vw, 88px); padding-top: 0; background: var(--bi-navy); }
+.bi-home .bi-section-splitBanner:has(.bi-split-yellow) { background: var(--bi-yellow-tint); }
+/* Sections below the opening banner rise gently into place as they scroll into view (scroll-driven, no script) */
+@keyframes bi-rise { from { opacity: 0; translate: 0 32px; } }
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    :is(.bi-home, .bi-brand-page) .bi-section:not(:first-child) > * { animation: bi-rise linear both; animation-timeline: view(); animation-range: entry 0% entry 35%; }
+  }
+}
+
 /* Venue feature framed in a grey cell line, as in the inventory examples */
 .bi-section-imageText > .bi-feature { padding: clamp(16px, 3vw, 32px); border: 1px solid var(--bi-cell-line); }
 
@@ -440,6 +506,33 @@
 @media (max-width: 900px) {
   .bi-section-pageBanner .bi-page-banner { padding: 12px var(--bi-gutter) 20px; }
   .bi-section-pageBanner .bi-page-banner-copy { min-height: 0; }
+}
+
+/* Website style guide (/style-guide/): the inventory page styling, plus a few guide-only samples */
+.bi-guide .bi-group { scroll-margin-top: 16px; }
+.bi-guide-more { margin-top: 20px; }
+.bi-guide-swatches { grid-template-columns: repeat(auto-fill, minmax(min(100%, 160px), 1fr)); }
+.bi-guide-swatches code { display: block; font-size: 14px; }
+.bi-guide-role { display: block; margin-top: 4px; }
+.bi-guide-subhead { margin-top: 40px; }
+.bi-guide-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 24px 32px; margin-top: 16px; list-style: none; }
+.bi-guide-tile { display: grid; align-content: end; gap: 6px; min-height: 140px; padding: 24px; border: 1px solid var(--bi-cell-line); }
+.bi-guide-tile b { font-size: 20px; font-weight: var(--bi-heading-weight); }
+.bi-guide-note { max-width: 70ch; margin-top: 16px; }
+.bi-guide-type { margin-top: 16px; }
+.bi-guide-type-row { display: grid; grid-template-columns: minmax(0, 15rem) minmax(0, 1fr); gap: 8px 32px; align-items: baseline; padding-block: 18px; border-top: 1px solid var(--bi-cell-line); }
+.bi-guide-type-row > p { margin: 0; }
+.bi-guide-weight { color: var(--bi-navy); font-size: clamp(24px, 3vw, 34px); line-height: 1.2; }
+.bi-guide-h1 { color: var(--bi-orange); font-size: clamp(40px, 6vw, 64px); font-weight: var(--bi-heading-weight); line-height: 1.05; }
+.bi-guide-h2 { color: var(--bi-orange); font-size: clamp(27px, 3vw, 30px); font-weight: var(--bi-heading-weight); line-height: 1.15; }
+.bi-guide-h3 { color: var(--bi-navy); font-size: 22px; font-weight: var(--bi-heading-weight); line-height: 1.2; }
+.bi-guide-label { color: var(--bi-navy); font-size: 14px; font-weight: var(--bi-heading-weight); letter-spacing: .06em; }
+.bi-guide-logo { width: 140px; height: auto; margin-block: 8px 12px; }
+.bi-guide-reverse { padding: 24px; }
+.bi-guide-access { max-width: none; }
+.bi-guide-access .bi-ruled-list { gap: 16px; font-size: 18px; }
+@media (max-width: 640px) {
+  .bi-guide-type-row { grid-template-columns: minmax(0, 1fr); }
 }
 
 /* Timeline: the shared styles in app/styles.css, set in the brand palette with Outfit Medium dates and titles */

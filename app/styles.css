@@ -64,7 +64,8 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .header-donate { display: inline-flex; align-items: center; min-height: 44px; padding: 0 22px; background: var(--navy); color: var(--white); white-space: nowrap; }
 .header-donate:hover { background: var(--deep-slate); }
 /* Main navigation: navy section names; the open section has an orange underline */
-.navigation { display: flex; justify-content: flex-end; gap: clamp(16px, 2.2vw, 30px); color: var(--navy); font-size: 18px; font-weight: 500; }
+/* A light grey rule separates the quick links above from the main sections below */
+.navigation { display: flex; justify-content: flex-end; gap: clamp(16px, 2.2vw, 30px); padding-top: 4px; border-top: 1px solid var(--border); color: var(--navy); font-size: 18px; font-weight: 500; }
 .navgroup { position: relative; display: flex; align-items: center; }
 .navgroup-head { display: flex; align-items: center; }
 .navgroup-head > a { display: inline-flex; align-items: center; gap: 10px; min-height: 48px; padding: 8px 0; border-bottom: 4px solid transparent; white-space: nowrap; }
@@ -72,7 +73,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .navgroup:hover .navgroup-head > a, .navgroup:focus-within .navgroup-head > a { border-color: var(--orange); }
 .navgroup:hover .nav-chevron, .navgroup:focus-within .nav-chevron { transform: translateY(2px) rotate(-135deg); }
 .navgroup-toggle, .navigation-extras { display: none; }
-/* Dropdown: a white panel in cell lines under an orange top rule; links highlight in the light blue tint */
+/* Dropdown: a white panel in cell lines; the section's orange underline above it marks the open menu, so the panel has no rule of its own. Links highlight in the light blue tint */
 .dropdown {
   display: none;
   position: absolute;
@@ -83,7 +84,6 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   padding: 8px 0;
   background: var(--white);
   border: 1px solid var(--border);
-  border-top: 4px solid var(--orange);
   box-shadow: 0 16px 32px color-mix(in srgb, var(--navy) 12%, transparent);
 }
 .navgroup:nth-last-child(-n + 3) .dropdown { right: -20px; left: auto; }
@@ -635,6 +635,19 @@ main > .venue-editorial:not(.venue-image-right) .venue-copy { padding-inline: cl
   line-height: 1.2;
 }
 .quote-mark { display: block; color: var(--orange); font-size: 64px; line-height: .65; }
+
+/* Quote grid: several client quotes side by side, with names underneath */
+.quote-grid-head { max-width: 62ch; margin-bottom: 24px; }
+.quote-grid-head h2 { margin-bottom: 10px; }
+.quote-grid-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 16px; margin: 0; padding: 0; list-style: none; }
+.quote-grid-list figure { display: flex; flex-direction: column; height: 100%; margin: 0; padding: 24px; border-top: 4px solid var(--orange); background: var(--blue-tint); }
+.quote-grid-list .quote-mark { font-size: 56px; }
+.quote-grid-list blockquote { flex: 1; margin: 12px 0 20px; color: var(--deep-slate); font-size: 18px; line-height: 1.5; }
+.quote-grid-list figcaption { display: flex; align-items: center; gap: 12px; padding-top: 16px; border-top: 1px solid var(--border); }
+.quote-grid-list figcaption .quote-image { width: 48px; height: 48px; margin: 0; }
+.quote-grid-list figcaption > span { display: grid; gap: 2px; }
+.quote-grid-list figcaption b { color: var(--navy); font-size: 16px; font-weight: 500; }
+.quote-grid-list figcaption span span { color: var(--grey); font-size: 14px; }
 
 /* Reusable page templates and the complete content block set */
 select { font: inherit; }

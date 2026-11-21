@@ -73,6 +73,7 @@ const groups = [
     { title: 'Impact statistics', use: 'Large orange Light figures with navy labels and a source link.', kind: 'stats' },
     { title: 'Featured story and news cards', use: 'The lead story in a landscape card, with three tinted story cards in a row underneath. Dates and categories are small; titles are large.', kind: 'listing' },
     { title: 'Quote / testimonial', use: 'A large Light quote introduced by a short orange rule.', kind: 'quote' },
+    { title: 'Client quotes', use: 'Two or three short quotes side by side on light blue cards with an orange top rule. Each opens with an orange quotation mark and has the person’s name underneath in navy SemiBold, with optional context and portrait.', kind: 'quotes' },
     { title: 'Highlighted quote', use: 'White Light text on a navy band, following the guidelines heading treatment.', kind: 'editorialQuote' },
   ]},
   { id: 'explain', title: 'Explain clearly', intro: 'Left-aligned copy, a clear heading hierarchy, and adequate space between paragraphs.', blocks: [
@@ -103,7 +104,7 @@ const groups = [
   ]},
 ];
 
-const fullWidth = new Set(['hero', 'pageBanner', 'splitBanner', 'statement', 'pathways', 'homepagePathways', 'values', 'cards', 'image', 'editorialImage', 'captionedImage', 'mosaicGallery', 'stats', 'listing', 'editorialQuote', 'connectedSteps', 'contact', 'schedule', 'logos', 'donate', 'newsletter', 'heritageIntro', 'timeline', 'heritageStories']);
+const fullWidth = new Set(['hero', 'pageBanner', 'splitBanner', 'statement', 'pathways', 'homepagePathways', 'values', 'cards', 'image', 'editorialImage', 'captionedImage', 'mosaicGallery', 'stats', 'listing', 'quotes', 'editorialQuote', 'connectedSteps', 'contact', 'schedule', 'logos', 'donate', 'newsletter', 'heritageIntro', 'timeline', 'heritageStories']);
 
 export default function BrandBlockInventory() {
   return <div className="bi">

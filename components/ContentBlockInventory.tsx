@@ -23,6 +23,7 @@ const groups = [
     { title: 'Mission statement', use: 'Use a logo-orange section with white copy for a key statement and a single onward action.', kind: 'statement' },
     { title: 'Featured story and news cards', use: 'Pair the lead photo with a solid orange editorial panel. Use action buttons for stories and the full archive.', kind: 'listing' },
     { title: 'Quote / testimonial', use: 'Share a participant, volunteer, supporter or partner voice.', kind: 'quote' },
+    { title: 'Client quotes', use: 'Show several short client or participant quotes together, each with a name underneath.', kind: 'quotes' },
   ]},
   { id: 'explain', number: '03', title: 'Explain clearly', intro: 'Support longer pages with readable content, useful detail and obvious next steps.', blocks: [
     { title: 'Rich text / article', use: 'Present detailed information in a readable, well-structured flow.', kind: 'rich' },
@@ -46,7 +47,7 @@ const groups = [
   ]},
 ];
 
-const wideExamples = new Set(['editorialImage', 'connectedSteps', 'editorialQuote', 'hero', 'pathways', 'homepagePathways', 'image', 'splitBanner', 'captionedImage', 'cards', 'values', 'statement', 'listing', 'contact', 'schedule', 'logos', 'newsletter']);
+const wideExamples = new Set(['quotes', 'editorialImage', 'connectedSteps', 'editorialQuote', 'hero', 'pathways', 'homepagePathways', 'image', 'splitBanner', 'captionedImage', 'cards', 'values', 'statement', 'listing', 'contact', 'schedule', 'logos', 'newsletter']);
 const standaloneBlocks = new Set(['hero', 'statement', 'imageText', 'newsList', 'newsletterSignup']);
 
 function Preview({ kind }: { kind: string }) {

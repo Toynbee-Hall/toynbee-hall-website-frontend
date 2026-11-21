@@ -163,6 +163,62 @@
         },
         {
           "type": "object",
+          "description": "Several short quotes side by side, each with the person's name underneath.",
+          "required": [
+            "type",
+            "items"
+          ],
+          "properties": {
+            "type": {
+              "const": "quoteGrid"
+            },
+            "id": {
+              "type": "string"
+            },
+            "eyebrow": {
+              "type": "string"
+            },
+            "heading": {
+              "type": "string"
+            },
+            "intro": {
+              "type": "string"
+            },
+            "items": {
+              "type": "array",
+              "minItems": 2,
+              "items": {
+                "type": "object",
+                "required": [
+                  "quote",
+                  "name"
+                ],
+                "properties": {
+                  "quote": {
+                    "type": "string"
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "detail": {
+                    "type": "string"
+                  },
+                  "image": {
+                    "$ref": "#/$defs/media"
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "align": {
+              "const": "center",
+              "description": "Brand pages: centre the heading and intro (callout: all copy)."
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
           "required": [
             "type",
             "heading",
@@ -180,6 +236,10 @@
             },
             "link": {
               "$ref": "#/$defs/link"
+            },
+            "align": {
+              "const": "center",
+              "description": "Brand pages: centre the heading and intro (callout: all copy)."
             }
           },
           "additionalProperties": false
@@ -295,6 +355,10 @@
                 },
                 "additionalProperties": false
               }
+            },
+            "align": {
+              "const": "center",
+              "description": "Brand pages: centre the heading and intro (callout: all copy)."
             }
           },
           "additionalProperties": false
@@ -394,7 +458,8 @@
             "theme": {
               "enum": [
                 "orange",
-                "navy"
+                "navy",
+                "yellow"
               ]
             }
           },

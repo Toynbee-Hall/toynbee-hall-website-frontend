@@ -5,7 +5,7 @@ import BrandBlockRenderer, { BrandPageBanner } from './BrandBlockRenderer';
 import '../app/brand-inventory.css';
 
 // Blocks whose backgrounds run the full window width; their content still lines up with the page width.
-const fullWindow = new Set(['hero', 'newsletterSignup']);
+const fullWindow = new Set(['hero', 'splitBanner', 'newsletterSignup']);
 
 /* A content page built from the brand inventory blocks (/brand-content-block-inventory/), opening with the brand page banner. */
 export default function BrandPageTemplate({ data }: { data: BrandPageContent }) {

@@ -9,7 +9,7 @@ import './brand-inventory.css';
 const data = homepage as HomePageContent;
 
 // Blocks that run the full window width; their content still lines up with the page width.
-const fullWindow = new Set(['hero', 'newsletterSignup']);
+const fullWindow = new Set(['hero', 'splitBanner', 'newsletterSignup']);
 
 /* The homepage, rendered with the brand guidelines blocks from /brand-content-block-inventory/. */
 export default function Home() {

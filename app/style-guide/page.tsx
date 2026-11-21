@@ -1,6 +1,8 @@
 import SiteHeader from '../../components/SiteHeader';
 import SiteFooter from '../../components/SiteFooter';
 import StyleGuide from '../../components/StyleGuide';
+import { brandFont } from '../brand-font';
+import '../brand-inventory.css';
 
 export const metadata = {
   title: 'Website style guide | Toynbee Hall',
@@ -8,5 +10,5 @@ export const metadata = {
 };
 
 export default function StyleGuidePage() {
-  return <><SiteHeader/><main id="main"><StyleGuide/></main><SiteFooter/></>;
+  return <><SiteHeader/><main id="main" className={brandFont.variable}><StyleGuide/></main><SiteFooter/></>;
 }

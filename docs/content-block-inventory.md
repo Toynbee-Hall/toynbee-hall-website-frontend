@@ -87,7 +87,7 @@ The image-and-text, card grid, news list and rich text blocks support an optiona
 
 **Content:** quote text, named or appropriately anonymous attribution, role/context, optional portrait and alt text.
 
-**Presentation:** use the blue-tint treatment for a supporting testimonial. Set `"variant": "editorial"` for a short pull quote with an orange rule and decorative opening quotation mark. Enter the quote as plain text, with attribution in its own field. Use approved content and attribution.
+**Presentation:** use the blue-tint treatment for a supporting testimonial. Set `"variant": "editorial"` for a short pull quote with an orange rule and decorative opening quotation mark. Enter the quote as plain text, with attribution in its own field. Use approved content and attribution. To show several quotes together, use the `quoteGrid` block: each quote sits on a card with the person’s name underneath.
 
 ### 10. Rich text / long-form article
 
@@ -201,14 +201,15 @@ Where relevant, blocks should use structured fields rather than custom markup:
 | Block `type` | Inventory pattern | Notes |
 |---|---|---|
 | `hero` | 1. Hero / page introduction | The homepage uses `"variant": "full-bleed"` for white text over a photo gradient. |
-| `cardGrid` | 2. Audience pathway / service card grid | Optional intro, in-page `id`, numbering and approved tint `theme` per card. Set `columns` to 2 or 3 for an explicit desktop arrangement and `imageStyle: "icon"` for compact graphics. Values and strategy cards can omit links. |
+| `cardGrid` | 2. Audience pathway / service card grid | Optional intro, in-page `id`, numbering and approved tint `theme` per card. Set `columns` to 2 or 3 for an explicit desktop arrangement and `imageStyle: "icon"` for compact graphics. Values and strategy cards can omit links. On brand pages and the homepage, set `"align": "center"` to centre the heading and intro above the cards. |
 | `imageText` | 3. Image-and-text feature | Image left or right. Optional `editorial` variant and `headingAccent`. |
-| `splitBanner` | Split banner (orange and photograph) | Half orange panel with a white heading, deep-slate label and body, logo watermark and an optional white action, beside a photo. Set `"theme": "navy"` for a navy panel with white copy (used for the heritage introduction). Set `imagePosition` to `"left"` to swap sides. |
+| `splitBanner` | Split banner (orange and photograph) | Half orange panel with a white heading, deep-slate label and body, logo watermark and an optional white action, beside a photo. Set `"theme": "navy"` for a navy panel with white copy (used for the heritage introduction). On the homepage and brand pages, `"theme": "yellow"` gives a yellow tint panel with a navy heading and grey copy (used for the homepage history banner). Set `imagePosition` to `"left"` to swap sides. |
 | `statement` | Mission statement (logo orange) | White copy and an optional white action. |
 | `newsList` | 6/8. Story feature and news listing | Use `"variant": "editorial"` for a full-width lead story and action buttons. Set the lead item’s `theme` to `"orange"` for the orange panel. |
 | `quote` | 9. Quote / testimonial | Optional `editorial` variant for pull quotes. |
+| `quoteGrid` | 9. Client quotes | Two or more short quotes side by side (three per row on desktop, one per row on smaller screens), with optional `eyebrow`, `heading` and `intro`. Each item has a `quote`, the person’s `name` underneath, and optional `detail` (role or service) and `image` (portrait). Use approved quotes and names, or an appropriately anonymous description. On brand pages, `"align": "center"` centres the heading and intro. |
 | `richText` | 10. Rich text | |
-| `callout` | 13. Callout / action panel | |
+| `callout` | 13. Callout / action panel | On brand pages, `"align": "center"` centres the panel, its copy and its action. |
 | `linkList` | 7/21. Related links | |
 | `newsletterSignup` | 20. Newsletter signup | Labelled fields and privacy notice. Use an approved `action` or a `fallbackLink` to the live form. |
 | `enquiryForm` | 20. Enquiry form | Labelled text, email, phone, select, checkbox and textarea fields. When only a `fallbackLink` is supplied, the local fields are read-only and the link opens the live form. |
@@ -222,7 +223,7 @@ Where relevant, blocks should use structured fields rather than custom markup:
 | `schedule` | 15. Schedule / timetable | Semantic table that scrolls horizontally on small screens. |
 | `resourceList` | 17. Download / report / resource list | Optional cover image, file format, size and publication date. |
 | `accordion` | 18. Accordion / expandable detail | Native `<details>` and `<summary>` disclosure controls. |
-| `timeline` | History timeline | Milestones on a horizontal rail that people can swipe, scroll or step through with previous/next buttons, a year selector or the arrow, Home and End keys. Each item has a `date` (with an optional machine-readable `dateTime`), `title`, `body` and optional `image`; add a `link` to the full chronology. Rendered by `components/Timeline.tsx`; without JavaScript it remains a scrollable list. |
+| `timeline` | History timeline | Milestones on a horizontal rail that people can swipe, scroll or step through with previous/next buttons, a year selector or the arrow, Home and End keys. The year selector shows each distinct `date` once and jumps to that date's first milestone, so long timelines with repeated years stay manageable. Each item has a `date` (with an optional machine-readable `dateTime`), `title`, `body` and optional `image`; add a `link` to the full chronology. Rendered by `components/Timeline.tsx`; without JavaScript it remains a scrollable list. |
 | `donationAppeal` | 19. Donation or fundraising appeal | Impact copy and primary/secondary links; payment remains with the donation provider. |
 | `relatedContent` | 21. Related content / next steps | Curated related links with optional image and summary. |
 
