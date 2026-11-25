@@ -53,7 +53,7 @@
 :where(.bi) a:hover { color: var(--bi-black); }
 .bi :is(a, button, input, select, textarea, summary):focus-visible { outline: 3px solid var(--bi-navy); outline-offset: 3px; }
 .bi :is(.bi-solid-navy, .bi-quote-band, .bi-appeal, .bi-type-band, .bi-split-navy .bi-split-copy) :is(a, button):focus-visible { outline-color: var(--bi-white); }
-.bi :is(.bi-solid-orange, .bi-split:not(.bi-split-navy, .bi-split-yellow) .bi-split-copy) :is(a, button):focus-visible { outline-color: var(--bi-black); }
+.bi :is(.bi-solid-orange, .bi-split:not(.bi-split-navy, .bi-split-yellow, .bi-split-orange-tint, .bi-split-blue-tint, .bi-split-light-blue) .bi-split-copy) :is(a, button):focus-visible { outline-color: var(--bi-black); }
 
 .bi-wrap { width: min(var(--bi-width), calc(100% - 2 * var(--bi-gutter))); margin-inline: auto; }
 .bi-nowrap { white-space: nowrap; }
@@ -217,10 +217,16 @@
 .bi-split-navy .bi-split-copy { background: var(--bi-navy); }
 .bi .bi-split-navy .bi-button-navy { background: var(--bi-white); color: var(--bi-navy); }
 .bi .bi-split-navy .bi-button-navy:hover { background: var(--bi-blue-tint); color: var(--bi-navy); }
-/* Yellow tint panel: navy label and heading, grey body copy and the standard navy button */
+/* Yellow, orange and blue tint panels: navy label and heading, grey body copy and the standard navy button */
 .bi-split-yellow .bi-split-copy { background: var(--bi-yellow-tint); }
-.bi-split-yellow .bi-split-copy :is(.bi-label, h2) { color: var(--bi-navy); }
-.bi-split-yellow .bi-split-copy > p:not(.bi-label) { color: var(--bi-grey); }
+.bi-split-orange-tint .bi-split-copy { background: var(--bi-orange-tint); }
+.bi-split-blue-tint .bi-split-copy { background: var(--bi-blue-tint); }
+:is(.bi-split-yellow, .bi-split-orange-tint, .bi-split-blue-tint) .bi-split-copy :is(.bi-label, h2) { color: var(--bi-navy); }
+:is(.bi-split-yellow, .bi-split-orange-tint, .bi-split-blue-tint) .bi-split-copy > p:not(.bi-label) { color: var(--bi-grey); }
+/* Light blue panel: navy heading, deep slate label and body copy (grey is too low in contrast here), navy button */
+.bi-split-light-blue .bi-split-copy { background: var(--bi-light-blue); }
+.bi-split-light-blue .bi-split-copy h2 { color: var(--bi-navy); }
+.bi-split-light-blue .bi-split-copy :is(.bi-label, p) { color: var(--deep-slate); }
 
 /* Page banner: the standard page header, as on /free-advice/ */
 .bi-page-banner { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); align-items: stretch; padding: 24px clamp(42px, 6vw, 76px) 30px 24px; background: var(--bi-orange-tint); }
@@ -486,13 +492,42 @@
 :is(.bi-home, .bi-brand-page) .bi-statement > :is(h2, p) { margin-inline: auto; }
 :is(.bi-home, .bi-brand-page) .bi-statement .bi-actions { justify-content: center; }
 .bi-home .bi-section-logoGrid .bi-label { text-align: center; }
-.bi-home .bi-section-splitBanner:has(.bi-split-navy, .bi-split-yellow) { margin-top: clamp(48px, 7vw, 88px); padding-top: 0; background: var(--bi-navy); }
+.bi-home .bi-section-splitBanner:has(.bi-split-navy, .bi-split-yellow, .bi-split-orange-tint, .bi-split-blue-tint, .bi-split-light-blue) { margin-top: clamp(48px, 7vw, 88px); padding-top: 0; background: var(--bi-navy); }
 .bi-home .bi-section-splitBanner:has(.bi-split-yellow) { background: var(--bi-yellow-tint); }
-/* Sections below the opening banner rise gently into place as they scroll into view (scroll-driven, no script) */
-@keyframes bi-rise { from { opacity: 0; translate: 0 32px; } }
+.bi-home .bi-section-splitBanner:has(.bi-split-light-blue) { background: var(--bi-light-blue); }
+.bi-home .bi-section-splitBanner:has(.bi-split-orange-tint) { background: var(--bi-orange-tint); }
+.bi-home .bi-section-splitBanner:has(.bi-split-blue-tint) { background: var(--bi-blue-tint); }
+/* Scroll reveal (scroll-driven, no script) for sections below the opening banner. Each animation runs over a fixed
+   scroll distance, so tall sections are solid soon after they appear rather than staying faded:
+   - sections rise 72px as they fade in
+   - cards, news stories and quotes follow one after another on desktop
+   - split banner and image feature photographs slide in from their own side, with the copy from the other side */
+@keyframes bi-rise { from { opacity: 0; translate: 0 72px; } }
+@keyframes bi-rise-item { from { opacity: 0; translate: 0 48px; } }
+@keyframes bi-from-left { from { opacity: 0; translate: -96px 0; } }
+@keyframes bi-from-right { from { opacity: 0; translate: 96px 0; } }
 @media (prefers-reduced-motion: no-preference) {
   @supports (animation-timeline: view()) {
-    :is(.bi-home, .bi-brand-page) .bi-section:not(:first-child) > * { animation: bi-rise linear both; animation-timeline: view(); animation-range: entry 0% entry 35%; }
+    :is(.bi-home, .bi-brand-page) .bi-section:not(:first-child) { --bi-reveal: entry 0% entry 240px; }
+    /* Sideways slides stay inside the section, so the page never scrolls horizontally */
+    :is(.bi-home, .bi-brand-page) :is(.bi-section-splitBanner, .bi-section-imageText) { overflow-x: clip; }
+    :is(.bi-home, .bi-brand-page) .bi-section:not(:first-child):not(.bi-section-splitBanner, .bi-section-imageText) > *,
+    :is(.bi-home, .bi-brand-page) :is(.bi-section-splitBanner, .bi-section-imageText) :is(.bi-split-media, .bi-split-copy, .bi-feature-media, .bi-feature-copy),
+    :is(.bi-home, .bi-brand-page) :is(.bi-cards > li, .bi-news-side > article, .bi-quote-grid > li) {
+      animation: bi-rise linear both;
+      animation-timeline: view();
+      animation-range: var(--bi-reveal);
+    }
+    :is(.bi-home, .bi-brand-page) :is(.bi-cards > li, .bi-news-side > article, .bi-quote-grid > li) { animation-name: bi-rise-item; }
+    /* Photo on the left slides in from the left; photo on the right from the right */
+    :is(.bi-home, .bi-brand-page) :is(.bi-split-image-left .bi-split-media, .bi-split:not(.bi-split-image-left) .bi-split-copy, .bi-feature:not(.bi-feature-image-right) .bi-feature-media, .bi-feature-image-right .bi-feature-copy) { animation-name: bi-from-left; }
+    :is(.bi-home, .bi-brand-page) :is(.bi-split-image-left .bi-split-copy, .bi-split:not(.bi-split-image-left) .bi-split-media, .bi-feature:not(.bi-feature-image-right) .bi-feature-copy, .bi-feature-image-right .bi-feature-media) { animation-name: bi-from-right; }
+    @media (min-width: 901px) {
+      :is(.bi-home, .bi-brand-page) :is(.bi-cards > li, .bi-quote-grid > li, .bi-news-side > article):nth-child(2) { animation-range: entry 80px entry 320px; }
+      :is(.bi-home, .bi-brand-page) :is(.bi-cards > li, .bi-quote-grid > li, .bi-news-side > article):nth-child(3) { animation-range: entry 160px entry 400px; }
+      :is(.bi-home, .bi-brand-page) :is(.bi-cards > li, .bi-quote-grid > li, .bi-news-side > article):nth-child(n + 4) { animation-range: entry 240px entry 480px; }
+      :is(.bi-home, .bi-brand-page) :is(.bi-section-splitBanner, .bi-section-imageText) :is(.bi-split-copy, .bi-feature-copy) { animation-range: entry 80px entry 320px; }
+    }
   }
 }
 

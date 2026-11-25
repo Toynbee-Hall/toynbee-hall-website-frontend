@@ -115,7 +115,7 @@ export default function BrandBlockRenderer({ block, pageTitle = false }: { block
     }
 
     case 'splitBanner':
-      return <section className={`bi-split${block.imagePosition === 'left' ? ' bi-split-image-left' : ''}${block.theme === 'navy' ? ' bi-split-navy' : block.theme === 'yellow' ? ' bi-split-yellow' : ''}`}>
+      return <section className={`bi-split${block.imagePosition === 'left' ? ' bi-split-image-left' : ''}${block.theme && block.theme !== 'orange' ? ` bi-split-${block.theme}` : ''}`}>
         <div className="bi-split-copy">
           {block.eyebrow && <Label>{block.eyebrow}</Label>}
           <h2>{block.heading}</h2>

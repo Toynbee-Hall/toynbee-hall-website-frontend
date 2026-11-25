@@ -36,8 +36,8 @@ export type CardGridBlock = {
 export type SplitBannerBlock = {
   type: 'splitBanner'; eyebrow?: string; heading: string; body?: string; image: Media;
   imagePosition?: 'left' | 'right';
-  /** 'yellow' (a yellow tint panel with navy and grey copy) is rendered by the brand blocks only */
-  theme?: 'orange' | 'navy' | 'yellow'; link?: Link;
+  /** 'yellow', 'orange-tint' and 'blue-tint' (tint panels) and 'light-blue' (light blue panel) are rendered by the brand blocks only */
+  theme?: 'orange' | 'navy' | 'yellow' | 'orange-tint' | 'blue-tint' | 'light-blue'; link?: Link;
 };
 export type StatementBlock = { type: 'statement'; eyebrow?: string; heading: string; paragraphs?: string[]; link?: Link };
 export type NewsListBlock = {

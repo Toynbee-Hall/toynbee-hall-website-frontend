@@ -459,7 +459,10 @@
               "enum": [
                 "orange",
                 "navy",
-                "yellow"
+                "yellow",
+                "orange-tint",
+                "blue-tint",
+                "light-blue"
               ]
             }
           },
